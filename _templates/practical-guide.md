@@ -6,13 +6,13 @@
 
 ---
 
-## 📌 What This Guide Covers
+## What This Guide Covers
 
 > A short paragraph explaining exactly what practical skill or act of worship this guide will teach, and what the reader should be able to do by the end.
 
 ---
 
-## ⚠️ Before You Begin — Prerequisites
+## Before You Begin — Prerequisites
 
 {% hint style="warning" %}
 **You should know before starting:**
@@ -25,7 +25,7 @@
 
 ---
 
-## 🔑 Key Terms
+## Key Terms
 
 | Arabic | Transliteration | Meaning |
 |--------|----------------|---------|
@@ -34,7 +34,7 @@
 
 ---
 
-## 📖 The Islamic Basis
+## The Islamic Basis
 
 {% hint style="info" %}
 **Quranic Evidence:**
@@ -49,9 +49,9 @@
 
 ---
 
-## 🪜 Step-by-Step Guide
+## Step-by-Step Guide
 
-> 💡 **Tip:** Read through all steps once before attempting. Then follow along step by step.
+> **Tip:** Read through all steps once before attempting. Then follow along step by step.
 
 ---
 
@@ -109,7 +109,7 @@
 
 ---
 
-## ✅ Quick Reference Checklist
+## Quick Reference Checklist
 
 Use this once you've memorized the steps:
 
@@ -122,7 +122,7 @@ Use this once you've memorized the steps:
 
 ---
 
-## ⚠️ Common Mistakes to Avoid
+## Common Mistakes to Avoid
 
 {% hint style="danger" %}
 **Mistake 1:** [Describe the mistake] → **Correction:** [How to do it correctly]
@@ -138,7 +138,7 @@ Use this once you've memorized the steps:
 
 ---
 
-## 🎓 Scholarly Notes — Differences of Opinion
+## Scholarly Notes — Differences of Opinion
 
 {% hint style="warning" %}
 **Madhab differences on [topic]:**
@@ -152,7 +152,7 @@ All four positions are valid. Follow the opinion of your madhab or a qualified s
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
@@ -180,7 +180,7 @@ All four positions are valid. Follow the opinion of your madhab or a qualified s
 
 ---
 
-## 🤲 Duas Related to This Act
+## Duas Related to This Act
 
 {% hint style="info" %}
 **Dua 1 — [When to recite]**
@@ -193,7 +193,7 @@ All four positions are valid. Follow the opinion of your madhab or a qualified s
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - This act of worship is [obligatory/recommended/sunnah] based on [evidence].
 - It consists of [X] steps.
@@ -202,7 +202,7 @@ All four positions are valid. Follow the opinion of your madhab or a qualified s
 
 ---
 
-## ➡️ What to Learn Next
+## What to Learn Next
 
 **Continue to:** [Next Chapter](link.md) — *[one-line description]*
 
