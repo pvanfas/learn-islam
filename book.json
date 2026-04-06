@@ -1,0 +1,41 @@
+{
+  "title": "The Complete Islamic Knowledge Guide",
+  "description": "A comprehensive guide to Islam — from first principles to advanced scholarship. For the curious, the new Muslim, and the student of knowledge.",
+  "author": "Islamic Knowledge Guide",
+  "language": "en",
+  "direction": "ltr",
+  "gitbook": ">=3.0.0",
+  "variables": {
+    "version": "1.0.0"
+  },
+  "plugins": [
+    "hints",
+    "expandable-chapters",
+    "page-toc",
+    "search-pro",
+    "-search",
+    "back-to-top-button",
+    "klipse",
+    "theme-comscore"
+  ],
+  "pluginsConfig": {
+    "hints": {
+      "styles": {
+        "tip": "fa fa-lightbulb-o",
+        "warning": "fa fa-exclamation-triangle",
+        "danger": "fa fa-exclamation-circle",
+        "info": "fa fa-info-circle"
+      }
+    },
+    "page-toc": {
+      "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3"
+    }
+  },
+  "styles": {
+    "website": ".gitbook/styles/custom.css"
+  },
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}

@@ -1,0 +1,191 @@
+/* ============================================
+   Islamic Knowledge Guide — Custom GitBook CSS
+   ============================================ */
+
+/* ── Base Font & Color Palette ── */
+:root {
+  --color-primary:     #1a6b3a;   /* Islamic green */
+  --color-secondary:   #c8a951;   /* Gold accent */
+  --color-bg-soft:     #fafaf7;   /* Warm off-white */
+  --color-arabic:      #2c2c2c;
+  --color-border:      #e8e4d9;
+  --font-arabic:       'Amiri', 'Traditional Arabic', serif;
+  --font-body:         'Source Serif 4', Georgia, serif;
+}
+
+/* ── Page Background ── */
+body {
+  background-color: var(--color-bg-soft);
+  font-family: var(--font-body);
+}
+
+/* ── Headings ── */
+.markdown-section h1 {
+  color: var(--color-primary);
+  border-bottom: 3px solid var(--color-secondary);
+  padding-bottom: 0.4em;
+  font-size: 2em;
+}
+
+.markdown-section h2 {
+  color: var(--color-primary);
+  border-left: 4px solid var(--color-secondary);
+  padding-left: 0.6em;
+  margin-top: 2em;
+}
+
+.markdown-section h3 {
+  color: #2c5f2e;
+  margin-top: 1.6em;
+}
+
+/* ── Arabic Text Block ── */
+.arabic-text {
+  font-family: var(--font-arabic);
+  font-size: 1.6em;
+  line-height: 2.2;
+  text-align: right;
+  direction: rtl;
+  color: var(--color-arabic);
+  background: #f5f0e8;
+  border-right: 4px solid var(--color-secondary);
+  padding: 1em 1.2em;
+  margin: 1.2em 0;
+  border-radius: 4px;
+}
+
+/* ── Transliteration Block ── */
+.transliteration {
+  font-style: italic;
+  color: #555;
+  font-size: 0.95em;
+  margin-top: -0.5em;
+  margin-bottom: 0.3em;
+}
+
+/* ── Difficulty Badge ── */
+.badge-beginner {
+  background: #d4edda;
+  color: #155724;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.78em;
+  font-weight: 600;
+}
+
+.badge-intermediate {
+  background: #fff3cd;
+  color: #856404;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.78em;
+  font-weight: 600;
+}
+
+.badge-advanced {
+  background: #f8d7da;
+  color: #721c24;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.78em;
+  font-weight: 600;
+}
+
+/* ── Hint / Callout Blocks ── */
+.gitbook-plugin-hints .hint.tip {
+  border-left-color: var(--color-primary);
+  background: #eef7f1;
+}
+
+.gitbook-plugin-hints .hint.info {
+  border-left-color: #3a7fc1;
+  background: #eef4fb;
+}
+
+.gitbook-plugin-hints .hint.warning {
+  border-left-color: var(--color-secondary);
+  background: #fffaec;
+}
+
+.gitbook-plugin-hints .hint.danger {
+  border-left-color: #c0392b;
+  background: #fdf2f2;
+}
+
+/* ── Tables ── */
+.markdown-section table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.4em 0;
+  font-size: 0.95em;
+}
+
+.markdown-section th {
+  background-color: var(--color-primary);
+  color: white;
+  padding: 0.6em 0.9em;
+  text-align: left;
+}
+
+.markdown-section td {
+  padding: 0.55em 0.9em;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.markdown-section tr:nth-child(even) {
+  background-color: #f3f8f4;
+}
+
+/* ── Sidebar Navigation ── */
+.book-summary {
+  background: #1a3a2a;
+}
+
+.book-summary ul.summary li a {
+  color: #c8e6d0;
+  font-size: 0.88em;
+}
+
+.book-summary ul.summary li.active > a {
+  color: var(--color-secondary);
+  font-weight: 600;
+}
+
+.book-summary ul.summary li.divider {
+  border-top: 1px solid #2a5a3a;
+}
+
+/* ── Blockquotes (used for Quranic verse display) ── */
+.markdown-section blockquote {
+  border-left: 4px solid var(--color-secondary);
+  background: #fdf8ee;
+  padding: 0.8em 1.2em;
+  color: #4a3728;
+  font-style: italic;
+  margin: 1.2em 0;
+}
+
+/* ── Inline code ── */
+.markdown-section code {
+  background: #eef7f1;
+  color: var(--color-primary);
+  border-radius: 3px;
+  padding: 1px 5px;
+  font-size: 0.9em;
+}
+
+/* ── Chapter navigation arrows ── */
+.navigation-prev, .navigation-next {
+  color: var(--color-primary) !important;
+}
+
+/* ── Footer ── */
+.gitbook-link {
+  display: none; /* Hides default GitBook branding if on paid plan */
+}
+
+/* ── Print Styles ── */
+@media print {
+  .book-summary, .navigation { display: none; }
+  .arabic-text { font-size: 1.3em; }
+}
