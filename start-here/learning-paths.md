@@ -1,10 +1,10 @@
-# Choose Your Learning Path
+# 🗺️ Choose Your Learning Path
 
 Not sure where to start? Pick the path that matches who you are right now.
 
 ---
 
-## Path 1 — The Curious Non-Muslim
+## 🌍 Path 1 — The Curious Non-Muslim
 
 *You want to understand Islam properly. You have questions. Maybe skepticism. That's welcome here.*
 
@@ -22,7 +22,7 @@ Not sure where to start? Pick the path that matches who you are right now.
 
 ---
 
-## Path 2 — The New Muslim
+## 🌱 Path 2 — The New Muslim
 
 *You've taken your Shahada or are very close. You need the basics — belief, prayer, and daily practice — clearly and quickly.*
 
@@ -41,7 +41,7 @@ Not sure where to start? Pick the path that matches who you are right now.
 
 ---
 
-## Path 3 — The Student of Knowledge
+## 📖 Path 3 — The Student of Knowledge
 
 *You know the basics. Now you want depth — theology, Hadith, Fiqh, history, and classical texts.*
 
@@ -60,7 +60,7 @@ Not sure where to start? Pick the path that matches who you are right now.
 
 ---
 
-## Path 4 — Preparing for Umrah or Hajj
+## 🕋 Path 4 — Preparing for Umrah or Hajj
 
 *You're going to Makkah and want to be fully prepared — spiritually and practically.*
 
@@ -78,7 +78,7 @@ Not sure where to start? Pick the path that matches who you are right now.
 
 ---
 
-## Path 5 — Signs of the Last Days
+## ⏳ Path 5 — Signs of the Last Days
 
 *You want to understand Islamic eschatology — the signs, the major events, and the Day of Judgement.*
 

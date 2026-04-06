@@ -4,13 +4,13 @@
 
 ---
 
-## In This Chapter
+## 📌 In This Chapter
 
 > We answer the most basic question: what exactly is Islam? Where did it come from, how many people follow it, and what makes it distinct from other world religions? By the end of this chapter, you will have a clear, accurate first picture of Islam — free from the noise of headlines and media.
 
 ---
 
-## Key Arabic Terms
+## 🔑 Key Arabic Terms
 
 | Arabic | Transliteration | Meaning |
 |--------|----------------|---------|
@@ -21,7 +21,7 @@
 
 ---
 
-## The Meaning of the Word "Islam"
+## 🧭 The Meaning of the Word "Islam"
 
 The word **Islam** (إِسْلَام) comes from the Arabic root *S-L-M* — the same root as the Arabic word for peace, *Salaam*. It means **willing submission to God** — not a forced or reluctant submission, but the deep inner peace that comes from surrendering one's will to the Creator of all things.
 
@@ -41,7 +41,7 @@ The greeting itself is an expression of Islam's essence — peace, safety, and g
 
 ---
 
-## What Is Islam?
+## 🕌 What Is Islam?
 
 Islam is one of the world's three great **Abrahamic religions** — alongside Judaism and Christianity — all tracing their spiritual lineage to the Prophet Ibrahim (Abraham), peace be upon him.
 
@@ -53,12 +53,12 @@ Muslims believe that:
 4. **Islam is a complete way of life** (*Deen*) — not merely a weekend religion, but a framework covering belief, worship, ethics, family, society, and law.
 
 {% hint style="tip" %}
-**Key Point:** Islam is not a new religion. Muslims believe it is the same message that God sent to every prophet — the call to worship one God and live righteously. Muhammad ﷺ is the final messenger, not the founder of a new faith.
+**💡 Key Point:** Islam is not a new religion. Muslims believe it is the same message that God sent to every prophet — the call to worship one God and live righteously. Muhammad ﷺ is the final messenger, not the founder of a new faith.
 {% endhint %}
 
 ---
 
-## Islam as a World Religion — Facts & Figures
+## 🌍 Islam as a World Religion — Facts & Figures
 
 | Fact | Detail |
 |------|--------|
@@ -78,7 +78,7 @@ Muslims believe that:
 
 ---
 
-## Islam's Relationship with Judaism and Christianity
+## ✝️ Islam's Relationship with Judaism and Christianity
 
 Muslims do not view Islam as a rival to Judaism or Christianity but as the **completion of the same divine message**. The Quran speaks of the Torah given to Moses and the Gospel given to Jesus with great respect — calling Jews and Christians *"People of the Book"* (*Ahl al-Kitab*).
 
@@ -97,7 +97,7 @@ The key differences that distinguish Islam:
 
 ---
 
-## What Makes Islam Unique?
+## 🌟 What Makes Islam Unique?
 
 {% hint style="tip" %}
 **Five things that set Islam apart:**
@@ -111,7 +111,7 @@ The key differences that distinguish Islam:
 
 ---
 
-## Frequently Asked Questions
+## ❓ Frequently Asked Questions
 
 <details>
 
@@ -139,7 +139,7 @@ Yes — deeply. Muslims believe Jesus (Isa AS) was one of the greatest prophets,
 
 ---
 
-## Key Takeaways
+## ✅ Key Takeaways
 
 - Islam means **willing submission to God** — and the inner peace that comes with it.
 - A Muslim is one who submits to the will of Allah.
@@ -149,7 +149,7 @@ Yes — deeply. Muslims believe Jesus (Isa AS) was one of the greatest prophets,
 
 ---
 
-## Next Chapter
+## ➡️ Next Chapter
 
 **Continue to:** [Common Misconceptions About Islam](misconceptions.md)
 

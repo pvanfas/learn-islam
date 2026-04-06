@@ -9,7 +9,7 @@
 ## The Claim
 
 {% hint style="danger" %}
-**The Criticism:**
+**❝ The Criticism:**
 State the criticism, argument, or claim as clearly and fairly as possible — in the words that a critic would actually use. Do not misrepresent it.
 {% endhint %}
 
@@ -23,7 +23,7 @@ A brief paragraph explaining why this is an important question to address — fo
 
 ---
 
-## Examining the Claim
+## 🔍 Examining the Claim
 
 ### What the Claim Gets Right
 
@@ -54,7 +54,7 @@ State clearly what Islam actually teaches on this matter, with evidence.
 
 ---
 
-## Evidence — Quran & Sunnah
+## 📜 Evidence — Quran & Sunnah
 
 {% hint style="info" %}
 **Quranic Evidence:**
@@ -74,7 +74,7 @@ State clearly what Islam actually teaches on this matter, with evidence.
 
 ---
 
-## What Scholars Say
+## 🎓 What Scholars Say
 
 *Cite 2–3 classical or contemporary scholars on this issue. Include both their position and a brief note on their credibility.*
 
@@ -84,13 +84,13 @@ State clearly what Islam actually teaches on this matter, with evidence.
 
 ---
 
-## What History / Science / Reason Shows
+## 🌍 What History / Science / Reason Shows
 
 *If this is a historical, scientific, or philosophical criticism, present the empirical or logical case here — separate from the religious evidence.*
 
 ---
 
-## Follow-Up Questions
+## ❓ Follow-Up Questions
 
 <details>
 
@@ -110,7 +110,7 @@ Acknowledge any internal scholarly disagreement honestly, while presenting the m
 
 ---
 
-## Summary — The Islamic Response in Brief
+## ✅ Summary — The Islamic Response in Brief
 
 | The Claim | The Response |
 |-----------|-------------|
@@ -120,15 +120,15 @@ Acknowledge any internal scholarly disagreement honestly, while presenting the m
 
 ---
 
-## Further Reading
+## 📚 Further Reading
 
 | Resource | Author | Level |
 |----------|--------|-------|
 | [Book/article] | [Scholar name] | 🟡 |
-| [Book/article] | [Scholar name] | |
+| [Book/article] | [Scholar name] | 🔴 |
 
 ---
 
-## Next Chapter
+## ➡️ Next Chapter
 
 **Continue to:** [Next Criticism or Chapter](link.md)
