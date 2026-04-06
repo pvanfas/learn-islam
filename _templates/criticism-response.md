@@ -9,7 +9,7 @@
 ## The Claim
 
 {% hint style="danger" %}
-** The Criticism:**
+**The Criticism:**
 State the criticism, argument, or claim as clearly and fairly as possible — in the words that a critic would actually use. Do not misrepresent it.
 {% endhint %}
 

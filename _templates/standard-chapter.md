@@ -64,7 +64,7 @@
 Write the first section of content here. Keep paragraphs short — 3 to 5 lines maximum. This is educational content, so use simple language before introducing technical terms.
 
 {% hint style="tip" %}
-** Key Point:** Summarize the key insight of this section in one line.
+**Key Point:** Summarize the key insight of this section in one line.
 {% endhint %}
 
 ---
@@ -90,7 +90,7 @@ If this section contains a step-by-step process, use a numbered list:
 ### Section Four — Scholarly Notes (if applicable)
 
 {% hint style="warning" %}
-** Scholarly Note:** If there is a valid difference of opinion among scholars on this topic, present it here fairly. Example: "The majority of scholars hold [position A], while the Hanafi madhab holds [position B]. Both positions have strong evidence."
+**Scholarly Note:** If there is a valid difference of opinion among scholars on this topic, present it here fairly. Example: "The majority of scholars hold [position A], while the Hanafi madhab holds [position B]. Both positions have strong evidence."
 {% endhint %}
 
 ---
@@ -98,7 +98,7 @@ If this section contains a step-by-step process, use a numbered list:
 ### Section Five — Common Mistakes (if applicable)
 
 {% hint style="danger" %}
-** Common Mistake:** Describe a frequent error people make regarding this topic and how to avoid it.
+**Common Mistake:** Describe a frequent error people make regarding this topic and how to avoid it.
 {% endhint %}
 
 ---
