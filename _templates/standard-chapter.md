@@ -23,11 +23,11 @@
 
 ## 🔑 Key Arabic Terms
 
-| Arabic | Transliteration | Meaning |
-|--------|----------------|---------|
-| الصَّلَاة | As-Salah | The ritual prayer |
-| رَكْعَة | Rak'ah | One unit of prayer |
-| [Add more] | [Add more] | [Add more] |
+| Arabic     | Transliteration | Meaning            |
+| ---------- | --------------- | ------------------ |
+| الصَّلَاة  | As-Salah        | The ritual prayer  |
+| رَكْعَة    | Rak'ah          | One unit of prayer |
+| [Add more] | [Add more]      | [Add more]         |
 
 ---
 
@@ -36,12 +36,12 @@
 {% hint style="info" %}
 **Surah [Name] [Number]:[Verse]**
 
-*Arabic text of the verse*
+_Arabic text of the verse_
 
 **Translation:** "English translation of the verse."
 {% endhint %}
 
-*Brief note on why this verse is relevant to the chapter.*
+_Brief note on why this verse is relevant to the chapter._
 
 ---
 
@@ -53,7 +53,7 @@
 "The text of the hadith in translation."
 {% endhint %}
 
-*Brief note on the hadith's relevance.*
+_Brief note on the hadith's relevance._
 
 ---
 
@@ -73,7 +73,7 @@ Write the first section of content here. Keep paragraphs short — 3 to 5 lines 
 
 Continue with the next logical section. When introducing an Arabic concept:
 
-> **[Arabic Term]** *(Transliteration)* — means "[definition]" in English. In Islamic usage it refers to [explanation].
+> **[Arabic Term]** _(Transliteration)_ — means "[definition]" in English. In Islamic usage it refers to [explanation].
 
 ---
 
@@ -136,9 +136,9 @@ Answer to question three.
 {% hint style="info" %}
 **Related Supplication**
 
-*Arabic text*
+_Arabic text_
 
-**Transliteration:** *Romanized transliteration*
+**Transliteration:** _Romanized transliteration_
 
 **Translation:** "English meaning"
 
@@ -158,11 +158,11 @@ Answer to question three.
 
 ## 📚 Want to Go Deeper?
 
-| Resource | Type | Level |
-|----------|------|-------|
-| [Book/Article Title] | Book | 🟡 Intermediate |
-| [Scholar's lecture name] | Video | 🟢 Beginner |
-| [Classical text name] | Classical | 🔴 Advanced |
+| Resource                 | Type      | Level           |
+| ------------------------ | --------- | --------------- |
+| [Book/Article Title]     | Book      | 🟡 Intermediate |
+| [Scholar's lecture name] | Video     | 🟢 Beginner     |
+| [Classical text name]    | Classical | 🔴 Advanced     |
 
 ---
 
@@ -174,4 +174,4 @@ Answer to question three.
 
 ---
 
-*If you found an error or have a suggestion, please [raise an issue](#) or contact us.*
+_If you found an error or have a suggestion, please [raise an issue](#) or contact us._
