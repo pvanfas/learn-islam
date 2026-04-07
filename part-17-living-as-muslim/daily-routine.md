@@ -1,6 +1,6 @@
 # The Muslim's Daily Routine — A Structured Blessed Day
 
-**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 17 — Living as a Muslim
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 17 — Living as a Muslim
 
 ---
 
@@ -12,14 +12,14 @@
 
 ## 🔑 Key Arabic Terms
 
-| Arabic | Transliteration | Meaning |
-|--------|----------------|---------|
-| بَرَكَة | Barakah | Divine blessing — multiplied goodness in time and deeds |
-| أَذْكَار | Adhkar | Remembrances — specific supplications said at specific times |
-| سِوَاك | Siwak | The tooth-cleaning stick — a Sunnah of oral hygiene |
-| قَيْلُولَة | Qaylulah | A short midday rest — a prophetic Sunnah |
-| نِيَّة | Niyyah | Intention — transforms ordinary acts into worship |
-| رُوتِين | Rutin | Routine — the Arabic loan word used in modern Islamic guidance |
+| Arabic     | Transliteration | Meaning                                                        |
+| ---------- | --------------- | -------------------------------------------------------------- |
+| بَرَكَة    | Barakah         | Divine blessing — multiplied goodness in time and deeds        |
+| أَذْكَار   | Adhkar          | Remembrances — specific supplications said at specific times   |
+| سِوَاك     | Siwak           | The tooth-cleaning stick — a Sunnah of oral hygiene            |
+| قَيْلُولَة | Qaylulah        | A short midday rest — a prophetic Sunnah                       |
+| نِيَّة     | Niyyah          | Intention — transforms ordinary acts into worship              |
+| رُوتِين    | Rutin           | Routine — the Arabic loan word used in modern Islamic guidance |
 
 ---
 
@@ -28,11 +28,11 @@
 {% hint style="info" %}
 **Surah Al-Asr 103:1–3**
 
-*وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ ۝ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ...*
+_وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ ۝ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ..._
 
 **Translation:** "By time! Indeed, mankind is in loss — except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience."
 
-*Allah swears by time itself — and immediately tells us that time is being lost. The Muslim's relationship with time is therefore urgent: every hour is an opportunity for worship, righteousness, or loss.*
+_Allah swears by time itself — and immediately tells us that time is being lost. The Muslim's relationship with time is therefore urgent: every hour is an opportunity for worship, righteousness, or loss._
 {% endhint %}
 
 The concept of **Barakah** in time is central to Islamic living. Barakah is divine blessing that multiplies — the quality, impact, and reward of time and deeds. A blessed hour accomplishes what an unblessed day cannot. The Sunnah practices described below are not merely rituals — they are the means by which Barakah enters time.
@@ -41,19 +41,20 @@ The concept of **Barakah** in time is central to Islamic living. Barakah is divi
 
 ## 🌄 BEFORE FAJR — The Sacred Hours
 
-### Waking Before Dawn (*Qiyam al-Layl / Tahajjud*)
+### Waking Before Dawn (_Qiyam al-Layl / Tahajjud_)
 
 The Prophet ﷺ said:
 
 {% hint style="info" %}
 **Hadith — Sahih al-Bukhari**
 
-*"Our Lord descends every night to the lowest heaven during the last third of the night and says: 'Who is calling upon Me that I may answer? Who is asking of Me that I may give? Who is seeking My forgiveness that I may forgive?'"*
+_"Our Lord descends every night to the lowest heaven during the last third of the night and says: 'Who is calling upon Me that I may answer? Who is asking of Me that I may give? Who is seeking My forgiveness that I may forgive?'"_
 {% endhint %}
 
-The last third of the night is the most spiritually powerful time of the day. Muslims who wake during this time for voluntary prayer (*Tahajjud*), Quran recitation, and supplication are accessing the most direct window of divine response.
+The last third of the night is the most spiritually powerful time of the day. Muslims who wake during this time for voluntary prayer (_Tahajjud_), Quran recitation, and supplication are accessing the most direct window of divine response.
 
 **Practical guidance:**
+
 - Even 2 Rak'ahs of Tahajjud, done consistently, carry enormous reward
 - Make your most important duas during this time — for yourself, your family, your community
 - End with Witr prayer (at least 1 Rak'ah — the last prayer of the night)
@@ -64,7 +65,7 @@ The last third of the night is the most spiritually powerful time of the day. Mu
 
 ### Waking for Fajr
 
-The Prophet ﷺ said: *"The prayer most burdensome to the hypocrites is the Isha and Fajr prayers. But if they only knew what was in them, they would come even if crawling."* (Sahih al-Bukhari)
+The Prophet ﷺ said: _"The prayer most burdensome to the hypocrites is the Isha and Fajr prayers. But if they only knew what was in them, they would come even if crawling."_ (Sahih al-Bukhari)
 
 Fajr is the anchor of the Muslim day. Missing it, or delaying it past its time, sets a tone for the entire day.
 
@@ -73,24 +74,24 @@ Fajr is the anchor of the Muslim day. Missing it, or delaying it past its time, 
 1. **Wake up** — say upon waking:
 
 {% hint style="info" %}
-*الحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ*
+_الحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ_
 
-**Transliteration:** *Alhamdu lillahil-ladhi ahyana ba'da ma amatana wa ilayhin-nushur*
+**Transliteration:** _Alhamdu lillahil-ladhi ahyana ba'da ma amatana wa ilayhin-nushur_
 
 **Translation:** "All praise is for Allah who gave us life after causing us to die, and to Him is the resurrection."
 {% endhint %}
 
 2. **Use the Siwak (Miswak)** — clean the mouth, a Sunnah the Prophet ﷺ never neglected
 3. **Perform Wudu**
-4. **Pray the 2 Sunnah Rak'ahs of Fajr** (before the obligatory Fajr prayer) — the Prophet ﷺ said these 2 Rak'ahs are *"better than the world and all it contains"* (Sahih Muslim)
+4. **Pray the 2 Sunnah Rak'ahs of Fajr** (before the obligatory Fajr prayer) — the Prophet ﷺ said these 2 Rak'ahs are _"better than the world and all it contains"_ (Sahih Muslim)
 5. **Pray the 2 obligatory Rak'ahs of Fajr**
 6. **Morning Adhkar** — the supplications of the morning (see the dedicated Adhkar chapter)
-7. **Recite Ayat al-Kursi** — the Prophet ﷺ said: *"Whoever recites Ayat al-Kursi after each obligatory prayer, nothing prevents him from entering Paradise except death."* (An-Nasa'i — Sahih)
+7. **Recite Ayat al-Kursi** — the Prophet ﷺ said: _"Whoever recites Ayat al-Kursi after each obligatory prayer, nothing prevents him from entering Paradise except death."_ (An-Nasa'i — Sahih)
 8. **Recite Surah Al-Ikhlas, Al-Falaq, An-Nas** — three times each in the morning
 
 ### After Fajr Until Sunrise — The Golden Hour
 
-Remain seated after Fajr — making dhikr, reciting Quran, or in quiet reflection — until after sunrise. Then pray 2 Rak'ahs of *Salat al-Ishraq* (the rising-sun prayer). The Prophet ﷺ said this equals the reward of a complete Hajj and Umrah. (Tirmidhi — Hasan)
+Remain seated after Fajr — making dhikr, reciting Quran, or in quiet reflection — until after sunrise. Then pray 2 Rak'ahs of _Salat al-Ishraq_ (the rising-sun prayer). The Prophet ﷺ said this equals the reward of a complete Hajj and Umrah. (Tirmidhi — Hasan)
 
 ---
 
@@ -98,19 +99,19 @@ Remain seated after Fajr — making dhikr, reciting Quran, or in quiet reflectio
 
 ### At Work, Study, and Daily Tasks
 
-Islam transforms ordinary activity into worship through **Niyyah** (intention). When you go to work to earn for your family — it is worship. When you study to develop your capabilities — it is worship. When you help a colleague — it is worship. The key is the intention: *"I do this for the sake of Allah."*
+Islam transforms ordinary activity into worship through **Niyyah** (intention). When you go to work to earn for your family — it is worship. When you study to develop your capabilities — it is worship. When you help a colleague — it is worship. The key is the intention: _"I do this for the sake of Allah."_
 
 **Sunnah practices during the day:**
 
-- **Recite Bismillah before beginning any task** — *"In the name of Allah"*
-- **Greet Muslims with Salam** — *"As-salamu alaykum"* — even if you know them already
+- **Recite Bismillah before beginning any task** — _"In the name of Allah"_
+- **Greet Muslims with Salam** — _"As-salamu alaykum"_ — even if you know them already
 - **Lower your gaze** from what is prohibited — a conscious, continuous act of worship
 - **Be honest in speech and trade** — no deception, no exaggeration, no false promises
 - **Remember Allah between tasks** — short phrases of dhikr take seconds but carry enormous weight
 
 ### The Sunnah of Minimal Talking
 
-The Prophet ﷺ said: *"Whoever believes in Allah and the Last Day, let him say good or remain silent."* (Sahih al-Bukhari)
+The Prophet ﷺ said: _"Whoever believes in Allah and the Last Day, let him say good or remain silent."_ (Sahih al-Bukhari)
 
 The Muslim is conscious of their speech — not because of social anxiety, but because every word is recorded. This creates intentionality in communication.
 
@@ -120,17 +121,17 @@ The Muslim is conscious of their speech — not because of social anxiety, but b
 
 Dhuhr comes at the peak of the day's activity. Four Rak'ahs of the obligatory prayer — and ideally, 4 Sunnah Rak'ahs before, and 2 after.
 
-The Prophet ﷺ said: *"This is an hour during which the gates of heaven are opened — I love that a righteous deed of mine ascends at that time."* (Tirmidhi)
+The Prophet ﷺ said: _"This is an hour during which the gates of heaven are opened — I love that a righteous deed of mine ascends at that time."_ (Tirmidhi)
 
 ### The Qaylulah — Midday Rest
 
-The Prophet ﷺ would take a short rest after Dhuhr — the *Qaylulah*. Even a brief 15–20 minute rest at midday has been shown by modern research to improve cognitive function, mood, and productivity. The Prophet ﷺ recommended it 1,400 years before the research.
+The Prophet ﷺ would take a short rest after Dhuhr — the _Qaylulah_. Even a brief 15–20 minute rest at midday has been shown by modern research to improve cognitive function, mood, and productivity. The Prophet ﷺ recommended it 1,400 years before the research.
 
 ---
 
 ## 🌤️ ASR — The Afternoon Prayer
 
-Asr is the "middle prayer" specifically mentioned in the Quran (*Surah Al-Baqarah 2:238*). The Prophet ﷺ said: *"The one who misses Asr prayer — it is as if his family and wealth have been taken from him."* (Sahih al-Bukhari)
+Asr is the "middle prayer" specifically mentioned in the Quran (_Surah Al-Baqarah 2:238_). The Prophet ﷺ said: _"The one who misses Asr prayer — it is as if his family and wealth have been taken from him."_ (Sahih al-Bukhari)
 
 In the busyness of the afternoon, Asr is the prayer most often neglected. Set a reminder. Guard it.
 
@@ -161,12 +162,12 @@ Isha — 4 Rak'ahs obligatory. After Isha, 2 Sunnah Rak'ahs. Then **Witr** — a
 5. **Recite the sleeping dua:**
 
 {% hint style="info" %}
-*بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا*
+_بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا_
 
-**Transliteration:** *Bismika Allahumma amutu wa ahya*
+**Transliteration:** _Bismika Allahumma amutu wa ahya_
 
 **Translation:** "In Your name, O Allah, I die and I live."
-*(Sahih al-Bukhari)*
+_(Sahih al-Bukhari)_
 {% endhint %}
 
 6. **Make Istighfar** (seek forgiveness) before sleeping — the day's mistakes are wiped clean by sincere repentance
@@ -175,25 +176,25 @@ Isha — 4 Rak'ahs obligatory. After Isha, 2 Sunnah Rak'ahs. Then **Witr** — a
 
 ## 📊 The Blessed Day at a Glance
 
-| Time | Activity |
-|------|---------|
-| Last third of night | Tahajjud, dua, Quran |
-| Pre-Fajr | Wudu, Sunnah Rak'ahs |
-| Fajr | Obligatory prayer, Morning Adhkar, Ishraq |
-| Morning | Work, study, dhikr, honest dealings |
-| Dhuhr | Obligatory prayer, Sunnah Rak'ahs, Qaylulah |
-| Afternoon | Work, Quran, lower gaze |
-| Asr | Obligatory prayer — guard it |
-| Maghrib | Obligatory prayer, Evening Adhkar |
-| Maghrib → Isha | Family time, Quran |
-| Isha | Obligatory prayer, Witr |
-| Before sleep | Bedtime duas, Istighfar |
+| Time                | Activity                                    |
+| ------------------- | ------------------------------------------- |
+| Last third of night | Tahajjud, dua, Quran                        |
+| Pre-Fajr            | Wudu, Sunnah Rak'ahs                        |
+| Fajr                | Obligatory prayer, Morning Adhkar, Ishraq   |
+| Morning             | Work, study, dhikr, honest dealings         |
+| Dhuhr               | Obligatory prayer, Sunnah Rak'ahs, Qaylulah |
+| Afternoon           | Work, Quran, lower gaze                     |
+| Asr                 | Obligatory prayer — guard it                |
+| Maghrib             | Obligatory prayer, Evening Adhkar           |
+| Maghrib → Isha      | Family time, Quran                          |
+| Isha                | Obligatory prayer, Witr                     |
+| Before sleep        | Bedtime duas, Istighfar                     |
 
 ---
 
 ## 🌟 The Secret of a Blessed Day — Intention
 
-The most important element of the Muslim day is not the schedule — it is the **Niyyah** (intention). The Prophet ﷺ said: *"Actions are by their intentions, and every person shall have only what they intended."* (Sahih al-Bukhari)
+The most important element of the Muslim day is not the schedule — it is the **Niyyah** (intention). The Prophet ﷺ said: _"Actions are by their intentions, and every person shall have only what they intended."_ (Sahih al-Bukhari)
 
 A Muslim who wakes up intending to worship Allah through their entire day — through their work, their family, their rest, their food — is in a state of continuous worship. The schedule is the structure; the intention is the soul.
 
@@ -223,7 +224,7 @@ The five obligatory prayers must be prayed at their times regardless of shift pa
 
 <summary>Is it obligatory to follow this exact routine?</summary>
 
-The five daily prayers and their Sunnah prayers are the obligatory and strongly recommended elements. The rest — Tahajjud, Ishraq, Adhkar — are deeply recommended Sunnah with enormous reward. A Muslim who fulfills the five obligatory prayers has fulfilled their fundamental duty. Building the additional Sunnah practices around them is the path of excellence (*Ihsan*).
+The five daily prayers and their Sunnah prayers are the obligatory and strongly recommended elements. The rest — Tahajjud, Ishraq, Adhkar — are deeply recommended Sunnah with enormous reward. A Muslim who fulfills the five obligatory prayers has fulfilled their fundamental duty. Building the additional Sunnah practices around them is the path of excellence (_Ihsan_).
 
 </details>
 

@@ -1,49 +1,50 @@
 # Tawhid — The Oneness of God
 
-**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 2 — Aqeedah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 2 — Aqeedah
 
 ---
 
-## 📌 In This Chapter
+## In This Chapter
 
 > Tawhid is the single most important concept in all of Islam. Everything else — prayer, fasting, charity, pilgrimage, ethics, law — flows from it. This chapter explains what Tawhid actually means, its three dimensions, and why it is so transformative as a way of understanding God and your relationship with Him.
 
 ---
 
-## 🔑 Key Arabic Terms
+## Key Arabic Terms
 
-| Arabic | Transliteration | Meaning |
-|--------|----------------|---------|
-| تَوْحِيد | Tawhid | The Oneness of God — monotheism |
-| شِرْك | Shirk | Associating partners with God — the opposite of Tawhid |
-| رُبُوبِيَّة | Rububiyyah | Lordship — God as Creator, Sustainer, Controller |
-| أُلُوهِيَّة | Uluhiyyah | Divinity — God alone deserves worship |
-| أَسْمَاء وَصِفَات | Asma wa Sifat | Names and Attributes of God |
-| مُوَحِّد | Muwahhid | One who affirms Tawhid |
+| Arabic            | Transliteration | Meaning                                                |
+| ----------------- | --------------- | ------------------------------------------------------ |
+| تَوْحِيد          | Tawhid          | The Oneness of God — monotheism                        |
+| شِرْك             | Shirk           | Associating partners with God — the opposite of Tawhid |
+| رُبُوبِيَّة       | Rububiyyah      | Lordship — God as Creator, Sustainer, Controller       |
+| أُلُوهِيَّة       | Uluhiyyah       | Divinity — God alone deserves worship                  |
+| أَسْمَاء وَصِفَات | Asma wa Sifat   | Names and Attributes of God                            |
+| مُوَحِّد          | Muwahhid        | One who affirms Tawhid                                 |
 
 ---
 
-## 📖 Quranic Foundation — The Purest Statement of Tawhid
+## Quranic Foundation — The Purest Statement of Tawhid
 
 {% hint style="info" %}
 **Surah Al-Ikhlas 112:1–4**
 
-*قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ*
+_قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ_
 
-**Transliteration:** *Qul huwa Allahu ahad. Allahu samad. Lam yalid wa lam yulad. Wa lam yakun lahu kufuwan ahad.*
+**Transliteration:** _Qul huwa Allahu ahad. Allahu samad. Lam yalid wa lam yulad. Wa lam yakun lahu kufuwan ahad._
 
 **Translation:** "Say: He is Allah, the One. Allah, the Eternal, Absolute. He neither begets nor was He begotten. And there is nothing comparable to Him."
 
-*The Prophet ﷺ said this Surah is equal to one-third of the Quran in value — because it captures the entirety of Islamic theology about God in four verses.*
+_The Prophet ﷺ said this Surah is equal to one-third of the Quran in value — because it captures the entirety of Islamic theology about God in four verses._
 {% endhint %}
 
 ---
 
-## 🧭 What Is Tawhid?
+## What Is Tawhid?
 
-The Arabic word **Tawhid** (تَوْحِيد) comes from the root *wahhada* — meaning to make something one, to unify, to declare something singular. In Islamic theology, it refers to the absolute, uncompromising **Oneness of God** in every dimension.
+The Arabic word **Tawhid** (تَوْحِيد) comes from the root _wahhada_ — meaning to make something one, to unify, to declare something singular. In Islamic theology, it refers to the absolute, uncompromising **Oneness of God** in every dimension.
 
 This is not merely saying "I believe there is one God" as a checkbox. Tawhid is a living conviction that reshapes how you understand:
+
 - Who created you and why
 - Who sustains every breath you take
 - Who alone has the right to your worship, your ultimate loyalty, and your deepest love
@@ -59,7 +60,7 @@ The Prophet Ibrahim (AS) arrived at Tawhid through pure reflection, without a pr
 
 ---
 
-## 📐 The Three Dimensions of Tawhid
+## The Three Dimensions of Tawhid
 
 Islamic scholars have organized Tawhid into three interconnected categories. Together, they form a complete picture of what belief in One God means.
 
@@ -87,15 +88,16 @@ This is the conviction that **Allah alone deserves worship** — not just acknow
 
 This is the dimension that most people fall short of — and it is the one that every prophet was sent to establish.
 
-Worship (*Ibadah*) in Islam is broader than prayer. It includes:
+Worship (_Ibadah_) in Islam is broader than prayer. It includes:
+
 - Prayer, fasting, Hajj, Zakat
-- Supplication (*Dua*) — asking only Allah for what only Allah can give
+- Supplication (_Dua_) — asking only Allah for what only Allah can give
 - Fear and hope — directed toward Allah, not toward creation
 - Love — the deepest love belongs to Allah alone
 - Vows and oaths
 - Seeking help in matters beyond human capacity
 
-Directing any of these acts toward anything other than Allah — a prophet, a saint, an idol, a celestial body, wealth, or status — is *Shirk* (association), which the Quran identifies as the gravest of all wrongs.
+Directing any of these acts toward anything other than Allah — a prophet, a saint, an idol, a celestial body, wealth, or status — is _Shirk_ (association), which the Quran identifies as the gravest of all wrongs.
 
 {% hint style="info" %}
 **Surah An-Nisa 4:36**
@@ -116,26 +118,27 @@ Directing any of these acts toward anything other than Allah — a prophet, a sa
 This is the affirmation that **Allah's names and attributes are unique to Him** — they are not shared with creation, and creation's attributes are not attributed to Him.
 
 For example:
-- Allah *hears* — but not with ears like ours.
-- Allah *sees* — but not with eyes like ours.
-- Allah *loves* — but not with the emotional need and limitation of human love.
-- Allah *is merciful* — His mercy infinitely surpasses anything we could imagine.
 
-Islamic theology (*Aqeedah*) affirms Allah's attributes as He has described Himself in the Quran and through the Prophet ﷺ — without asking *how*, without denying them, without comparing them to creation, and without distorting their meaning.
+- Allah _hears_ — but not with ears like ours.
+- Allah _sees_ — but not with eyes like ours.
+- Allah _loves_ — but not with the emotional need and limitation of human love.
+- Allah _is merciful_ — His mercy infinitely surpasses anything we could imagine.
+
+Islamic theology (_Aqeedah_) affirms Allah's attributes as He has described Himself in the Quran and through the Prophet ﷺ — without asking _how_, without denying them, without comparing them to creation, and without distorting their meaning.
 
 {% hint style="info" %}
 **Surah Ash-Shura 42:11**
 
-*لَيْسَ كَمِثْلِهِ شَيْءٌ وَهُوَ السَّمِيعُ الْبَصِيرُ*
+_لَيْسَ كَمِثْلِهِ شَيْءٌ وَهُوَ السَّمِيعُ الْبَصِيرُ_
 
 **Translation:** "There is nothing like Him — and He is the All-Hearing, the All-Seeing."
 
-*This single verse establishes both uniqueness (nothing is like Him) and affirmation (He hears and sees) simultaneously.*
+_This single verse establishes both uniqueness (nothing is like Him) and affirmation (He hears and sees) simultaneously._
 {% endhint %}
 
 ---
 
-## ❌ What Is Shirk? — The Opposite of Tawhid
+## What Is Shirk? — The Opposite of Tawhid
 
 **Shirk** (شِرْك) means attributing partners, equals, or rivals to Allah. It is the one act for which, if a person dies without repenting, the Quran states there is no forgiveness.
 
@@ -147,31 +150,32 @@ Islamic theology (*Aqeedah*) affirms Allah's attributes as He has described Hims
 
 Shirk takes different forms:
 
-| Type | Description | Example |
-|------|-------------|---------|
-| **Major Shirk** | Directing acts of worship to other than Allah | Praying to, vowing to, or asking a dead saint for what only Allah can give |
-| **Minor Shirk** | Acts that approach Shirk without being full worship of another | Showing off in worship (*Riya*) — doing good deeds for people to see |
+| Type             | Description                                                                                    | Example                                                                    |
+| ---------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Major Shirk**  | Directing acts of worship to other than Allah                                                  | Praying to, vowing to, or asking a dead saint for what only Allah can give |
+| **Minor Shirk**  | Acts that approach Shirk without being full worship of another                                 | Showing off in worship (_Riya_) — doing good deeds for people to see       |
 | **Hidden Shirk** | The subtlest — love of praise, fear of people, reliance on means without remembering the Giver |
 
 ---
 
-## 🌟 Why Tawhid Changes Everything
+## Why Tawhid Changes Everything
 
 Tawhid is not just a theological position. It is a liberation.
 
 When you truly believe in Tawhid:
+
 - You **fear nothing** more than you fear Allah — so the fear of people, of poverty, of death, loses its grip.
 - You **hope for nothing** more than you hope from Allah — so no person or institution has ultimate power over you.
 - You are **free from servitude** to other human beings — because you serve only the One who created them all.
 - Life gains **ultimate meaning** — your existence is not an accident, your suffering has purpose, your death is a return, not an end.
 
-The Prophet ﷺ said: *"If you ask, ask Allah. If you seek help, seek help from Allah."*
+The Prophet ﷺ said: _"If you ask, ask Allah. If you seek help, seek help from Allah."_
 
 This is Tawhid in practice — the practical consequence of believing that only One holds all power, all knowledge, and all mercy.
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - Tawhid is the single most important concept in Islam — the absolute Oneness of God in all dimensions.
 - It has three pillars: Oneness of Lordship (He alone created everything), Oneness of Worship (He alone deserves worship), and Oneness of Names and Attributes (His qualities are uniquely His).
@@ -181,13 +185,13 @@ This is Tawhid in practice — the practical consequence of believing that only 
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
 <summary>If Allah is One, why does the Quran sometimes use "We" when Allah speaks?</summary>
 
-The plural "We" in Arabic (*Nahnu*) is used as a royal or majestic plural — a linguistic form denoting greatness and authority, not plurality of persons. This is a well-established usage in Arabic and is found in many ancient royal texts. It has no implication of multiple divine persons. The same Quran also says "I" (*Ana*) in many places when speaking of Allah's personal relationship with the believer.
+The plural "We" in Arabic (_Nahnu_) is used as a royal or majestic plural — a linguistic form denoting greatness and authority, not plurality of persons. This is a well-established usage in Arabic and is found in many ancient royal texts. It has no implication of multiple divine persons. The same Quran also says "I" (_Ana_) in many places when speaking of Allah's personal relationship with the believer.
 
 </details>
 
@@ -209,16 +213,16 @@ Loving the Prophet ﷺ deeply is part of Iman (faith) — the Prophet ﷺ said h
 
 ---
 
-## 📚 Want to Go Deeper?
+## Want to Go Deeper?
 
-| Resource | Type | Level |
-|----------|------|-------|
-| *Kitab al-Tawhid* by Muhammad ibn Abd al-Wahhab | Book | 🟡 Intermediate |
-| *Sharh al-Aqeedah al-Wasitiyyah* by Ibn Taymiyyah | Classical | 🔴 Advanced |
-| *The Fundamentals of Tawhid* by Bilal Philips | Book | 🟢 Beginner |
+| Resource                                          | Type      | Level        |
+| ------------------------------------------------- | --------- | ------------ |
+| _Kitab al-Tawhid_ by Muhammad ibn Abd al-Wahhab   | Book      | Intermediate |
+| _Sharh al-Aqeedah al-Wasitiyyah_ by Ibn Taymiyyah | Classical | Advanced     |
+| _The Fundamentals of Tawhid_ by Bilal Philips     | Book      | Beginner     |
 
 ---
 
-## ➡️ Next Chapter
+## Next Chapter
 
 **Continue to:** [The 99 Names of Allah](99-names.md)

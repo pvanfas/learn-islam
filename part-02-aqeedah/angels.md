@@ -1,43 +1,43 @@
 # Belief in the Angels
 
-**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 2 — Aqeedah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 2 — Aqeedah
 
 ---
 
-## 📌 In This Chapter
+## In This Chapter
 
 > Belief in the angels is the second pillar of Islamic faith. Angels are not mythological figures or poetic symbols — in Islamic theology they are real, created beings with specific roles and characteristics described in the Quran and authentic Sunnah. This chapter covers who the angels are, what they are made of, their roles, and the key angels Muslims must know by name.
 
 ---
 
-## 🔑 Key Arabic Terms
+## Key Arabic Terms
 
-| Arabic | Transliteration | Meaning |
-|--------|----------------|---------|
-| مَلَائِكَة | Mala'ikah | Angels (singular: Malak) |
-| جِبْرِيل | Jibreel | Gabriel — the Angel of Revelation |
-| مِيكَائِيل | Mikail | Michael — the Angel of Provision |
-| إِسْرَافِيل | Israfil | The angel who blows the Trumpet |
-| عِزْرَائِيل | Izraeel | The Angel of Death |
+| Arabic             | Transliteration | Meaning                              |
+| ------------------ | --------------- | ------------------------------------ |
+| مَلَائِكَة         | Mala'ikah       | Angels (singular: Malak)             |
+| جِبْرِيل           | Jibreel         | Gabriel — the Angel of Revelation    |
+| مِيكَائِيل         | Mikail          | Michael — the Angel of Provision     |
+| إِسْرَافِيل        | Israfil         | The angel who blows the Trumpet      |
+| عِزْرَائِيل        | Izraeel         | The Angel of Death                   |
 | كِرَامًا كَاتِبِين | Kiraman Katibin | The noble scribes — recording angels |
-| مُنْكَر وَنَكِير | Munkar wa Nakir | The two angels of the grave |
-| نُور | Nur | Light — what angels are created from |
+| مُنْكَر وَنَكِير   | Munkar wa Nakir | The two angels of the grave          |
+| نُور               | Nur             | Light — what angels are created from |
 
 ---
 
-## 📖 Quranic Foundation
+## Quranic Foundation
 
 {% hint style="info" %}
 **Surah Al-Baqarah 2:285**
 
 **Translation:** "The Messenger has believed in what was revealed to him from his Lord, and so have the believers. All of them have believed in Allah, His angels, His books, and His messengers..."
 
-*Belief in the angels is listed alongside belief in Allah Himself — it is not optional or secondary.*
+_Belief in the angels is listed alongside belief in Allah Himself — it is not optional or secondary._
 {% endhint %}
 
 ---
 
-## 🧭 What Are Angels?
+## What Are Angels?
 
 Angels are a **distinct category of creation** — different from humans and jinn. The Quran and Sunnah describe them with precision:
 
@@ -46,7 +46,7 @@ Angels are a **distinct category of creation** — different from humans and jin
 {% hint style="info" %}
 **Hadith — Sahih Muslim**
 
-The Prophet ﷺ said: *"The angels were created from light, the jinn were created from smokeless fire, and Adam was created from what has been described to you."*
+The Prophet ﷺ said: _"The angels were created from light, the jinn were created from smokeless fire, and Adam was created from what has been described to you."_
 {% endhint %}
 
 **They have wings** — some with two, some with three, some with four, and the greatest of them with more:
@@ -69,13 +69,13 @@ The Prophet ﷺ said: *"The angels were created from light, the jinn were create
 
 ---
 
-## 👼 Key Angels and Their Roles
+## Key Angels and Their Roles
 
-### 1 — Jibreel (Gabriel AS) — *The Angel of Revelation*
+### 1 — Jibreel (Gabriel AS) — _The Angel of Revelation_
 
 Jibreel is the greatest of all angels. His primary role is to deliver revelation from Allah to the prophets. He appeared to Maryam (Mary) to announce the birth of Isa (Jesus AS), and he delivered the entire Quran to the Prophet Muhammad ﷺ over 23 years.
 
-He is referred to in the Quran as *Ruh al-Quds* (the Holy Spirit) and *Ar-Ruh al-Amin* (the Trustworthy Spirit).
+He is referred to in the Quran as _Ruh al-Quds_ (the Holy Spirit) and _Ar-Ruh al-Amin_ (the Trustworthy Spirit).
 
 The Prophet ﷺ described seeing him in his true form — with **600 wings** that spanned the horizon — on two occasions. The vision was so overwhelming that the Prophet ﷺ fell unconscious.
 
@@ -87,19 +87,19 @@ The Prophet ﷺ described seeing him in his true form — with **600 wings** tha
 
 ---
 
-### 2 — Mikail (Michael AS) — *The Angel of Provision and Rain*
+### 2 — Mikail (Michael AS) — _The Angel of Provision and Rain_
 
 Mikail is responsible for the rain, the sustenance of creation, and natural phenomena. Under Allah's command, he oversees the distribution of rizq (provision) — the food, rain, and resources of the world.
 
 ---
 
-### 3 — Israfil — *The Angel of the Trumpet*
+### 3 — Israfil — _The Angel of the Trumpet_
 
-Israfil holds the Trumpet (*Sur*) to his lips, waiting for the command from Allah to blow it — which will signal the end of the world, then the beginning of the resurrection. The Prophet ﷺ said: *"How can I be at ease when the angel of the Trumpet has put the Trumpet to his lips and is waiting for the command to blow?"* (Tirmidhi)
+Israfil holds the Trumpet (_Sur_) to his lips, waiting for the command from Allah to blow it — which will signal the end of the world, then the beginning of the resurrection. The Prophet ﷺ said: _"How can I be at ease when the angel of the Trumpet has put the Trumpet to his lips and is waiting for the command to blow?"_ (Tirmidhi)
 
 ---
 
-### 4 — Izraeel — *The Angel of Death (Malak al-Mawt)*
+### 4 — Izraeel — _The Angel of Death (Malak al-Mawt)_
 
 The Angel of Death takes every soul at its appointed time — no soul departs before or after its fixed moment. He has assistants who help in the collection of souls.
 
@@ -111,13 +111,13 @@ The Angel of Death takes every soul at its appointed time — no soul departs be
 
 ---
 
-### 5 — Munkar and Nakir — *The Angels of the Grave*
+### 5 — Munkar and Nakir — _The Angels of the Grave_
 
 These two angels question every soul in the grave after burial, asking about their Lord, their religion, and their prophet. Their questioning is the first test a soul faces after death. (See [Belief in the Day of Judgement](day-of-judgement.md) for full detail.)
 
 ---
 
-### 6 — Kiraman Katibin — *The Noble Recording Angels*
+### 6 — Kiraman Katibin — _The Noble Recording Angels_
 
 Every human being is accompanied by two angels — one on the right, one on the left — who record every deed, word, and intention.
 
@@ -131,7 +131,7 @@ The angel on the right records good deeds. The angel on the left records bad dee
 
 ---
 
-### 7 — Ridwan — *The Keeper of Paradise*
+### 7 — Ridwan — _The Keeper of Paradise_
 
 Ridwan is the angel entrusted with Jannah (Paradise) and its gates. When the believers approach Paradise, they will be welcomed by its keepers:
 
@@ -143,15 +143,15 @@ Ridwan is the angel entrusted with Jannah (Paradise) and its gates. When the bel
 
 ---
 
-### 8 — Malik — *The Keeper of Hell*
+### 8 — Malik — _The Keeper of Hell_
 
 Malik is the fierce angel in charge of Jahannam (Hell). The Quran mentions that the inhabitants of Hell will call out to him, asking him to intercede to Allah to end their punishment. He will reply that they will remain.
 
 ---
 
-### 9 — The Bearers of the Throne (*Hamalat al-Arsh*)
+### 9 — The Bearers of the Throne (_Hamalat al-Arsh_)
 
-Eight mighty angels bear the Throne of Allah (*Al-Arsh*). Their greatness is incomprehensible — the Prophet ﷺ said the distance between one of their earlobes and their shoulder is a journey of 700 years.
+Eight mighty angels bear the Throne of Allah (_Al-Arsh_). Their greatness is incomprehensible — the Prophet ﷺ said the distance between one of their earlobes and their shoulder is a journey of 700 years.
 
 ---
 
@@ -162,12 +162,12 @@ There are angels who travel the earth looking for gatherings of people rememberi
 {% hint style="info" %}
 **Hadith — Sahih Muslim**
 
-*"Allah has angels who go about on the roads seeking those who remember Allah. When they find people remembering Allah, they call out to one another: 'Come to what you were looking for!' and they surround them..."*
+_"Allah has angels who go about on the roads seeking those who remember Allah. When they find people remembering Allah, they call out to one another: 'Come to what you were looking for!' and they surround them..."_
 {% endhint %}
 
 ---
 
-## 🌟 Angels in Our Daily Lives
+## Angels in Our Daily Lives
 
 Angels are not distant cosmic beings. They are present in every human life:
 
@@ -185,7 +185,7 @@ Angels are not distant cosmic beings. They are present in every human life:
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - Angels are real, created beings made from light — distinct from humans, jinn, and all other creation.
 - They do not disobey Allah, have no desires, and worship ceaselessly.
@@ -196,13 +196,13 @@ Angels are not distant cosmic beings. They are present in every human life:
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
 <summary>Can angels disobey Allah? What about Iblees (Shaytan)?</summary>
 
-Iblees (Satan) is not an angel — he is a Jinn who was elevated among the angels due to his worship. When Allah commanded the angels and Iblees to prostrate to Adam, the angels obeyed without question. Iblees refused out of arrogance — because he was a Jinn with free will, not an angel. The Quran clarifies this in Surah Al-Kahf 18:50: *"He was of the jinn, so he departed from the command of his Lord."*
+Iblees (Satan) is not an angel — he is a Jinn who was elevated among the angels due to his worship. When Allah commanded the angels and Iblees to prostrate to Adam, the angels obeyed without question. Iblees refused out of arrogance — because he was a Jinn with free will, not an angel. The Quran clarifies this in Surah Al-Kahf 18:50: _"He was of the jinn, so he departed from the command of his Lord."_
 
 </details>
 
@@ -224,6 +224,6 @@ Angels can appear in human form when Allah wills. Jibreel appeared to the Prophe
 
 ---
 
-## ➡️ Next Chapter
+## Next Chapter
 
 **Continue to:** [Belief in the Revealed Books](revealed-books.md)

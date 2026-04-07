@@ -1,31 +1,31 @@
 # Ramadan — The Month of Fasting
 
-**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 4 — The Five Pillars — Sawm
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 4 — The Five Pillars — Sawm
 
 ---
 
-## 📌 In This Chapter
+## In This Chapter
 
 > Ramadan is the ninth month of the Islamic lunar calendar and the most sacred month of the year. This chapter covers its Quranic basis, the rules of fasting, Suhoor and Iftar, the spiritual dimensions of the month, the Night of Power, and what Ramadan means in the life of a Muslim.
 
 ---
 
-## 🔑 Key Arabic Terms
+## Key Arabic Terms
 
-| Arabic | Transliteration | Meaning |
-|--------|----------------|---------|
-| رَمَضَان | Ramadan | The ninth Islamic month — the month of fasting |
-| صَوْم / صِيَام | Sawm / Siyam | Fasting — abstaining from food, drink, and intimacy |
-| سُحُور | Suhoor | The pre-dawn meal before fasting begins |
-| إِفْطَار | Iftar | Breaking the fast at sunset |
-| تَرَاوِيح | Tarawih | Special night prayers in Ramadan |
-| لَيْلَةُ الْقَدْر | Laylatul Qadr | The Night of Power — better than 1,000 months |
-| اعْتِكَاف | I'tikaf | Spiritual seclusion in the mosque |
-| فِطْرَة | Fitrah | Pure natural state — Ramadan returns us to it |
+| Arabic            | Transliteration | Meaning                                             |
+| ----------------- | --------------- | --------------------------------------------------- |
+| رَمَضَان          | Ramadan         | The ninth Islamic month — the month of fasting      |
+| صَوْم / صِيَام    | Sawm / Siyam    | Fasting — abstaining from food, drink, and intimacy |
+| سُحُور            | Suhoor          | The pre-dawn meal before fasting begins             |
+| إِفْطَار          | Iftar           | Breaking the fast at sunset                         |
+| تَرَاوِيح         | Tarawih         | Special night prayers in Ramadan                    |
+| لَيْلَةُ الْقَدْر | Laylatul Qadr   | The Night of Power — better than 1,000 months       |
+| اعْتِكَاف         | I'tikaf         | Spiritual seclusion in the mosque                   |
+| فِطْرَة           | Fitrah          | Pure natural state — Ramadan returns us to it       |
 
 ---
 
-## 📖 Quranic Foundation
+## Quranic Foundation
 
 {% hint style="info" %}
 **Surah Al-Baqarah 2:183–185**
@@ -35,25 +35,26 @@
 
 ---
 
-## 🌙 What Is Ramadan?
+## What Is Ramadan?
 
 Ramadan is the ninth month of the Islamic lunar calendar — a month in which the gates of Paradise are opened, the gates of Hell are closed, and the devils are chained. But above all, it is the month in which the Quran was revealed.
 
 {% hint style="info" %}
 **Hadith — Sahih al-Bukhari**
 
-The Prophet ﷺ said: *"When Ramadan enters, the gates of Paradise are opened, the gates of the Hellfire are shut, and the devils are chained."*
+The Prophet ﷺ said: _"When Ramadan enters, the gates of Paradise are opened, the gates of the Hellfire are shut, and the devils are chained."_
 {% endhint %}
 
 The lunar calendar means Ramadan moves approximately 10–11 days earlier each year — cycling through all seasons over roughly 33 years. A Muslim living a full life will fast Ramadan in summer and winter, in heat and cold, experiencing every condition.
 
 ---
 
-## 📋 Rules of Fasting
+## Rules of Fasting
 
 ### Who Must Fast?
 
-Fasting is **obligatory (*Fard*)** upon every:
+Fasting is **obligatory (_Fard_)** upon every:
+
 - **Muslim**
 - **Adult** (having reached puberty)
 - **Sane person**
@@ -62,14 +63,14 @@ Fasting is **obligatory (*Fard*)** upon every:
 
 ### Who Is Exempt?
 
-| Person | Ruling | Make Up Required? |
-|--------|--------|-------------------|
-| The traveler | May break fast | Yes — make up later |
-| The ill (temporary illness) | May break fast | Yes — make up later |
-| The pregnant / breastfeeding woman | May break fast if there is hardship | Yes — make up later (and possibly Fidyah) |
-| The elderly (permanently incapable) | Not required to fast | No — pay Fidyah instead |
-| The chronically ill | Not required to fast | No — pay Fidyah instead |
-| The woman in menstruation | Must break fast | Yes — must make up later |
+| Person                              | Ruling                              | Make Up Required?                         |
+| ----------------------------------- | ----------------------------------- | ----------------------------------------- |
+| The traveler                        | May break fast                      | Yes — make up later                       |
+| The ill (temporary illness)         | May break fast                      | Yes — make up later                       |
+| The pregnant / breastfeeding woman  | May break fast if there is hardship | Yes — make up later (and possibly Fidyah) |
+| The elderly (permanently incapable) | Not required to fast                | No — pay Fidyah instead                   |
+| The chronically ill                 | Not required to fast                | No — pay Fidyah instead                   |
+| The woman in menstruation           | Must break fast                     | Yes — must make up later                  |
 
 **Fidyah:** Feeding one poor person for each day of fasting missed (for those permanently unable to fast).
 
@@ -96,69 +97,69 @@ Fasting is **obligatory (*Fard*)** upon every:
 - Kissing one's spouse without desire leading to more (with discipline)
 
 {% hint style="warning" %}
-**🎓 Scholarly note on toothpaste:** Using toothpaste while fasting is disliked by many scholars because of the risk of swallowing. Using a Siwak (Miswak) is Sunnah and does not break the fast.
+** Scholarly note on toothpaste:** Using toothpaste while fasting is disliked by many scholars because of the risk of swallowing. Using a Siwak (Miswak) is Sunnah and does not break the fast.
 {% endhint %}
 
 ---
 
 ### The Times of Fasting
 
-| Event | Time |
-|-------|------|
-| **Fajr (Dawn)** | Fasting begins — no food, drink, or intimacy from this point |
-| **Suhoor** | The recommended pre-dawn meal — ending before Fajr |
-| **Day** | Fasting continues |
-| **Maghrib (Sunset)** | Iftar — fast is broken |
+| Event                | Time                                                         |
+| -------------------- | ------------------------------------------------------------ |
+| **Fajr (Dawn)**      | Fasting begins — no food, drink, or intimacy from this point |
+| **Suhoor**           | The recommended pre-dawn meal — ending before Fajr           |
+| **Day**              | Fasting continues                                            |
+| **Maghrib (Sunset)** | Iftar — fast is broken                                       |
 
 The Prophet ﷺ encouraged **hastening the Iftar** (breaking fast immediately at Maghrib) and **delaying the Suhoor** (eating as close to Fajr as possible).
 
 {% hint style="info" %}
 **Hadith — Sahih al-Bukhari**
 
-*"The people will remain in good condition as long as they hasten to break the fast."*
+_"The people will remain in good condition as long as they hasten to break the fast."_
 {% endhint %}
 
 ---
 
-## 🌅 Suhoor — The Blessed Pre-Dawn Meal
+## Suhoor — The Blessed Pre-Dawn Meal
 
 Suhoor is the meal eaten before dawn, before the fast begins. It is **Sunnah** — not obligatory — but the Prophet ﷺ emphasized it strongly:
 
 {% hint style="info" %}
 **Hadith — Sahih al-Bukhari and Muslim**
 
-*"Eat Suhoor, for indeed in Suhoor there is blessing (Barakah)."*
+_"Eat Suhoor, for indeed in Suhoor there is blessing (Barakah)."_
 {% endhint %}
 
 Even a few sips of water counts as Suhoor. The blessing is in the act — it is a moment of waking before Fajr, in the quiet of the night, eating with the intention of worship and obedience.
 
 ---
 
-## 🌇 Iftar — Breaking the Fast
+## Iftar — Breaking the Fast
 
 Breaking the fast is a moment of joy, gratitude, and community. The Prophet ﷺ would break his fast with fresh dates — if unavailable, with dry dates, and if unavailable, with water. He would say:
 
 {% hint style="info" %}
 **ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الْأَجْرُ إِن شَاءَ اللَّهُ**
 
-**Transliteration:** *Dhahaba al-dhama'u wabtallatil-uruqu wa thabata al-ajru in sha'Allah*
+**Transliteration:** _Dhahaba al-dhama'u wabtallatil-uruqu wa thabata al-ajru in sha'Allah_
 
 **Translation:** "The thirst has gone, the veins are moistened, and the reward is confirmed, if Allah wills."
 
-*(Source: Abu Dawud — Hasan)*
+_(Source: Abu Dawud — Hasan)_
 {% endhint %}
 
 Then the Maghrib prayer is performed before continuing to eat — prioritizing worship over hunger.
 
 ---
 
-## 🙏 Spiritual Dimensions of Ramadan
+## Spiritual Dimensions of Ramadan
 
 Ramadan is not merely a dietary restriction. It is a **school for the soul** — a concentrated month of spiritual training.
 
 ### 1 — The Purpose: Taqwa (God-Consciousness)
 
-The Quran states the purpose of fasting explicitly: *"...that you may become righteous (muttaqeen)."* The Arabic word is *Taqwa* — God-consciousness, piety, a heart-state of awareness of Allah in every moment.
+The Quran states the purpose of fasting explicitly: _"...that you may become righteous (muttaqeen)."_ The Arabic word is _Taqwa_ — God-consciousness, piety, a heart-state of awareness of Allah in every moment.
 
 Hunger and thirst are the means — Taqwa is the destination.
 
@@ -167,9 +168,9 @@ Hunger and thirst are the means — Taqwa is the destination.
 {% hint style="info" %}
 **Hadith Qudsi — Sahih al-Bukhari**
 
-Allah says: *"All deeds of the son of Adam are for himself, except fasting — it is for Me, and I will reward it. The fasting person leaves his food, drink, and desires for My sake."*
+Allah says: _"All deeds of the son of Adam are for himself, except fasting — it is for Me, and I will reward it. The fasting person leaves his food, drink, and desires for My sake."_
 
-*Every act of worship can be observed by others and may be mixed with showing off. But fasting — a private, internal act — belongs to Allah alone. No one but Allah and the fasting person truly know whether they are fasting.*
+_Every act of worship can be observed by others and may be mixed with showing off. But fasting — a private, internal act — belongs to Allah alone. No one but Allah and the fasting person truly know whether they are fasting._
 {% endhint %}
 
 ### 3 — Two Moments of Joy
@@ -177,7 +178,7 @@ Allah says: *"All deeds of the son of Adam are for himself, except fasting — i
 {% hint style="info" %}
 **Hadith — Sahih al-Bukhari**
 
-*"The fasting person has two moments of joy: one when he breaks his fast, and one when he meets his Lord."*
+_"The fasting person has two moments of joy: one when he breaks his fast, and one when he meets his Lord."_
 {% endhint %}
 
 The joy of Iftar — the relief and gratitude of breaking a day's fast — is a preview of the greater joy awaiting the believer when they return to Allah.
@@ -188,9 +189,9 @@ Ramadan is the month of the Quran. The Prophet ﷺ would review the entire Quran
 
 ---
 
-## 🌟 Laylatul Qadr — The Night of Power
+## Laylatul Qadr — The Night of Power
 
-In the last ten nights of Ramadan lies *Laylatul Qadr* — the Night of Power:
+In the last ten nights of Ramadan lies _Laylatul Qadr_ — the Night of Power:
 
 {% hint style="info" %}
 **Surah Al-Qadr 97:1–5**
@@ -207,38 +208,38 @@ The recommended dua for this night:
 {% hint style="info" %}
 **اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي**
 
-**Transliteration:** *Allahumma innaka 'afuwwun tuhibbul-'afwa fa'fu 'anni*
+**Transliteration:** _Allahumma innaka 'afuwwun tuhibbul-'afwa fa'fu 'anni_
 
 **Translation:** "O Allah, You are the Pardoner, You love to pardon, so pardon me."
 
-*(Source: Tirmidhi — Sahih — Aisha RA asked the Prophet ﷺ what to say on Laylatul Qadr, and he taught her this dua)*
+_(Source: Tirmidhi — Sahih — Aisha RA asked the Prophet ﷺ what to say on Laylatul Qadr, and he taught her this dua)_
 {% endhint %}
 
 ---
 
-## 🕌 I'tikaf — Seclusion in the Mosque
+## I'tikaf — Seclusion in the Mosque
 
-The Prophet ﷺ performed *I'tikaf* — spiritual retreat in the mosque — during the **last ten days of Ramadan** every year. He would stay in the mosque continuously, devoted to prayer, Quran, and dhikr, and would not leave except for necessities.
+The Prophet ﷺ performed _I'tikaf_ — spiritual retreat in the mosque — during the **last ten days of Ramadan** every year. He would stay in the mosque continuously, devoted to prayer, Quran, and dhikr, and would not leave except for necessities.
 
 I'tikaf is a Sunnah — not obligatory — but it is the highest level of Ramadan devotion. Those who cannot perform a full I'tikaf can make the intention for a partial one — even an hour spent in the mosque with the intention of I'tikaf carries its reward.
 
 ---
 
-## 🌙 Tarawih — The Night Prayers of Ramadan
+## Tarawih — The Night Prayers of Ramadan
 
-*Tarawih* are voluntary night prayers performed in Ramadan, after Isha. They are a confirmed Sunnah (*Sunnah Mu'akkadah*). The Prophet ﷺ prayed them in congregation for a few nights, then stopped — fearing they would become obligatory on his Ummah.
+_Tarawih_ are voluntary night prayers performed in Ramadan, after Isha. They are a confirmed Sunnah (_Sunnah Mu'akkadah_). The Prophet ﷺ prayed them in congregation for a few nights, then stopped — fearing they would become obligatory on his Ummah.
 
-Umar (RA) later revived congregational Tarawih and said: *"What an excellent innovation this is!"* — referring to its revival as an organized practice, since its basis was in the Sunnah.
+Umar (RA) later revived congregational Tarawih and said: _"What an excellent innovation this is!"_ — referring to its revival as an organized practice, since its basis was in the Sunnah.
 
 **Tarawih Rak'ahs:**
 
 {% hint style="warning" %}
-**🎓 Scholarly difference:** The Hanafi and Maliki schools hold 20 Rak'ahs. The Shafi'i school also holds 20. The position attributed to some Hanbali scholars and many contemporary scholars is 8 Rak'ahs (based on the authentic number the Prophet ﷺ prayed). Both 8 and 20 are practiced widely — both are valid. The final 3 Rak'ahs of Witr are separate from Tarawih.
+** Scholarly difference:** The Hanafi and Maliki schools hold 20 Rak'ahs. The Shafi'i school also holds 20. The position attributed to some Hanbali scholars and many contemporary scholars is 8 Rak'ahs (based on the authentic number the Prophet ﷺ prayed). Both 8 and 20 are practiced widely — both are valid. The final 3 Rak'ahs of Witr are separate from Tarawih.
 {% endhint %}
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - Ramadan is the month the Quran was revealed — the holiest month of the Islamic year.
 - Fasting is obligatory on every adult Muslim who is capable, from Fajr to Maghrib.
@@ -250,7 +251,7 @@ Umar (RA) later revived congregational Tarawih and said: *"What an excellent inn
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
@@ -278,7 +279,7 @@ This is a medical-religious question. Oral medications that are swallowed break 
 
 ---
 
-## ➡️ Next Chapter
+## Next Chapter
 
 **Continue to:** [The Spiritual Dimensions of Ramadan](spiritual-ramadan.md)
 

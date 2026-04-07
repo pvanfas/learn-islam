@@ -4,24 +4,24 @@
 <!--
   Part:       [e.g. Part 4 — Five Pillars]
   Chapter:    [e.g. Chapter 18 — Performing the Prayer]
-  Level:      🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
+  Level:      Beginner | Intermediate | Advanced
   Author:     [Name]
   Last updated: [Date]
   Reviewed by: [Name]
   Tags:       #prayer #salah #worship #pillars
 -->
 
-**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** [Part Name]
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** [Part Name]
 
 ---
 
-## 📌 In This Chapter
+## In This Chapter
 
 > A 2–3 sentence summary of exactly what this chapter covers and what the reader will know by the end.
 
 ---
 
-## 🔑 Key Arabic Terms
+## Key Arabic Terms
 
 | Arabic     | Transliteration | Meaning            |
 | ---------- | --------------- | ------------------ |
@@ -31,7 +31,7 @@
 
 ---
 
-## 📖 Quranic Foundation
+## Quranic Foundation
 
 {% hint style="info" %}
 **Surah [Name] [Number]:[Verse]**
@@ -45,7 +45,7 @@ _Brief note on why this verse is relevant to the chapter._
 
 ---
 
-## 📜 Hadith Foundation
+## Hadith Foundation
 
 {% hint style="info" %}
 **Hadith — [Collector], [Grade]**
@@ -57,14 +57,14 @@ _Brief note on the hadith's relevance._
 
 ---
 
-## 🧭 Main Content
+## Main Content
 
 ### Section One Title
 
 Write the first section of content here. Keep paragraphs short — 3 to 5 lines maximum. This is educational content, so use simple language before introducing technical terms.
 
 {% hint style="tip" %}
-**💡 Key Point:** Summarize the key insight of this section in one line.
+** Key Point:** Summarize the key insight of this section in one line.
 {% endhint %}
 
 ---
@@ -90,7 +90,7 @@ If this section contains a step-by-step process, use a numbered list:
 ### Section Four — Scholarly Notes (if applicable)
 
 {% hint style="warning" %}
-**🎓 Scholarly Note:** If there is a valid difference of opinion among scholars on this topic, present it here fairly. Example: "The majority of scholars hold [position A], while the Hanafi madhab holds [position B]. Both positions have strong evidence."
+** Scholarly Note:** If there is a valid difference of opinion among scholars on this topic, present it here fairly. Example: "The majority of scholars hold [position A], while the Hanafi madhab holds [position B]. Both positions have strong evidence."
 {% endhint %}
 
 ---
@@ -98,12 +98,12 @@ If this section contains a step-by-step process, use a numbered list:
 ### Section Five — Common Mistakes (if applicable)
 
 {% hint style="danger" %}
-**⚠️ Common Mistake:** Describe a frequent error people make regarding this topic and how to avoid it.
+** Common Mistake:** Describe a frequent error people make regarding this topic and how to avoid it.
 {% endhint %}
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
@@ -131,7 +131,7 @@ Answer to question three.
 
 ---
 
-## 🤲 Dua of the Chapter
+## Dua of the Chapter
 
 {% hint style="info" %}
 **Related Supplication**
@@ -147,7 +147,7 @@ _Arabic text_
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - First key lesson from this chapter, stated simply.
 - Second key lesson from this chapter.
@@ -156,17 +156,17 @@ _Arabic text_
 
 ---
 
-## 📚 Want to Go Deeper?
+## Want to Go Deeper?
 
-| Resource                 | Type      | Level           |
-| ------------------------ | --------- | --------------- |
-| [Book/Article Title]     | Book      | 🟡 Intermediate |
-| [Scholar's lecture name] | Video     | 🟢 Beginner     |
-| [Classical text name]    | Classical | 🔴 Advanced     |
+| Resource                 | Type      | Level        |
+| ------------------------ | --------- | ------------ |
+| [Book/Article Title]     | Book      | Intermediate |
+| [Scholar's lecture name] | Video     | Beginner     |
+| [Classical text name]    | Classical | Advanced     |
 
 ---
 
-## ➡️ Next Chapter
+## Next Chapter
 
 **Continue to:** [Next Chapter Title](../link-to-next-chapter.md)
 

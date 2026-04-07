@@ -1,41 +1,41 @@
 # How Islam Spread — Trade, Character, and Scholarship
 
-**Difficulty:** 🟡 Intermediate &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 12 — How Islam Spread
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 12 — How Islam Spread
 
 ---
 
-## 📌 In This Chapter
+## In This Chapter
 
 > Islam grew from a small community of persecuted believers in 7th-century Makkah to the world's second-largest religion — encompassing over 1.9 billion people across every continent. This chapter traces that extraordinary spread honestly: through military expansion, yes — but also through trade routes, Sufi missionaries, scholarly influence, and the simple personal example of Muslim merchants and travelers.
 
 ---
 
-## 🔑 Key Arabic Terms
+## Key Arabic Terms
 
-| Arabic | Transliteration | Meaning |
-|--------|----------------|---------|
-| دَعْوَة | Da'wah | Invitation to Islam — outreach |
-| فَتْح | Fath | Opening / conquest |
-| أَهْلُ الذِّمَّة | Ahl al-Dhimmah | Non-Muslims under Muslim governance — protected people |
-| جِزْيَة | Jizyah | A tax paid by non-Muslim subjects in lieu of military service |
-| الطَّرِيقَة | At-Tariqah | A Sufi order — the vehicle for much peaceful spread of Islam |
-| الطُّرُق التِّجَارِيَّة | Al-Turuq al-Tijariyyah | Trade routes |
+| Arabic                  | Transliteration        | Meaning                                                       |
+| ----------------------- | ---------------------- | ------------------------------------------------------------- |
+| دَعْوَة                 | Da'wah                 | Invitation to Islam — outreach                                |
+| فَتْح                   | Fath                   | Opening / conquest                                            |
+| أَهْلُ الذِّمَّة        | Ahl al-Dhimmah         | Non-Muslims under Muslim governance — protected people        |
+| جِزْيَة                 | Jizyah                 | A tax paid by non-Muslim subjects in lieu of military service |
+| الطَّرِيقَة             | At-Tariqah             | A Sufi order — the vehicle for much peaceful spread of Islam  |
+| الطُّرُق التِّجَارِيَّة | Al-Turuq al-Tijariyyah | Trade routes                                                  |
 
 ---
 
-## 📖 Opening Verse
+## Opening Verse
 
 {% hint style="info" %}
 **Surah Al-Anbiya 21:107**
 
 **Translation:** "And We have not sent you except as a mercy to all the worlds."
 
-*This verse establishes the universal scope of the mission from the beginning. Islam was never intended for one people or one era — and its spread across civilizations reflects the breadth of that original vision.*
+_This verse establishes the universal scope of the mission from the beginning. Islam was never intended for one people or one era — and its spread across civilizations reflects the breadth of that original vision._
 {% endhint %}
 
 ---
 
-## 🌱 Phase 1 — The Arabian Peninsula (610–632 CE)
+## Phase 1 — The Arabian Peninsula (610–632 CE)
 
 ### The Prophet's Lifetime
 
@@ -50,34 +50,34 @@ By the time of the Prophet's ﷺ death in 632 CE, the **entire Arabian Peninsula
 
 ---
 
-## ⚔️ Phase 2 — Military Expansion Under the Caliphs (632–750 CE)
+## Phase 2 — Military Expansion Under the Caliphs (632–750 CE)
 
 ### The Rightly Guided Caliphs and Umayyads
 
 After the Prophet's ﷺ death, the Muslim community — under Abu Bakr, Umar, Uthman, and Ali (RA) — expanded rapidly:
 
-| Region | Year | Caliph |
-|--------|------|--------|
-| Persia (Sassanid Empire) | 636–651 CE | Umar (RA) |
-| Egypt | 639–642 CE | Umar (RA) |
-| Syria and the Levant | 636 CE | Umar (RA) |
-| North Africa | 647–700 CE | Uthman onwards |
-| Spain (Al-Andalus) | 711 CE | Umayyad period |
-| Central Asia | 710–715 CE | Umayyad period |
+| Region                   | Year       | Caliph         |
+| ------------------------ | ---------- | -------------- |
+| Persia (Sassanid Empire) | 636–651 CE | Umar (RA)      |
+| Egypt                    | 639–642 CE | Umar (RA)      |
+| Syria and the Levant     | 636 CE     | Umar (RA)      |
+| North Africa             | 647–700 CE | Uthman onwards |
+| Spain (Al-Andalus)       | 711 CE     | Umayyad period |
+| Central Asia             | 710–715 CE | Umayyad period |
 
 **What actually happened in these conquests?**
 
 The historical record shows a pattern very different from the "convert or die" caricature:
 
 - **Non-Muslims were not forced to convert.** Egypt's Coptic Christians, Persia's Zoroastrians, and Syria's Christians maintained their religions for centuries under Muslim rule.
-- **The Dhimmi system** gave non-Muslim subjects religious freedom, legal autonomy, property rights, and protection — in exchange for *Jizyah* (a tax also exempting them from military service, which Muslims paid through Zakat).
+- **The Dhimmi system** gave non-Muslim subjects religious freedom, legal autonomy, property rights, and protection — in exchange for _Jizyah_ (a tax also exempting them from military service, which Muslims paid through Zakat).
 - **Many populations welcomed Muslim rule** as preferable to Byzantine or Sassanid oppression. The Coptic Christians of Egypt, for instance, had been persecuted by Constantinople over theological disputes and opened their gates to the Muslim armies.
 
 The Byzantine historian **Theophanes the Confessor**, writing decades after the Islamic conquest of Syria, noted that many Syrian Christians preferred Muslim to Byzantine rule.
 
 ---
 
-## 🚢 Phase 3 — Trade Routes (7th–15th Centuries CE)
+## Phase 3 — Trade Routes (7th–15th Centuries CE)
 
 ### Islam That Was Never Conquered Into
 
@@ -97,20 +97,21 @@ The trans-Saharan trade routes — connecting North Africa with the kingdoms of 
 
 ---
 
-## 🌹 Phase 4 — Sufi Missionaries (10th–18th Centuries CE)
+## Phase 4 — Sufi Missionaries (10th–18th Centuries CE)
 
 ### The Spiritual Ambassadors
 
-Perhaps the single most underappreciated factor in Islam's spread was the work of **Sufi orders** (*Turuq* — plural of *Tariqah*).
+Perhaps the single most underappreciated factor in Islam's spread was the work of **Sufi orders** (_Turuq_ — plural of _Tariqah_).
 
 Sufis were scholars of Islamic spirituality who had also mastered practical crafts, healing, and community service. They traveled to remote regions — Central Asia, Sub-Saharan Africa, the Indian subcontinent, Southeast Asia — not as conquerors but as teachers, healers, and spiritual guides.
 
 **Their method:**
+
 - Learning the local language
 - Living among the people
 - Serving the community through healing, education, and dispute resolution
 - Teaching Islam through its spiritual and ethical dimensions rather than political or legal frameworks
-- Establishing *Khanqahs* (spiritual lodges) as centers of learning and community
+- Establishing _Khanqahs_ (spiritual lodges) as centers of learning and community
 
 **The impact in India:**
 The vast majority of the Indian subcontinent's Muslims — today numbering over 500 million — trace their Islam to Sufi teachers, not to the Mughal armies. Scholars like **Moinuddin Chishti** (who established the Chishti order in India), **Data Ganj Bakhsh**, and countless others converted hundreds of thousands through spiritual example, not compulsion.
@@ -120,12 +121,13 @@ The Wali Songo — the Nine Saints — were Sufi teachers who Islamized Java thr
 
 ---
 
-## 🌍 Phase 5 — Africa (Ongoing)
+## Phase 5 — Africa (Ongoing)
 
 Islam in Sub-Saharan Africa has been one of the fastest-growing religious movements of the modern era, and it continues to grow entirely without military compulsion.
 
 The growth is driven by:
-- **Islamic education networks** — Quranic schools (*Madrasas*) that provide free or low-cost education
+
+- **Islamic education networks** — Quranic schools (_Madrasas_) that provide free or low-cost education
 - **Social welfare** — Islamic organizations building hospitals, wells, and food programs
 - **Islamic business ethics** — Muslim traders' reputation for honest commerce
 - **Personal da'wah** — individual Muslims sharing Islam with neighbors, colleagues, and friends
@@ -134,7 +136,7 @@ The growth is driven by:
 
 ---
 
-## 🌐 Phase 6 — The Modern Era and the West
+## Phase 6 — The Modern Era and the West
 
 ### Islam in Europe and North America
 
@@ -142,33 +144,33 @@ Islam is now the second-largest religion in many European countries and is growi
 
 **Conversion patterns in the West:**
 
-| Background | Common Path to Islam |
-|------------|---------------------|
-| African Americans | Historically through the Nation of Islam → Orthodox Islam (Malcolm X's journey is emblematic) |
+| Background                | Common Path to Islam                                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| African Americans         | Historically through the Nation of Islam → Orthodox Islam (Malcolm X's journey is emblematic)                |
 | White Europeans/Americans | Often through intellectual engagement with Islamic theology, meeting Muslim colleagues, or reading the Quran |
-| Hispanic Americans | Fastest-growing demographic of Muslim converts in the US |
-| Former Christians | Often cite the concept of pure monotheism (Tawhid) as decisive |
-| Former atheists | Often cite the intellectual coherence of Islamic theology and cosmology |
+| Hispanic Americans        | Fastest-growing demographic of Muslim converts in the US                                                     |
+| Former Christians         | Often cite the concept of pure monotheism (Tawhid) as decisive                                               |
+| Former atheists           | Often cite the intellectual coherence of Islamic theology and cosmology                                      |
 
 **The internet** has transformed da'wah globally. The Quran is the most downloaded religious text online. Platforms like YouTube have made the lectures of scholars like Nouman Ali Khan, Mufti Menk, Omar Suleiman, and Yasir Qadhi accessible to tens of millions.
 
 ---
 
-## 📊 The Numbers — A Summary of How Islam Spread
+## The Numbers — A Summary of How Islam Spread
 
-| Method | Approximate % of historical Muslim conversions |
-|--------|-----------------------------------------------|
-| Trade and merchant influence | ~35% |
-| Political expansion (followed by gradual voluntary conversion) | ~25% |
-| Sufi missionary work | ~20% |
-| Personal da'wah and family influence | ~15% |
-| Scholarship and education | ~5% |
+| Method                                                         | Approximate % of historical Muslim conversions |
+| -------------------------------------------------------------- | ---------------------------------------------- |
+| Trade and merchant influence                                   | ~35%                                           |
+| Political expansion (followed by gradual voluntary conversion) | ~25%                                           |
+| Sufi missionary work                                           | ~20%                                           |
+| Personal da'wah and family influence                           | ~15%                                           |
+| Scholarship and education                                      | ~5%                                            |
 
-*These are approximations from historical scholarship — no exact measurement exists. The key point: military conquest was never the primary vehicle of Islam's spread.*
+_These are approximations from historical scholarship — no exact measurement exists. The key point: military conquest was never the primary vehicle of Islam's spread._
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - Islam spread through multiple channels — military expansion, trade routes, Sufi missionaries, scholarship, and personal example.
 - Military conquests allowed contact but did not force conversion — the populations of conquered territories maintained their religions for centuries.
@@ -178,7 +180,7 @@ Islam is now the second-largest religion in many European countries and is growi
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
@@ -198,6 +200,6 @@ Spain (Al-Andalus) was Muslim for 700 years but is now overwhelmingly Christian.
 
 ---
 
-## ➡️ Next Chapter
+## Next Chapter
 
 **Continue to:** [Islam's Growth Rate Today](../part-13-growth-rate/global-population.md)

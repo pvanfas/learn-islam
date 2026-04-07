@@ -1,16 +1,16 @@
 # Being a Muslim in a Non-Muslim Country
 
-**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 17 — Living as a Muslim
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 17 — Living as a Muslim
 
 ---
 
-## 📌 In This Chapter
+## In This Chapter
 
 > Over 500 million Muslims live as minorities in non-Muslim majority countries — in Europe, North America, Asia, and Africa. This chapter addresses the unique challenges and opportunities of Muslim minority life: how to maintain identity and practice, navigate workplaces and schools, build community, relate to non-Muslims, and practice da'wah through character.
 
 ---
 
-## 📖 The Islamic Framework for Minority Life
+## The Islamic Framework for Minority Life
 
 Islam does not regard living in a non-Muslim country as a problem to be solved or a compromise to be endured. The Quran and Sunnah provide clear principles for living with integrity, dignity, and justice in any context.
 
@@ -24,7 +24,7 @@ Muslims are commanded to be **just and kind** to all people — regardless of th
 
 ---
 
-## 🏢 In the Workplace
+## In the Workplace
 
 ### Praying at Work
 
@@ -38,6 +38,7 @@ Five daily prayers are an absolute obligation — they do not stop because of wo
 ### Ramadan at Work
 
 Fasting does not prevent professional performance. Many Muslims fast and work highly demanding jobs without any reduction in productivity. Practical points:
+
 - Inform colleagues early — it creates understanding and prevents awkward questions
 - You do not need to eat during team lunches — most colleagues are respectful when they understand
 - Keep energy levels stable through proper Suhoor and staying hydrated after Iftar
@@ -54,7 +55,7 @@ Attending the Friday prayer is obligatory for men. Most employers can accommodat
 
 ---
 
-## 🏫 At School and University
+## At School and University
 
 ### Maintaining Prayer
 
@@ -63,6 +64,7 @@ Universities almost universally have quiet rooms or multi-faith prayer spaces. K
 ### Ramadan During Exam Season
 
 If exams coincide with Ramadan:
+
 - Many universities allow accommodations for religious observance — check your institution's policy early
 - Fasting and studying simultaneously is entirely possible with proper planning — many Muslim students fast and perform excellently in exams
 - The barakah in Ramadan is real — many students find their focus and discipline actually improves
@@ -70,6 +72,7 @@ If exams coincide with Ramadan:
 ### Responding to Questions About Islam
 
 You will be asked. Being prepared is part of being a Muslim minority:
+
 - Know the basics of your faith well enough to explain them simply and confidently
 - Be honest about what you know and don't know
 - Correct misconceptions graciously — not defensively
@@ -77,13 +80,14 @@ You will be asked. Being prepared is part of being a Muslim minority:
 
 ---
 
-## 🤝 Relationships with Non-Muslims
+## Relationships with Non-Muslims
 
 ### The Islamic Standard — Justice and Kindness
 
 The Prophet ﷺ had Jewish neighbors, Christian allies, and polytheist relatives. He was fair, respectful, and genuinely kind to all of them. This is the model.
 
 **What Islam commands:**
+
 - Justice toward all — regardless of faith
 - Honoring agreements and contracts
 - Being truthful in all dealings
@@ -92,15 +96,16 @@ The Prophet ﷺ had Jewish neighbors, Christian allies, and polytheist relatives
 - Offering condolences in loss
 
 **What Islam limits:**
-- Deep intimate friendship that compromises one's faith — taking disbelievers as *awliya* (close allies) in religious matters, or relationships that lead to compromising on what is haram
+
+- Deep intimate friendship that compromises one's faith — taking disbelievers as _awliya_ (close allies) in religious matters, or relationships that lead to compromising on what is haram
 - Participating in acts of worship of other religions — attending a non-Muslim religious ceremony as a participant (observer/guest is different from participant)
 - Romantic relationships outside of marriage
 
 ---
 
-## 🕌 Building and Maintaining Community
+## Building and Maintaining Community
 
-The Muslim community (*Jama'ah*) is a lifeline for Muslims in minority contexts. Practical community building:
+The Muslim community (_Jama'ah_) is a lifeline for Muslims in minority contexts. Practical community building:
 
 - **Find your local mosque** — even if imperfect, the mosque is the center of community life. Support it.
 - **Islamic Sunday schools** for children — crucial for the next generation's Islamic identity
@@ -108,15 +113,16 @@ The Muslim community (*Jama'ah*) is a lifeline for Muslims in minority contexts.
 - **Islamic social media communities** — supplement (not replace) physical community
 - **Arrange regular gatherings** — even informal ones in homes for Quran, food, and community
 
-The Prophet ﷺ said: *"The believers in their mutual mercy, compassion, and kindness are like one body — if one limb suffers, the entire body responds with sleeplessness and fever."* (Sahih al-Bukhari)
+The Prophet ﷺ said: _"The believers in their mutual mercy, compassion, and kindness are like one body — if one limb suffers, the entire body responds with sleeplessness and fever."_ (Sahih al-Bukhari)
 
 ---
 
-## 🌍 Questions of Citizenship and Civic Life
+## Questions of Citizenship and Civic Life
 
 ### Is It Permissible to Live in a Non-Muslim Country?
 
-Classical Islamic scholars differed on this — some held that Muslims must live in Muslim-majority lands (*Dar al-Islam*). Contemporary mainstream scholarship holds that Muslims may live in non-Muslim countries when:
+Classical Islamic scholars differed on this — some held that Muslims must live in Muslim-majority lands (_Dar al-Islam_). Contemporary mainstream scholarship holds that Muslims may live in non-Muslim countries when:
+
 - They can practice their religion freely
 - They can maintain their Islamic obligations
 - Their presence benefits the Muslim community and the broader society
@@ -126,9 +132,9 @@ Most contemporary scholars — including Sheikh Yusuf al-Qaradawi, Hamza Yusuf, 
 ### Voting and Political Participation
 
 {% hint style="warning" %}
-**🎓 Scholarly discussion:** There is genuine scholarly discussion on whether Muslims should vote in non-Muslim democratic elections.
+** Scholarly discussion:** There is genuine scholarly discussion on whether Muslims should vote in non-Muslim democratic elections.
 
-**Position A (permissible and encouraged):** Voting to select the lesser harm, protect Muslim rights, and promote justice is permitted and sometimes obligatory — as a form of *Maslahah* (public interest). This is the majority contemporary scholarly position.
+**Position A (permissible and encouraged):** Voting to select the lesser harm, protect Muslim rights, and promote justice is permitted and sometimes obligatory — as a form of _Maslahah_ (public interest). This is the majority contemporary scholarly position.
 
 **Position B (not permissible):** Some scholars hold that participating in non-Islamic governance systems is impermissible. This is a minority position.
 
@@ -143,19 +149,20 @@ Where the law and Sharia conflict (e.g., being compelled to serve alcohol, requi
 
 ---
 
-## 📣 Da'wah Through Character
+## Da'wah Through Character
 
 The most effective da'wah a Muslim minority member can make is through their **character** — and this is also the most universally available form of da'wah.
 
 {% hint style="info" %}
 **Hadith — Tirmidhi (Hasan)**
 
-*"The most complete of the believers in faith is the one who is best in character."*
+_"The most complete of the believers in faith is the one who is best in character."_
 {% endhint %}
 
 Non-Muslims who encounter Islam primarily through reading will form an intellectual picture. Those who encounter it through a Muslim colleague, neighbor, or friend who is honest, generous, and kind will form a human one. The human encounter almost always wins.
 
 **Practical da'wah for everyday life:**
+
 - Be the most reliable person in the room — at work, at school, in your neighborhood
 - Be generous — share food, give gifts, offer help without being asked
 - Respond to questions about Islam with warmth and confidence
@@ -164,24 +171,25 @@ Non-Muslims who encounter Islam primarily through reading will form an intellect
 
 ---
 
-## 🧠 Maintaining Islamic Identity Under Pressure
+## Maintaining Islamic Identity Under Pressure
 
 The greatest challenge for Muslim minorities — especially the second generation — is maintaining Islamic identity in a culture that often pulls in the opposite direction.
 
 **Pillars of identity preservation:**
+
 - **The five daily prayers** — they are the anchor; lose them and everything follows
 - **Community** — isolation from the Muslim community makes identity collapse far more likely
 - **Islamic education** — knowledge of Islam inoculates against doubts
 - **Family environment** — an Islamic home is the foundation
 - **Positive Muslim role models** — in media, scholarship, professional life
 
-The Prophet ﷺ said: *"Protect this fire — this deen — for its time is about to come when a man would hold onto his religion the way he holds onto burning coals."* (Tirmidhi)
+The Prophet ﷺ said: _"Protect this fire — this deen — for its time is about to come when a man would hold onto his religion the way he holds onto burning coals."_ (Tirmidhi)
 
 This describes our era precisely. The challenge is real. The reward for meeting it is proportional.
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - Islam provides complete principles for living with integrity in any country — the foundation is justice, kindness, and honoring contracts.
 - Prayer obligations do not pause for work or school — plan your day around them.
@@ -192,7 +200,7 @@ This describes our era precisely. The challenge is real. The reward for meeting 
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
@@ -212,6 +220,6 @@ This is the greatest challenge of Muslim minority parenting. Practical responses
 
 ---
 
-## ➡️ Next Chapter
+## Next Chapter
 
 **Continue to:** [Part 18 — Advanced Studies](../part-18-advanced-studies/README.md)

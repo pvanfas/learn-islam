@@ -1,26 +1,26 @@
 # Common Misconceptions About Islam
 
-**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 1 — Before You Begin
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 1 — Before You Begin
 
 ---
 
-## 📌 In This Chapter
+## In This Chapter
 
 > Misconceptions about Islam are everywhere — in news coverage, in films, in casual conversation. This chapter addresses the most widespread ones directly, fairly, and with evidence. Whether you hold some of these views or encounter them from others, this chapter gives you clear, honest answers.
 
 ---
 
-## 🧭 Why Misconceptions Matter
+## Why Misconceptions Matter
 
 When a religion has 1.9 billion followers across every continent, culture, and language, generalizations are inevitable — and almost always wrong. The misconceptions below are not dismissed casually. Each one is addressed with historical evidence, Quranic verses, and reasoning, so that the reader can evaluate the answer, not just accept it.
 
 {% hint style="tip" %}
-**💡 Approach:** Islam's own tradition values honest questioning. The Quran repeatedly invites people to think, reflect, and examine evidence. _"Do they not reflect?"_ appears multiple times. Questioning is not the problem — inaccurate answers are.
+** Approach:** Islam's own tradition values honest questioning. The Quran repeatedly invites people to think, reflect, and examine evidence. _"Do they not reflect?"_ appears multiple times. Questioning is not the problem — inaccurate answers are.
 {% endhint %}
 
 ---
 
-## ❌ Misconception 1 — "Islam Was Spread by the Sword"
+## Misconception 1 — "Islam Was Spread by the Sword"
 
 This is perhaps the most common accusation against Islam — that it spread through forced conversion at sword-point.
 
@@ -45,12 +45,12 @@ _This verse was revealed in Madinah — at the height of the Prophet's ﷺ polit
 **Historian Thomas Arnold**, a non-Muslim scholar, wrote after extensive research that he found no evidence of forced mass conversion in Islamic history, and that the rapid spread of Islam was far more attributable to its theological simplicity and moral appeal.
 
 {% hint style="warning" %}
-**🎓 Fair acknowledgment:** There were periods and rulers in Islamic history who acted violently and unjustly. Islamic scholarship itself criticizes these deviations from the Prophet's ﷺ example. The actions of imperfect rulers do not represent the religion's teaching — just as the Crusades do not represent the core of Christianity.
+** Fair acknowledgment:** There were periods and rulers in Islamic history who acted violently and unjustly. Islamic scholarship itself criticizes these deviations from the Prophet's ﷺ example. The actions of imperfect rulers do not represent the religion's teaching — just as the Crusades do not represent the core of Christianity.
 {% endhint %}
 
 ---
 
-## ❌ Misconception 2 — "Islam Oppresses Women"
+## Misconception 2 — "Islam Oppresses Women"
 
 This claim is widespread in Western discourse and requires a careful, honest response.
 
@@ -84,12 +84,12 @@ Many practices that appear to oppress women — forced marriages, honour killing
 Khadijah (RA), the Prophet's ﷺ first wife, was a successful businesswoman and merchant who employed men — including the Prophet ﷺ himself — before their marriage. Aisha (RA) became one of the greatest scholars of hadith in Islamic history, teaching both men and women. These are not footnotes — they are central figures in early Islam.
 
 {% hint style="warning" %}
-**🎓 Honest note:** There are genuine debates within Islamic scholarship about certain rulings related to women — in areas of testimony, inheritance, and leadership. These debates are real, ongoing, and deserve serious engagement, not dismissal. The mainstream position of classical scholarship has internal logic rooted in specific social and legal contexts, though contemporary scholars continue to discuss their application today.
+** Honest note:** There are genuine debates within Islamic scholarship about certain rulings related to women — in areas of testimony, inheritance, and leadership. These debates are real, ongoing, and deserve serious engagement, not dismissal. The mainstream position of classical scholarship has internal logic rooted in specific social and legal contexts, though contemporary scholars continue to discuss their application today.
 {% endhint %}
 
 ---
 
-## ❌ Misconception 3 — "Muslims Worship Muhammad ﷺ"
+## Misconception 3 — "Muslims Worship Muhammad ﷺ"
 
 This misconception is understandable, given how deeply Muslims revere the Prophet ﷺ — but it is incorrect.
 
@@ -109,7 +109,7 @@ Muslims send blessings upon the Prophet ﷺ (_Salawat_), love him deeply, and fo
 
 ---
 
-## ❌ Misconception 4 — "Allah Is a Different God"
+## Misconception 4 — "Allah Is a Different God"
 
 Allah (اللّٰه) is simply the **Arabic word for God** — the same God of Abraham, Moses, and Jesus. It is not a different deity.
 
@@ -119,7 +119,7 @@ The difference between Islam and other Abrahamic faiths is not _who_ God is, but
 
 ---
 
-## ❌ Misconception 5 — "Jihad Means Holy War"
+## Misconception 5 — "Jihad Means Holy War"
 
 The Arabic word **Jihad** (جِهَاد) means _struggle_ or _striving_. It does not mean "holy war" — that phrase does not exist in Arabic Islamic literature.
 
@@ -139,7 +139,7 @@ Armed Jihad in Islamic law has strict conditions: it must be declared by legitim
 
 ---
 
-## ❌ Misconception 6 — "Islam Is an Arab Religion"
+## Misconception 6 — "Islam Is an Arab Religion"
 
 **Only about 20% of the world's Muslims are Arab.** The largest Muslim populations are in:
 
@@ -165,7 +165,7 @@ The Prophet ﷺ said in his Farewell Sermon: _"An Arab has no superiority over a
 
 ---
 
-## ❌ Misconception 7 — "Islam Is a Religion of Violence and Terrorism"
+## Misconception 7 — "Islam Is a Religion of Violence and Terrorism"
 
 **The statistical reality:** 1.9 billion Muslims live, work, raise families, pay taxes, and contribute to their communities every day without violence. Terrorist groups that claim Islamic justification represent a fraction of a fraction of the global Muslim population, and are condemned by mainstream Islamic scholarship worldwide.
 
@@ -181,7 +181,7 @@ Attributing terrorism to Islam based on the actions of a small extremist minorit
 
 ---
 
-## ❌ Misconception 8 — "All Muslims Are the Same"
+## Misconception 8 — "All Muslims Are the Same"
 
 1.9 billion people spanning over 50 countries, hundreds of languages, and dozens of ethnic backgrounds cannot be reduced to a single profile. A Bosnian Muslim, a Nigerian Muslim, a Chinese Muslim, an American Muslim, and a Pakistani Muslim may share core beliefs — Tawhid, the Quran, the Five Pillars — while differing significantly in culture, practice, dress, language, and even some jurisprudential positions.
 
@@ -195,7 +195,7 @@ Islam's diversity is part of its design. The Quran states:
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - Islam explicitly prohibits forced conversion — _"There is no compulsion in religion."_
 - Islam granted women rights in the 7th century that the West did not recognize for over a thousand years.
@@ -208,7 +208,7 @@ Islam's diversity is part of its design. The Quran states:
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
@@ -236,7 +236,7 @@ Yes — and so does the Bible and the Torah. Every scripture contains verses abo
 
 ---
 
-## ➡️ Next Chapter
+## Next Chapter
 
 **Continue to:** [Islam's Relationship with Other Faiths](islam-and-other-faiths.md)
 

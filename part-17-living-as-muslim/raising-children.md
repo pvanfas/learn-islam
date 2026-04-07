@@ -1,23 +1,23 @@
 # Raising Children with Islamic Values
 
-**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 17 — Living as a Muslim
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 17 — Living as a Muslim
 
 ---
 
-## 📌 In This Chapter
+## In This Chapter
 
 > The Prophet ﷺ said: "Every child is born upon the Fitrah." Parents are the most powerful force determining whether that natural orientation toward truth and goodness is nurtured or suppressed. This chapter covers the Islamic approach to child-rearing — from infancy through adolescence — with practical, Sunnah-grounded guidance for Muslim parents in any context.
 
 ---
 
-## 📖 Opening Verses
+## Opening Verses
 
 {% hint style="info" %}
 **Surah At-Tahrim 66:6**
 
 **Translation:** "O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones..."
 
-*The primary responsibility of the parent in Islam is not academic excellence or career success — it is protecting their family from the Fire by raising them in the deen.*
+_The primary responsibility of the parent in Islam is not academic excellence or career success — it is protecting their family from the Fire by raising them in the deen._
 {% endhint %}
 
 {% hint style="info" %}
@@ -25,12 +25,12 @@
 
 **Translation:** "And lower to them the wing of humility out of mercy and say: 'My Lord, have mercy upon them as they brought me up when I was small.'"
 
-*The relationship between parent and child in Islam is one of mercy, humility, and dua — not control or performance pressure.*
+_The relationship between parent and child in Islam is one of mercy, humility, and dua — not control or performance pressure._
 {% endhint %}
 
 ---
 
-## 👶 From Birth — The Islamic Beginning
+## From Birth — The Islamic Beginning
 
 Islamic tradition establishes the child's connection to the deen from the very first moments of life:
 
@@ -41,10 +41,10 @@ Immediately after birth, the father (or another male guardian) whispers the **Ad
 {% hint style="info" %}
 **Hadith — Sunan Abu Dawud (Hasan)**
 
-*"Whoever has a child born to him and calls the Adhan in their right ear and the Iqamah in their left ear — they will not be harmed by Umm Sibyan (a harmful spirit affecting infants)."*
+_"Whoever has a child born to him and calls the Adhan in their right ear and the Iqamah in their left ear — they will not be harmed by Umm Sibyan (a harmful spirit affecting infants)."_
 {% endhint %}
 
-The first words the child hears in the world are: *"Allahu Akbar... La ilaha illallah..."* — the Oneness of God and the call to prayer. The child's soul is oriented toward Allah before the world has a chance to pull it anywhere else.
+The first words the child hears in the world are: _"Allahu Akbar... La ilaha illallah..."_ — the Oneness of God and the call to prayer. The child's soul is oriented toward Allah before the world has a chance to pull it anywhere else.
 
 ### Tahnik — Softening the Palate
 
@@ -53,61 +53,63 @@ A piece of softened date (or something sweet) is rubbed on the child's palate by
 ### Aqiqah — The Sacrifice of Thanksgiving
 
 On the **seventh day** after birth:
+
 - **Two sheep** for a boy, **one sheep** for a girl (or the equivalent)
 - The animal is slaughtered as a sacrifice of gratitude to Allah
 - The child is named
 - The child's hair is shaved and its weight in silver (or equivalent) given in charity
 
-This is a confirmed Sunnah. The Prophet ﷺ said: *"A child is pledged by their Aqiqah — sacrifice is made on their behalf on the seventh day, they are named, and their head is shaved."* (Abu Dawud — Sahih)
+This is a confirmed Sunnah. The Prophet ﷺ said: _"A child is pledged by their Aqiqah — sacrifice is made on their behalf on the seventh day, they are named, and their head is shaved."_ (Abu Dawud — Sahih)
 
 ---
 
-## 📛 Naming — The First Gift of Identity
+## Naming — The First Gift of Identity
 
 The name given to a child is the first statement of their Islamic identity — it follows them their entire life.
 
 {% hint style="info" %}
 **Hadith — Sunan Abu Dawud (Hasan)**
 
-*"The most beloved names to Allah are Abdullah (servant of Allah) and Abdur-Rahman (servant of the Most Merciful)."*
+_"The most beloved names to Allah are Abdullah (servant of Allah) and Abdur-Rahman (servant of the Most Merciful)."_
 {% endhint %}
 
-**Best names:** Names that carry meaning related to servitude to Allah (*Abdullah, Abdur-Rahman*) or names of the prophets (*Ibrahim, Musa, Isa, Muhammad, Ahmad, Yusuf, Dawud*) or the righteous Companions.
+**Best names:** Names that carry meaning related to servitude to Allah (_Abdullah, Abdur-Rahman_) or names of the prophets (_Ibrahim, Musa, Isa, Muhammad, Ahmad, Yusuf, Dawud_) or the righteous Companions.
 
-**Names to avoid:** Names that imply servitude to other than Allah (*Abdul-Nabi, Abdul-Hussain*), names of Allah restricted to Him (*Al-Khaliq, Al-Quddus*), names of idols or historical enemies of Islam, names with degrading meanings.
+**Names to avoid:** Names that imply servitude to other than Allah (_Abdul-Nabi, Abdul-Hussain_), names of Allah restricted to Him (_Al-Khaliq, Al-Quddus_), names of idols or historical enemies of Islam, names with degrading meanings.
 
 ---
 
-## 🌱 The First Seven Years — Building the Foundation
+## The First Seven Years — Building the Foundation
 
-The Prophet ﷺ is reported to have said: *"Command your children to pray at seven."* (Abu Dawud — Hasan) But preparation for prayer begins long before age seven. The first seven years are about **embedding the feel of Islam** — not rules and obligations.
+The Prophet ﷺ is reported to have said: _"Command your children to pray at seven."_ (Abu Dawud — Hasan) But preparation for prayer begins long before age seven. The first seven years are about **embedding the feel of Islam** — not rules and obligations.
 
 **Key practices in the first seven years:**
 
-| Practice | How to Begin |
-|---------|-------------|
-| **Names of Allah** | Teach "Allah" as the first word — talk to your child about Allah naturally |
-| **Bismillah** | Say it together before every activity — eating, dressing, riding |
-| **Alhamdulillah** | Teach gratitude instinctively — say it together when good things happen |
-| **The Adhan** | Children who grow up hearing the Adhan five times a day internalize its rhythm |
-| **Prayer postures** | Let children imitate prayer naturally — don't force, encourage |
-| **Quranic exposure** | Play Quran recitation in the home — the ears absorb the sounds before the mind understands |
-| **Stories of the prophets** | Children's books and age-appropriate storytelling |
-| **Love of the Prophet ﷺ** | Tell his stories — his kindness, his gentleness — before his commands |
+| Practice                    | How to Begin                                                                               |
+| --------------------------- | ------------------------------------------------------------------------------------------ |
+| **Names of Allah**          | Teach "Allah" as the first word — talk to your child about Allah naturally                 |
+| **Bismillah**               | Say it together before every activity — eating, dressing, riding                           |
+| **Alhamdulillah**           | Teach gratitude instinctively — say it together when good things happen                    |
+| **The Adhan**               | Children who grow up hearing the Adhan five times a day internalize its rhythm             |
+| **Prayer postures**         | Let children imitate prayer naturally — don't force, encourage                             |
+| **Quranic exposure**        | Play Quran recitation in the home — the ears absorb the sounds before the mind understands |
+| **Stories of the prophets** | Children's books and age-appropriate storytelling                                          |
+| **Love of the Prophet ﷺ**   | Tell his stories — his kindness, his gentleness — before his commands                      |
 
 ---
 
-## 📚 Ages 7–10 — Commanding Prayer
+## Ages 7–10 — Commanding Prayer
 
 {% hint style="info" %}
 **Hadith — Sunan Abu Dawud (Hasan)**
 
-*"Command your children to pray at seven. Strike them for not praying at ten. And separate them in their beds."*
+_"Command your children to pray at seven. Strike them for not praying at ten. And separate them in their beds."_
 {% endhint %}
 
-The "striking" (*Darb*) mentioned at age 10 is interpreted by scholars as a light disciplinary measure — absolutely not harsh physical punishment. Many scholars today interpret it in the context of consequences, not physical correction. The key point: at 7, encourage. At 10, require.
+The "striking" (_Darb_) mentioned at age 10 is interpreted by scholars as a light disciplinary measure — absolutely not harsh physical punishment. Many scholars today interpret it in the context of consequences, not physical correction. The key point: at 7, encourage. At 10, require.
 
 **Focus in this age group:**
+
 - Regular prayer — praying with the parent together
 - Memorization of short Surahs — Al-Ikhlas, Al-Falaq, An-Nas, Al-Fatihah
 - Basic Islamic knowledge — Who is Allah? Who is the Prophet ﷺ?
@@ -116,7 +118,7 @@ The "striking" (*Darb*) mentioned at age 10 is interpreted by scholars as a ligh
 
 ---
 
-## 🧠 The Teenage Years — Identity and Belonging
+## The Teenage Years — Identity and Belonging
 
 Adolescence is the period of greatest Islamic identity challenge — especially in non-Muslim majority environments. The teenager seeks belonging, and if Muslim belonging is not made attractive and real, they will find it elsewhere.
 
@@ -124,7 +126,7 @@ Adolescence is the period of greatest Islamic identity challenge — especially 
 
 **1. Community before commands.** Teenagers who have Muslim friends, attend Islamic youth groups, and feel part of a community are far more likely to retain their identity than those who are isolated.
 
-**2. Give them knowledge, not just rules.** A teenager who understands *why* alcohol is forbidden — neurologically, spiritually, socially — is more equipped to resist it than one who only knows "it's haram."
+**2. Give them knowledge, not just rules.** A teenager who understands _why_ alcohol is forbidden — neurologically, spiritually, socially — is more equipped to resist it than one who only knows "it's haram."
 
 **3. Maintain the relationship above everything.** A teenager who can speak to their parent about their struggles — including their doubts, their temptations, their questions — is in a fundamentally different position than one who fears the reaction. Keep the channel open.
 
@@ -134,14 +136,14 @@ Adolescence is the period of greatest Islamic identity challenge — especially 
 
 ---
 
-## 🤲 The Power of Parental Dua
+## The Power of Parental Dua
 
 Perhaps the single most important thing a Muslim parent can do for their child is **make dua** for them — consistently, sincerely, in the night prayer and in Sujood.
 
 {% hint style="info" %}
 **Hadith — Sahih al-Bukhari**
 
-*"Three duas are answered without doubt: the dua of the oppressed, the dua of the traveler, and the dua of a parent for their child."*
+_"Three duas are answered without doubt: the dua of the oppressed, the dua of the traveler, and the dua of a parent for their child."_
 {% endhint %}
 
 Ibrahim (AS) made dua for his children — and the Quran recorded those duas for all of humanity:
@@ -149,26 +151,28 @@ Ibrahim (AS) made dua for his children — and the Quran recorded those duas for
 {% hint style="info" %}
 **Surah Ibrahim 14:40**
 
-*رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي رَبَّنَا وَتَقَبَّلْ دُعَاءِ*
+_رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي رَبَّنَا وَتَقَبَّلْ دُعَاءِ_
 
 **Translation:** "My Lord, make me an establisher of prayer, and from my descendants. Our Lord, and accept my supplication."
 
-*Use this dua for yourself and your children — the dua of the Khalilullah.*
+_Use this dua for yourself and your children — the dua of the Khalilullah._
 {% endhint %}
 
 ---
 
-## ⚖️ Balance — Islamic Upbringing Without Rigidity
+## Balance — Islamic Upbringing Without Rigidity
 
 The Prophet ﷺ was gentle with children. He allowed them to play. He kissed them publicly. He waited patiently when a child pulled him by his garment. He shortened prayers when a baby cried.
 
 Islamic upbringing is not:
+
 - Prohibiting all fun and entertainment
 - Creating a joyless, rules-saturated environment
 - Shaming children for normal mistakes
 - Demanding perfection in worship before the child is ready
 
 It IS:
+
 - Creating an environment where Allah is spoken of naturally and lovingly
 - Making the mosque feel like home, not an obligation
 - Celebrating Islamic milestones — first fast, first full prayer, first Quran completion
@@ -176,10 +180,10 @@ It IS:
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - The Adhan in the ear, Aqiqah on the seventh day, and a good name are the first acts of Islamic parenting.
-- The first seven years are about building the *feel* of Islam — love, Bismillah, Alhamdulillah, Quranic sound, prophetic stories.
+- The first seven years are about building the _feel_ of Islam — love, Bismillah, Alhamdulillah, Quranic sound, prophetic stories.
 - Age 7: encourage prayer. Age 10: require it.
 - Teenagers need community, knowledge of reasons, and an open relationship with their parents more than rules.
 - Parental dua is among the most powerful forces in a child's spiritual life — use it, especially in Sujood.
@@ -187,7 +191,7 @@ It IS:
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
@@ -207,6 +211,6 @@ There is no set requirement. Memorization should be encouraged but not forced to
 
 ---
 
-## ➡️ Next Chapter
+## Next Chapter
 
 **Continue to:** [Community and Social Life](community.md)

@@ -2,18 +2,18 @@
 
 <!-- E.g. "Was Islam Spread by the Sword?" or "How Can God Allow Suffering?" -->
 
-**Difficulty:** 🟡 Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 11 — Criticism & Responses
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 11 — Criticism & Responses
 
 ---
 
 ## The Claim
 
 {% hint style="danger" %}
-**❝ The Criticism:**
+** The Criticism:**
 State the criticism, argument, or claim as clearly and fairly as possible — in the words that a critic would actually use. Do not misrepresent it.
 {% endhint %}
 
-*Where does this claim come from? When did it become popular? Who makes it?*
+_Where does this claim come from? When did it become popular? Who makes it?_
 
 ---
 
@@ -23,7 +23,7 @@ A brief paragraph explaining why this is an important question to address — fo
 
 ---
 
-## 🔍 Examining the Claim
+## Examining the Claim
 
 ### What the Claim Gets Right
 
@@ -31,7 +31,7 @@ A brief paragraph explaining why this is an important question to address — fo
 Acknowledge any grain of truth in the criticism. Intellectual honesty builds trust with the reader. Islam's tradition of scholarship does not fear honest examination.
 {% endhint %}
 
-*Explain here what part of the criticism has a valid basis or understandable origin.*
+_Explain here what part of the criticism has a valid basis or understandable origin._
 
 ---
 
@@ -41,7 +41,7 @@ Acknowledge any grain of truth in the criticism. Intellectual honesty builds tru
 
 Explain the first flaw in the argument — whether factual, logical, contextual, or definitional. Use evidence.
 
-> *"Relevant Quranic verse or hadith if applicable."*
+> _"Relevant Quranic verse or hadith if applicable."_
 > — Surah [Name] [Number]:[Verse] or Hadith source
 
 #### Point 2 — [Context that changes the picture]
@@ -54,12 +54,12 @@ State clearly what Islam actually teaches on this matter, with evidence.
 
 ---
 
-## 📜 Evidence — Quran & Sunnah
+## Evidence — Quran & Sunnah
 
 {% hint style="info" %}
 **Quranic Evidence:**
 
-*Arabic*
+_Arabic_
 
 **Translation:** "English translation"
 — Surah [Name] [Number]:[Verse]
@@ -74,9 +74,9 @@ State clearly what Islam actually teaches on this matter, with evidence.
 
 ---
 
-## 🎓 What Scholars Say
+## What Scholars Say
 
-*Cite 2–3 classical or contemporary scholars on this issue. Include both their position and a brief note on their credibility.*
+_Cite 2–3 classical or contemporary scholars on this issue. Include both their position and a brief note on their credibility._
 
 - **[Scholar Name]** (d. [year]) — Summarize their view in one sentence.
 - **[Scholar Name]** — Summarize their view in one sentence.
@@ -84,13 +84,13 @@ State clearly what Islam actually teaches on this matter, with evidence.
 
 ---
 
-## 🌍 What History / Science / Reason Shows
+## What History / Science / Reason Shows
 
-*If this is a historical, scientific, or philosophical criticism, present the empirical or logical case here — separate from the religious evidence.*
+_If this is a historical, scientific, or philosophical criticism, present the empirical or logical case here — separate from the religious evidence._
 
 ---
 
-## ❓ Follow-Up Questions
+## Follow-Up Questions
 
 <details>
 
@@ -110,25 +110,25 @@ Acknowledge any internal scholarly disagreement honestly, while presenting the m
 
 ---
 
-## ✅ Summary — The Islamic Response in Brief
+## Summary — The Islamic Response in Brief
 
-| The Claim | The Response |
-|-----------|-------------|
+| The Claim            | The Response                     |
+| -------------------- | -------------------------------- |
 | [State claim simply] | [State the core response simply] |
-| [Supporting claim 1] | [Counter point 1] |
-| [Supporting claim 2] | [Counter point 2] |
+| [Supporting claim 1] | [Counter point 1]                |
+| [Supporting claim 2] | [Counter point 2]                |
 
 ---
 
-## 📚 Further Reading
+## Further Reading
 
-| Resource | Author | Level |
-|----------|--------|-------|
-| [Book/article] | [Scholar name] | 🟡 |
-| [Book/article] | [Scholar name] | 🔴 |
+| Resource       | Author         | Level |
+| -------------- | -------------- | ----- |
+| [Book/article] | [Scholar name] |       |
+| [Book/article] | [Scholar name] |       |
 
 ---
 
-## ➡️ Next Chapter
+## Next Chapter
 
 **Continue to:** [Next Criticism or Chapter](link.md)

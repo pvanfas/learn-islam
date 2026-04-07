@@ -1,29 +1,29 @@
-# 📙 Part 3 — Ahlus Sunnah Wal Jama'ah
+# Part 3 — Ahlus Sunnah Wal Jama'ah
 
-**Difficulty:** 🟡 Intermediate &nbsp;|&nbsp; **Chapters:** 4 &nbsp;|&nbsp; **Estimated reading time:** ~35 min
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Chapters:** 4 &nbsp;|&nbsp; **Estimated reading time:** ~35 min
 
 ---
 
 ## What You Will Learn in This Part
 
-*Ahlus Sunnah Wal Jama'ah* — the People of the Sunnah and the Community — is the name given to the mainstream tradition of Islamic belief and practice. It is not a sect or a movement. It is the broad, central tradition of Islam as transmitted by the Companions of the Prophet ﷺ, preserved by generations of scholars, and followed by the overwhelming majority of Muslims throughout history.
+_Ahlus Sunnah Wal Jama'ah_ — the People of the Sunnah and the Community — is the name given to the mainstream tradition of Islamic belief and practice. It is not a sect or a movement. It is the broad, central tradition of Islam as transmitted by the Companions of the Prophet ﷺ, preserved by generations of scholars, and followed by the overwhelming majority of Muslims throughout history.
 
 Understanding what Ahlus Sunnah means — its theology, its methodology, and its boundaries — gives the student of Islam a stable compass with which to evaluate any claim, group, or interpretation they encounter. Without this understanding, navigating the diversity of Islamic opinion and the noise of sectarian claims becomes very difficult.
 
 ---
 
-## 📋 Chapters in This Part
+## Chapters in This Part
 
-| # | Chapter | Level | Read Time |
-|---|---------|-------|-----------|
-| 1 | [Who Are Ahlus Sunnah Wal Jama'ah?](who-are-ahlus-sunnah.md) | 🟡 | ~10 min |
-| 2 | [Theological Foundations](theological-foundations.md) | 🟡 | ~10 min |
-| 3 | [The Major Sects — Historical Context](major-sects.md) | 🟡 | ~10 min |
-| 4 | [Recognizing Ahlus Sunnah Today](recognizing-ahlus-sunnah.md) | 🟡 | ~8 min |
+| #   | Chapter                                                       | Level | Read Time |
+| --- | ------------------------------------------------------------- | ----- | --------- |
+| 1   | [Who Are Ahlus Sunnah Wal Jama'ah?](who-are-ahlus-sunnah.md)  |       | ~10 min   |
+| 2   | [Theological Foundations](theological-foundations.md)         |       | ~10 min   |
+| 3   | [The Major Sects — Historical Context](major-sects.md)        |       | ~10 min   |
+| 4   | [Recognizing Ahlus Sunnah Today](recognizing-ahlus-sunnah.md) |       | ~8 min    |
 
 ---
 
-## 🔗 How This Part Connects
+## How This Part Connects
 
 {% hint style="info" %}
 **← Before this:** [Part 2 — Aqeedah](../part-02-aqeedah/README.md) — The six pillars of Islamic faith — the content that Ahlus Sunnah holds and transmits.
@@ -33,16 +33,16 @@ Understanding what Ahlus Sunnah means — its theology, its methodology, and its
 
 ---
 
-## 📖 Opening Hadith
+## Opening Hadith
 
 {% hint style="info" %}
 **Hadith — Sahih al-Bukhari**
 
-The Prophet ﷺ said: *"Hold fast to my Sunnah and the Sunnah of the rightly-guided caliphs after me. Bite onto it with your molar teeth."*
+The Prophet ﷺ said: _"Hold fast to my Sunnah and the Sunnah of the rightly-guided caliphs after me. Bite onto it with your molar teeth."_
 
-*This command — to hold firmly to the established way — is the very foundation of what it means to be from Ahlus Sunnah.*
+_This command — to hold firmly to the established way — is the very foundation of what it means to be from Ahlus Sunnah._
 {% endhint %}
 
 ---
 
-*Ready to begin? ↓*
+_Ready to begin? ↓_

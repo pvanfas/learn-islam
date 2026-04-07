@@ -1,32 +1,32 @@
 # Halal and Haram — Food, Drink & Dietary Law
 
-**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 8 — Islamic Law
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 8 — Islamic Law
 
 ---
 
-## 📌 In This Chapter
+## In This Chapter
 
 > Islamic dietary law is one of the most practical aspects of Fiqh that affects every Muslim's daily life. This chapter covers what is halal (permitted) and haram (forbidden), the slaughter requirements, the question of alcohol and intoxicants, doubtful matters, and how to navigate dietary law in non-Muslim environments.
 
 ---
 
-## 🔑 Key Arabic Terms
+## Key Arabic Terms
 
-| Arabic | Transliteration | Meaning |
-|--------|----------------|---------|
-| حَلَال | Halal | Permitted — lawful in Islamic law |
-| حَرَام | Haram | Forbidden — unlawful in Islamic law |
-| مَكْرُوه | Makruh | Disliked — not forbidden but better to avoid |
-| مَشْبُوه / مُشْتَبِه | Mashbuh / Mushtabih | Doubtful — uncertain status |
-| ذَبِيحَة | Dhabiha | Islamic ritual slaughter |
-| بِسْمِ اللَّه | Bismillah | "In the name of Allah" — said at the time of slaughter |
-| مَيْتَة | Maytah | A dead animal not slaughtered properly — forbidden |
-| خَمْر | Khamr | Wine / intoxicating drink — forbidden |
-| مُسْكِر | Muskir | Any intoxicant — the basis for prohibition |
+| Arabic               | Transliteration     | Meaning                                                |
+| -------------------- | ------------------- | ------------------------------------------------------ |
+| حَلَال               | Halal               | Permitted — lawful in Islamic law                      |
+| حَرَام               | Haram               | Forbidden — unlawful in Islamic law                    |
+| مَكْرُوه             | Makruh              | Disliked — not forbidden but better to avoid           |
+| مَشْبُوه / مُشْتَبِه | Mashbuh / Mushtabih | Doubtful — uncertain status                            |
+| ذَبِيحَة             | Dhabiha             | Islamic ritual slaughter                               |
+| بِسْمِ اللَّه        | Bismillah           | "In the name of Allah" — said at the time of slaughter |
+| مَيْتَة              | Maytah              | A dead animal not slaughtered properly — forbidden     |
+| خَمْر                | Khamr               | Wine / intoxicating drink — forbidden                  |
+| مُسْكِر              | Muskir              | Any intoxicant — the basis for prohibition             |
 
 ---
 
-## 📖 Quranic Foundation
+## Quranic Foundation
 
 {% hint style="info" %}
 **Surah Al-Ma'idah 5:3**
@@ -37,18 +37,19 @@
 {% hint style="info" %}
 **Surah Al-Baqarah 2:168**
 
-**Translation:** "O people! Eat from what is on earth — halal and good (*tayyib*) — and do not follow the footsteps of Shaytan. Indeed, he is to you a clear enemy."
+**Translation:** "O people! Eat from what is on earth — halal and good (_tayyib_) — and do not follow the footsteps of Shaytan. Indeed, he is to you a clear enemy."
 
-*The Quran does not just say "eat what is halal" — it says "halal and tayyib" (good, wholesome, pure). Islamic dietary law has both a legal and an ethical dimension.*
+_The Quran does not just say "eat what is halal" — it says "halal and tayyib" (good, wholesome, pure). Islamic dietary law has both a legal and an ethical dimension._
 {% endhint %}
 
 ---
 
-## ✅ What Is Permitted — Halal
+## What Is Permitted — Halal
 
 The **default ruling** for food is **permissibility**. Everything that Allah has not explicitly prohibited is permitted to eat. The list of prohibited items is relatively short — the permitted range is vast.
 
 **Generally halal:**
+
 - All vegetables, fruits, grains, and plant-based foods
 - Most seafood — fish and other sea creatures (with some scholarly disagreement on certain shellfish)
 - Honey, eggs, and dairy
@@ -60,24 +61,27 @@ The **default ruling** for food is **permissibility**. Everything that Allah has
 
 **Translation:** "...The food of those who were given the Scripture is permitted to you, and your food is permitted to them..."
 
-*This verse permits Muslims to eat food prepared by Jews and Christians — including their properly slaughtered meat, according to the majority of classical scholars.*
+_This verse permits Muslims to eat food prepared by Jews and Christians — including their properly slaughtered meat, according to the majority of classical scholars._
 {% endhint %}
 
 ---
 
-## ❌ What Is Forbidden — Haram
+## What Is Forbidden — Haram
 
 The Quran specifies several categories of forbidden food:
 
-### 1 — Dead Animals (*Maytah*)
+### 1 — Dead Animals (_Maytah_)
+
 An animal that died on its own — without proper Islamic slaughter — is forbidden. This includes animals that died of disease, drowning, or natural causes.
 
 **Exception:** Seafood and locusts — dead sea creatures and locusts are permitted even without slaughter.
 
-### 2 — Blood (*Dam Masfuh*)
+### 2 — Blood (_Dam Masfuh_)
+
 Flowing blood is forbidden. The blood that remains in meat after slaughter (small residual amount) is not the "flowing blood" referred to — it is permitted.
 
 ### 3 — Pork and Pork Products
+
 Swine flesh is prohibited categorically. This extends to lard, gelatin derived from pork, and any other pork products.
 
 {% hint style="info" %}
@@ -87,9 +91,10 @@ Swine flesh is prohibited categorically. This extends to lard, gelatin derived f
 {% endhint %}
 
 ### 4 — Animals Dedicated to Other Than Allah
+
 Any animal slaughtered in the name of an idol or false deity is forbidden — regardless of how it was killed.
 
-### 5 — Intoxicants (*Khamr / Muskir*)
+### 5 — Intoxicants (_Khamr / Muskir_)
 
 {% hint style="info" %}
 **Surah Al-Ma'idah 5:90**
@@ -97,33 +102,33 @@ Any animal slaughtered in the name of an idol or false deity is forbidden — re
 **Translation:** "O you who have believed, indeed, intoxicants, gambling, sacrificing on stone altars, and divining arrows are but defilement from the work of Satan — so avoid it that you may be successful."
 {% endhint %}
 
-The prohibition extends to **all intoxicating substances** — not just wine. The Prophet ﷺ said: *"Every intoxicant is Khamr, and every Khamr is forbidden."* (Sahih Muslim)
+The prohibition extends to **all intoxicating substances** — not just wine. The Prophet ﷺ said: _"Every intoxicant is Khamr, and every Khamr is forbidden."_ (Sahih Muslim)
 
 This includes beer, spirits, cannabis (for intoxication), and modern narcotics. The principle is intoxication — if a substance intoxicates, it is forbidden.
 
-**Note on small amounts:** The Prophet ﷺ also said: *"What intoxicates in large amounts, even a small amount of it is forbidden."* There is no "just a little wine" exception in Islamic law.
+**Note on small amounts:** The Prophet ﷺ also said: _"What intoxicates in large amounts, even a small amount of it is forbidden."_ There is no "just a little wine" exception in Islamic law.
 
 ---
 
-## 🔪 Islamic Slaughter — *Dhabiha*
+## Islamic Slaughter — _Dhabiha_
 
 For meat from land animals to be halal, it must be slaughtered according to Islamic requirements:
 
-| Requirement | Detail |
-|-------------|--------|
-| **The slaughterer must be Muslim** (or from Ahl al-Kitab) | The name of Allah must be consciously invoked |
-| **Say Bismillah at slaughter** | *"Bismillah, Allahu Akbar"* — if omitted intentionally, the meat is haram |
-| **Cut the throat** | Severing the trachea, esophagus, and both jugular veins in one swift cut |
-| **The animal must be alive** | It cannot be pre-stunned to death before slaughter |
-| **Minimize suffering** | Sharp knife, swift cut, animal not to see the knife before slaughter |
-| **Drain the blood** | The blood must flow out — hanging allows proper drainage |
+| Requirement                                               | Detail                                                                    |
+| --------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **The slaughterer must be Muslim** (or from Ahl al-Kitab) | The name of Allah must be consciously invoked                             |
+| **Say Bismillah at slaughter**                            | _"Bismillah, Allahu Akbar"_ — if omitted intentionally, the meat is haram |
+| **Cut the throat**                                        | Severing the trachea, esophagus, and both jugular veins in one swift cut  |
+| **The animal must be alive**                              | It cannot be pre-stunned to death before slaughter                        |
+| **Minimize suffering**                                    | Sharp knife, swift cut, animal not to see the knife before slaughter      |
+| **Drain the blood**                                       | The blood must flow out — hanging allows proper drainage                  |
 
 ### Pre-Stunned Meat and Halal Certification
 
 Modern industrial slaughter often uses pre-stunning — an electric shock, bolt, or gas to render the animal unconscious before killing. This is an area of significant scholarly debate:
 
 {% hint style="warning" %}
-**🎓 Scholarly positions on pre-stunned meat:**
+** Scholarly positions on pre-stunned meat:**
 
 **Position A (strict):** Pre-stunning that could kill the animal before slaughter invalidates the slaughter — the meat is not halal. This is the position of many traditional scholars and halal certification bodies in some countries.
 
@@ -134,32 +139,32 @@ Follow the guidance of your local qualified scholar or trusted halal certificati
 
 ---
 
-## ❓ Doubtful Matters — *Mashbuh*
+## Doubtful Matters — _Mashbuh_
 
 The Prophet ﷺ said:
 
 {% hint style="info" %}
 **Hadith — Sahih al-Bukhari and Muslim**
 
-*"The halal is clear and the haram is clear. Between them are doubtful matters — most people do not know about them. Whoever avoids the doubtful things protects their religion and their honor. Whoever falls into doubtful things falls into haram — like a shepherd who grazes near a protected area and is about to enter it."*
+_"The halal is clear and the haram is clear. Between them are doubtful matters — most people do not know about them. Whoever avoids the doubtful things protects their religion and their honor. Whoever falls into doubtful things falls into haram — like a shepherd who grazes near a protected area and is about to enter it."_
 {% endhint %}
 
 **Common doubtful matters in modern food:**
 
-| Ingredient | Status |
-|-----------|--------|
-| E-numbers / food additives | Some are derived from pork (e.g., E120 cochineal — from insects; E441 gelatin — may be pork-derived) — check source |
-| Gelatin | Haram if pork-derived; halal if from properly slaughtered cattle or fish |
-| Vanilla extract | Contains alcohol — some scholars permit in tiny flavoring amounts; others prohibit. Artificial vanilla (vanillin) is generally permitted |
-| Rennet in cheese | If from pork-derived sources — haram. Vegetable or microbial rennet — halal |
-| Alcohol in cooking | If it evaporates completely in cooking — debated; avoiding it is safer |
-| Meat in non-Muslim restaurants | If the restaurant does not certify halal, the meat's slaughter is unknown — many scholars advise caution |
+| Ingredient                     | Status                                                                                                                                   |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| E-numbers / food additives     | Some are derived from pork (e.g., E120 cochineal — from insects; E441 gelatin — may be pork-derived) — check source                      |
+| Gelatin                        | Haram if pork-derived; halal if from properly slaughtered cattle or fish                                                                 |
+| Vanilla extract                | Contains alcohol — some scholars permit in tiny flavoring amounts; others prohibit. Artificial vanilla (vanillin) is generally permitted |
+| Rennet in cheese               | If from pork-derived sources — haram. Vegetable or microbial rennet — halal                                                              |
+| Alcohol in cooking             | If it evaporates completely in cooking — debated; avoiding it is safer                                                                   |
+| Meat in non-Muslim restaurants | If the restaurant does not certify halal, the meat's slaughter is unknown — many scholars advise caution                                 |
 
-The general principle for doubtful matters: **when in doubt, leave it out** (*"Da' ma yureebuka ila ma la yureebuka"* — "Leave what doubts you for what does not doubt you." — Tirmidhi, Sahih).
+The general principle for doubtful matters: **when in doubt, leave it out** (_"Da' ma yureebuka ila ma la yureebuka"_ — "Leave what doubts you for what does not doubt you." — Tirmidhi, Sahih).
 
 ---
 
-## 🌍 Navigating Halal in Non-Muslim Environments
+## Navigating Halal in Non-Muslim Environments
 
 **Practical guidance:**
 
@@ -178,7 +183,7 @@ The general principle for doubtful matters: **when in doubt, leave it out** (*"D
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - The default ruling for food is permissibility — the list of prohibitions is specific and relatively short.
 - The four major categories of forbidden food are: dead animals, flowing blood, pork, and animals dedicated to other than Allah.
@@ -189,7 +194,7 @@ The general principle for doubtful matters: **when in doubt, leave it out** (*"D
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
@@ -209,6 +214,6 @@ The majority of classical scholars hold that kosher meat is halal — based on t
 
 ---
 
-## ➡️ Next Chapter
+## Next Chapter
 
 **Continue to:** [Family Law — Marriage, Divorce & Inheritance](family-law.md)
