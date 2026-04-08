@@ -1,16 +1,16 @@
 # Hajj — The Pilgrimage, Day by Day
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~16 min &nbsp;|&nbsp; **Part:** Part 4 — Five Pillars — Hajj & Umrah
+**Difficulty:** 🟡 Intermediate &nbsp;|&nbsp; **Read time:** ~16 min &nbsp;|&nbsp; **Part:** Part 4 — Five Pillars — Hajj & Umrah
 
 ---
 
-## What This Guide Covers
+## 📌 What This Guide Covers
 
 > Hajj is the fifth pillar of Islam — a once-in-a-lifetime obligation for every capable Muslim. This is the complete day-by-day guide to Hajj: from entering Ihram to the final farewell Tawaf, with the spiritual meaning behind every ritual and the essential duas at each station.
 
 ---
 
-## Islamic Basis
+## 📖 Islamic Basis
 
 {% hint style="info" %}
 **Surah Al-Imran 3:97**
@@ -21,42 +21,42 @@
 {% hint style="info" %}
 **Hadith — Sahih al-Bukhari and Muslim**
 
-The Prophet ﷺ said: _"Whoever performs Hajj and does not commit any obscenity or wrongdoing will return home as sinless as the day his mother gave birth to him."_
+The Prophet ﷺ said: *"Whoever performs Hajj and does not commit any obscenity or wrongdoing will return home as sinless as the day his mother gave birth to him."*
 {% endhint %}
 
 ---
 
-## Key Terms for Hajj
+## 🔑 Key Terms for Hajj
 
-| Arabic            | Transliteration | Meaning                                                          |
-| ----------------- | --------------- | ---------------------------------------------------------------- |
-| إِحْرَام          | Ihram           | Sacred state — garment and intention                             |
-| عَرَفَة           | Arafah          | The plain where the central standing (_Wuquf_) takes place       |
-| مُزْدَلِفَة       | Muzdalifah      | Where pilgrims spend the night between Arafah and Mina           |
-| مِنَى             | Mina            | The tent city where pilgrims stay most of Hajj                   |
-| جَمَرَات          | Jamarat         | The three stone pillars representing the Devil — stoned ritually |
-| طَوَاف الإِفَاضَة | Tawaf al-Ifadah | The main Tawaf of Hajj — obligatory                              |
-| قُرْبَانِي        | Qurbani         | The sacrifice of an animal on Eid al-Adha                        |
-| حَلْق             | Halq            | Shaving the head — exiting partial Ihram                         |
-| طَوَاف الْوَدَاع  | Tawaf al-Wada'  | The farewell Tawaf — before leaving Makkah                       |
-| حَجَّة الْوَدَاع  | Hajjat al-Wada' | The Farewell Pilgrimage — the Prophet's ﷺ only Hajj              |
-
----
-
-## Overview of Hajj Days
-
-| Day           | Date (Dhul Hijjah)     | Key Activities                                                  |
-| ------------- | ---------------------- | --------------------------------------------------------------- |
-| **Day 0**     | 7th                    | Arrival in Makkah, enter Ihram, Tawaf al-Qudum (arrival Tawaf)  |
-| **Day 1**     | 8th (Yawm al-Tarwiyah) | Move to Mina — night in Mina                                    |
-| **Day 2**     | 9th (Yawm Arafah)      | ARAFAH — the heart of Hajj                                      |
-| **Day 3**     | 10th (Yawm al-Nahr)    | Muzdalifah → Mina: stoning, sacrifice, shaving, Tawaf al-Ifadah |
-| **Days 4–5**  | 11th–12th (Tashriq)    | Remain in Mina, stone the Jamarat                               |
-| **Final day** | 13th (optional)        | Stoning for those staying, then Tawaf al-Wada'                  |
+| Arabic | Transliteration | Meaning |
+|--------|----------------|---------|
+| إِحْرَام | Ihram | Sacred state — garment and intention |
+| عَرَفَة | Arafah | The plain where the central standing (*Wuquf*) takes place |
+| مُزْدَلِفَة | Muzdalifah | Where pilgrims spend the night between Arafah and Mina |
+| مِنَى | Mina | The tent city where pilgrims stay most of Hajj |
+| جَمَرَات | Jamarat | The three stone pillars representing the Devil — stoned ritually |
+| طَوَاف الإِفَاضَة | Tawaf al-Ifadah | The main Tawaf of Hajj — obligatory |
+| قُرْبَانِي | Qurbani | The sacrifice of an animal on Eid al-Adha |
+| حَلْق | Halq | Shaving the head — exiting partial Ihram |
+| طَوَاف الْوَدَاع | Tawaf al-Wada' | The farewell Tawaf — before leaving Makkah |
+| حَجَّة الْوَدَاع | Hajjat al-Wada' | The Farewell Pilgrimage — the Prophet's ﷺ only Hajj |
 
 ---
 
-## Day by Day Guide
+## 📅 Overview of Hajj Days
+
+| Day | Date (Dhul Hijjah) | Key Activities |
+|-----|-------------------|---------------|
+| **Day 0** | 7th | Arrival in Makkah, enter Ihram, Tawaf al-Qudum (arrival Tawaf) |
+| **Day 1** | 8th (Yawm al-Tarwiyah) | Move to Mina — night in Mina |
+| **Day 2** | 9th (Yawm Arafah) | ARAFAH — the heart of Hajj |
+| **Day 3** | 10th (Yawm al-Nahr) | Muzdalifah → Mina: stoning, sacrifice, shaving, Tawaf al-Ifadah |
+| **Days 4–5** | 11th–12th (Tashriq) | Remain in Mina, stone the Jamarat |
+| **Final day** | 13th (optional) | Stoning for those staying, then Tawaf al-Wada' |
+
+---
+
+## 🪜 Day by Day Guide
 
 ---
 
@@ -70,9 +70,9 @@ Before reaching Makkah, enter Ihram at the **Miqat** (boundary point) for your d
 - Make the intention:
 
 {% hint style="info" %}
-_لَبَّيْكَ اللَّهُمَّ حَجًّا_
+*لَبَّيْكَ اللَّهُمَّ حَجًّا*
 
-**Transliteration:** _Labbayka Allahumma Hajjan_
+**Transliteration:** *Labbayka Allahumma Hajjan*
 
 **Translation:** "Here I am, O Allah, for Hajj."
 {% endhint %}
@@ -80,9 +80,9 @@ _لَبَّيْكَ اللَّهُمَّ حَجًّا_
 Begin reciting the **Talbiyah** continuously:
 
 {% hint style="info" %}
-_لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ_
+*لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ*
 
-**Transliteration:** _Labbayka Allahumma labbayk. Labbayka la sharika laka labbayk. Innal-hamda wan-ni'mata laka wal-mulk. La sharika lak._
+**Transliteration:** *Labbayka Allahumma labbayk. Labbayka la sharika laka labbayk. Innal-hamda wan-ni'mata laka wal-mulk. La sharika lak.*
 
 **Translation:** "Here I am, O Allah, here I am. Here I am — You have no partner — here I am. Surely all praise, all grace, and all sovereignty belong to You. You have no partner."
 {% endhint %}
@@ -99,7 +99,7 @@ Perform **Tawaf al-Qudum** (the Arrival Tawaf) — 7 circuits around the Ka'bah,
 
 ### Day 1 — 8th Dhul Hijjah — Move to Mina
 
-This is _Yawm al-Tarwiyah_ — the Day of Watering (historically when pilgrims would carry water for the journey).
+This is *Yawm al-Tarwiyah* — the Day of Watering (historically when pilgrims would carry water for the journey).
 
 Re-enter Ihram in the morning. Pray Dhuhr, Asr, Maghrib, Isha, and Fajr in Mina — shortening the 4-Rak'ah prayers to 2 (Qasr), but **not combining** them at this stage.
 
@@ -109,7 +109,7 @@ Mina is a tent city — rows of air-conditioned tents stretching across the vall
 
 ### Day 2 — 9th Dhul Hijjah — ARAFAH
 
-This is the heart of Hajj. The Prophet ﷺ said: _"Hajj is Arafah."_
+This is the heart of Hajj. The Prophet ﷺ said: *"Hajj is Arafah."*
 
 After sunrise, move from Mina to the **plain of Arafah** — a vast expanse where you will stand before Allah.
 
@@ -120,13 +120,13 @@ From Dhuhr until sunset, stand on the plain of Arafah — making dua, reciting t
 The Prophet ﷺ said the best dua is:
 
 {% hint style="info" %}
-_لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ_
+*لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ*
 
-**Transliteration:** _La ilaha illallahu wahdahu la sharika lahu, lahul-mulku wa lahul-hamd, wa huwa 'ala kulli shay'in qadir_
+**Transliteration:** *La ilaha illallahu wahdahu la sharika lahu, lahul-mulku wa lahul-hamd, wa huwa 'ala kulli shay'in qadir*
 
 **Translation:** "There is no god but Allah alone, with no partner. To Him belongs the dominion and all praise, and He is over all things capable."
 
-_(Tirmidhi — Hasan)_
+*(Tirmidhi — Hasan)*
 {% endhint %}
 
 **Dhuhr and Asr** are combined and shortened (Qasr) on the plain of Arafah.
@@ -151,7 +151,7 @@ This is the busiest and most significant day of Hajj. Four acts are performed �
 
 #### Act 1 — Stone the Large Jamarat (Jamarat al-Aqabah)
 
-Throw **7 pebbles** one by one at the large pillar — the one nearest Makkah. Say _Allahu Akbar_ with each throw.
+Throw **7 pebbles** one by one at the large pillar — the one nearest Makkah. Say *Allahu Akbar* with each throw.
 
 The Talbiyah is stopped after the first pebble hits — you have exited the active state of Ihram calling.
 
@@ -177,9 +177,9 @@ Return to Mina for the night.
 
 ### Days 4–5 — 11th and 12th Dhul Hijjah — The Days of Tashriq
 
-Remain in Mina. After midday (_Dhuhr_ enters), stone **all three Jamarat** in order:
+Remain in Mina. After midday (*Dhuhr* enters), stone **all three Jamarat** in order:
 
-1. Small Jamarat — 7 pebbles, _Allahu Akbar_ with each
+1. Small Jamarat — 7 pebbles, *Allahu Akbar* with each
 2. Middle Jamarat — 7 pebbles
 3. Large Jamarat (Jamarat al-Aqabah) — 7 pebbles
 
@@ -189,31 +189,31 @@ The stoning represents the symbolic rejection of Shaytan — renewing the covena
 
 ---
 
-### Final Day — Farewell Tawaf (_Tawaf al-Wada'_)
+### Final Day — Farewell Tawaf (*Tawaf al-Wada'*)
 
 Before leaving Makkah, perform the **Farewell Tawaf** — 7 circuits around the Ka'bah. This is obligatory for those departing Makkah.
 
-The Prophet ﷺ said: _"Let the last act of any of you in Makkah be the Tawaf of the House."_
+The Prophet ﷺ said: *"Let the last act of any of you in Makkah be the Tawaf of the House."*
 
 After the Farewell Tawaf, depart Makkah facing the Qiblah — walking backward for a few steps if you are able, so that the Ka'bah is the last thing you see.
 
 ---
 
-## Quick Reference — Obligatory Acts of Hajj
+## ✅ Quick Reference — Obligatory Acts of Hajj
 
-| Act                         | When                                      |
-| --------------------------- | ----------------------------------------- |
-| Ihram from the Miqat        | Before entering Makkah                    |
-| Wuquf at Arafah             | 9th Dhul Hijjah, after Dhuhr until sunset |
-| Tawaf al-Ifadah             | 10th Dhul Hijjah or after                 |
-| Sa'i between Safa and Marwa | After Tawaf al-Ifadah                     |
-| Stoning the large Jamarat   | 10th Dhul Hijjah                          |
-| Stoning all three Jamarat   | 11th–12th (and 13th if staying)           |
-| Farewell Tawaf              | Before leaving Makkah                     |
+| Act | When |
+|-----|------|
+| Ihram from the Miqat | Before entering Makkah |
+| Wuquf at Arafah | 9th Dhul Hijjah, after Dhuhr until sunset |
+| Tawaf al-Ifadah | 10th Dhul Hijjah or after |
+| Sa'i between Safa and Marwa | After Tawaf al-Ifadah |
+| Stoning the large Jamarat | 10th Dhul Hijjah |
+| Stoning all three Jamarat | 11th–12th (and 13th if staying) |
+| Farewell Tawaf | Before leaving Makkah |
 
 ---
 
-## The Spiritual Meaning of Hajj
+## 🌟 The Spiritual Meaning of Hajj
 
 Hajj is the rehearsal of the Day of Judgement — millions of people from every nation, wearing the same white garments, standing equal before Allah on the plain of Arafah. No rank, no wealth, no privilege. Only deeds.
 
@@ -223,16 +223,16 @@ It is the cleansing of a lifetime — the Prophet ﷺ promised that an accepted 
 
 ---
 
-## Key Takeaways
+## ✅ Key Takeaways
 
 - Hajj spans 5 days in Dhul Hijjah — centered on the standing at Arafah, which the Prophet ﷺ called "Hajj is Arafah."
 - The sequence: Ihram → Mina → Arafah → Muzdalifah → Jamarat + Sacrifice + Shaving + Tawaf al-Ifadah → Mina (Tashriq days) → Farewell Tawaf.
 - Arafah is the most important day — make dua with complete presence and sincerity.
 - The stoning of the Jamarat is the symbolic rejection of Shaytan — not a ritual of anger but of renewal.
-- An accepted Hajj (_Hajj Mabrur_) has no reward except Paradise.
+- An accepted Hajj (*Hajj Mabrur*) has no reward except Paradise.
 
 ---
 
-## Next Chapter
+## ➡️ Next Chapter
 
 **Continue to:** [The Spiritual Meaning of Hajj Rituals](hajj-spiritual.md)

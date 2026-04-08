@@ -2,21 +2,20 @@
 
 <!-- E.g. "How to Perform Wudu", "How to Perform Umrah", "How to Pray Salah" -->
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** [Part Name]
+**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** [Part Name]
 
 ---
 
-## What This Guide Covers
+## 📌 What This Guide Covers
 
 > A short paragraph explaining exactly what practical skill or act of worship this guide will teach, and what the reader should be able to do by the end.
 
 ---
 
-## Before You Begin — Prerequisites
+## ⚠️ Before You Begin — Prerequisites
 
 {% hint style="warning" %}
 **You should know before starting:**
-
 - Prerequisite 1 (e.g. "You must be in a state of Wudu before praying")
 - Prerequisite 2
 - Prerequisite 3
@@ -26,20 +25,20 @@
 
 ---
 
-## Key Terms
+## 🔑 Key Terms
 
-| Arabic | Transliteration | Meaning           |
-| ------ | --------------- | ----------------- |
-| [Term] | [Romanization]  | [English meaning] |
-| [Term] | [Romanization]  | [English meaning] |
+| Arabic | Transliteration | Meaning |
+|--------|----------------|---------|
+| [Term] | [Romanization] | [English meaning] |
+| [Term] | [Romanization] | [English meaning] |
 
 ---
 
-## The Islamic Basis
+## 📖 The Islamic Basis
 
 {% hint style="info" %}
 **Quranic Evidence:**
-_Arabic_
+*Arabic*
 "English translation" — Surah [Name] [Number]:[Verse]
 {% endhint %}
 
@@ -50,9 +49,9 @@ _Arabic_
 
 ---
 
-## Step-by-Step Guide
+## 🪜 Step-by-Step Guide
 
-> **Tip:** Read through all steps once before attempting. Then follow along step by step.
+> 💡 **Tip:** Read through all steps once before attempting. Then follow along step by step.
 
 ---
 
@@ -64,9 +63,9 @@ _Arabic_
 **What to say:**
 
 {% hint style="info" %}
-_Arabic text_
+*Arabic text*
 
-**Transliteration:** _Romanized text_
+**Transliteration:** *Romanized text*
 
 **Translation:** "English meaning"
 {% endhint %}
@@ -83,9 +82,9 @@ _Arabic text_
 **What to say:**
 
 {% hint style="info" %}
-_Arabic text_
+*Arabic text*
 
-**Transliteration:** _Romanized text_
+**Transliteration:** *Romanized text*
 
 **Translation:** "English meaning"
 {% endhint %}
@@ -96,7 +95,7 @@ _Arabic text_
 
 ### Step 3 — [Step Name]
 
-_(Repeat the above structure for each step)_
+*(Repeat the above structure for each step)*
 
 ---
 
@@ -110,7 +109,7 @@ _(Repeat the above structure for each step)_
 
 ---
 
-## Quick Reference Checklist
+## ✅ Quick Reference Checklist
 
 Use this once you've memorized the steps:
 
@@ -123,7 +122,7 @@ Use this once you've memorized the steps:
 
 ---
 
-## Common Mistakes to Avoid
+## ⚠️ Common Mistakes to Avoid
 
 {% hint style="danger" %}
 **Mistake 1:** [Describe the mistake] → **Correction:** [How to do it correctly]
@@ -139,11 +138,10 @@ Use this once you've memorized the steps:
 
 ---
 
-## Scholarly Notes — Differences of Opinion
+## 🎓 Scholarly Notes — Differences of Opinion
 
 {% hint style="warning" %}
 **Madhab differences on [topic]:**
-
 - **Hanafi:** [Position]
 - **Maliki:** [Position]
 - **Shafi'i:** [Position]
@@ -154,7 +152,7 @@ All four positions are valid. Follow the opinion of your madhab or a qualified s
 
 ---
 
-## Frequently Asked Questions
+## ❓ Frequently Asked Questions
 
 <details>
 
@@ -182,12 +180,12 @@ All four positions are valid. Follow the opinion of your madhab or a qualified s
 
 ---
 
-## Duas Related to This Act
+## 🤲 Duas Related to This Act
 
 {% hint style="info" %}
 **Dua 1 — [When to recite]**
 
-_Arabic_
+*Arabic*
 **Transliteration:** ...
 **Translation:** "..."
 (Source: [Reference])
@@ -195,7 +193,7 @@ _Arabic_
 
 ---
 
-## Key Takeaways
+## ✅ Key Takeaways
 
 - This act of worship is [obligatory/recommended/sunnah] based on [evidence].
 - It consists of [X] steps.
@@ -204,8 +202,8 @@ _Arabic_
 
 ---
 
-## What to Learn Next
+## ➡️ What to Learn Next
 
-**Continue to:** [Next Chapter](link.md) — _[one-line description]_
+**Continue to:** [Next Chapter](link.md) — *[one-line description]*
 
 **Practice companion:** [Related Dua or Adhkar page](link.md)

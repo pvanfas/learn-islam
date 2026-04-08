@@ -481,7 +481,7 @@ Fornication or adultery — prohibited in Islamic law.
 
 ---
 
-## How to Use This Glossary
+## 📖 How to Use This Glossary
 
 - Terms are introduced with **Arabic script** in each chapter — use this glossary for quick reference.
 - When a term appears in the text with an asterisk (*), you can look it up here.

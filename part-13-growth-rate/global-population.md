@@ -1,66 +1,65 @@
 # Islam's Growth Rate Today — The World's Fastest-Growing Religion
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 13 — Islam's Growth Rate
+**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 13 — Islam's Growth Rate
 
 ---
 
-## In This Chapter
+## 📌 In This Chapter
 
 > Islam is the world's fastest-growing religion — not primarily through conversion but through demographics, birth rates, and the age distribution of its population. This chapter presents the data honestly, explains the reasons behind Islam's growth, covers conversion trends by region, and looks at projections through 2050.
 
 ---
 
-## Key Terms
+## 🔑 Key Terms
 
-| Term                       | Meaning                                                                                |
-| -------------------------- | -------------------------------------------------------------------------------------- |
-| **Fertility rate**         | Average number of children born per woman                                              |
-| **Age distribution**       | The age profile of a population                                                        |
-| **Conversion / Reversion** | A person formally entering Islam                                                       |
-| **Net growth**             | Growth accounting for both gains (births + conversions) and losses (deaths + apostasy) |
-
----
-
-## Current Muslim Population — 2024 Data
-
-| Metric                             | Figure                                     |
-| ---------------------------------- | ------------------------------------------ |
-| **Total global Muslim population** | ~1.9–2.0 billion                           |
-| **% of world population**          | ~25% — 1 in 4 people on earth              |
-| **Fastest-growing major religion** | Islam (by total numbers)                   |
-| **Second-largest religion**        | Islam (after Christianity at ~2.4 billion) |
-| **Annual growth rate**             | ~1.8–2.1% per year                         |
+| Term | Meaning |
+|------|---------|
+| **Fertility rate** | Average number of children born per woman |
+| **Age distribution** | The age profile of a population |
+| **Conversion / Reversion** | A person formally entering Islam |
+| **Net growth** | Growth accounting for both gains (births + conversions) and losses (deaths + apostasy) |
 
 ---
 
-## Where Muslims Live — Top 10 Countries
+## 🌍 Current Muslim Population — 2024 Data
 
-| Country    | Muslim Population | % Muslim |
-| ---------- | ----------------- | -------- |
-| Indonesia  | ~231 million      | ~87%     |
-| Pakistan   | ~220 million      | ~96%     |
-| India      | ~200 million      | ~14%     |
-| Bangladesh | ~153 million      | ~91%     |
-| Nigeria    | ~99 million       | ~50%     |
-| Egypt      | ~85 million       | ~91%     |
-| Iran       | ~82 million       | ~99%     |
-| Turkey     | ~79 million       | ~98%     |
-| Algeria    | ~43 million       | ~97%     |
-| Sudan      | ~42 million       | ~97%     |
+| Metric | Figure |
+|--------|--------|
+| **Total global Muslim population** | ~1.9–2.0 billion |
+| **% of world population** | ~25% — 1 in 4 people on earth |
+| **Fastest-growing major religion** | Islam (by total numbers) |
+| **Second-largest religion** | Islam (after Christianity at ~2.4 billion) |
+| **Annual growth rate** | ~1.8–2.1% per year |
+
+---
+
+## 🌏 Where Muslims Live — Top 10 Countries
+
+| Country | Muslim Population | % Muslim |
+|---------|------------------|----------|
+| Indonesia | ~231 million | ~87% |
+| Pakistan | ~220 million | ~96% |
+| India | ~200 million | ~14% |
+| Bangladesh | ~153 million | ~91% |
+| Nigeria | ~99 million | ~50% |
+| Egypt | ~85 million | ~91% |
+| Iran | ~82 million | ~99% |
+| Turkey | ~79 million | ~98% |
+| Algeria | ~43 million | ~97% |
+| Sudan | ~42 million | ~97% |
 
 **Notable observations:**
-
 - The **Arab world** (all Arab countries combined) contains only about **20% of global Muslims**
 - **South and Southeast Asia** contain the largest concentrations of Muslims
 - **Sub-Saharan Africa** is the fastest-growing Muslim region
 
 ---
 
-## Why Islam Is Growing Fastest
+## 📈 Why Islam Is Growing Fastest
 
 ### Primary Driver: Demographics
 
-The Pew Research Center's landmark 2015 report _"The Future of World Religions"_ identified three main reasons Islam is projected to grow faster than any other religion through 2050:
+The Pew Research Center's landmark 2015 report *"The Future of World Religions"* identified three main reasons Islam is projected to grow faster than any other religion through 2050:
 
 **1. High fertility rates in Muslim-majority regions:**
 Muslim women have an average of 2.9 children, compared to the global average of 2.2 for all religious groups. In sub-Saharan Africa and parts of South Asia, Muslim fertility rates are even higher.
@@ -84,7 +83,7 @@ Conversion adds to Islam's growth, particularly in the West. While conversion st
 
 ---
 
-## Conversion Trends by Region
+## 🗺️ Conversion Trends by Region
 
 ### North America
 
@@ -110,31 +109,31 @@ The smallest but fastest-growing Muslim region proportionally. Small but growing
 
 ---
 
-## Projections Through 2050
+## 🔭 Projections Through 2050
 
 The Pew Research Center projects:
 
 | Year | Muslim Population | % of World |
-| ---- | ----------------- | ---------- |
-| 2015 | 1.8 billion       | 24%        |
-| 2030 | 2.2 billion       | 26%        |
-| 2050 | 2.76 billion      | 30%        |
+|------|------------------|-----------|
+| 2015 | 1.8 billion | 24% |
+| 2030 | 2.2 billion | 26% |
+| 2050 | 2.76 billion | 30% |
 
 **By 2050**, Islam and Christianity are projected to be roughly equal in size — with Islam potentially surpassing Christianity as the world's largest religion shortly after 2050 if current trends continue.
 
 ---
 
-## A Balanced View
+## ⚖️ A Balanced View
 
 {% hint style="warning" %}
-** Important nuance:** Raw population numbers are not a measure of religious truth or spiritual vitality. Islam teaches that quality of faith matters more than quantity of believers. The Prophet ﷺ warned of a time when Muslims would be numerically many but spiritually weak — _"like the foam on the water."_
+**🎓 Important nuance:** Raw population numbers are not a measure of religious truth or spiritual vitality. Islam teaches that quality of faith matters more than quantity of believers. The Prophet ﷺ warned of a time when Muslims would be numerically many but spiritually weak — *"like the foam on the water."*
 
 The growth of Muslim populations raises important questions about the quality of Islamic knowledge, practice, and character in those communities — questions that Islamic scholars are actively engaging with. Numbers alone are not a victory condition in Islamic theology.
 {% endhint %}
 
 ---
 
-## Key Takeaways
+## ✅ Key Takeaways
 
 - Islam is the world's fastest-growing religion — driven primarily by young demographics and higher fertility rates, with conversion as a secondary factor.
 - There are approximately 1.9–2.0 billion Muslims today — about 25% of humanity.
@@ -145,7 +144,7 @@ The growth of Muslim populations raises important questions about the quality of
 
 ---
 
-## Frequently Asked Questions
+## ❓ Frequently Asked Questions
 
 <details>
 
@@ -165,6 +164,6 @@ This counterintuitive pattern is documented in multiple studies. Researchers sug
 
 ---
 
-## Next Chapter
+## ➡️ Next Chapter
 
 **Continue to:** [Famous Reverts to Islam](../part-14-famous-reverts/README.md)

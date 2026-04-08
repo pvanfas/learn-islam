@@ -1,6 +1,6 @@
-# Part 1 — Before You Begin
+# 📘 Part 1 — Before You Begin
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Chapters:** 5 &nbsp;|&nbsp; **Estimated reading time:** ~35 min
+**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Chapters:** 5 &nbsp;|&nbsp; **Estimated reading time:** ~35 min
 
 ---
 
@@ -12,18 +12,18 @@ If you are a complete newcomer, this is where to begin. If you already know the 
 
 ---
 
-## Chapters in This Part
+## 📋 Chapters in This Part
 
-| #   | Chapter                                                             | Level | Read Time |
-| --- | ------------------------------------------------------------------- | ----- | --------- |
-| 1   | [What Is Islam? — A First Look](what-is-islam.md)                   |       | ~7 min    |
-| 2   | [Common Misconceptions About Islam](misconceptions.md)              |       | ~12 min   |
-| 3   | [Islam's Relationship with Other Faiths](islam-and-other-faiths.md) |       | ~8 min    |
-| 4   | [A Note on Sources](sources.md)                                     |       | ~6 min    |
+| # | Chapter | Level | Read Time |
+|---|---------|-------|-----------|
+| 1 | [What Is Islam? — A First Look](what-is-islam.md) | 🟢 | ~7 min |
+| 2 | [Common Misconceptions About Islam](misconceptions.md) | 🟢 | ~12 min |
+| 3 | [Islam's Relationship with Other Faiths](islam-and-other-faiths.md) | 🟢 | ~8 min |
+| 4 | [A Note on Sources](sources.md) | 🟢 | ~6 min |
 
 ---
 
-## How This Part Connects
+## 🔗 How This Part Connects
 
 {% hint style="info" %}
 **← Before this:** [Choose Your Learning Path](../start-here/learning-paths.md) — Pick the path that suits you.
@@ -33,18 +33,18 @@ If you are a complete newcomer, this is where to begin. If you already know the 
 
 ---
 
-## Opening Verse
+## 📖 Opening Verse
 
 {% hint style="info" %}
 **Surah Al-Alaq 96:1–5**
 
-_اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ_
+*اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ*
 
 **Translation:** "Read in the name of your Lord who created — created man from a clinging substance. Read, and your Lord is the Most Generous — who taught by the pen — taught man that which he knew not."
 
-_These were the very first words revealed to the Prophet Muhammad ﷺ. Islam began with a command to read, to learn, and to seek knowledge._
+*These were the very first words revealed to the Prophet Muhammad ﷺ. Islam began with a command to read, to learn, and to seek knowledge.*
 {% endhint %}
 
 ---
 
-_Ready to begin? Start with the first chapter below. ↓_
+*Ready to begin? Start with the first chapter below. ↓*

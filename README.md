@@ -1,6 +1,6 @@
-# 🌙 The Complete Islamic Knowledge Guide
+# The Complete Islamic Knowledge Guide
 
-> *"Read in the name of your Lord who created"* — Surah Al-Alaq 96:1
+> _"Read in the name of your Lord who created"_ — Surah Al-Alaq 96:1
 
 ---
 
@@ -40,26 +40,26 @@ You're already familiar with the basics and want to go deeper — into Hadith sc
 
 This guide is divided into **18 Parts** that flow from beginner to advanced:
 
-| Level | Parts | Focus |
-|-------|-------|-------|
-| 🟢 **Beginner** | Parts 1–4 | What Islam is, core beliefs, the five pillars |
-| 🟡 **Intermediate** | Parts 5–11 | Quran, Seerah, Hadith, Fiqh, dress, bid'ah, criticism |
-| 🔵 **Applied** | Parts 12–17 | How Islam spread, reverts, last days, living as Muslim |
-| 🔴 **Advanced** | Part 18 | Theology, philosophy, jurisprudence, Islamic thought |
+| Level               | Parts       | Focus                                                  |
+| ------------------- | ----------- | ------------------------------------------------------ |
+| 🟢 **Beginner**     | Parts 1–4   | What Islam is, core beliefs, the five pillars          |
+| 🟡 **Intermediate** | Parts 5–11  | Quran, Seerah, Hadith, Fiqh, dress, bid'ah, criticism  |
+| 🔵 **Applied**      | Parts 12–17 | How Islam spread, reverts, last days, living as Muslim |
+| 🔴 **Advanced**     | Part 18     | Theology, philosophy, jurisprudence, Islamic thought   |
 
 ---
 
 ## 📌 Quick Links
 
-| Topic | Link |
-|-------|------|
-| 🙏 How to Pray | [Salah — Step by Step](part-04-five-pillars/salah/how-to-pray.md) |
-| 🕋 How to Perform Umrah | [Umrah — Practical Guide](part-04-five-pillars/hajj-umrah/umrah-practical.md) |
-| ❓ Misconceptions | [Common Misconceptions](part-01-before-you-begin/misconceptions.md) |
-| 🔬 Science in the Quran | [Science & the Quran](part-05-quran/science-in-quran.md) |
-| ⏳ Signs of the Last Days | [Eschatology Overview](part-15-signs-last-days/introduction.md) |
-| 🌟 Famous Reverts | [Revert Stories](part-14-famous-reverts/README.md) |
-| 💬 Criticism & Responses | [Arguments & Answers](part-11-criticism/README.md) |
+| Topic                     | Link                                                                          |
+| ------------------------- | ----------------------------------------------------------------------------- |
+| 🙏 How to Pray            | [Salah — Step by Step](part-04-five-pillars/salah/how-to-pray.md)             |
+| 🕋 How to Perform Umrah   | [Umrah — Practical Guide](part-04-five-pillars/hajj-umrah/umrah-practical.md) |
+| ❓ Misconceptions         | [Common Misconceptions](part-01-before-you-begin/misconceptions.md)           |
+| 🔬 Science in the Quran   | [Science & the Quran](part-05-quran/science-in-quran.md)                      |
+| ⏳ Signs of the Last Days | [Eschatology Overview](part-15-signs-last-days/introduction.md)               |
+| 🌟 Famous Reverts         | [Revert Stories](part-14-famous-reverts/README.md)                            |
+| 💬 Criticism & Responses  | [Arguments & Answers](part-11-criticism/README.md)                            |
 
 ---
 
@@ -73,4 +73,4 @@ This guide is divided into **18 Parts** that flow from beginner to advanced:
 
 ---
 
-*May Allah make this guide a source of benefit and a means of guidance. Ameen.*
+_May Allah make this guide a source of benefit and a means of guidance. Ameen._

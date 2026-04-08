@@ -1,58 +1,57 @@
 # Preparation for Prayer — Wudu, Ghusl & Tayammum
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 4 — The Five Pillars — Salah
+**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 4 — The Five Pillars — Salah
 
 ---
 
-## What This Guide Covers
+## 📌 What This Guide Covers
 
 > Before a Muslim can pray, they must be in a state of ritual purity. This chapter covers the three forms of purification: Wudu (minor ritual purity), Ghusl (major ritual bath), and Tayammum (dry purification when water is unavailable). Each is explained step by step with the Arabic, transliteration, and the relevant duas.
 
 ---
 
-## Key Terms
+## 🔑 Key Terms
 
-| Arabic        | Transliteration | Meaning                                             |
-| ------------- | --------------- | --------------------------------------------------- |
-| طَهَارَة      | Taharah         | Ritual purity — the state required for prayer       |
-| وُضُوء        | Wudu            | Minor ablution — using water on specific body parts |
-| غُسْل         | Ghusl           | Major ritual bath — full body purification          |
-| تَيَمُّم      | Tayammum        | Dry purification using clean earth/dust             |
-| حَدَث         | Hadath          | State of ritual impurity                            |
-| حَدَث أَصْغَر | Hadath Asghar   | Minor impurity — broken by Wudu                     |
-| حَدَث أَكْبَر | Hadath Akbar    | Major impurity — requires Ghusl                     |
-| نَجَاسَة      | Najasah         | Physical impurity (on body, clothes, place)         |
+| Arabic | Transliteration | Meaning |
+|--------|----------------|---------|
+| طَهَارَة | Taharah | Ritual purity — the state required for prayer |
+| وُضُوء | Wudu | Minor ablution — using water on specific body parts |
+| غُسْل | Ghusl | Major ritual bath — full body purification |
+| تَيَمُّم | Tayammum | Dry purification using clean earth/dust |
+| حَدَث | Hadath | State of ritual impurity |
+| حَدَث أَصْغَر | Hadath Asghar | Minor impurity — broken by Wudu |
+| حَدَث أَكْبَر | Hadath Akbar | Major impurity — requires Ghusl |
+| نَجَاسَة | Najasah | Physical impurity (on body, clothes, place) |
 
 ---
 
-## Islamic Basis
+## 📖 Islamic Basis
 
 {% hint style="info" %}
 **Surah Al-Ma'idah 5:6**
 
 **Translation:** "O you who have believed, when you rise to perform prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of major ritual impurity, then purify yourselves..."
 
-_This is the primary Quranic verse establishing the obligation of Wudu before prayer._
+*This is the primary Quranic verse establishing the obligation of Wudu before prayer.*
 {% endhint %}
 
 ---
 
-## PART 1 — Wudu (Minor Ablution)
+## 💧 PART 1 — Wudu (Minor Ablution)
 
 Wudu is required before every prayer, Quran recitation (while holding the Mushaf), and Tawaf (circling the Kaaba).
 
 ### What Breaks Wudu?
 
 Wudu is broken by:
-
 - Anything exiting from the front or back private parts (urine, stool, gas, etc.)
 - Deep sleep (where consciousness is lost)
 - Loss of consciousness or sanity
-- Touching the private parts directly with the hand (_according to Shafi'i and Hanbali — disputed by Hanafi and Maliki_)
+- Touching the private parts directly with the hand (*according to Shafi'i and Hanbali — disputed by Hanafi and Maliki*)
 
 ### Step-by-Step Wudu
 
-> Say _Bismillah_ before beginning — this is Sunnah.
+> 💡 Say *Bismillah* before beginning — this is Sunnah.
 
 ---
 
@@ -121,20 +120,20 @@ After completing Wudu, recite:
 {% hint style="info" %}
 **أَشْهَدُ أَن لَّا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ**
 
-**Transliteration:** _Ashhadu alla ilaha illallahu wahdahu la sharika lah, wa ashhadu anna Muhammadan 'abduhu wa rasuluh._
+**Transliteration:** *Ashhadu alla ilaha illallahu wahdahu la sharika lah, wa ashhadu anna Muhammadan 'abduhu wa rasuluh.*
 
 **Translation:** "I bear witness that there is no god but Allah alone, with no partner, and I bear witness that Muhammad is His servant and messenger."
 
-_(Source: Sahih Muslim)_
+*(Source: Sahih Muslim)*
 
-Then add: _Allahumma ij'alni minat-tawwabina waj'alni minal-mutatahhirin_ — "O Allah, make me of those who repent and make me of those who purify themselves."
+Then add: *Allahumma ij'alni minat-tawwabina waj'alni minal-mutatahhirin* — "O Allah, make me of those who repent and make me of those who purify themselves."
 {% endhint %}
 
-The Prophet ﷺ said: _"Whoever performs Wudu and does it well, then says [this dua] — the eight gates of Paradise will be opened for him, and he may enter through whichever he wishes."_ (Sahih Muslim)
+The Prophet ﷺ said: *"Whoever performs Wudu and does it well, then says [this dua] — the eight gates of Paradise will be opened for him, and he may enter through whichever he wishes."* (Sahih Muslim)
 
 ---
 
-### Wudu Quick Checklist
+### ✅ Wudu Quick Checklist
 
 - [ ] Bismillah
 - [ ] Wash hands ×3
@@ -149,20 +148,18 @@ The Prophet ﷺ said: _"Whoever performs Wudu and does it well, then says [this 
 
 ---
 
-## PART 2 — Ghusl (Major Ritual Bath)
+## 🚿 PART 2 — Ghusl (Major Ritual Bath)
 
 Ghusl is a full-body purification required after specific events:
 
 **Ghusl is obligatory after:**
-
 - Sexual intercourse (for both spouses)
 - Ejaculation (whether during sleep or while awake)
-- The end of menstruation (_Hayd_)
-- The end of post-natal bleeding (_Nifas_)
+- The end of menstruation (*Hayd*)
+- The end of post-natal bleeding (*Nifas*)
 - Conversion to Islam (according to the majority of scholars)
 
-**Ghusl is recommended (_Sunnah_) for:**
-
+**Ghusl is recommended (*Sunnah*) for:**
 - Jumu'ah (Friday prayer) — highly emphasized
 - Entering Ihram for Hajj or Umrah
 - Eid prayers
@@ -171,13 +168,12 @@ Ghusl is a full-body purification required after specific events:
 ### The Minimum Obligatory Ghusl
 
 The minimum that makes Ghusl valid:
-
 1. Make the intention for Ghusl
 2. Ensure water reaches every part of the body — every hair and every skin surface
 
 ### The Complete Sunnah Ghusl
 
-The Prophet ﷺ performed Ghusl in this way (_Sahih al-Bukhari_):
+The Prophet ﷺ performed Ghusl in this way (*Sahih al-Bukhari*):
 
 1. **Intention** — in the heart
 2. **Wash the hands** three times
@@ -190,12 +186,12 @@ The Prophet ﷺ performed Ghusl in this way (_Sahih al-Bukhari_):
 Then the body is fully purified.
 
 {% hint style="tip" %}
-** Key Point:** For those with thick hair (especially women), it is not necessary to undo the hair for Ghusl after sexual intercourse or ejaculation — only for Ghusl from menstruation or post-natal bleeding. This ruling is from Sahih Muslim.
+**💡 Key Point:** For those with thick hair (especially women), it is not necessary to undo the hair for Ghusl after sexual intercourse or ejaculation — only for Ghusl from menstruation or post-natal bleeding. This ruling is from Sahih Muslim.
 {% endhint %}
 
 ---
 
-## PART 3 — Tayammum (Dry Purification)
+## 🌱 PART 3 — Tayammum (Dry Purification)
 
 When water is **unavailable** or **harmful to use** (due to illness, extreme cold, or danger), a Muslim may perform Tayammum using clean earth, dust, or any natural ground surface.
 
@@ -218,7 +214,7 @@ Tayammum replaces Wudu for one prayer. It is invalidated by all the things that 
 
 ---
 
-## Key Takeaways
+## ✅ Key Takeaways
 
 - Taharah (ritual purity) is a prerequisite for prayer — prayer without it is invalid.
 - Wudu covers 10 steps, washing specific parts of the body in a specific order.
@@ -228,7 +224,7 @@ Tayammum replaces Wudu for one prayer. It is invalidated by all the things that 
 
 ---
 
-## Frequently Asked Questions
+## ❓ Frequently Asked Questions
 
 <details>
 
@@ -256,6 +252,6 @@ Yes. Any substance that creates a barrier preventing water from reaching the ski
 
 ---
 
-## Next Chapter
+## ➡️ Next Chapter
 
 **Continue to:** [Prayer Times — Fajr to Isha](prayer-times.md)

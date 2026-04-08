@@ -1,35 +1,35 @@
 # Belief in Divine Decree (Qadar)
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 2 — Aqeedah
+**Difficulty:** 🟡 Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 2 — Aqeedah
 
 ---
 
-## In This Chapter
+## 📌 In This Chapter
 
 > Qadar — divine decree — is the sixth and final pillar of Islamic faith, and arguably the most philosophically rich. It addresses the relationship between God's complete foreknowledge and human free will. This chapter explains the four levels of Qadar, what it means in practice, and how it transforms a Muslim's relationship with hardship, success, and the future.
 
 ---
 
-## Key Arabic Terms
+## 🔑 Key Arabic Terms
 
-| Arabic            | Transliteration | Meaning                                               |
-| ----------------- | --------------- | ----------------------------------------------------- |
-| قَدَر             | Qadar           | Divine decree — what Allah has destined               |
-| قَضَاء            | Qada'           | Divine judgement — what comes to pass                 |
-| لَوْح الْمَحْفُوظ | Lawh al-Mahfuz  | The Preserved Tablet — where all decrees are recorded |
-| إِرَادَة          | Iradah          | Will — divine and human                               |
-| تَوَكُّل          | Tawakkul        | Reliance upon Allah after taking means                |
-| رِضَا             | Rida            | Contentment with Allah's decree                       |
-| صَبْر             | Sabr            | Patience in the face of hardship                      |
+| Arabic | Transliteration | Meaning |
+|--------|----------------|---------|
+| قَدَر | Qadar | Divine decree — what Allah has destined |
+| قَضَاء | Qada' | Divine judgement — what comes to pass |
+| لَوْح الْمَحْفُوظ | Lawh al-Mahfuz | The Preserved Tablet — where all decrees are recorded |
+| إِرَادَة | Iradah | Will — divine and human |
+| تَوَكُّل | Tawakkul | Reliance upon Allah after taking means |
+| رِضَا | Rida | Contentment with Allah's decree |
+| صَبْر | Sabr | Patience in the face of hardship |
 
 ---
 
-## Quranic Foundation
+## 📖 Quranic Foundation
 
 {% hint style="info" %}
 **Surah Al-Qamar 54:49**
 
-_إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ_
+*إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ*
 
 **Translation:** "Indeed, all things We created with Qadar — with precise measure and decree."
 {% endhint %}
@@ -37,12 +37,12 @@ _إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ_
 {% hint style="info" %}
 **Hadith of Jibreel — Sahih Muslim**
 
-When asked about faith, the Prophet ﷺ included: _"...and to believe in divine decree — both its good and its evil."_
+When asked about faith, the Prophet ﷺ included: *"...and to believe in divine decree — both its good and its evil."*
 {% endhint %}
 
 ---
 
-## What Is Qadar?
+## 🧭 What Is Qadar?
 
 Qadar is the Islamic belief that Allah has **complete and perfect knowledge** of everything that has happened, is happening, and will happen — and that everything in creation operates within His will and decree. Nothing occurs outside of His knowledge. Nothing is created except by Him.
 
@@ -50,13 +50,13 @@ This does not mean that humans are robots or that free will is an illusion. Isla
 
 ---
 
-## The Four Levels of Qadar
+## 📐 The Four Levels of Qadar
 
 Islamic scholars have outlined four dimensions of belief in Qadar:
 
 ---
 
-### Level 1 — Knowledge (_Ilm_)
+### Level 1 — Knowledge (*Ilm*)
 
 Allah's knowledge is eternal, complete, and encompasses absolutely everything. He knew every soul that would ever exist, every choice they would make, every moment of their lives — before creation itself began.
 
@@ -70,19 +70,19 @@ This knowledge is not acquired or updated — it is eternal. Allah did not learn
 
 ---
 
-### Level 2 — Writing (_Kitabah_)
+### Level 2 — Writing (*Kitabah*)
 
 Everything that Allah has decreed was written in the **Lawh al-Mahfuz** — the Preserved Tablet — fifty thousand years before the creation of the heavens and earth.
 
 {% hint style="info" %}
 **Hadith — Sahih Muslim**
 
-The Prophet ﷺ said: _"Allah recorded the decrees of all creation fifty thousand years before He created the heavens and the earth — and His Throne was upon water."_
+The Prophet ﷺ said: *"Allah recorded the decrees of all creation fifty thousand years before He created the heavens and the earth — and His Throne was upon water."*
 {% endhint %}
 
 ---
 
-### Level 3 — Will (_Mashi'ah / Iradah_)
+### Level 3 — Will (*Mashi'ah / Iradah*)
 
 Whatever Allah wills occurs. Whatever He does not will cannot occur. Everything that comes into existence does so because Allah willed it into being.
 
@@ -92,11 +92,11 @@ Whatever Allah wills occurs. Whatever He does not will cannot occur. Everything 
 **Translation:** "And you do not will except that Allah wills — indeed, Allah is ever Knowing and Wise."
 {% endhint %}
 
-This level sometimes confuses people: _"If Allah wills everything, including my sins, why am I accountable?"_ The answer lies in understanding the distinction between Allah willing something to occur (His universal creative will) and Allah approving or commanding something (His legislative will). Allah permitted — by His will — for humans to have free choice. The existence of a sinful choice does not mean Allah is pleased with that choice.
+This level sometimes confuses people: *"If Allah wills everything, including my sins, why am I accountable?"* The answer lies in understanding the distinction between Allah willing something to occur (His universal creative will) and Allah approving or commanding something (His legislative will). Allah permitted — by His will — for humans to have free choice. The existence of a sinful choice does not mean Allah is pleased with that choice.
 
 ---
 
-### Level 4 — Creation (_Khalq_)
+### Level 4 — Creation (*Khalq*)
 
 Allah is the Creator of all things — including human actions. Whatever exists in the universe — including human choices, capacities, and actions — was brought into being by Allah.
 
@@ -108,9 +108,9 @@ Allah is the Creator of all things — including human actions. Whatever exists 
 
 ---
 
-## Free Will and Qadar — The Balance
+## ⚖️ Free Will and Qadar — The Balance
 
-This is the great theological question: _If Allah decreed everything and created all human actions, how can humans be held accountable?_
+This is the great theological question: *If Allah decreed everything and created all human actions, how can humans be held accountable?*
 
 Islamic theology answers this through several key principles:
 
@@ -130,7 +130,7 @@ Islamic theology answers this through several key principles:
 
 ---
 
-## Qadar in Practice — How It Changes Your Life
+## 💪 Qadar in Practice — How It Changes Your Life
 
 Understanding Qadar is not a theological exercise. It is one of the most psychologically liberating beliefs a human being can hold.
 
@@ -141,7 +141,7 @@ If Allah has already decreed your provision, your lifespan, and your destiny —
 {% hint style="info" %}
 **Hadith — Sunan Ibn Majah (Sahih)**
 
-The Prophet ﷺ said: _"Know that if the whole world were to gather together to benefit you, they could only benefit you with what Allah has already written for you. And if they were to gather together to harm you, they could only harm you with what Allah has already written against you."_
+The Prophet ﷺ said: *"Know that if the whole world were to gather together to benefit you, they could only benefit you with what Allah has already written for you. And if they were to gather together to harm you, they could only harm you with what Allah has already written against you."*
 {% endhint %}
 
 ### 2 — It Transforms Hardship
@@ -151,58 +151,58 @@ When difficulty comes — illness, loss, failure — Qadar teaches that this was
 {% hint style="info" %}
 **Hadith — Sahih Muslim**
 
-The Prophet ﷺ said: _"Wondrous is the affair of the believer, for all of his affairs are good — and that is for no one except the believer. If something good happens to him, he is grateful, and that is good for him. And if something harmful happens to him, he is patient, and that is good for him."_
+The Prophet ﷺ said: *"Wondrous is the affair of the believer, for all of his affairs are good — and that is for no one except the believer. If something good happens to him, he is grateful, and that is good for him. And if something harmful happens to him, he is patient, and that is good for him."*
 {% endhint %}
 
 ### 3 — It Prevents Arrogance in Success
 
-When something good comes — wealth, health, honor — Qadar reminds the Muslim that this was a gift from Allah, not earned purely by one's own cleverness or effort. This cultivates gratitude (_Shukr_) and humility instead of pride.
+When something good comes — wealth, health, honor — Qadar reminds the Muslim that this was a gift from Allah, not earned purely by one's own cleverness or effort. This cultivates gratitude (*Shukr*) and humility instead of pride.
 
 ### 4 — It Prevents Paralysis in Action
 
-Qadar is sometimes misunderstood as: _"Whatever will be, will be — so why try?"_ This is the opposite of the Islamic understanding. When the Companions asked the Prophet ﷺ: _"Shall we not rely on our decree and abandon action?"_ He replied:
+Qadar is sometimes misunderstood as: *"Whatever will be, will be — so why try?"* This is the opposite of the Islamic understanding. When the Companions asked the Prophet ﷺ: *"Shall we not rely on our decree and abandon action?"* He replied:
 
 {% hint style="info" %}
 **Hadith — Sahih al-Bukhari**
 
-_"Act — for everyone will be facilitated toward what they were created for."_
+*"Act — for everyone will be facilitated toward what they were created for."*
 
-He then said: _"Tie your camel, then put your trust in Allah."_
+He then said: *"Tie your camel, then put your trust in Allah."*
 {% endhint %}
 
-Tawakkul (reliance on Allah) comes _after_ taking the available means — not instead of them.
+Tawakkul (reliance on Allah) comes *after* taking the available means — not instead of them.
 
 ---
 
-## When Calamity Strikes — The Response of Qadar
+## 😔 When Calamity Strikes — The Response of Qadar
 
 When a Muslim is struck by calamity, the Sunnah teaches them to say:
 
 {% hint style="info" %}
 **إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُون**
 
-**Transliteration:** _Inna lillahi wa inna ilayhi raji'un_
+**Transliteration:** *Inna lillahi wa inna ilayhi raji'un*
 
 **Translation:** "Indeed, we belong to Allah, and indeed to Him we will return."
-_(Surah Al-Baqarah 2:156)_
+*(Surah Al-Baqarah 2:156)*
 {% endhint %}
 
-This declaration — _Istirja'_ — is itself an act of faith. It acknowledges that everything belongs to Allah, everything returns to Allah, and therefore no loss is truly without meaning.
+This declaration — *Istirja'* — is itself an act of faith. It acknowledges that everything belongs to Allah, everything returns to Allah, and therefore no loss is truly without meaning.
 
 ---
 
-## Key Takeaways
+## ✅ Key Takeaways
 
 - Qadar is the sixth pillar of Islamic faith — belief in divine decree in both its good and its apparent evil.
 - It has four levels: Allah's Knowledge, the Writing in the Preserved Tablet, His Will, and His Creation of all things.
 - Qadar does not eliminate human free will — it coexists with it in a way that our limited minds cannot fully resolve but that revelation confirms.
 - Belief in Qadar transforms hardship — removing anxiety, building patience, and cultivating gratitude.
-- The Islamic response to Qadar is: take your means, then rely on Allah fully (_Tawakkul_).
-- _"Tie your camel, then put your trust in Allah"_ — action and reliance are not opposites.
+- The Islamic response to Qadar is: take your means, then rely on Allah fully (*Tawakkul*).
+- *"Tie your camel, then put your trust in Allah"* — action and reliance are not opposites.
 
 ---
 
-## Frequently Asked Questions
+## ❓ Frequently Asked Questions
 
 <details>
 
@@ -216,14 +216,14 @@ This question misunderstands the relationship between knowledge and causation. A
 
 <summary>Why do bad things happen to good people if Allah controls everything?</summary>
 
-Islamic theology does not promise a comfortable worldly life for the righteous. It promises that suffering is never meaningless for the believer. Trials purify, elevate in rank, expiate sins, and build the character needed for the eternal life. The world is a temporary exam hall — not the final destination. The Prophet ﷺ said: _"The greatest reward comes with the greatest trial."_ (Tirmidhi)
+Islamic theology does not promise a comfortable worldly life for the righteous. It promises that suffering is never meaningless for the believer. Trials purify, elevate in rank, expiate sins, and build the character needed for the eternal life. The world is a temporary exam hall — not the final destination. The Prophet ﷺ said: *"The greatest reward comes with the greatest trial."* (Tirmidhi)
 
 </details>
 
 ---
 
-## Next Chapter
+## ➡️ Next Chapter
 
 **Continue to:** [Part 3 — Ahlus Sunnah Wal Jama'ah](../part-03-ahlus-sunnah/README.md)
 
-_Part 2 is complete. You now have all six pillars of Islamic faith. Next: the tradition that preserved and transmitted these beliefs._
+*Part 2 is complete. You now have all six pillars of Islamic faith. Next: the tradition that preserved and transmitted these beliefs.*

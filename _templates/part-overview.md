@@ -1,6 +1,6 @@
-# Part [Number] — [Part Title]
+# 📗 Part [Number] — [Part Title]
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Chapters:** [X] &nbsp;|&nbsp; **Estimated reading time:** ~[X] hours
+**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Chapters:** [X] &nbsp;|&nbsp; **Estimated reading time:** ~[X] hours
 
 ---
 
@@ -10,19 +10,19 @@
 
 ---
 
-## Chapters in This Part
+## 📋 Chapters in This Part
 
-| #   | Chapter                  | Level | Read Time |
-| --- | ------------------------ | ----- | --------- |
-| 1   | [Chapter Title](link.md) |       | ~5 min    |
-| 2   | [Chapter Title](link.md) |       | ~8 min    |
-| 3   | [Chapter Title](link.md) |       | ~10 min   |
-| 4   | [Chapter Title](link.md) |       | ~12 min   |
-| 5   | [Chapter Title](link.md) |       | ~15 min   |
+| # | Chapter | Level | Read Time |
+|---|---------|-------|-----------|
+| 1 | [Chapter Title](link.md) | 🟢 | ~5 min |
+| 2 | [Chapter Title](link.md) | 🟢 | ~8 min |
+| 3 | [Chapter Title](link.md) | 🟡 | ~10 min |
+| 4 | [Chapter Title](link.md) | 🟡 | ~12 min |
+| 5 | [Chapter Title](link.md) | 🔴 | ~15 min |
 
 ---
 
-## How This Part Connects
+## 🔗 How This Part Connects
 
 {% hint style="info" %}
 **← Before this:** [Previous Part Name](../previous-part/README.md) — Brief note on what was covered.
@@ -32,19 +32,19 @@
 
 ---
 
-## Opening Verse
+## 📖 Opening Verse
 
 {% hint style="info" %}
 **Surah [Name] [Number]:[Verse]**
 
-_Arabic text_
+*Arabic text*
 
 **Translation:** "English translation relevant to this part's theme."
 {% endhint %}
 
 ---
 
-## Where to Start
+## 🧭 Where to Start
 
 - **Complete beginner?** → Start with [Chapter 1](link.md)
 - **Have some knowledge?** → Jump to [Chapter 3](link.md)
@@ -52,4 +52,4 @@ _Arabic text_
 
 ---
 
-_Ready to begin? Start with the first chapter below. ↓_
+*Ready to begin? Start with the first chapter below. ↓*
