@@ -118,7 +118,7 @@ When the world is comfortable, the human heart naturally turns away from Allah t
 ## What Sabr Is NOT
 
 {% hint style="warning" %}
-**Important:** Sabr is frequently misunderstood as passive resignation — "just accept everything and do nothing." This is not the Islamic understanding.
+**Important: **Sabr is frequently misunderstood as passive resignation — "just accept everything and do nothing." This is not the Islamic understanding.
 
 - Sabr does not mean not seeking medical treatment for illness
 - Sabr does not mean staying in an abusive situation

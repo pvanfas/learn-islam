@@ -111,7 +111,7 @@ Those who cite this argue that there are "good" innovations (_Bid'ah Hasanah_) a
 3. **The general Hadith is categorical.** _"Every innovation is misguidance"_ is a universal statement. Scholars who accept the concept of Bid'ah Hasanah must find a way to reconcile their position with this categorical statement — which most do by redefining Bid'ah in ways the Prophet ﷺ did not intend.
 
 {% hint style="warning" %}
-** Fair note:** Some serious classical scholars — including Imam al-Shafi'i, Imam al-Nawawi, and Imam al-Suyuti — did use the concept of Bid'ah Hasanah for certain matters. Other major scholars — including Ibn Taymiyyah, Ibn al-Qayyim, and Imam ash-Shatibi — rejected this categorization as opening the door to corruption of the religion. Both sides include major scholars. The student of knowledge should understand both positions and follow their madhab's ruling with scholarly guidance.
+** Fair note: **Some serious classical scholars — including Imam al-Shafi'i, Imam al-Nawawi, and Imam al-Suyuti — did use the concept of Bid'ah Hasanah for certain matters. Other major scholars — including Ibn Taymiyyah, Ibn al-Qayyim, and Imam ash-Shatibi — rejected this categorization as opening the door to corruption of the religion. Both sides include major scholars. The student of knowledge should understand both positions and follow their madhab's ruling with scholarly guidance.
 {% endhint %}
 
 ---

@@ -64,7 +64,7 @@ _Brief note on the hadith's relevance._
 Write the first section of content here. Keep paragraphs short — 3 to 5 lines maximum. This is educational content, so use simple language before introducing technical terms.
 
 {% hint style="tip" %}
-** Key Point:** Summarize the key insight of this section in one line.
+** Key Point: **Summarize the key insight of this section in one line.
 {% endhint %}
 
 ---

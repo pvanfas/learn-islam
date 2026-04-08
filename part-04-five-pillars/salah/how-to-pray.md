@@ -82,7 +82,7 @@ This guide will teach you one complete Rak'ah, then show how they connect.
 
 ### Step 1 — The Intention (_Niyyah_)
 
-**What to do:** Stand upright facing the Qiblah (the direction of Makkah). Make the intention in your heart for which prayer you are about to perform.
+**What to do: **Stand upright facing the Qiblah (the direction of Makkah). Make the intention in your heart for which prayer you are about to perform.
 
 **Important:** The Niyyah does not need to be spoken aloud. It is an act of the heart, not the tongue. Simply intend: _"I am praying the Fajr prayer (or whichever prayer), for the sake of Allah."_
 
@@ -189,7 +189,7 @@ _Say: He is Allah, the One. Allah, the Eternal Absolute. He neither begets nor w
 
 ### Step 5 — The Bowing Position (_Ruku'_)
 
-**What to do:** Say _Allahu Akbar_, then bend forward at the waist until your back is flat and parallel to the ground. Place your hands firmly on your knees, fingers spread. Keep your head level — neither raised nor lowered.
+**What to do: **Say _Allahu Akbar_, then bend forward at the waist until your back is flat and parallel to the ground. Place your hands firmly on your knees, fingers spread. Keep your head level — neither raised nor lowered.
 
 **What to say (repeat 3 times):**
 
@@ -229,7 +229,7 @@ Once fully upright, say:
 
 ### Step 7 — The Prostration (_Sujud_)
 
-**What to do:** Say _Allahu Akbar_, then go down to the ground in prostration. **Seven body parts** must be in contact with the ground:
+**What to do: **Say _Allahu Akbar_, then go down to the ground in prostration. **Seven body parts** must be in contact with the ground:
 
 1. Forehead and nose
 2. Both palms (flat on the ground)
@@ -249,7 +249,7 @@ Your arms should not rest on the ground — keep your elbows raised. Your head s
 {% endhint %}
 
 {% hint style="tip" %}
-** Spiritual Insight:** Sujud is the closest a human being comes to Allah in prayer. The Prophet ﷺ said: _"The closest that a servant is to his Lord is when he is in prostration — so make much supplication in it."_ (Sahih Muslim). After the obligatory dhikr, make personal dua in your own language.
+** Spiritual Insight: **Sujud is the closest a human being comes to Allah in prayer. The Prophet ﷺ said: _"The closest that a servant is to his Lord is when he is in prostration — so make much supplication in it."_ (Sahih Muslim). After the obligatory dhikr, make personal dua in your own language.
 {% endhint %}
 
 ---
@@ -280,7 +280,7 @@ After the second Sujud, rise while saying _Allahu Akbar_ back to a standing posi
 
 After the second Sujud of the **second Rak'ah**, sit down. In a 2-Rak'ah prayer (like Fajr), this is the final sitting. In a 3 or 4-Rak'ah prayer, you will rise again for more Rak'ahs.
 
-**Sitting position:** Sit on your left foot with it folded under you, right foot upright with toes pointing toward the Qiblah. Rest your left hand flat on your left knee. Form a circle with the thumb and middle finger of your right hand and extend your index finger — pointing it toward the Qiblah.
+**Sitting position: **Sit on your left foot with it folded under you, right foot upright with toes pointing toward the Qiblah. Rest your left hand flat on your left knee. Form a circle with the thumb and middle finger of your right hand and extend your index finger — pointing it toward the Qiblah.
 
 **Recite the Tashahhud:**
 
@@ -377,7 +377,7 @@ Then turn your head to the **left** and repeat the same.
 - **Hanafi:** The index finger is raised once at the Tashahhud (at _la ilaha_) then lowered.
 - **Maliki:** The index finger is moved side to side throughout the Tashahhud.
 - **Shafi'i:** The finger is raised at _illa Allah_ and kept raised until Taslim.
-- **Hanbali:** Similar to Shafi'i — finger raised and kept up.
+- **Hanbali: **Similar to Shafi'i — finger raised and kept up.
 
 All four positions are valid. Follow the opinion of your madhab.
 {% endhint %}

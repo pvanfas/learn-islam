@@ -2,7 +2,7 @@
 
 ## Start Here
 
-- [Welcome to the Islam](README.md)
+- [Welcome to the Islamic](README.md)
 - [How to Use This Guide](start-here/how-to-use.md)
 - [Choose Your Learning Path](start-here/learning-paths.md)
 
@@ -73,7 +73,7 @@
 - [Laylatul Qadr — The Night of Power](part-04-five-pillars/sawm/laylatul-qadr.md)
 - [Eid al-Fitr](part-04-five-pillars/sawm/eid-al-fitr.md)
 
-### Pillar 5 — Hajj & Umrah
+### Pillar 5 — Hajj
 
 - [Introduction — The Sacred Journey](part-04-five-pillars/hajj-umrah/introduction.md)
 - [Hajj — Rituals Day by Day](part-04-five-pillars/hajj-umrah/hajj-rituals.md)
@@ -277,7 +277,7 @@
 
 ---
 
-## Appendices
+## 📎 Appendices
 
 - [Glossary of Arabic Islamic Terms](appendices/glossary.md)
 - [Recommended Reading List](appendices/reading-list.md)

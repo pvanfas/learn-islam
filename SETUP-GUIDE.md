@@ -1,4 +1,4 @@
-# GitBook Setup Guide — Islamic Knowledge Guide
+# 🛠️ GitBook Setup Guide — Islamic Knowledge Guide
 
 A step-by-step guide to get this project live on GitBook.
 
@@ -55,7 +55,7 @@ In GitBook Space Settings, configure:
 |---------|------------------|
 | **Title** | The Complete Islamic Knowledge Guide |
 | **Description** | A comprehensive guide from first principles to advanced scholarship |
-| **Emoji/Icon** | |
+| **Emoji/Icon** | 🌙 |
 | **Primary color** | `#1a6b3a` (Islamic green) |
 | **Link color** | `#c8a951` (gold) |
 | **Font** | Default or "Source Serif" for readability |
@@ -246,7 +246,7 @@ Before publishing any chapter, verify:
 - [ ] Hadith cited with collector and grade (Sahih/Hasan/Da'if)
 - [ ] Arabic text rendered correctly (right-to-left)
 - [ ] Transliteration is consistent with chosen romanization system
-- [ ] Difficulty level badge is set (🟢/🟡/)
+- [ ] Difficulty level badge is set (🟢/🟡/🔴)
 - [ ] Key terms table is filled in
 - [ ] FAQ section has at least 2 questions
 - [ ] Key takeaways section has 3–5 bullet points

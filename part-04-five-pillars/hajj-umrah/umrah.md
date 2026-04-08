@@ -95,7 +95,7 @@ For those **flying over the Miqat**, you must enter Ihram before your plane cros
    - **Men:** Two unstitched white cloths — one wrapped around the lower body (_Izar_), one draped over the upper body (_Rida'_). No underwear, no shoes that cover the ankle. Wear sandals.
    - **Women:** Regular modest Islamic dress — any color. The face and hands must remain uncovered during Tawaf (but may be covered otherwise). No face veil (_Niqab_) while in Ihram.
 3. **Pray two Rak'ahs** of Sunnah prayer (if not a disliked time).
-4. **Make the intention (Niyyah):** Say:
+4. **Make the intention (Niyyah): **Say:
 
 {% hint style="info" %}
 **لَبَّيْكَ اللَّهُمَّ عُمْرَةً**
@@ -213,7 +213,7 @@ During Sa'i, make dua, recite dhikr, or recite Quran — there is no fixed recit
 
 After completing Sa'i, the Ihram is exited by:
 
-- **Men:** Shaving the entire head (_Halq_) — this is superior. Or cutting at least a finger-length from all parts of the head (_Taqsir_).
+- **Men: **Shaving the entire head (_Halq_) — this is superior. Or cutting at least a finger-length from all parts of the head (_Taqsir_).
 - **Women:** Cutting approximately one fingertip's length from the end of the hair — from all or some of it. Women do **not** shave.
 
 {% hint style="info" %}

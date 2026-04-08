@@ -136,7 +136,7 @@ Most contemporary scholars — including Sheikh Yusuf al-Qaradawi, Hamza Yusuf, 
 
 **Position A (permissible and encouraged):** Voting to select the lesser harm, protect Muslim rights, and promote justice is permitted and sometimes obligatory — as a form of _Maslahah_ (public interest). This is the majority contemporary scholarly position.
 
-**Position B (not permissible):** Some scholars hold that participating in non-Islamic governance systems is impermissible. This is a minority position.
+**Position B (not permissible): **Some scholars hold that participating in non-Islamic governance systems is impermissible. This is a minority position.
 
 Most mainstream scholars encourage civic participation as part of the Muslim's responsibility to society.
 {% endhint %}

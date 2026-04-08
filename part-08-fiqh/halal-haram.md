@@ -74,7 +74,7 @@ The Quran specifies several categories of forbidden food:
 
 An animal that died on its own — without proper Islamic slaughter — is forbidden. This includes animals that died of disease, drowning, or natural causes.
 
-**Exception:** Seafood and locusts — dead sea creatures and locusts are permitted even without slaughter.
+**Exception: **Seafood and locusts — dead sea creatures and locusts are permitted even without slaughter.
 
 ### 2 — Blood (_Dam Masfuh_)
 

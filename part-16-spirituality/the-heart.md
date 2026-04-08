@@ -50,7 +50,7 @@ Imam al-Ghazali's _Ihya Ulum al-Din_ and Ibn al-Qayyim's _Madarij al-Salikin_ ar
 
 ### Disease 1 — Pride (_Kibr / Ujub_)
 
-**Definition:** Seeing oneself as superior to others; refusing to accept truth when it contradicts one's self-image.
+**Definition: **Seeing oneself as superior to others; refusing to accept truth when it contradicts one's self-image.
 
 {% hint style="info" %}
 **Hadith — Sahih Muslim**
