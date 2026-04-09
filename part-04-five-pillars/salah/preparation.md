@@ -1,99 +1,100 @@
-# Preparation for Prayer — Wudu, Ghusl & Tayammum
+# Preparation for Prayer Wudu, Ghusl & Tayammum
 
-**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 4 — The Five Pillars — Salah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 4 The Five Pillars Salah
 
 ---
 
-## 📌 What This Guide Covers
+## What This Guide Covers
 
 > Before a Muslim can pray, they must be in a state of ritual purity. This chapter covers the three forms of purification: Wudu (minor ritual purity), Ghusl (major ritual bath), and Tayammum (dry purification when water is unavailable). Each is explained step by step with the Arabic, transliteration, and the relevant duas.
 
 ---
 
-## 🔑 Key Terms
+## Key Terms
 
-| Arabic | Transliteration | Meaning |
-|--------|----------------|---------|
-| طَهَارَة | Taharah | Ritual purity — the state required for prayer |
-| وُضُوء | Wudu | Minor ablution — using water on specific body parts |
-| غُسْل | Ghusl | Major ritual bath — full body purification |
-| تَيَمُّم | Tayammum | Dry purification using clean earth/dust |
-| حَدَث | Hadath | State of ritual impurity |
-| حَدَث أَصْغَر | Hadath Asghar | Minor impurity — broken by Wudu |
-| حَدَث أَكْبَر | Hadath Akbar | Major impurity — requires Ghusl |
-| نَجَاسَة | Najasah | Physical impurity (on body, clothes, place) |
+| Arabic        | Transliteration | Meaning                                           |
+| ------------- | --------------- | ------------------------------------------------- |
+| طَهَارَة      | Taharah         | Ritual purity the state required for prayer       |
+| وُضُوء        | Wudu            | Minor ablution using water on specific body parts |
+| غُسْل         | Ghusl           | Major ritual bath full body purification          |
+| تَيَمُّم      | Tayammum        | Dry purification using clean earth/dust           |
+| حَدَث         | Hadath          | State of ritual impurity                          |
+| حَدَث أَصْغَر | Hadath Asghar   | Minor impurity broken by Wudu                     |
+| حَدَث أَكْبَر | Hadath Akbar    | Major impurity requires Ghusl                     |
+| نَجَاسَة      | Najasah         | Physical impurity (on body, clothes, place)       |
 
 ---
 
-## 📖 Islamic Basis
+## Islamic Basis
 
 {% hint style="info" %}
 **Surah Al-Ma'idah 5:6**
 
 **Translation:** "O you who have believed, when you rise to perform prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of major ritual impurity, then purify yourselves..."
 
-*This is the primary Quranic verse establishing the obligation of Wudu before prayer.*
+_This is the primary Quranic verse establishing the obligation of Wudu before prayer._
 {% endhint %}
 
 ---
 
-## 💧 PART 1 — Wudu (Minor Ablution)
+## PART 1 Wudu (Minor Ablution)
 
 Wudu is required before every prayer, Quran recitation (while holding the Mushaf), and Tawaf (circling the Kaaba).
 
 ### What Breaks Wudu?
 
 Wudu is broken by:
+
 - Anything exiting from the front or back private parts (urine, stool, gas, etc.)
 - Deep sleep (where consciousness is lost)
 - Loss of consciousness or sanity
-- Touching the private parts directly with the hand (*according to Shafi'i and Hanbali — disputed by Hanafi and Maliki*)
+- Touching the private parts directly with the hand (_according to Shafi'i and Hanbali disputed by Hanafi and Maliki_)
 
 ### Step-by-Step Wudu
 
-> 💡 Say *Bismillah* before beginning — this is Sunnah.
+> Say _Bismillah_ before beginning this is Sunnah.
 
 ---
 
-**Step 1 — Intention (Niyyah)**
+**Step 1 Intention (Niyyah)**
 
 Make the intention in your heart to perform Wudu for the sake of Allah. No verbal formula is required.
 
 ---
 
-**Step 2 — Wash the Hands**
+**Step 2 Wash the Hands**
 
 Wash both hands up to the wrists three times, ensuring water reaches between the fingers.
 
 ---
 
-**Step 3 — Rinse the Mouth (Madhmadhah)**
+**Step 3 Rinse the Mouth (Madhmadhah)**
 
 Take water into the mouth, swirl it around, and spit it out. Repeat three times.
 
 ---
 
-**Step 4 — Rinse the Nose (Istinshaq)**
+**Step 4 Rinse the Nose (Istinshaq)**
 
 Sniff water into the nostrils and blow it out. Repeat three times. Use the left hand to blow the nose.
 
 ---
 
-**Step 5 — Wash the Face**
+**Step 5 Wash the Face**
 
-Wash the entire face — from hairline to chin, and from earlobe to earlobe — three times. Ensure water reaches the roots of the beard.
+Wash the entire face from hairline to chin, and from earlobe to earlobe three times. Ensure water reaches the roots of the beard.
 
 ---
 
-**Step 6 — Wash the Arms**
+**Step 6 Wash the Arms**
 
 Wash the right arm from fingertips to and including the elbow, three times. Then wash the left arm the same way.
 
 ---
 
-**Step 7 — Wipe the Head (Mash)**
+**Step 7 Wipe the Head (Mash)**
 
-Wet both hands and wipe over the entire head once — from the front hairline to the back of the head, then back to the front.
+Wet both hands and wipe over the entire head once from the front hairline to the back of the head, then back to the front.
 
 {% hint style="warning" %}
 **Madhab difference:** The Hanafi school requires wiping a quarter of the head. The Maliki and Hanbali schools require wiping the entire head. The Shafi'i school requires wiping at least part of the head. Wiping the entire head is the most cautious and widely accepted practice.
@@ -101,39 +102,39 @@ Wet both hands and wipe over the entire head once — from the front hairline to
 
 ---
 
-**Step 8 — Wipe the Ears**
+**Step 8 Wipe the Ears**
 
-Using the wetness remaining on the hands from Step 7 — insert index fingers into the ears and wipe the outer ear with the thumbs. Do this once.
+Using the wetness remaining on the hands from Step 7 insert index fingers into the ears and wipe the outer ear with the thumbs. Do this once.
 
 ---
 
-**Step 9 — Wash the Feet**
+**Step 9 Wash the Feet**
 
 Wash the right foot up to and including the ankle, three times, ensuring water reaches between the toes. Then wash the left foot.
 
 ---
 
-**Step 10 — The Dua After Wudu**
+**Step 10 The Dua After Wudu**
 
 After completing Wudu, recite:
 
 {% hint style="info" %}
 **أَشْهَدُ أَن لَّا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ**
 
-**Transliteration:** *Ashhadu alla ilaha illallahu wahdahu la sharika lah, wa ashhadu anna Muhammadan 'abduhu wa rasuluh.*
+**Transliteration:** _Ashhadu alla ilaha illallahu wahdahu la sharika lah, wa ashhadu anna Muhammadan 'abduhu wa rasuluh._
 
 **Translation:** "I bear witness that there is no god but Allah alone, with no partner, and I bear witness that Muhammad is His servant and messenger."
 
-*(Source: Sahih Muslim)*
+_(Source: Sahih Muslim)_
 
-Then add: *Allahumma ij'alni minat-tawwabina waj'alni minal-mutatahhirin* — "O Allah, make me of those who repent and make me of those who purify themselves."
+Then add: _Allahumma ij'alni minat-tawwabina waj'alni minal-mutatahhirin_ "O Allah, make me of those who repent and make me of those who purify themselves."
 {% endhint %}
 
-The Prophet ﷺ said: *"Whoever performs Wudu and does it well, then says [this dua] — the eight gates of Paradise will be opened for him, and he may enter through whichever he wishes."* (Sahih Muslim)
+The Prophet said: _"Whoever performs Wudu and does it well, then says [this dua] the eight gates of Paradise will be opened for him, and he may enter through whichever he wishes."_ (Sahih Muslim)
 
 ---
 
-### ✅ Wudu Quick Checklist
+### Wudu Quick Checklist
 
 - [ ] Bismillah
 - [ ] Wash hands ×3
@@ -148,19 +149,21 @@ The Prophet ﷺ said: *"Whoever performs Wudu and does it well, then says [this 
 
 ---
 
-## 🚿 PART 2 — Ghusl (Major Ritual Bath)
+## PART 2 Ghusl (Major Ritual Bath)
 
 Ghusl is a full-body purification required after specific events:
 
 **Ghusl is obligatory after:**
+
 - Sexual intercourse (for both spouses)
 - Ejaculation (whether during sleep or while awake)
-- The end of menstruation (*Hayd*)
-- The end of post-natal bleeding (*Nifas*)
+- The end of menstruation (_Hayd_)
+- The end of post-natal bleeding (_Nifas_)
 - Conversion to Islam (according to the majority of scholars)
 
-**Ghusl is recommended (*Sunnah*) for:**
-- Jumu'ah (Friday prayer) — highly emphasized
+**Ghusl is recommended (_Sunnah_) for:**
+
+- Jumu'ah (Friday prayer) highly emphasized
 - Entering Ihram for Hajj or Umrah
 - Eid prayers
 - After washing a deceased person
@@ -168,14 +171,15 @@ Ghusl is a full-body purification required after specific events:
 ### The Minimum Obligatory Ghusl
 
 The minimum that makes Ghusl valid:
+
 1. Make the intention for Ghusl
-2. Ensure water reaches every part of the body — every hair and every skin surface
+2. Ensure water reaches every part of the body every hair and every skin surface
 
 ### The Complete Sunnah Ghusl
 
-The Prophet ﷺ performed Ghusl in this way (*Sahih al-Bukhari*):
+The Prophet performed Ghusl in this way (_Sahih al-Bukhari_):
 
-1. **Intention** — in the heart
+1. **Intention** in the heart
 2. **Wash the hands** three times
 3. **Remove impurity** from the private parts with the left hand
 4. **Perform complete Wudu** as described above
@@ -186,12 +190,12 @@ The Prophet ﷺ performed Ghusl in this way (*Sahih al-Bukhari*):
 Then the body is fully purified.
 
 {% hint style="tip" %}
-**💡 Key Point:** For those with thick hair (especially women), it is not necessary to undo the hair for Ghusl after sexual intercourse or ejaculation — only for Ghusl from menstruation or post-natal bleeding. This ruling is from Sahih Muslim.
+** Key Point:** For those with thick hair (especially women), it is not necessary to undo the hair for Ghusl after sexual intercourse or ejaculation only for Ghusl from menstruation or post-natal bleeding. This ruling is from Sahih Muslim.
 {% endhint %}
 
 ---
 
-## 🌱 PART 3 — Tayammum (Dry Purification)
+## PART 3 Tayammum (Dry Purification)
 
 When water is **unavailable** or **harmful to use** (due to illness, extreme cold, or danger), a Muslim may perform Tayammum using clean earth, dust, or any natural ground surface.
 
@@ -203,7 +207,7 @@ When water is **unavailable** or **harmful to use** (due to illness, extreme col
 
 ### Step-by-Step Tayammum
 
-1. **Intention** — to perform Tayammum as a substitute for Wudu or Ghusl
+1. **Intention** to perform Tayammum as a substitute for Wudu or Ghusl
 2. **Strike both palms** on clean earth, dust, sand, or a stone surface once
 3. **Blow off excess dust** gently
 4. **Wipe the face** completely with both palms
@@ -214,17 +218,17 @@ Tayammum replaces Wudu for one prayer. It is invalidated by all the things that 
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
-- Taharah (ritual purity) is a prerequisite for prayer — prayer without it is invalid.
+- Taharah (ritual purity) is a prerequisite for prayer prayer without it is invalid.
 - Wudu covers 10 steps, washing specific parts of the body in a specific order.
 - Ghusl (full bath) is required after sexual intercourse, ejaculation, and the end of menstruation.
-- Tayammum is a divine concession — clean earth replaces water when water is unavailable or harmful.
-- The dua after Wudu opens the eight gates of Paradise — don't skip it.
+- Tayammum is a divine concession clean earth replaces water when water is unavailable or harmful.
+- The dua after Wudu opens the eight gates of Paradise don't skip it.
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
@@ -238,20 +242,20 @@ This is one of the classic areas of scholarly difference. The **Shafi'i school**
 
 <summary>Can I perform multiple prayers with one Wudu?</summary>
 
-Yes. Wudu remains valid until something breaks it — not until you complete a prayer. If you made Wudu for Fajr and nothing broke it, you can use the same Wudu for Dhuhr, Asr, and beyond.
+Yes. Wudu remains valid until something breaks it not until you complete a prayer. If you made Wudu for Fajr and nothing broke it, you can use the same Wudu for Dhuhr, Asr, and beyond.
 
 </details>
 
 <details>
 
-<summary>What about nail polish or waterproof makeup — does it affect Wudu?</summary>
+<summary>What about nail polish or waterproof makeup does it affect Wudu?</summary>
 
-Yes. Any substance that creates a barrier preventing water from reaching the skin — like nail polish or waterproof foundation on areas that must be washed — invalidates Wudu for those areas. The water must reach the skin directly. Breathable nail polishes are a contemporary scholarly debate — the majority of traditional scholars still require removal for Wudu to be valid.
+Yes. Any substance that creates a barrier preventing water from reaching the skin like nail polish or waterproof foundation on areas that must be washed invalidates Wudu for those areas. The water must reach the skin directly. Breathable nail polishes are a contemporary scholarly debate the majority of traditional scholars still require removal for Wudu to be valid.
 
 </details>
 
 ---
 
-## ➡️ Next Chapter
+## Next Chapter
 
-**Continue to:** [Prayer Times — Fajr to Isha](prayer-times.md)
+**Continue to:** [Prayer Times Fajr to Isha](prayer-times.md)

@@ -2,20 +2,21 @@
 
 <!-- E.g. "How to Perform Wudu", "How to Perform Umrah", "How to Pray Salah" -->
 
-**Difficulty:** 🟢 Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** [Part Name]
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** [Part Name]
 
 ---
 
-## 📌 What This Guide Covers
+## What This Guide Covers
 
 > A short paragraph explaining exactly what practical skill or act of worship this guide will teach, and what the reader should be able to do by the end.
 
 ---
 
-## ⚠️ Before You Begin — Prerequisites
+## Before You Begin Prerequisites
 
 {% hint style="warning" %}
 **You should know before starting:**
+
 - Prerequisite 1 (e.g. "You must be in a state of Wudu before praying")
 - Prerequisite 2
 - Prerequisite 3
@@ -25,37 +26,37 @@
 
 ---
 
-## 🔑 Key Terms
+## Key Terms
 
-| Arabic | Transliteration | Meaning |
-|--------|----------------|---------|
-| [Term] | [Romanization] | [English meaning] |
-| [Term] | [Romanization] | [English meaning] |
+| Arabic | Transliteration | Meaning           |
+| ------ | --------------- | ----------------- |
+| [Term] | [Romanization]  | [English meaning] |
+| [Term] | [Romanization]  | [English meaning] |
 
 ---
 
-## 📖 The Islamic Basis
+## The Islamic Basis
 
 {% hint style="info" %}
 **Quranic Evidence:**
-*Arabic*
-"English translation" — Surah [Name] [Number]:[Verse]
+_Arabic_
+"English translation" Surah [Name] [Number]:[Verse]
 {% endhint %}
 
 {% hint style="info" %}
 **From the Sunnah:**
-"The Prophet ﷺ said/did..." — [Collector, Grade]
+"The Prophet said/did..." [Collector, Grade]
 {% endhint %}
 
 ---
 
-## 🪜 Step-by-Step Guide
+## Step-by-Step Guide
 
-> 💡 **Tip:** Read through all steps once before attempting. Then follow along step by step.
+> **Tip:** Read through all steps once before attempting. Then follow along step by step.
 
 ---
 
-### Step 1 — [Step Name]
+### Step 1 [Step Name]
 
 **What to do:**
 [Clear description of the physical action]
@@ -63,9 +64,9 @@
 **What to say:**
 
 {% hint style="info" %}
-*Arabic text*
+_Arabic text_
 
-**Transliteration:** *Romanized text*
+**Transliteration:** _Romanized text_
 
 **Translation:** "English meaning"
 {% endhint %}
@@ -74,7 +75,7 @@
 
 ---
 
-### Step 2 — [Step Name]
+### Step 2 [Step Name]
 
 **What to do:**
 [Clear description of the physical action]
@@ -82,9 +83,9 @@
 **What to say:**
 
 {% hint style="info" %}
-*Arabic text*
+_Arabic text_
 
-**Transliteration:** *Romanized text*
+**Transliteration:** _Romanized text_
 
 **Translation:** "English meaning"
 {% endhint %}
@@ -93,13 +94,13 @@
 
 ---
 
-### Step 3 — [Step Name]
+### Step 3 [Step Name]
 
-*(Repeat the above structure for each step)*
+_(Repeat the above structure for each step)_
 
 ---
 
-### Step [N] — Completion
+### Step [N] Completion
 
 **What marks the end:**
 [How to know when the act of worship is complete]
@@ -109,20 +110,20 @@
 
 ---
 
-## ✅ Quick Reference Checklist
+## Quick Reference Checklist
 
 Use this once you've memorized the steps:
 
-- [ ] Step 1 — [Name]
-- [ ] Step 2 — [Name]
-- [ ] Step 3 — [Name]
-- [ ] Step 4 — [Name]
-- [ ] Step 5 — [Name]
-- [ ] Step 6 — [Name]
+- [ ] Step 1 [Name]
+- [ ] Step 2 [Name]
+- [ ] Step 3 [Name]
+- [ ] Step 4 [Name]
+- [ ] Step 5 [Name]
+- [ ] Step 6 [Name]
 
 ---
 
-## ⚠️ Common Mistakes to Avoid
+## Common Mistakes to Avoid
 
 {% hint style="danger" %}
 **Mistake 1:** [Describe the mistake] → **Correction:** [How to do it correctly]
@@ -138,10 +139,11 @@ Use this once you've memorized the steps:
 
 ---
 
-## 🎓 Scholarly Notes — Differences of Opinion
+## Scholarly Notes Differences of Opinion
 
 {% hint style="warning" %}
 **Madhab differences on [topic]:**
+
 - **Hanafi:** [Position]
 - **Maliki:** [Position]
 - **Shafi'i:** [Position]
@@ -152,7 +154,7 @@ All four positions are valid. Follow the opinion of your madhab or a qualified s
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
@@ -166,7 +168,7 @@ All four positions are valid. Follow the opinion of your madhab or a qualified s
 
 <summary>What if I'm unable to perform [specific step] due to illness or disability?</summary>
 
-[Answer — Islam provides concessions, explain them]
+[Answer Islam provides concessions, explain them]
 
 </details>
 
@@ -180,12 +182,12 @@ All four positions are valid. Follow the opinion of your madhab or a qualified s
 
 ---
 
-## 🤲 Duas Related to This Act
+## Duas Related to This Act
 
 {% hint style="info" %}
-**Dua 1 — [When to recite]**
+**Dua 1 [When to recite]**
 
-*Arabic*
+_Arabic_
 **Transliteration:** ...
 **Translation:** "..."
 (Source: [Reference])
@@ -193,7 +195,7 @@ All four positions are valid. Follow the opinion of your madhab or a qualified s
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - This act of worship is [obligatory/recommended/sunnah] based on [evidence].
 - It consists of [X] steps.
@@ -202,8 +204,8 @@ All four positions are valid. Follow the opinion of your madhab or a qualified s
 
 ---
 
-## ➡️ What to Learn Next
+## What to Learn Next
 
-**Continue to:** [Next Chapter](link.md) — *[one-line description]*
+**Continue to:** [Next Chapter](link.md) _[one-line description]_
 
 **Practice companion:** [Related Dua or Adhkar page](link.md)

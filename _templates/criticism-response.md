@@ -2,28 +2,28 @@
 
 <!-- E.g. "Was Islam Spread by the Sword?" or "How Can God Allow Suffering?" -->
 
-**Difficulty:** 🟡 Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 11 — Criticism & Responses
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 11 Criticism & Responses
 
 ---
 
 ## The Claim
 
 {% hint style="danger" %}
-**❝ The Criticism:**
-State the criticism, argument, or claim as clearly and fairly as possible — in the words that a critic would actually use. Do not misrepresent it.
+** The Criticism:**
+State the criticism, argument, or claim as clearly and fairly as possible in the words that a critic would actually use. Do not misrepresent it.
 {% endhint %}
 
-*Where does this claim come from? When did it become popular? Who makes it?*
+_Where does this claim come from? When did it become popular? Who makes it?_
 
 ---
 
 ## Why This Matters
 
-A brief paragraph explaining why this is an important question to address — for both Muslims who face this question and non-Muslims who hold this view sincerely.
+A brief paragraph explaining why this is an important question to address for both Muslims who face this question and non-Muslims who hold this view sincerely.
 
 ---
 
-## 🔍 Examining the Claim
+## Examining the Claim
 
 ### What the Claim Gets Right
 
@@ -31,66 +31,66 @@ A brief paragraph explaining why this is an important question to address — fo
 Acknowledge any grain of truth in the criticism. Intellectual honesty builds trust with the reader. Islam's tradition of scholarship does not fear honest examination.
 {% endhint %}
 
-*Explain here what part of the criticism has a valid basis or understandable origin.*
+_Explain here what part of the criticism has a valid basis or understandable origin._
 
 ---
 
 ### Where the Claim Goes Wrong
 
-#### Point 1 — [Factual / Historical / Logical issue]
+#### Point 1 [Factual / Historical / Logical issue]
 
-Explain the first flaw in the argument — whether factual, logical, contextual, or definitional. Use evidence.
+Explain the first flaw in the argument whether factual, logical, contextual, or definitional. Use evidence.
 
-> *"Relevant Quranic verse or hadith if applicable."*
-> — Surah [Name] [Number]:[Verse] or Hadith source
+> _"Relevant Quranic verse or hadith if applicable."_
+> Surah [Name] [Number]:[Verse] or Hadith source
 
-#### Point 2 — [Context that changes the picture]
+#### Point 2 [Context that changes the picture]
 
 Explain the context, background, or nuance that critics often ignore or misrepresent.
 
-#### Point 3 — [The Islamic position / response]
+#### Point 3 [The Islamic position / response]
 
 State clearly what Islam actually teaches on this matter, with evidence.
 
 ---
 
-## 📜 Evidence — Quran & Sunnah
+## Evidence Quran & Sunnah
 
 {% hint style="info" %}
 **Quranic Evidence:**
 
-*Arabic*
+_Arabic_
 
 **Translation:** "English translation"
-— Surah [Name] [Number]:[Verse]
+Surah [Name] [Number]:[Verse]
 {% endhint %}
 
 {% hint style="info" %}
 **From the Sunnah:**
 
 "Hadith text"
-— [Collector], [Grade]
+[Collector], [Grade]
 {% endhint %}
 
 ---
 
-## 🎓 What Scholars Say
+## What Scholars Say
 
-*Cite 2–3 classical or contemporary scholars on this issue. Include both their position and a brief note on their credibility.*
+_Cite 23 classical or contemporary scholars on this issue. Include both their position and a brief note on their credibility._
 
-- **[Scholar Name]** (d. [year]) — Summarize their view in one sentence.
-- **[Scholar Name]** — Summarize their view in one sentence.
-- **[Scholar Name]** — Summarize their view in one sentence.
-
----
-
-## 🌍 What History / Science / Reason Shows
-
-*If this is a historical, scientific, or philosophical criticism, present the empirical or logical case here — separate from the religious evidence.*
+- **[Scholar Name]** (d. [year]) Summarize their view in one sentence.
+- **[Scholar Name]** Summarize their view in one sentence.
+- **[Scholar Name]** Summarize their view in one sentence.
 
 ---
 
-## ❓ Follow-Up Questions
+## What History / Science / Reason Shows
+
+_If this is a historical, scientific, or philosophical criticism, present the empirical or logical case here separate from the religious evidence._
+
+---
+
+## Follow-Up Questions
 
 <details>
 
@@ -110,25 +110,25 @@ Acknowledge any internal scholarly disagreement honestly, while presenting the m
 
 ---
 
-## ✅ Summary — The Islamic Response in Brief
+## Summary The Islamic Response in Brief
 
-| The Claim | The Response |
-|-----------|-------------|
+| The Claim            | The Response                     |
+| -------------------- | -------------------------------- |
 | [State claim simply] | [State the core response simply] |
-| [Supporting claim 1] | [Counter point 1] |
-| [Supporting claim 2] | [Counter point 2] |
+| [Supporting claim 1] | [Counter point 1]                |
+| [Supporting claim 2] | [Counter point 2]                |
 
 ---
 
-## 📚 Further Reading
+## Further Reading
 
-| Resource | Author | Level |
-|----------|--------|-------|
-| [Book/article] | [Scholar name] | 🟡 |
-| [Book/article] | [Scholar name] | 🔴 |
+| Resource       | Author         | Level |
+| -------------- | -------------- | ----- |
+| [Book/article] | [Scholar name] |       |
+| [Book/article] | [Scholar name] |       |
 
 ---
 
-## ➡️ Next Chapter
+## Next Chapter
 
 **Continue to:** [Next Criticism or Chapter](link.md)
