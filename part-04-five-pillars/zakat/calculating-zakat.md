@@ -22,7 +22,7 @@ Before calculating, you need to know three things:
 
 ---
 
-## Step 1 Find Today's Nisab Value
+## Step 1 - Find Today's Nisab Value
 
 The Nisab is the minimum threshold. It is based on the value of **85 grams of gold** or **595 grams of silver**.
 
@@ -46,7 +46,7 @@ At these prices, many scholars would say: if your total zakatable wealth exceeds
 
 ---
 
-## Step 2 List Your Zakatable Assets
+## Step 2 - List Your Zakatable Assets
 
 Go through each category and write down your current value:
 
@@ -75,7 +75,7 @@ Go through each category and write down your current value:
 
 ---
 
-## Step 3 Subtract Your Liabilities
+## Step 3 - Subtract Your Liabilities
 
 Deduct debts that are **due within the year**:
 
@@ -98,7 +98,7 @@ Some scholars hold that debts do not affect Zakat calculation. Follow your madha
 
 ---
 
-## Step 4 Confirm One Full Lunar Year Has Passed
+## Step 4 - Confirm One Full Lunar Year Has Passed
 
 Zakat is due when zakatable wealth has been **above the Nisab for one complete lunar year** (approximately 354 days).
 
@@ -111,7 +111,7 @@ Zakat is due when zakatable wealth has been **above the Nisab for one complete l
 
 ---
 
-## Step 5 Calculate 2.5%
+## Step 5 - Calculate 2.5%
 
 **Zakat Due = Net Zakatable Wealth × 2.5%**
 

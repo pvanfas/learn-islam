@@ -1,4 +1,4 @@
-# Part 5 The Quran
+# Part 5 - The Quran
 
 **Difficulty:** Beginner → Advanced &nbsp;|&nbsp; **Chapters:** 8 &nbsp;|&nbsp; **Estimated reading time:** ~75 min
 

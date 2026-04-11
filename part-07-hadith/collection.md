@@ -53,7 +53,3 @@ Fabrication began early during the first civil war (Fitnah), political factions 
 **The scholars' response:** The Isnad system made fabrication difficult a fabricator needed to construct an entire believable chain of narrators, all of whose lives and dates could be verified. And the system of _Ilm al-Rijal_ detected inconsistencies.
 
 The Prophet warned severely: _"Whoever attributes to me what I did not say, let him take his seat in the Fire."_ (Sahih al-Bukhari)
-
-## Next Chapter
-
-**Continue to:** [The Six Major Hadith Collections](kutub-al-sittah.md)

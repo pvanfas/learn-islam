@@ -1,4 +1,4 @@
-# Part 3 Ahlus Sunnah Wal Jama'ah
+# Part 3 - Ahlus Sunnah Wal Jama'ah
 
 **Difficulty:** Intermediate &nbsp;|&nbsp; **Chapters:** 4 &nbsp;|&nbsp; **Estimated reading time:** ~35 min
 

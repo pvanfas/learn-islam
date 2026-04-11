@@ -148,23 +148,23 @@ Pray Fajr early. Then stand in dua until just before sunrise (this optional stan
 
 This is the busiest and most significant day of Hajj. Four acts are performed and the first is mandatory to do before Dhuhr:
 
-#### Act 1 Stone the Large Jamarat (Jamarat al-Aqabah)
+#### Act 1 - Stone the Large Jamarat (Jamarat al-Aqabah)
 
 Throw **7 pebbles** one by one at the large pillar the one nearest Makkah. Say _Allahu Akbar_ with each throw.
 
 The Talbiyah is stopped after the first pebble hits you have exited the active state of Ihram calling.
 
-#### Act 2 Qurbani (Animal Sacrifice)
+#### Act 2 - Qurbani (Animal Sacrifice)
 
 Sacrifice an animal or arrange for one to be sacrificed on your behalf. This commemorates Ibrahim's (AS) willingness to sacrifice his son and Allah's replacement of the intended sacrifice with a ram.
 
-#### Act 3 Halq or Taqsir (Shaving or Cutting Hair)
+#### Act 3 - Halq or Taqsir (Shaving or Cutting Hair)
 
 Men: Shave the head entirely (preferred) or cut hair from all parts. Women: Cut a fingertip's length from the hair.
 
 **After these first three acts, you exit Ihram partially** you may now wear normal clothes and use perfume. Sexual relations with spouse remain prohibited until after Tawaf al-Ifadah.
 
-#### Act 4 Tawaf al-Ifadah (The Main Tawaf of Hajj)
+#### Act 4 - Tawaf al-Ifadah (The Main Tawaf of Hajj)
 
 Return to Masjid al-Haram and perform Tawaf al-Ifadah 7 circuits. This is the central obligatory Tawaf of Hajj. Follow with Sa'i (if you did not perform it on Day 0).
 

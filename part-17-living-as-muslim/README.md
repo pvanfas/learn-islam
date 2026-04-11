@@ -1,4 +1,4 @@
-# Part 17 Living as a Muslim
+# Part 17 - Living as a Muslim
 
 **Difficulty:** Beginner → Intermediate &nbsp;|&nbsp; **Chapters:** 11 &nbsp;|&nbsp; **Estimated reading time:** ~120 min
 

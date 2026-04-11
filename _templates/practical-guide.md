@@ -203,9 +203,3 @@ _Arabic_
 - Common mistakes include [brief list].
 
 ---
-
-## What to Learn Next
-
-**Continue to:** [Next Chapter](link.md) _[one-line description]_
-
-**Practice companion:** [Related Dua or Adhkar page](link.md)

@@ -50,7 +50,7 @@ The sheer variety reflects how central this concept is to Quranic teaching.
 
 ---
 
-## Step 1 Death and What Follows (_Al-Barzakh_)
+## Step 1 - Death and What Follows (_Al-Barzakh_)
 
 Before the Day of Judgement comes, every soul must pass through death. The Quran presents death not as an ending but as a transition a door from one existence to another.
 
@@ -84,7 +84,7 @@ The _Barzakh_ is thus a foretaste the believer rests in peace and the disbelieve
 
 ---
 
-## Step 2 The Blowing of the Trumpet (_As-Sur_)
+## Step 2 - The Blowing of the Trumpet (_As-Sur_)
 
 The Day of Judgement begins when the Angel Israfil blows the Trumpet (_Sur_). There are **two blowings**:
 
@@ -100,7 +100,7 @@ The Day of Judgement begins when the Angel Israfil blows the Trumpet (_Sur_). Th
 
 ---
 
-## Step 3 The Gathering (_Al-Hashr_)
+## Step 3 - The Gathering (_Al-Hashr_)
 
 All of humanity every person who ever lived from the time of Adam (AS) to the last person to be born is gathered on a vast plain called _Al-Mahshar_. The sun is brought close. The heat is intense. People stand in their sweat according to their deeds.
 
@@ -116,7 +116,7 @@ There is no escape, no hiding, no running. Every person stands exposed before th
 
 ---
 
-## Step 4 The Record of Deeds (_As-Sahifah_)
+## Step 4 - The Record of Deeds (_As-Sahifah_)
 
 Every person is handed their **record of deeds** every action, word, intention, and thought is recorded by the two angels (_Kiraman Katibin_) who accompany every human being throughout life.
 
@@ -130,7 +130,7 @@ The record is given in the **right hand** for those destined for Paradise, and i
 
 ---
 
-## Step 5 The Scale (_Al-Mizan_)
+## Step 5 - The Scale (_Al-Mizan_)
 
 After receiving their records, every person's deeds are weighed on the cosmic Scale.
 
@@ -144,7 +144,7 @@ The Prophet mentioned that two words that are light on the tongue but heavy on t
 
 ---
 
-## Step 6 The Bridge (_As-Sirat_)
+## Step 6 - The Bridge (_As-Sirat_)
 
 All of humanity must cross the **Sirat** a bridge stretched over Hellfire. The Prophet described it as finer than a hair and sharper than a sword. How fast a person crosses depends on their deeds:
 
@@ -157,7 +157,7 @@ The Prophet will be at the far side of the bridge interceding: _"O Allah, grant 
 
 ---
 
-## Step 7 Intercession (_Ash-Shafa'ah_)
+## Step 7 - Intercession (_Ash-Shafa'ah_)
 
 Allah will permit certain individuals to intercede for others on the Day of Judgement most prominently the Prophet Muhammad .
 

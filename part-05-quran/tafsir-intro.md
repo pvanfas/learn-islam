@@ -57,7 +57,3 @@ Not everyone may interpret the Quran independently. Valid Tafsir requires:
 - Knowledge of scholarly consensus
 
 **The danger of unqualified interpretation:** The Prophet said: _"Whoever interprets the Quran by his own opinion let him take his seat in the Fire."_ (Tirmidhi Hasan)
-
-## Next Chapter
-
-**Continue to:** [Key Surahs Every Muslim Should Know](key-surahs.md)

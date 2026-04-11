@@ -51,7 +51,3 @@ Hajj is obligatory upon a Muslim who:
 - Has **financial means** the travel cost plus provision for dependents left behind
 
 If a person meets these conditions and dies without performing Hajj, they have died with an unfulfilled obligation.
-
-## Next Chapter
-
-**Continue to:** [Hajj Rituals Day by Day](hajj-rituals.md)

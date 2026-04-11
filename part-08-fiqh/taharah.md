@@ -71,7 +71,3 @@ After using the toilet, one must clean appropriately:
 - **Istijmar** using dry material (toilet paper, stones) minimum three wipes, odd number
 
 Both together is Sunnah and most thorough.
-
-## Next Chapter
-
-**Continue to:** [Halal and Haram Food & Drink](halal-haram.md)

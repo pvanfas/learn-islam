@@ -1,4 +1,4 @@
-# Part 10 Bid'ah (Religious Innovation)
+# Part 10 - Bid'ah (Religious Innovation)
 
 **Difficulty:** Intermediate &nbsp;|&nbsp; **Chapters:** 6 &nbsp;|&nbsp; **Estimated reading time:** ~55 min
 

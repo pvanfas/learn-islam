@@ -34,7 +34,3 @@ See the [Hijab chapter](hijab.md) for the full treatment of this topic, includin
 ## Niqab and Ihram
 
 During Hajj and Umrah Ihram, a woman **may not wear the Niqab** the face must remain uncovered. If a man approaches, she may temporarily cover her face, then uncover again.
-
-## Next Chapter
-
-**Continue to:** [Islamic Dress for Men](men-dress.md)

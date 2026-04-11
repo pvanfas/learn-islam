@@ -56,7 +56,3 @@ Some communities perform special prayers on specific nights (15th of Sha'ban, fi
 ## 5. Adding Prayers to the Adhan
 
 In some regions, additional phrases are added to the Adhan phrases not found in the established Sunnah narrations. The Adhan is a fixed text transmitted from the Prophet through Bilal (RA) additions are Bid'ah regardless of their content.
-
-## Next Chapter
-
-**Continue to:** [The Mawlid Scholarly Discussion](mawlid.md)

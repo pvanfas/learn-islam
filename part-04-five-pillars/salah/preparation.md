@@ -37,7 +37,7 @@ _This is the primary Quranic verse establishing the obligation of Wudu before pr
 
 ---
 
-## PART 1 Wudu (Minor Ablution)
+## PART 1 - Wudu (Minor Ablution)
 
 Wudu is required before every prayer, Quran recitation (while holding the Mushaf), and Tawaf (circling the Kaaba).
 
@@ -149,7 +149,7 @@ The Prophet said: _"Whoever performs Wudu and does it well, then says [this dua]
 
 ---
 
-## PART 2 Ghusl (Major Ritual Bath)
+## PART 2 - Ghusl (Major Ritual Bath)
 
 Ghusl is a full-body purification required after specific events:
 
@@ -195,7 +195,7 @@ Then the body is fully purified.
 
 ---
 
-## PART 3 Tayammum (Dry Purification)
+## PART 3 - Tayammum (Dry Purification)
 
 When water is **unavailable** or **harmful to use** (due to illness, extreme cold, or danger), a Muslim may perform Tayammum using clean earth, dust, or any natural ground surface.
 

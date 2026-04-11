@@ -97,19 +97,19 @@ This means: if there is no text prohibiting something, it is permitted. Islam di
 
 Islamic law is derived from a hierarchy of sources:
 
-### Source 1 The Quran
+### Source 1 - The Quran
 
 The primary and supreme source. Quranic rulings are definitive and unquestionable.
 
-### Source 2 The Sunnah
+### Source 2 - The Sunnah
 
 The Prophet's practice clarifies, specifies, and supplements Quranic principles. The Sunnah is binding the Quran itself commands following the Messenger.
 
-### Source 3 Ijma' (Scholarly Consensus)
+### Source 3 - Ijma' (Scholarly Consensus)
 
 When the qualified scholars of a generation reach unanimous agreement on a ruling, that consensus is binding. It closes debates that individual texts might leave open.
 
-### Source 4 Qiyas (Analogical Reasoning)
+### Source 4 - Qiyas (Analogical Reasoning)
 
 When a new situation arises not addressed by the earlier sources, scholars identify the underlying reason (_'Illah_) of an existing ruling and apply it to the new situation.
 

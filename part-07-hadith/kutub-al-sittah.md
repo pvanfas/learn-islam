@@ -80,7 +80,3 @@ Beyond the Six:
 ## How to Access the Collections
 
 **Online:** [Sunnah.com](https://sunnah.com) all six collections in Arabic with English translation, searchable by keyword or topic. Free and comprehensive.
-
-## Next Chapter
-
-**Continue to:** [Understanding Hadith Grades](grading.md)

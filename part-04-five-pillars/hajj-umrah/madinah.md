@@ -60,7 +60,3 @@ _اللَّهُمَّ هَذَا حَرَمُ نَبِيِّكَ فَاجْعَ�
 
 "O Allah, this is the sanctuary of Your Prophet make it a shield for me from the Fire, a security from punishment and a poor accounting."
 {% endhint %}
-
-## Next Chapter
-
-**Continue to:** [Eid al-Adha The Feast of Sacrifice](eid-al-adha.md)

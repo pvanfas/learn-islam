@@ -46,7 +46,3 @@ Only then the women (24:31). This sequence is deliberate modesty is a shared res
 ## Haya and Confidence
 
 A common misunderstanding: Haya means timidity or social anxiety. The Prophet had extraordinary Haya _"he was more modest than a virgin in her private room"_ (Sahih al-Bukhari) yet he was also one of the most confident, effective, and socially skilled people in history. Haya is not weakness. It is the discipline of channeling the self appropriately.
-
-## Next Chapter
-
-**Continue to:** [Islamic Dress for Women](women-dress.md)

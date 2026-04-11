@@ -74,7 +74,3 @@ Be wary of these widely shared but unauthentic narrations:
 - _"God helps those who help themselves"_ **Not a Hadith** this is a Western proverb
 
 Always verify before sharing any Hadith. The Prophet warned: _"It is sufficient as a lie for a person to repeat everything they hear."_ (Sahih Muslim)
-
-## Next Chapter
-
-**Continue to:** [Reading Hadith Practical Examples](reading-hadith.md)

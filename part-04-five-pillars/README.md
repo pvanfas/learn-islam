@@ -1,4 +1,4 @@
-# Part 4 The Five Pillars of Islam (_Arkan al-Islam_)
+# Part 4 - The Five Pillars of Islam (_Arkan al-Islam_)
 
 **Difficulty:** Beginner → Intermediate &nbsp;|&nbsp; **Chapters:** 20 &nbsp;|&nbsp; **Estimated reading time:** ~3 hours
 
@@ -32,13 +32,13 @@ The Prophet said: _"Islam is built upon five: the testimony that there is no god
 
 ## Chapters in This Part
 
-### Pillar 1 Shahada
+### Pillar 1 - Shahada
 
 | Chapter                                | Level    | Read Time |
 | -------------------------------------- | -------- | --------- |
 | [The Declaration of Faith](shahada.md) | Beginner | ~7 min    |
 
-### Pillar 2 Salah (Prayer)
+### Pillar 2 - Salah (Prayer)
 
 | Chapter                                                            | Level        | Read Time |
 | ------------------------------------------------------------------ | ------------ | --------- |
@@ -50,7 +50,7 @@ The Prophet said: _"Islam is built upon five: the testimony that there is no god
 | [Special Prayers](salah/special-prayers.md)                        | Intermediate | ~14 min   |
 | [The Deeper Spirituality of Salah](salah/spirituality-of-salah.md) | Intermediate | ~10 min   |
 
-### Pillar 3 Zakat (Charity)
+### Pillar 3 - Zakat (Charity)
 
 | Chapter                                                          | Level    | Read Time |
 | ---------------------------------------------------------------- | -------- | --------- |
@@ -58,7 +58,7 @@ The Prophet said: _"Islam is built upon five: the testimony that there is no god
 | [Calculating Your Zakat](zakat/calculating-zakat.md)             | Beginner | ~7 min    |
 | [Zakat vs. Sadaqah Voluntary Charity](zakat/zakat-vs-sadaqah.md) | Beginner | ~9 min    |
 
-### Pillar 4 Sawm (Fasting)
+### Pillar 4 - Sawm (Fasting)
 
 | Chapter                                                          | Level        | Read Time |
 | ---------------------------------------------------------------- | ------------ | --------- |
@@ -68,7 +68,7 @@ The Prophet said: _"Islam is built upon five: the testimony that there is no god
 | [Laylatul Qadr The Night of Power](sawm/laylatul-qadr.md)        | Beginner     | ~9 min    |
 | [Eid al-Fitr The Celebration](sawm/eid-al-fitr.md)               | Beginner     | ~6 min    |
 
-### Pillar 5 Hajj & Umrah
+### Pillar 5 - Hajj & Umrah
 
 | Chapter                                                         | Level        | Read Time |
 | --------------------------------------------------------------- | ------------ | --------- |

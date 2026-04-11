@@ -1,4 +1,4 @@
-# Part 18 Advanced Studies
+# Part 18 - Advanced Studies
 
 **Difficulty:** Advanced &nbsp;|&nbsp; **Chapters:** 7 &nbsp;|&nbsp; **Estimated reading time:** ~90 min
 

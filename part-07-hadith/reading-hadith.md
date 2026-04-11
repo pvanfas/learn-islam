@@ -14,7 +14,7 @@ A standard Hadith entry has three components:
 
 ---
 
-## Example 1 The Foundation Hadith
+## Example 1 - The Foundation Hadith
 
 **Source:** Sahih al-Bukhari 1
 
@@ -27,7 +27,7 @@ A standard Hadith entry has three components:
 
 ---
 
-## Example 2 A Legal Hadith
+## Example 2 - A Legal Hadith
 
 **Source:** Sunan Abu Dawud, Hasan
 
@@ -40,7 +40,7 @@ A standard Hadith entry has three components:
 
 ---
 
-## Example 3 A Spiritual Hadith
+## Example 3 - A Spiritual Hadith
 
 **Source:** Sahih Muslim
 
@@ -64,7 +64,3 @@ Available at [Sunnah.com/nawawi](https://sunnah.com/nawawi) with English transla
 3. The pillars of Islam five pillars (Bukhari/Muslim)
 4. The creation of the human being destiny (Bukhari/Muslim)
 5. Innovations are rejected (Bukhari/Muslim)
-
-## Next Chapter
-
-**Continue to:** [The Hadith of Jibreel](hadith-of-jibreel.md)

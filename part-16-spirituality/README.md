@@ -1,4 +1,4 @@
-# Part 16 Islamic Spirituality (Tazkiyah & Tasawwuf)
+# Part 16 - Islamic Spirituality (Tazkiyah & Tasawwuf)
 
 **Difficulty:** Intermediate → Advanced &nbsp;|&nbsp; **Chapters:** 6 &nbsp;|&nbsp; **Estimated reading time:** ~60 min
 

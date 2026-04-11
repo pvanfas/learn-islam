@@ -4,7 +4,7 @@ A step-by-step guide to get this project live on GitBook.
 
 ---
 
-## Step 1 Create a GitHub Repository
+## Step 1 - Create a GitHub Repository
 
 1. Go to [github.com](https://github.com) and create a new repository.
 2. Name it: `islamic-knowledge-guide` (or any name you prefer).
@@ -13,7 +13,7 @@ A step-by-step guide to get this project live on GitBook.
 
 ---
 
-## Step 2 Push This Project to GitHub
+## Step 2 - Push This Project to GitHub
 
 Run these commands from inside the `islam-gitbook/` folder:
 
@@ -28,7 +28,7 @@ git push -u origin main
 
 ---
 
-## Step 3 Create a GitBook Account & Space
+## Step 3 - Create a GitBook Account & Space
 
 1. Go to [gitbook.com](https://gitbook.com) and sign up (free plan available).
 2. Create a new **Space** name it "Islamic Knowledge Guide".
@@ -36,7 +36,7 @@ git push -u origin main
 
 ---
 
-## Step 4 Connect GitHub to GitBook
+## Step 4 - Connect GitHub to GitBook
 
 1. In your GitBook Space → **Settings → Integrations → GitHub**.
 2. Authorize GitBook to access your GitHub account.
@@ -47,7 +47,7 @@ git push -u origin main
 
 ---
 
-## Step 5 Configure Your Space Settings
+## Step 5 - Configure Your Space Settings
 
 In GitBook Space Settings, configure:
 
@@ -64,7 +64,7 @@ In GitBook Space Settings, configure:
 
 ---
 
-## Step 6 GitBook Folder Structure Reference
+## Step 6 - GitBook Folder Structure Reference
 
 ```
 islam-gitbook/
@@ -143,7 +143,7 @@ islam-gitbook/
 
 ---
 
-## Step 7 Writing New Chapters
+## Step 7 - Writing New Chapters
 
 **Every time you write a new chapter:**
 
@@ -170,7 +170,7 @@ git push
 
 ---
 
-## Step 8 GitBook Hint Block Syntax
+## Step 8 - GitBook Hint Block Syntax
 
 Use these throughout your content:
 
@@ -194,7 +194,7 @@ Red danger box for common mistakes, things to avoid
 
 ---
 
-## Step 9 Recommended GitBook Plugins (if using legacy GitBook)
+## Step 9 - Recommended GitBook Plugins (if using legacy GitBook)
 
 If you are using **GitBook CLI (legacy)**, install plugins:
 
@@ -209,7 +209,7 @@ For **GitBook.com (current)**, plugins are not needed use native blocks.
 
 ---
 
-## Step 10 Content Writing Workflow (Recommended)
+## Step 10 - Content Writing Workflow (Recommended)
 
 | Day           | Task                                        |
 | ------------- | ------------------------------------------- |

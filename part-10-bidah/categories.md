@@ -32,7 +32,3 @@ Classical scholars are divided:
 - Al-Shafi'i famously said: "Newly introduced matters are of two types: that which contradicts the Quran, Sunnah, or consensus this is Bid'ah Dalalah (misguidance). And that which is good and does not contradict these this is non-blameworthy."
 
 **The mainstream Ahlus Sunnah resolution:** The label matters less than the analysis. Ask: does this practice have a basis in the Sunnah? Does it contradict an established Sunnah? Does it create a religious obligation not established by the Prophet ?
-
-## Next Chapter
-
-**Continue to:** [Common Bid'ahs Practiced Today](common-bidahs.md)

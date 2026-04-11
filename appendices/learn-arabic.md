@@ -51,7 +51,7 @@ Most Muslims can reach Level 1 with a dedicated 36 month effort. Level 2 is achi
 
 ---
 
-### Step 1 Learn the Arabic Alphabet (24 weeks)
+### Step 1 - Learn the Arabic Alphabet (24 weeks)
 
 Before anything else, you must be able to read Arabic script. Arabic has 28 letters each with 4 forms (isolated, initial, medial, final) depending on position in a word.
 
@@ -66,7 +66,7 @@ Before anything else, you must be able to read Arabic script. Arabic has 28 lett
 
 ---
 
-### Step 2 Learn Tajweed Basics (Ongoing)
+### Step 2 - Learn Tajweed Basics (Ongoing)
 
 Tajweed is the set of rules for correctly pronouncing Quranic Arabic. Start with the basics early so your pronunciation is correct from the beginning.
 
@@ -85,7 +85,7 @@ Tajweed is the set of rules for correctly pronouncing Quranic Arabic. Start with
 
 ---
 
-### Step 3 Learn Vocabulary Systematically (312 months)
+### Step 3 - Learn Vocabulary Systematically (312 months)
 
 This is the core of Arabic for Quran. Use a frequency-based approach learn the most common Quranic words first.
 
@@ -123,7 +123,7 @@ This is the core of Arabic for Quran. Use a frequency-based approach learn the m
 
 ---
 
-### Step 4 Learn Basic Grammar (_Nahw_) (618 months)
+### Step 4 - Learn Basic Grammar (_Nahw_) (618 months)
 
 Arabic grammar is essential for understanding _how_ words relate to each other in sentences. Key concepts:
 
@@ -156,7 +156,7 @@ Learning one root can give you access to 515 related words. This is why learning
 
 ---
 
-### Step 5 Read the Quran with Translation (Ongoing)
+### Step 5 - Read the Quran with Translation (Ongoing)
 
 From day one even before you understand Arabic read the Quran with translation. This serves multiple purposes:
 
@@ -172,7 +172,7 @@ From day one even before you understand Arabic read the Quran with translation. 
 
 ---
 
-### Step 6 Word-by-Word Quranic Reading (After 36 months)
+### Step 6 - Word-by-Word Quranic Reading (After 36 months)
 
 Once you have basic vocabulary and some grammar, begin using word-by-word resources to decode Quranic verses directly:
 

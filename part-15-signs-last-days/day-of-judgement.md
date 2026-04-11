@@ -22,23 +22,23 @@ The Quran uses over 70 different names for the Day of Judgement each highlightin
 
 ## The Sequence
 
-### Step 1 The Trumpet (_Sur_)
+### Step 1 - The Trumpet (_Sur_)
 
 Israfil blows the Trumpet every living creature dies. The earth and heavens are destroyed.
 
-### Step 2 The Second Blow
+### Step 2 - The Second Blow
 
 Israfil blows again all are resurrected.
 
-### Step 3 The Gathering (_Al-Hashr_)
+### Step 3 - The Gathering (_Al-Hashr_)
 
 All of humanity assembles on the plain of Resurrection the sun brought close, people standing in their sweat.
 
-### Step 4 The Great Intercession
+### Step 4 - The Great Intercession
 
 The Prophet prostrates before Allah and is given permission for the Great Intercession asking Allah to begin the Judgement to relieve humanity from the unbearable waiting.
 
-### Step 5 Distribution of Records
+### Step 5 - Distribution of Records
 
 Every person receives their record of deeds in the right hand (believers) or behind the back / left hand (others).
 
@@ -47,19 +47,19 @@ Every person receives their record of deeds in the right hand (believers) or beh
 _"And every person We have fastened his deeds around his neck, and on the Day of Resurrection We will produce for him a record which he will find spread open. 'Read your record. Sufficient is yourself against you this Day as an accountant.'"_
 {% endhint %}
 
-### Step 6 The Weighing (_Al-Mizan_)
+### Step 6 - The Weighing (_Al-Mizan_)
 
 Deeds are placed on the cosmic Scale no atom's weight of good or evil is lost.
 
-### Step 7 The Bridge (_As-Sirat_)
+### Step 7 - The Bridge (_As-Sirat_)
 
 All must cross the bridge over Hellfire the speed of crossing depends on deeds.
 
-### Step 8 The Pool (_Al-Hawd_)
+### Step 8 - The Pool (_Al-Hawd_)
 
 The Prophet awaits his Ummah at the Pool (Al-Kawthar) those who reach it drink and never thirst again.
 
-### Step 9 Final Destinations
+### Step 9 - Final Destinations
 
 After all reckoning entry into Jannah (Paradise) for the believers, Jahannam (Hell) for those who rejected truth.
 

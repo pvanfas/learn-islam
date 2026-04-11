@@ -56,7 +56,7 @@ Islamic scholars have outlined four dimensions of belief in Qadar:
 
 ---
 
-### Level 1 Knowledge (_Ilm_)
+### Level 1 - Knowledge (_Ilm_)
 
 Allah's knowledge is eternal, complete, and encompasses absolutely everything. He knew every soul that would ever exist, every choice they would make, every moment of their lives before creation itself began.
 
@@ -70,7 +70,7 @@ This knowledge is not acquired or updated it is eternal. Allah did not learn wha
 
 ---
 
-### Level 2 Writing (_Kitabah_)
+### Level 2 - Writing (_Kitabah_)
 
 Everything that Allah has decreed was written in the **Lawh al-Mahfuz** the Preserved Tablet fifty thousand years before the creation of the heavens and earth.
 
@@ -82,7 +82,7 @@ The Prophet said: _"Allah recorded the decrees of all creation fifty thousand ye
 
 ---
 
-### Level 3 Will (_Mashi'ah / Iradah_)
+### Level 3 - Will (_Mashi'ah / Iradah_)
 
 Whatever Allah wills occurs. Whatever He does not will cannot occur. Everything that comes into existence does so because Allah willed it into being.
 
@@ -96,7 +96,7 @@ This level sometimes confuses people: _"If Allah wills everything, including my 
 
 ---
 
-### Level 4 Creation (_Khalq_)
+### Level 4 - Creation (_Khalq_)
 
 Allah is the Creator of all things including human actions. Whatever exists in the universe including human choices, capacities, and actions was brought into being by Allah.
 

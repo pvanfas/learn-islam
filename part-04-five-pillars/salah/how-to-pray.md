@@ -80,7 +80,7 @@ This guide will teach you one complete Rak'ah, then show how they connect.
 
 ---
 
-### Step 1 The Intention (_Niyyah_)
+### Step 1 - The Intention (_Niyyah_)
 
 **What to do:** Stand upright facing the Qiblah (the direction of Makkah). Make the intention in your heart for which prayer you are about to perform.
 
@@ -92,7 +92,7 @@ This guide will teach you one complete Rak'ah, then show how they connect.
 
 ---
 
-### Step 2 The Opening Takbir (_Takbirat al-Ihram_)
+### Step 2 - The Opening Takbir (_Takbirat al-Ihram_)
 
 **What to do:** Raise both hands to the level of your shoulders (or earlobes), palms facing forward, and say:
 
@@ -110,7 +110,7 @@ After saying _Allahu Akbar_, lower your hands and fold them over your chest righ
 
 ---
 
-### Step 3 The Opening Supplication (_Du'a al-Istiftah_)
+### Step 3 - The Opening Supplication (_Du'a al-Istiftah_)
 
 **What to do:** Quietly recite the opening supplication (_Sunnah recommended, not obligatory_):
 
@@ -126,7 +126,7 @@ _(Source: Abu Dawud, authenticated)_
 
 ---
 
-### Step 4 Reciting Al-Fatihah
+### Step 4 - Reciting Al-Fatihah
 
 **What to do:** Recite _Surah Al-Fatihah_ the Opening chapter of the Quran. This is **obligatory (Fard)** in every Rak'ah of every prayer. The prayer is invalid without it.
 
@@ -187,7 +187,7 @@ _Say: He is Allah, the One. Allah, the Eternal Absolute. He neither begets nor w
 
 ---
 
-### Step 5 The Bowing Position (_Ruku'_)
+### Step 5 - The Bowing Position (_Ruku'_)
 
 **What to do:** Say _Allahu Akbar_, then bend forward at the waist until your back is flat and parallel to the ground. Place your hands firmly on your knees, fingers spread. Keep your head level neither raised nor lowered.
 
@@ -203,7 +203,7 @@ _Say: He is Allah, the One. Allah, the Eternal Absolute. He neither begets nor w
 
 ---
 
-### Step 6 Rising from Ruku'
+### Step 6 - Rising from Ruku'
 
 **What to do:** Rise from bowing to a fully upright standing position while saying:
 
@@ -227,7 +227,7 @@ Once fully upright, say:
 
 ---
 
-### Step 7 The Prostration (_Sujud_)
+### Step 7 - The Prostration (_Sujud_)
 
 **What to do:** Say _Allahu Akbar_, then go down to the ground in prostration. **Seven body parts** must be in contact with the ground:
 
@@ -254,7 +254,7 @@ Your arms should not rest on the ground keep your elbows raised. Your head shoul
 
 ---
 
-### Step 8 Sitting Between the Two Prostrations
+### Step 8 - Sitting Between the Two Prostrations
 
 **What to do:** Rise from prostration saying _Allahu Akbar_, and sit briefly. Then say:
 
@@ -270,13 +270,13 @@ Then go down for a **second Sujud**, repeating the same as in Step 7.
 
 ---
 
-### Step 9 Rising to the Second Rak'ah
+### Step 9 - Rising to the Second Rak'ah
 
 After the second Sujud, rise while saying _Allahu Akbar_ back to a standing position. This completes the **first Rak'ah**. The second Rak'ah begins from Step 4 (reciting Al-Fatihah) without the opening supplication.
 
 ---
 
-### Step 10 The Sitting After the Second Rak'ah (_At-Tashahhud_)
+### Step 10 - The Sitting After the Second Rak'ah (_At-Tashahhud_)
 
 After the second Sujud of the **second Rak'ah**, sit down. In a 2-Rak'ah prayer (like Fajr), this is the final sitting. In a 3 or 4-Rak'ah prayer, you will rise again for more Rak'ahs.
 
@@ -308,7 +308,7 @@ _Allahumma salli 'ala Muhammadin wa 'ala ali Muhammadin, kama sallayta 'ala Ibra
 
 ---
 
-### Step 11 The Closing Salutation (_Taslim_)
+### Step 11 - The Closing Salutation (_Taslim_)
 
 **What to do:** Turn your head to the **right** and say:
 

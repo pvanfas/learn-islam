@@ -29,7 +29,7 @@ All three schools are within Ahlus Sunnah they represent different methodologica
 
 ---
 
-### School 1 Ash'ari
+### School 1 - Ash'ari
 
 **Founded by:** Imam Abu al-Hasan al-Ash'ari (260–324 AH / 874–936 CE)
 
@@ -49,7 +49,7 @@ All three schools are within Ahlus Sunnah they represent different methodologica
 
 ---
 
-### School 2 Maturidi
+### School 2 - Maturidi
 
 **Founded by:** Imam Abu Mansur al-Maturidi (238–333 AH / 853–944 CE) of Samarkand (modern Uzbekistan)
 
@@ -65,7 +65,7 @@ All three schools are within Ahlus Sunnah they represent different methodologica
 
 ---
 
-### School 3 Athari (Salafi/Hanbali)
+### School 3 - Athari (Salafi/Hanbali)
 
 **Associated with:** Imam Ahmad ibn Hanbal (164–241 AH), later Ibn Taymiyyah (661–728 AH) and Ibn al-Qayyim al-Jawziyyah (691–751 AH)
 

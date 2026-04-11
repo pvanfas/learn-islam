@@ -1,4 +1,4 @@
-# Part 9 Islamic Dress & Appearance
+# Part 9 - Islamic Dress & Appearance
 
 **Difficulty:** Beginner &nbsp;|&nbsp; **Chapters:** 6 &nbsp;|&nbsp; **Estimated reading time:** ~50 min
 

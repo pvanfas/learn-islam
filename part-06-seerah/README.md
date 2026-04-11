@@ -1,4 +1,4 @@
-# Part 6 The Prophet Muhammad (Seerah)
+# Part 6 - The Prophet Muhammad (Seerah)
 
 **Difficulty:** Beginner → Intermediate &nbsp;|&nbsp; **Chapters:** 11 &nbsp;|&nbsp; **Estimated reading time:** ~90 min
 

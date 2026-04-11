@@ -66,7 +66,7 @@ Islamic scholars have organized Tawhid into three interconnected categories. Tog
 
 ---
 
-### Dimension 1 Tawhid al-Rububiyyah (Oneness of Lordship)
+### Dimension 1 - Tawhid al-Rububiyyah (Oneness of Lordship)
 
 This is the recognition that **Allah alone is the Creator, Sustainer, and Controller of all that exists.**
 
@@ -82,7 +82,7 @@ This dimension of Tawhid was accepted even by the polytheists of Makkah. When th
 
 ---
 
-### Dimension 2 Tawhid al-Uluhiyyah (Oneness of Worship)
+### Dimension 2 - Tawhid al-Uluhiyyah (Oneness of Worship)
 
 This is the conviction that **Allah alone deserves worship** not just acknowledgment as Creator, but the direction of all acts of devotion.
 
@@ -113,7 +113,7 @@ Directing any of these acts toward anything other than Allah a prophet, a saint,
 
 ---
 
-### Dimension 3 Tawhid al-Asma wa al-Sifat (Oneness of Names and Attributes)
+### Dimension 3 - Tawhid al-Asma wa al-Sifat (Oneness of Names and Attributes)
 
 This is the affirmation that **Allah's names and attributes are unique to Him** they are not shared with creation, and creation's attributes are not attributed to Him.
 

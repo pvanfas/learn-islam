@@ -72,7 +72,3 @@ _"The one who recites the Quran proficiently will be with the noble, righteous s
 {% endhint %}
 
 Do not let imperfect pronunciation stop you from reciting. Start where you are. The struggle is itself rewarded.
-
-## Next Chapter
-
-**Continue to:** [The Role of Tafsir](tafsir-intro.md)

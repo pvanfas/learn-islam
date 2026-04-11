@@ -60,7 +60,3 @@ This is called the _Basmala_ it is counted as an Ayah at the beginning of Surah 
 ## Mysterious Letters Al-Huruf al-Muqatta'at
 
 29 Surahs begin with mysterious Arabic letters _Alif Lam Mim_, _Ha Mim_, _Ya Sin_, etc. Their precise meaning is known only to Allah. They are among the wonders of the Quran that demonstrate its divine origin the Arabs who were masters of language could not explain or replicate them.
-
-## Next Chapter
-
-**Continue to:** [How the Quran Was Preserved](preservation.md)

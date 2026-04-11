@@ -41,7 +41,3 @@ These are direct commands not suggestions. The majority of classical scholars de
 ## Social Pressure
 
 Shaving for job interviews, family pressure, or social acceptance is a real challenge for many Muslim men. The Sunnah answer: the beard is not negotiable as a religious obligation. But the response to one who shaves should be wisdom and gentleness not condemnation.
-
-## Next Chapter
-
-**Continue to:** [General Appearance Rulings](general-appearance.md)

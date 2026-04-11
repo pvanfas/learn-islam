@@ -64,7 +64,3 @@ Ramadan transforms communities. The shared fast creates:
 - Shared Iftar breaking fast together is one of the most powerful acts of community building
 
 The Prophet said: _"Whoever feeds a fasting person will have the same reward as him, without the fasting person's reward being diminished in the slightest."_ (Tirmidhi Sahih)
-
-## Next Chapter
-
-**Continue to:** [Laylatul Qadr The Night of Power](laylatul-qadr.md)

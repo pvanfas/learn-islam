@@ -33,15 +33,15 @@ Simultaneously, thousands of Companions memorized the Quran entire chapters and 
 
 ## The Three Stages of Compilation
 
-### Stage 1 The Prophet's Lifetime
+### Stage 1 - The Prophet's Lifetime
 
 All verses recorded as revealed, arranged under prophetic direction. No bound volume materials spread among Companions.
 
-### Stage 2 Abu Bakr's Compilation (12 AH / 633 CE)
+### Stage 2 - Abu Bakr's Compilation (12 AH / 633 CE)
 
 After the Battle of Yamama killed 70 _Huffaz_ (memorizers), Umar (RA) urged Abu Bakr (RA) to compile. Zayd ibn Thabit led the commission collecting all written materials, verifying each verse against the memory of at least two Companions, producing a single authorized manuscript stored with Hafsa (RA).
 
-### Stage 3 Uthman's Standardization (25 AH / 646 CE)
+### Stage 3 - Uthman's Standardization (25 AH / 646 CE)
 
 As Islam spread to non-Arab regions and dialectal differences arose in recitation, Uthman (RA) ordered Zayd ibn Thabit to produce a standard Mushaf in the Qurayshi dialect. Copies were sent to all major cities; other written copies were ordered destroyed to prevent confusion.
 
@@ -56,7 +56,3 @@ No other text in human history has been preserved this way.
 ## Manuscript Evidence
 
 The **Topkapi Manuscript** (Istanbul) and the **Samarkand Manuscript** (Tashkent) both dating to within decades of Uthman's compilation are textually identical to the Quran recited and printed today. No variant readings in the text itself (as opposed to recitation modes) have been documented.
-
-## Next Chapter
-
-**Continue to:** [Science in the Quran](science-in-quran.md)

@@ -1,4 +1,4 @@
-# Part 15 Signs of the Last Days (_Ashratus Sa'ah_)
+# Part 15 - Signs of the Last Days (_Ashratus Sa'ah_)
 
 **Difficulty:** Intermediate &nbsp;|&nbsp; **Chapters:** 9 &nbsp;|&nbsp; **Estimated reading time:** ~85 min
 

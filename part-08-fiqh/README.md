@@ -1,4 +1,4 @@
-# Part 8 Islamic Law (Fiqh & Sharia)
+# Part 8 - Islamic Law (Fiqh & Sharia)
 
 **Difficulty:** Intermediate → Advanced &nbsp;|&nbsp; **Chapters:** 9 &nbsp;|&nbsp; **Estimated reading time:** ~90 min
 

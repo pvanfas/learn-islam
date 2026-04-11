@@ -30,7 +30,7 @@ Islamic knowledge does not operate on opinion or personal preference. It is buil
 
 ---
 
-### Source 1 The Quran
+### Source 1 - The Quran
 
 The Quran is the **primary, supreme, and unquestioned source** of Islamic knowledge. It is the literal word of Allah, revealed in Arabic to the Prophet Muhammad over 23 years through the Angel Jibreel (Gabriel AS).
 
@@ -53,7 +53,7 @@ _Muslims believe this verse is both a promise and a fact of history the Quran is
 
 ---
 
-### Source 2 The Sunnah (Hadith)
+### Source 2 - The Sunnah (Hadith)
 
 The **Sunnah** is the way of the Prophet Muhammad his words, actions, and silent approvals, as recorded in the **Hadith** literature.
 
@@ -72,13 +72,13 @@ The Hadith were collected, verified, and graded by scholars over the first three
 
 ---
 
-### Source 3 Scholarly Consensus (_Ijma'_)
+### Source 3 - Scholarly Consensus (_Ijma'_)
 
 When the scholars of a generation reach unanimous agreement on a ruling or interpretation, that consensus becomes binding. The Prophet said: _"My community will never unite upon misguidance."_ Ijma' is therefore treated as a reliable third source because if all the qualified scholars of Islam agree on something, it is unlikely to be wrong.
 
 ---
 
-### Source 4 Analogical Reasoning (_Qiyas_)
+### Source 4 - Analogical Reasoning (_Qiyas_)
 
 For situations that arise after the Prophet's time and are not directly addressed by Quran or Sunnah, scholars use analogical reasoning. They identify the cause (_'illah_) behind an existing ruling and apply it to the new situation.
 

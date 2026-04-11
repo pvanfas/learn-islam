@@ -71,7 +71,7 @@ Umrah is a set of acts of worship performed in Makkah that includes entering a s
 
 ---
 
-### Step 1 Enter the State of Ihram at the Miqat
+### Step 1 - Enter the State of Ihram at the Miqat
 
 **The Miqat** is the boundary around Makkah at which a pilgrim must enter the sacred state of Ihram before proceeding. You cannot pass the Miqat without being in Ihram if you intend Umrah.
 
@@ -140,7 +140,7 @@ Once in Ihram, the following are **prohibited** until you exit Ihram:
 
 ---
 
-### Step 2 Tawaf (Circling the Kaaba)
+### Step 2 - Tawaf (Circling the Kaaba)
 
 **Upon arriving at Masjid al-Haram**, stop reciting the Talbiyah as you begin Tawaf.
 
@@ -181,7 +181,7 @@ After completing **seven circuits**, pray **two Rak'ahs behind Maqam Ibrahim** (
 
 ---
 
-### Step 3 Sa'i (Walking Between Safa and Marwa)
+### Step 3 - Sa'i (Walking Between Safa and Marwa)
 
 After Tawaf, proceed to the **hill of Safa** to begin Sa'i seven passes between Safa and Marwa, commemorating Hajar (Hagar AS), the mother of Ismail, who ran between these hills searching for water for her infant son.
 
@@ -211,7 +211,7 @@ During Sa'i, make dua, recite dhikr, or recite Quran there is no fixed recitatio
 
 ---
 
-### Step 4 Shaving or Cutting the Hair (_Halq / Taqsir_)
+### Step 4 - Shaving or Cutting the Hair (_Halq / Taqsir_)
 
 After completing Sa'i, the Ihram is exited by:
 

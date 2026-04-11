@@ -35,7 +35,7 @@ _This verse establishes the universal scope of the mission from the beginning. I
 
 ---
 
-## Phase 1 The Arabian Peninsula (610632 CE)
+## Phase 1 - The Arabian Peninsula (610632 CE)
 
 ### The Prophet's Lifetime
 
@@ -50,7 +50,7 @@ By the time of the Prophet's death in 632 CE, the **entire Arabian Peninsula** h
 
 ---
 
-## Phase 2 Military Expansion Under the Caliphs (632750 CE)
+## Phase 2 - Military Expansion Under the Caliphs (632750 CE)
 
 ### The Rightly Guided Caliphs and Umayyads
 
@@ -77,7 +77,7 @@ The Byzantine historian **Theophanes the Confessor**, writing decades after the 
 
 ---
 
-## Phase 3 Trade Routes (7th–15th Centuries CE)
+## Phase 3 - Trade Routes (7th–15th Centuries CE)
 
 ### Islam That Was Never Conquered Into
 
@@ -97,7 +97,7 @@ The trans-Saharan trade routes connecting North Africa with the kingdoms of Mali
 
 ---
 
-## Phase 4 Sufi Missionaries (10th–18th Centuries CE)
+## Phase 4 - Sufi Missionaries (10th–18th Centuries CE)
 
 ### The Spiritual Ambassadors
 
@@ -121,7 +121,7 @@ The Wali Songo the Nine Saints were Sufi teachers who Islamized Java through art
 
 ---
 
-## Phase 5 Africa (Ongoing)
+## Phase 5 - Africa (Ongoing)
 
 Islam in Sub-Saharan Africa has been one of the fastest-growing religious movements of the modern era, and it continues to grow entirely without military compulsion.
 
@@ -136,7 +136,7 @@ The growth is driven by:
 
 ---
 
-## Phase 6 The Modern Era and the West
+## Phase 6 - The Modern Era and the West
 
 ### Islam in Europe and North America
 

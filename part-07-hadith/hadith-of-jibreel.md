@@ -61,7 +61,3 @@ This Hadith reveals that the religion of Islam has three inseparable dimensions:
 All three are required. Islam without Iman is hollow. Iman without Ihsan is incomplete. Ihsan without Islam and Iman has no foundation.
 
 The entire guide you are reading from theology (Aqeedah) to practice (the Five Pillars) to spirituality (Tazkiyah) is an exploration of these three dimensions.
-
-## Next Chapter
-
-**Continue to:** [Part 8 Islamic Law (Fiqh)](../part-08-fiqh/README.md)

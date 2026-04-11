@@ -1,4 +1,4 @@
-# Part 1 Before You Begin
+# Part 1 - Before You Begin
 
 **Difficulty:** Beginner &nbsp;|&nbsp; **Chapters:** 5 &nbsp;|&nbsp; **Estimated reading time:** ~35 min
 

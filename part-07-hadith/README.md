@@ -1,4 +1,4 @@
-# Part 7 Hadith Science (_Ulum al-Hadith_)
+# Part 7 - Hadith Science (_Ulum al-Hadith_)
 
 **Difficulty:** Intermediate → Advanced &nbsp;|&nbsp; **Chapters:** 6 &nbsp;|&nbsp; **Estimated reading time:** ~55 min
 

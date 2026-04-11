@@ -98,7 +98,7 @@ The Prophet is reported to have said: _"Command your children to pray at seven."
 
 ---
 
-## Ages 710 Commanding Prayer
+## Ages 710 - Commanding Prayer
 
 {% hint style="info" %}
 **Hadith Sunan Abu Dawud (Hasan)**

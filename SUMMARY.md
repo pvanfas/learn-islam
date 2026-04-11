@@ -8,7 +8,7 @@
 
 ---
 
-## Part 1 Before You Begin
+## Part 1 - Before You Begin
 
 - [Overview](part-01-before-you-begin/README.md)
 - [What Is Islam? A First Look](part-01-before-you-begin/what-is-islam.md)
@@ -18,7 +18,7 @@
 
 ---
 
-## Part 2 Foundations of Belief (Aqeedah)
+## Part 2 - Foundations of Belief (Aqeedah)
 
 - [Overview](part-02-aqeedah/README.md)
 - [Tawhid The Oneness of God](part-02-aqeedah/tawhid.md)
@@ -31,7 +31,7 @@
 
 ---
 
-## Part 3 Ahlus Sunnah Wal Jama'ah
+## Part 3 - Ahlus Sunnah Wal Jama'ah
 
 - [Overview](part-03-ahlus-sunnah/README.md)
 - [Who Are Ahlus Sunnah Wal Jama'ah?](part-03-ahlus-sunnah/who-are-ahlus-sunnah.md)
@@ -41,15 +41,15 @@
 
 ---
 
-## Part 4 The Five Pillars of Islam
+## Part 4 - The Five Pillars of Islam
 
 - [Overview](part-04-five-pillars/README.md)
 
-### Pillar 1 Shahada
+### Pillar 1 - Shahada
 
 - [The Declaration of Faith](part-04-five-pillars/shahada.md)
 
-### Pillar 2 Salah (Prayer)
+### Pillar 2 - Salah (Prayer)
 
 - [Introduction to Salah](part-04-five-pillars/salah/introduction.md)
 - [Preparation Wudu, Ghusl & Tayammum](part-04-five-pillars/salah/preparation.md)
@@ -59,13 +59,13 @@
 - [Special Prayers](part-04-five-pillars/salah/special-prayers.md)
 - [The Deeper Spirituality of Salah](part-04-five-pillars/salah/spirituality-of-salah.md)
 
-### Pillar 3 Zakat (Charity)
+### Pillar 3 - Zakat (Charity)
 
 - [Understanding Zakat](part-04-five-pillars/zakat/understanding-zakat.md)
 - [Calculating Your Zakat](part-04-five-pillars/zakat/calculating-zakat.md)
 - [Zakat vs. Sadaqah](part-04-five-pillars/zakat/zakat-vs-sadaqah.md)
 
-### Pillar 4 Sawm (Fasting)
+### Pillar 4 - Sawm (Fasting)
 
 - [Ramadan The Month of Fasting](part-04-five-pillars/sawm/ramadan.md)
 - [Rules of Fasting](part-04-five-pillars/sawm/rules-of-fasting.md)
@@ -73,7 +73,7 @@
 - [Laylatul Qadr The Night of Power](part-04-five-pillars/sawm/laylatul-qadr.md)
 - [Eid al-Fitr](part-04-five-pillars/sawm/eid-al-fitr.md)
 
-### Pillar 5 Hajj & Umrah
+### Pillar 5 - Hajj & Umrah
 
 - [Introduction The Sacred Journey](part-04-five-pillars/hajj-umrah/introduction.md)
 - [Hajj Rituals Day by Day](part-04-five-pillars/hajj-umrah/hajj-rituals.md)
@@ -85,7 +85,7 @@
 
 ---
 
-## Part 5 The Quran
+## Part 5 - The Quran
 
 - [Overview](part-05-quran/README.md)
 - [Introduction to the Quran](part-05-quran/introduction.md)
@@ -99,7 +99,7 @@
 
 ---
 
-## Part 6 The Prophet Muhammad (Seerah)
+## Part 6 - The Prophet Muhammad (Seerah)
 
 - [Overview](part-06-seerah/README.md)
 - [Arabia Before Islam](part-06-seerah/arabia-before-islam.md)
@@ -115,7 +115,7 @@
 
 ---
 
-## Part 7 Hadith Science (Ulum al-Hadith)
+## Part 7 - Hadith Science (Ulum al-Hadith)
 
 - [Overview](part-07-hadith/README.md)
 - [What Is a Hadith?](part-07-hadith/what-is-hadith.md)
@@ -127,7 +127,7 @@
 
 ---
 
-## Part 8 Islamic Law (Fiqh & Sharia)
+## Part 8 - Islamic Law (Fiqh & Sharia)
 
 - [Overview](part-08-fiqh/README.md)
 - [Understanding Sharia](part-08-fiqh/sharia.md)
@@ -142,7 +142,7 @@
 
 ---
 
-## Part 9 Islamic Dress & Appearance
+## Part 9 - Islamic Dress & Appearance
 
 - [Overview](part-09-dress/README.md)
 - [The Concept of Modesty (Haya) in Islam](part-09-dress/haya.md)
@@ -155,7 +155,7 @@
 
 ---
 
-## Part 10 Bid'ah (Religious Innovation)
+## Part 10 - Bid'ah (Religious Innovation)
 
 - [Overview](part-10-bidah/README.md)
 - [What Is Bid'ah?](part-10-bidah/what-is-bidah.md)
@@ -167,7 +167,7 @@
 
 ---
 
-## Part 11 Criticism & Arguments Against Islam With Responses
+## Part 11 - Criticism & Arguments Against Islam With Responses
 
 - [Overview](part-11-criticism/README.md)
 - [How to Approach Criticism of Islam](part-11-criticism/approach.md)
@@ -182,7 +182,7 @@
 
 ---
 
-## Part 12 How Islam Spread
+## Part 12 - How Islam Spread
 
 - [Overview](part-12-how-islam-spread/README.md)
 - [The First Generation Arabia](part-12-how-islam-spread/first-generation.md)
@@ -196,7 +196,7 @@
 
 ---
 
-## Part 13 Islam's Growth Rate Today
+## Part 13 - Islam's Growth Rate Today
 
 - [Overview](part-13-growth-rate/README.md)
 - [Global Muslim Population Current Data](part-13-growth-rate/global-population.md)
@@ -206,7 +206,7 @@
 
 ---
 
-## Part 14 Famous Reverts to Islam
+## Part 14 - Famous Reverts to Islam
 
 - [Overview](part-14-famous-reverts/README.md)
 - [Why Study Revert Stories?](part-14-famous-reverts/why-study-reverts.md)
@@ -218,7 +218,7 @@
 
 ---
 
-## Part 15 Signs of the Last Days
+## Part 15 - Signs of the Last Days
 
 - [Overview](part-15-signs-last-days/README.md)
 - [Introduction to Islamic Eschatology](part-15-signs-last-days/introduction.md)
@@ -233,7 +233,7 @@
 
 ---
 
-## Part 16 Islamic Spirituality (Tazkiyah & Tasawwuf)
+## Part 16 - Islamic Spirituality (Tazkiyah & Tasawwuf)
 
 - [Overview](part-16-spirituality/README.md)
 - [The Heart in Islam](part-16-spirituality/the-heart.md)
@@ -247,7 +247,7 @@
 
 ---
 
-## Part 17 Living as a Muslim
+## Part 17 - Living as a Muslim
 
 - [Overview](part-17-living-as-muslim/README.md)
 - [The Muslim's Daily Routine](part-17-living-as-muslim/daily-routine.md)
@@ -264,7 +264,7 @@
 
 ---
 
-## Part 18 Advanced Studies
+## Part 18 - Advanced Studies
 
 - [Overview](part-18-advanced-studies/README.md)
 - [Islamic History Caliphs to Ottomans](part-18-advanced-studies/islamic-history.md)

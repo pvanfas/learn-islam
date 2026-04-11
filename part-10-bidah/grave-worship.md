@@ -57,7 +57,3 @@ The deceased cannot hear du'a (the evidential position of Ahlus Sunnah) and even
 - Lighting candles at graves
 - Prostrating toward or touching graves for blessing
 - Making du'a TO the deceased
-
-## Next Chapter
-
-**Continue to:** [How to Respond to Bid'ah](how-to-respond.md)

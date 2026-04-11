@@ -10,7 +10,7 @@
 
 ---
 
-## Period 1 The Rightly Guided Caliphs (_Al-Khulafa al-Rashidun_) 632-661 CE
+## Period 1 - The Rightly Guided Caliphs (_Al-Khulafa al-Rashidun_) 632-661 CE
 
 The four caliphs who immediately succeeded the Prophet are known as the _Khulafa al-Rashidun_ the Rightly Guided. They are given a unique status in Islamic tradition:
 
@@ -71,7 +71,7 @@ Ali (RA) was assassinated by a Kharijite in 661 CE. His death ended the era of t
 
 ---
 
-## Period 2 The Umayyad Caliphate 661-750 CE
+## Period 2 - The Umayyad Caliphate 661-750 CE
 
 **Capital:** Damascus (Syria)
 **Founded by:** Muawiyah ibn Abi Sufyan (RA)
@@ -93,7 +93,7 @@ Despite political controversies, the Umayyads administered an enormous empire, e
 
 ---
 
-## Period 3 The Abbasid Caliphate and the Golden Age 750-1258 CE
+## Period 3 - The Abbasid Caliphate and the Golden Age 750-1258 CE
 
 **Capital:** Baghdad (Iraq), founded 762 CE
 **Founded by:** As-Saffah, overthrowing the Umayyads
@@ -128,7 +128,7 @@ The Mihna ended under Caliph al-Mutawakkil (847 CE) who restored Ahlus Sunnah an
 
 ---
 
-## Period 4 The Mongol Invasions 1206–1258 CE
+## Period 4 - The Mongol Invasions 1206–1258 CE
 
 **1258 CE: The Fall of Baghdad**
 
@@ -143,7 +143,7 @@ The **Mamluks of Egypt** halted the Mongol advance at the Battle of Ain Jalut (1
 
 ---
 
-## Period 5 The Ottoman Empire 1299–1922 CE
+## Period 5 - The Ottoman Empire 1299–1922 CE
 
 **Capital:** Initially Bursa, then Edirne, then Istanbul (from 1453)
 

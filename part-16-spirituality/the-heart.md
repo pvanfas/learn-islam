@@ -48,7 +48,7 @@ Imam al-Ghazali's _Ihya Ulum al-Din_ and Ibn al-Qayyim's _Madarij al-Salikin_ ar
 
 ---
 
-### Disease 1 Pride (_Kibr / Ujub_)
+### Disease 1 - Pride (_Kibr / Ujub_)
 
 **Definition:** Seeing oneself as superior to others; refusing to accept truth when it contradicts one's self-image.
 
@@ -72,7 +72,7 @@ He replied: _"Allah is Beautiful and loves beauty. Pride means rejecting the tru
 
 ---
 
-### Disease 2 Envy (_Hasad_)
+### Disease 2 - Envy (_Hasad_)
 
 **Definition:** Wishing that a blessing Allah has given another person be removed from them even if it does not come to you.
 
@@ -93,7 +93,7 @@ The Prophet commanded seeking refuge from the envier in Al-Falaq: _"...and from 
 
 ---
 
-### Disease 3 Riya' (Showing Off / Ostentation)
+### Disease 3 - Riya' (Showing Off / Ostentation)
 
 **Definition:** Performing acts of worship or good deeds for the praise and approval of people rather than for Allah alone.
 
@@ -114,7 +114,7 @@ Riya' is called the "hidden Shirk" (_Ash-Shirk al-Khafi_) because it is almost i
 
 ---
 
-### Disease 4 Hubb al-Dunya (Excessive Love of the World)
+### Disease 4 - Hubb al-Dunya (Excessive Love of the World)
 
 **Definition:** Prioritizing worldly gain, comfort, and status over the commands of Allah and the Hereafter.
 
@@ -139,7 +139,7 @@ _"The love of the world is the origin of every sin."_
 
 ---
 
-### Disease 5 Anger (_Ghadab_)
+### Disease 5 - Anger (_Ghadab_)
 
 **Definition:** Uncontrolled anger that leads to harmful speech, actions, and loss of reason.
 
@@ -164,7 +164,7 @@ _"The strong person is not the one who overcomes others by wrestling. The strong
 
 ---
 
-### Disease 6 Kibr of the Scholars Self-Deception in Worship
+### Disease 6 - Kibr of the Scholars Self-Deception in Worship
 
 This is a subtle disease of the "religious" person believing that one's worship and knowledge have elevated one above others. It combines Kibr and Riya' a particularly dangerous combination.
 

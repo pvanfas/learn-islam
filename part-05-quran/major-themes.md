@@ -26,7 +26,7 @@ _The Quran describes itself as: instruction (Mawizah), healing (Shifa'), guidanc
 
 ---
 
-## Theme 1 Tawhid: The Oneness of God
+## Theme 1 - Tawhid: The Oneness of God
 
 Tawhid is not merely one topic among many in the Quran it is the ocean in which every other topic swims. The assertion that Allah is One in His being, His lordship, and His right to worship permeates every Surah, every narrative, every legal ruling.
 
@@ -47,7 +47,7 @@ Over 750 verses in the Quran invite humanity to use reason to arrive at the trut
 
 ---
 
-## Theme 2 Prophethood and Revelation
+## Theme 2 - Prophethood and Revelation
 
 The Quran presents itself as the culmination of a long chain of divine communication and the stories of the prophets as the universal human story of truth confronting opposition.
 
@@ -70,7 +70,7 @@ This pattern repeated across Noah, Hud, Salih, Lot, Shu'ayb, Moses, Jesus, and o
 
 ---
 
-## Theme 3 The Hereafter (_Al-Akhirah_)
+## Theme 3 - The Hereafter (_Al-Akhirah_)
 
 No theme in the Quran is more emotionally vivid than the Hereafter. The Quran uses extraordinary descriptive language to make the realities of death, resurrection, judgement, Paradise, and Hell feel immediate and tangible.
 
@@ -90,7 +90,7 @@ The balance of hope and fear is characteristic of Quranic eschatology neither pu
 
 ---
 
-## Theme 4 Justice and the Rights of the Oppressed
+## Theme 4 - Justice and the Rights of the Oppressed
 
 The Quran has a consistent, passionate concern for those whom society marginalizes: the poor, the orphan, the widow, the slave, the traveler, the debtor.
 
@@ -108,7 +108,7 @@ Wealth in the Quran is never condemned but hoarding it, withholding Zakat, and u
 
 ---
 
-## Theme 5 Signs in Creation (_Ayat fi al-Kawn_)
+## Theme 5 - Signs in Creation (_Ayat fi al-Kawn_)
 
 The Quran repeatedly directs attention to the natural world as a book of divine signs parallel to the Quran itself:
 
@@ -124,7 +124,7 @@ This is why Islamic civilization produced so much scientific inquiry studying na
 
 ---
 
-## Theme 6 Community, Family, and Social Ethics
+## Theme 6 - Community, Family, and Social Ethics
 
 The Quran is not only a book of personal piety it is a comprehensive social vision:
 
@@ -150,7 +150,7 @@ The Quran is not only a book of personal piety it is a comprehensive social visi
 
 ---
 
-## Theme 7 Dua and the Relationship with Allah
+## Theme 7 - Dua and the Relationship with Allah
 
 Throughout the Quran, Allah directly addresses the believer in the first person creating a sense of intimate relationship:
 
@@ -168,7 +168,7 @@ Dozens of duas in the Quran are attributed to the prophets Ibrahim, Musa, Yunus,
 
 ---
 
-## Theme 8 The Quran's Challenge to Human Reason
+## Theme 8 - The Quran's Challenge to Human Reason
 
 The Quran is unique among scriptures in its sustained appeal to rational evidence. It does not say "believe without questioning" it challenges its critics:
 

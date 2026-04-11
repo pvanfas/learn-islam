@@ -1,4 +1,4 @@
-# Part 11 Criticism and Arguments Against Islam With Responses
+# Part 11 - Criticism and Arguments Against Islam With Responses
 
 **Difficulty:** Intermediate &nbsp;|&nbsp; **Chapters:** 6 &nbsp;|&nbsp; **Estimated reading time:** ~65 min
 

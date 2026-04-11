@@ -37,7 +37,3 @@ Three things are required before entering prayer:
 - **Wudu** (ritual purity) see [Preparation chapter](preparation.md)
 - **Knowing the Qiblah** (direction of Makkah)
 - **The prayer time must have entered** see [Prayer Times](prayer-times.md)
-
-## Next Chapter
-
-**Continue to:** [Preparation Wudu, Ghusl & Tayammum](preparation.md)

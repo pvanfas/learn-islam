@@ -1,4 +1,4 @@
-# Part 2 Foundations of Belief (Aqeedah)
+# Part 2 - Foundations of Belief (Aqeedah)
 
 **Difficulty:** Beginner &nbsp;|&nbsp; **Chapters:** 7 &nbsp;|&nbsp; **Estimated reading time:** ~55 min
 

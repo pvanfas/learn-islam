@@ -53,7 +53,3 @@ Islamic dress requirements are universal they apply to Muslim women of every eth
 - A Western Muslim woman may wear modest Western clothing with a headscarf
 
 All of these can fulfill the Islamic conditions the religion does not mandate a specific cultural style.
-
-## Next Chapter
-
-**Continue to:** [Hijab Quranic Basis & Conditions](hijab.md)

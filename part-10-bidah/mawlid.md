@@ -32,7 +32,7 @@ This is a genuine scholarly disagreement not a settled matter.
 
 ---
 
-## Position 1 The Mawlid Is Bid'ah (Not Permitted)
+## Position 1 - The Mawlid Is Bid'ah (Not Permitted)
 
 **Held by:** Ibn Taymiyyah, Ibn al-Qayyim, Ibn Rajab al-Hanbali, Ibn Baz, Ibn Uthaymeen, and many contemporary scholars particularly in the Gulf tradition.
 
@@ -60,7 +60,7 @@ Accepting the principle that "good innovations" are permissible opens the door t
 
 ---
 
-## Position 2 The Mawlid Is Permissible (or Recommended)
+## Position 2 - The Mawlid Is Permissible (or Recommended)
 
 **Held by:** Imam al-Suyuti, Imam Ibn Hajar al-Asqalani, Imam al-Nawawi, Imam al-Shafi'i (by implication), Imam al-Ghazali (indirectly), and many contemporary scholars particularly in the traditional Sunni mainstream.
 

@@ -8,11 +8,11 @@
 
 Islamic law is not derived from human opinion or cultural convention it is derived from a hierarchy of divine and prophetically authorized sources:
 
-### Source 1 The Quran
+### Source 1 - The Quran
 
 The **primary and supreme source**. When the Quran speaks clearly on a matter, there is no room for disagreement. Quranic rulings are _Qat'i_ (definitive) when the text is unambiguous.
 
-### Source 2 The Sunnah
+### Source 2 - The Sunnah
 
 The Prophet's practice words, actions, and approvals is the **second source**. The Quran explicitly commands following the Messenger:
 
@@ -23,13 +23,13 @@ The Prophet's practice words, actions, and approvals is the **second source**. T
 
 The Sunnah clarifies, specifies, and adds to the Quran. It is binding on all Muslims.
 
-### Source 3 Ijma' (Scholarly Consensus)
+### Source 3 - Ijma' (Scholarly Consensus)
 
 When the **qualified scholars of a generation unanimously agree** on a ruling, that consensus is binding. The Prophet said: _"My community will never unite upon misguidance."_ (Ibn Majah Hasan)
 
 Ijma' prevents the religion from being distorted by individual opinion if all qualified scholars agree, the matter is settled.
 
-### Source 4 Qiyas (Analogical Reasoning)
+### Source 4 - Qiyas (Analogical Reasoning)
 
 When a **new situation** arises not addressed by the earlier sources, scholars identify the underlying reason (_'Illah_) of an existing ruling and apply it analogically.
 
@@ -59,7 +59,3 @@ When a **new situation** arises not addressed by the earlier sources, scholars i
 - The context of the question
 
 Very few scholars in any generation are qualified for full independent Ijtihad. The rest follow the established madhabs (_Taqlid_) and consult scholars for specific questions.
-
-## Next Chapter
-
-**Continue to:** [The Four Major Sunni Madhabs](madhabs.md)
