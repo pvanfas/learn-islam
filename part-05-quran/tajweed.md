@@ -23,7 +23,7 @@ The Quran was revealed in Arabic and Arabic pronunciation is precise. A single l
 
 ## Core Rules of Tajweed
 
-### 1 Makharij al-Huruf (Points of Articulation)
+### 1. Makharij al-Huruf (Points of Articulation)
 
 Each Arabic letter has a specific point of articulation in the throat, tongue, or lips. Many letters have no English equivalent:
 
@@ -32,11 +32,11 @@ Each Arabic letter has a specific point of articulation in the throat, tongue, o
 - **خ** (Kha) uvular friction
 - **ص** (Sad) emphatic dental
 
-### 2 Ghunnah (Nasal Sound)
+### 2. Ghunnah (Nasal Sound)
 
 The letters **ن** (Nun) and **م** (Meem) produce a nasal resonance (_Ghunnah_) of 2 beats in certain contexts.
 
-### 3 Rules of Nun Sakinah and Tanwin
+### 3. Rules of Nun Sakinah and Tanwin
 
 When ن (Nun) with sukoon or Tanwin occurs before the next letter:
 
@@ -45,11 +45,11 @@ When ن (Nun) with sukoon or Tanwin occurs before the next letter:
 - **Ikhfa'** concealment with Ghunnah
 - **Izhar** clear pronunciation
 
-### 4 Madd (Prolongation)
+### 4. Madd (Prolongation)
 
 Long vowels (_Alif, Waw, Ya'_) are extended for 2, 4, or 6 beats depending on the context. Proper Madd is one of the most audible qualities distinguishing proper recitation.
 
-### 5 Waqf (Stopping)
+### 5. Waqf (Stopping)
 
 Rules for where to pause when stopping mid-recitation marked in the Quran with symbols (_م_ must stop, _ج_ permitted stop, _لا_ do not stop here).
 

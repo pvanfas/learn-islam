@@ -53,7 +53,7 @@ _"There is no compulsion in religion."_ (Surah Al-Baqarah 2:256)
 
 **What the Crusades actually were:**
 
-The First Crusade (10961099) culminated in the **Siege of Jerusalem (1099)** where the Crusader army massacred a large portion of the city's Muslim and Jewish populations. Contemporary accounts, including from Crusaders themselves, describe rivers of blood. This is not contested history.
+The First Crusade (1096–1099) culminated in the **Siege of Jerusalem (1099)** where the Crusader army massacred a large portion of the city's Muslim and Jewish populations. Contemporary accounts, including from Crusaders themselves, describe rivers of blood. This is not contested history.
 
 **The counter-example Saladin's conquest of Jerusalem (1187):**
 

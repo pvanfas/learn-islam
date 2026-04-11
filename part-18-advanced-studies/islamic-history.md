@@ -128,7 +128,7 @@ The Mihna ended under Caliph al-Mutawakkil (847 CE) who restored Ahlus Sunnah an
 
 ---
 
-## Period 4 The Mongol Invasions 12061258 CE
+## Period 4 The Mongol Invasions 1206–1258 CE
 
 **1258 CE: The Fall of Baghdad**
 
@@ -143,7 +143,7 @@ The **Mamluks of Egypt** halted the Mongol advance at the Battle of Ain Jalut (1
 
 ---
 
-## Period 5 The Ottoman Empire 12991922 CE
+## Period 5 The Ottoman Empire 1299–1922 CE
 
 **Capital:** Initially Bursa, then Edirne, then Istanbul (from 1453)
 
@@ -157,7 +157,7 @@ Sultan Mehmed II (Muhammad al-Fatih) fulfilled a centuries-old prophetic stateme
 At age 21, Mehmed conquered what had been the Byzantine Empire's capital for 1,100 years with cannon technology partially developed by Hungarian engineers he hired, and by a legendary maneuver of rolling 70 ships over land on greased logs to bypass the harbor chain.
 
 **16th Century Peak:**
-Under Sultan Suleiman the Magnificent (15201566), the Ottoman Empire controlled: Anatolia, the Balkans, Hungary, North Africa (to Morocco), the Arab world, the Caucasus, and the Red Sea. The empire protected the holy cities of Makkah and Madinah, exercising the title of _Khadim al-Haramayn_ (Servant of the Two Holy Sanctuaries).
+Under Sultan Suleiman the Magnificent (1520–1566), the Ottoman Empire controlled: Anatolia, the Balkans, Hungary, North Africa (to Morocco), the Arab world, the Caucasus, and the Red Sea. The empire protected the holy cities of Makkah and Madinah, exercising the title of _Khadim al-Haramayn_ (Servant of the Two Holy Sanctuaries).
 
 **The Decline:**
 From the late 17th century onward, a combination of military defeats (Battle of Vienna, 1683 the furthest Ottoman penetration into Europe), internal corruption, economic stagnation, and rising European power eroded the empire. By the 19th century, it was called the "sick man of Europe."
@@ -171,7 +171,7 @@ After World War I (in which the Ottomans sided with Germany), the empire was car
 
 - The four Rightly Guided Caliphs (Abu Bakr, Umar, Uthman, Ali) represent the model of Islamic governance their Sunnah is binding alongside the Prophet's .
 - The Umayyad period saw Islam's greatest geographic expansion Spain, the Indus Valley, Central Asia but political controversies including the tragedy of Karbala.
-- The Abbasid Golden Age (8th13th centuries) produced the greatest intellectual flowering in Islamic history algebra, optics, medicine, philosophy preserving and advancing human knowledge.
+- The Abbasid Golden Age (8th–13th centuries) produced the greatest intellectual flowering in Islamic history algebra, optics, medicine, philosophy preserving and advancing human knowledge.
 - The Mongol sack of Baghdad (1258) was a catastrophe but the Mongols themselves subsequently converted to Islam.
-- The Ottoman Empire (12991922) was the last great Islamic caliphate protecting the holy cities and bridging medieval and modern Muslim civilization.
+- The Ottoman Empire (1299–1922) was the last great Islamic caliphate protecting the holy cities and bridging medieval and modern Muslim civilization.
 - The fall of the Ottoman Caliphate in 1924 began the period of Muslim fragmentation and searching for identity that characterizes the modern era.

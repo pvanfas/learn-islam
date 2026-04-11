@@ -157,13 +157,13 @@ Then the Maghrib prayer is performed before continuing to eat prioritizing worsh
 
 Ramadan is not merely a dietary restriction. It is a **school for the soul** a concentrated month of spiritual training.
 
-### 1 The Purpose: Taqwa (God-Consciousness)
+### 1. The Purpose: Taqwa (God-Consciousness)
 
 The Quran states the purpose of fasting explicitly: _"...that you may become righteous (muttaqeen)."_ The Arabic word is _Taqwa_ God-consciousness, piety, a heart-state of awareness of Allah in every moment.
 
 Hunger and thirst are the means Taqwa is the destination.
 
-### 2 Fasting Belongs to Allah
+### 2. Fasting Belongs to Allah
 
 {% hint style="info" %}
 **Hadith Qudsi Sahih al-Bukhari**
@@ -173,7 +173,7 @@ Allah says: _"All deeds of the son of Adam are for himself, except fasting it is
 _Every act of worship can be observed by others and may be mixed with showing off. But fasting a private, internal act belongs to Allah alone. No one but Allah and the fasting person truly know whether they are fasting._
 {% endhint %}
 
-### 3 Two Moments of Joy
+### 3. Two Moments of Joy
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -183,7 +183,7 @@ _"The fasting person has two moments of joy: one when he breaks his fast, and on
 
 The joy of Iftar the relief and gratitude of breaking a day's fast is a preview of the greater joy awaiting the believer when they return to Allah.
 
-### 4 Quran and Ramadan
+### 4. Quran and Ramadan
 
 Ramadan is the month of the Quran. The Prophet would review the entire Quran with Jibreel every Ramadan, and in his final year, he reviewed it twice. Muslims aim to complete the Quran in Ramadan many mosques recite the entire Quran in Tarawih prayers over the 30 nights.
 

@@ -124,7 +124,7 @@ These are among the earliest documented conservation zones in human history esta
 
 ## Islamic Environmental Principles for Today
 
-### 1 No Waste (_La Israf_)
+### 1. No Waste (_La Israf_)
 
 Overconsumption is not merely an economic or environmental issue it is a spiritual one. The Quran places _Mubaddhirin_ (wasteful people) alongside the companions of Shaytan:
 
@@ -141,7 +141,7 @@ Overconsumption is not merely an economic or environmental issue it is a spiritu
 - Buy what you need, not what advertising tells you to want
 - Repair rather than replace where possible
 
-### 2 Balance (_Mizan_)
+### 2. Balance (_Mizan_)
 
 {% hint style="info" %}
 **Surah Ar-Rahman 55:79**
@@ -151,7 +151,7 @@ Overconsumption is not merely an economic or environmental issue it is a spiritu
 
 Allah created the universe in balance our responsibility is not to disturb that balance. Climate change, deforestation, ocean pollution, and species extinction are all disruptions of the _Mizan_ that Allah established.
 
-### 3 Khalifah Accountability
+### 3. Khalifah Accountability
 
 Every Muslim will be asked about the earth they were given stewardship over. The Prophet said: _"Every one of you is a shepherd and every one of you is responsible for his flock."_ This extends to the natural world entrusted to us.
 

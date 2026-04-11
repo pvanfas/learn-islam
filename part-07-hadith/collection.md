@@ -25,9 +25,9 @@ Initially, the Prophet discouraged writing Hadith to prevent confusion with the 
 
 After the Quran's standardization under Uthman (RA), the prohibition on writing Hadith was fully lifted.
 
-## The Era of Major Collection 2nd3rd Century AH
+## The Era of Major Collection 2nd–3rd Century AH
 
-The systematic collection of Hadith into major works occurred approximately 150250 years after the Prophet though the narrations themselves had been continuously transmitted from the beginning.
+The systematic collection of Hadith into major works occurred approximately 150–250 years after the Prophet though the narrations themselves had been continuously transmitted from the beginning.
 
 Scholars traveled thousands of miles (_Rihla fi talab al-Ilm_ journey in seeking knowledge) to find narrators and verify chains. Imam al-Bukhari reportedly examined 600,000 Hadith before selecting the ~7,000 he included in his Sahih.
 

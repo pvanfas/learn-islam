@@ -10,7 +10,7 @@ The **Kutub al-Sittah** (the Six Books) are the most authoritative Sunni Hadith 
 
 ---
 
-### 1 Sahih al-Bukhari
+### 1. Sahih al-Bukhari
 
 **Compiler:** Imam Muhammad ibn Ismail al-Bukhari (194-256 AH / 810-870 CE)
 
@@ -22,7 +22,7 @@ His methodology: he prayed two Rak'ahs before including each Hadith, performed G
 
 ---
 
-### 2 Sahih Muslim
+### 2. Sahih Muslim
 
 **Compiler:** Imam Muslim ibn al-Hajjaj al-Nisaburi (206-261 AH / 821-875 CE)
 
@@ -32,7 +32,7 @@ Together, Sahih al-Bukhari and Sahih Muslim are known as **Al-Sahihayn** (the Tw
 
 ---
 
-### 3 Sunan Abu Dawud
+### 3. Sunan Abu Dawud
 
 **Compiler:** Imam Abu Dawud al-Sijistani (202-275 AH / 817-889 CE)
 
@@ -40,7 +40,7 @@ Contains ~5,274 Hadith focusing especially on legal (_Fiqh_) matters the most co
 
 ---
 
-### 4 Jami' at-Tirmidhi
+### 4. Jami' at-Tirmidhi
 
 **Compiler:** Imam Muhammad ibn Isa al-Tirmidhi (209-279 AH / 824-892 CE)
 
@@ -48,7 +48,7 @@ Notable for noting the scholarly opinions associated with each Hadith very usefu
 
 ---
 
-### 5 Sunan al-Nasa'i
+### 5. Sunan al-Nasa'i
 
 **Compiler:** Imam Ahmad ibn Shu'ayb al-Nasa'i (215-303 AH / 830-915 CE)
 
@@ -56,7 +56,7 @@ Strict in narrator criteria some scholars place it third in authority after the 
 
 ---
 
-### 6 Sunan Ibn Majah
+### 6. Sunan Ibn Majah
 
 **Compiler:** Imam Muhammad ibn Yazid ibn Majah (209-273 AH / 824-887 CE)
 

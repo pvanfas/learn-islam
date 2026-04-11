@@ -77,7 +77,7 @@ The Byzantine historian **Theophanes the Confessor**, writing decades after the 
 
 ---
 
-## Phase 3 Trade Routes (7th15th Centuries CE)
+## Phase 3 Trade Routes (7th–15th Centuries CE)
 
 ### Islam That Was Never Conquered Into
 
@@ -97,7 +97,7 @@ The trans-Saharan trade routes connecting North Africa with the kingdoms of Mali
 
 ---
 
-## Phase 4 Sufi Missionaries (10th18th Centuries CE)
+## Phase 4 Sufi Missionaries (10th–18th Centuries CE)
 
 ### The Spiritual Ambassadors
 

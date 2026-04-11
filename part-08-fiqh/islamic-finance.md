@@ -80,7 +80,7 @@ Additionally, Riba commodifies time treating the passage of time as a commodity 
 
 ## Halal Alternatives to Interest-Based Finance
 
-### 1 Murabahah (Cost-Plus Sale)
+### 1. Murabahah (Cost-Plus Sale)
 
 **How it works:** The bank purchases an asset (home, car, equipment) and sells it to the customer at a higher price with the markup disclosed. The customer pays the bank in installments.
 
@@ -88,7 +88,7 @@ Additionally, Riba commodifies time treating the passage of time as a commodity 
 
 **Used for:** Home financing, car purchases, equipment.
 
-### 2 Ijarah (Islamic Leasing)
+### 2. Ijarah (Islamic Leasing)
 
 **How it works:** The bank purchases an asset and leases it to the customer for a monthly payment. At the end of the term, ownership may transfer to the customer.
 
@@ -96,7 +96,7 @@ Additionally, Riba commodifies time treating the passage of time as a commodity 
 
 **Used for:** Property, equipment, vehicle financing.
 
-### 3 Musharakah (Partnership)
+### 3. Musharakah (Partnership)
 
 **How it works:** The bank and customer jointly purchase an asset (typically a property). The customer makes monthly payments part as rent for using the bank's share, part as purchase of the bank's share. The bank's share decreases over time until the customer owns it fully (_Diminishing Musharakah_).
 
@@ -104,7 +104,7 @@ Additionally, Riba commodifies time treating the passage of time as a commodity 
 
 **Used for:** Home ownership one of the most widely used Islamic mortgage alternatives.
 
-### 4 Mudarabah (Profit-Sharing)
+### 4. Mudarabah (Profit-Sharing)
 
 **How it works:** An investor provides capital; an entrepreneur provides skill and management. Profits are split according to a pre-agreed ratio. Losses fall on the investor (unless caused by the entrepreneur's negligence).
 
@@ -112,7 +112,7 @@ Additionally, Riba commodifies time treating the passage of time as a commodity 
 
 **Used for:** Business investment, Islamic banking deposits, Islamic funds.
 
-### 5 Sukuk (Islamic Bonds)
+### 5. Sukuk (Islamic Bonds)
 
 **How it works:** Instead of bonds (debt instruments paying interest), Sukuk represent ownership shares in assets or projects. Returns come from the performance of those assets not from guaranteed interest.
 

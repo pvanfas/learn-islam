@@ -31,7 +31,7 @@ All three schools are within Ahlus Sunnah they represent different methodologica
 
 ### School 1 Ash'ari
 
-**Founded by:** Imam Abu al-Hasan al-Ash'ari (260324 AH / 874936 CE)
+**Founded by:** Imam Abu al-Hasan al-Ash'ari (260–324 AH / 874–936 CE)
 
 **Background:** Al-Ash'ari was originally a Mu'tazilite (a rationalist theological school) student of Al-Jubbai. He publicly broke with the Mu'tazilah at age 40, declaring his return to the way of the Companions and Imam Ahmad ibn Hanbal but bringing his formidable rational toolkit with him.
 
@@ -51,7 +51,7 @@ All three schools are within Ahlus Sunnah they represent different methodologica
 
 ### School 2 Maturidi
 
-**Founded by:** Imam Abu Mansur al-Maturidi (238333 AH / 853944 CE) of Samarkand (modern Uzbekistan)
+**Founded by:** Imam Abu Mansur al-Maturidi (238–333 AH / 853–944 CE) of Samarkand (modern Uzbekistan)
 
 **Background:** Developed simultaneously with the Ash'ari school in the eastern lands of Islam the two emerged independently and reached very similar conclusions, with minor differences.
 
@@ -67,7 +67,7 @@ All three schools are within Ahlus Sunnah they represent different methodologica
 
 ### School 3 Athari (Salafi/Hanbali)
 
-**Associated with:** Imam Ahmad ibn Hanbal (164241 AH), later Ibn Taymiyyah (661728 AH) and Ibn al-Qayyim al-Jawziyyah (691751 AH)
+**Associated with:** Imam Ahmad ibn Hanbal (164–241 AH), later Ibn Taymiyyah (661–728 AH) and Ibn al-Qayyim al-Jawziyyah (691–751 AH)
 
 **Background:** The Athari school sometimes called _Salafi_ (those following the Salaf / early generations) holds to a more literal, text-based approach to theology. It is named for _Athar_ (narrations / traces) because it follows the narrations of the Salaf rather than rationalist theological elaboration.
 
@@ -115,7 +115,7 @@ Despite methodological differences, all three schools hold:
 
 ## The Significance of Al-Aqeedah al-Tahawiyyah
 
-One text is accepted as a foundational creed by scholars across all three schools **Al-Aqeedah al-Tahawiyyah** (The Creed of Tahawi), written by Imam Abu Ja'far al-Tahawi (239321 AH), a Hanafi jurist who was a student of Imam al-Muzani (a student of Imam al-Shafi'i).
+One text is accepted as a foundational creed by scholars across all three schools **Al-Aqeedah al-Tahawiyyah** (The Creed of Tahawi), written by Imam Abu Ja'far al-Tahawi (239–321 AH), a Hanafi jurist who was a student of Imam al-Muzani (a student of Imam al-Shafi'i).
 
 Its acceptance across schools demonstrates that the core Sunni creed is a shared inheritance the methodological differences are real but occur within a shared theological home.
 

@@ -105,7 +105,7 @@ The Maliki madhab is followed by approximately **25% of Sunni Muslims**:
 
 ## The Shafi'i Madhab
 
-**Founder:** Imam Muhammad ibn Idris al-Shafi'i (150204 AH / 767820 CE), born in Gaza, Palestine.
+**Founder:** Imam Muhammad ibn Idris al-Shafi'i (150–204 AH / 767–820 CE), born in Gaza, Palestine.
 
 ### His Background
 
@@ -137,7 +137,7 @@ The Shafi'i madhab is followed by approximately **15% of Sunni Muslims**:
 
 ## The Hanbali Madhab
 
-**Founder:** Imam Ahmad ibn Muhammad ibn Hanbal (164241 AH / 780855 CE), born in Baghdad.
+**Founder:** Imam Ahmad ibn Muhammad ibn Hanbal (164–241 AH / 780–855 CE), born in Baghdad.
 
 ### His Background
 

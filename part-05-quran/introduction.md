@@ -115,15 +115,15 @@ He ordered all other written copies to be destroyed not because they were wrong,
 
 ## What Makes the Quran Unique
 
-### 1 The Preserved Original Language
+### 1. The Preserved Original Language
 
 The Quran exists in its original Arabic unchanged. Unlike every other ancient religious text, there is no "original" that has been lost and only translations remain. The Arabic Quran that Muslims recite today is the same Arabic spoken by the Prophet .
 
-### 2 Mass Oral Transmission Tawatur
+### 2. Mass Oral Transmission Tawatur
 
 The Quran has been transmitted through an unbroken chain of human memory _mutawatir_ meaning so many people have memorized and transmitted it in each generation that deliberate corruption is mathematically impossible. Over **10 million people** (_Huffaz_) have memorized the entire Quran today, letter by letter. This is the largest oral preservation project in human history.
 
-### 3 The Challenge of the Quran Al-I'jaz
+### 3. The Challenge of the Quran Al-I'jaz
 
 The Quran itself challenges all of humanity to produce something comparable:
 
@@ -135,7 +135,7 @@ The Quran itself challenges all of humanity to produce something comparable:
 
 This challenge the _Tahaddi_ was issued to the Arabs who were masters of classical Arabic poetry and oratory. No one in 1,400 years has produced a text that Arabic literary scholars regard as equivalent. The Quran's literary and linguistic qualities remain in a category of their own.
 
-### 4 It Is Recited, Not Just Read
+### 4. It Is Recited, Not Just Read
 
 The Quran is not merely a text to read silently. It is a recitation _Qira'ah_ that has specific rules of pronunciation (_Tajweed_), specific melodies, and specific etiquette. Hearing the Quran recited beautifully is itself described as having physical and spiritual effects on the listener.
 

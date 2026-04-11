@@ -69,7 +69,7 @@ The scholars of hadith have graded these narrations carefully. Throughout this p
 
 Islamic eschatology is one of the most misused areas of Islamic knowledge. People have been predicting the imminent end of the world in every generation for 1,400 years. Some have exploited these narrations to justify extremism, to recruit followers, or to cause panic. The balanced, scholarly approach requires several principles:
 
-### 1 Know What Allah Withheld
+### 1. Know What Allah Withheld
 
 The exact time of the Hour is known only to Allah. This is from the Five Things that Allah alone knows (_Al-Mafatih al-Ghayb_):
 
@@ -81,7 +81,7 @@ The exact time of the Hour is known only to Allah. This is from the Five Things 
 
 No scholar, no imam, no astrologer, and no algorithm can tell you when the Hour will come. Anyone who claims to know is a liar.
 
-### 2 The Signs Are for Awareness, Not Obsession
+### 2. The Signs Are for Awareness, Not Obsession
 
 The Prophet described the signs so that Muslims would:
 
@@ -97,7 +97,7 @@ They were not described so that Muslims could:
 - Abandon worldly responsibility out of eschatological fatalism
 - Use signs as a weapon to generate fear and recruit followers
 
-### 3 Match the Signs to Authentic Text Not Current Events Forced onto Prophecy
+### 3. Match the Signs to Authentic Text Not Current Events Forced onto Prophecy
 
 Every generation has been tempted to map the prophecies of the end onto the political events of their own era. In the 20th century, some mapped the signs to the World Wars, then the Cold War, then the Gulf War. In the 21st century, to 9/11, ISIS, COVID-19.
 

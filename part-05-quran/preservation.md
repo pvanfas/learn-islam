@@ -18,7 +18,7 @@ _This is a divine promise and the history of Quranic preservation is its fulfill
 
 From the very first revelation, the Quran was preserved through two simultaneous channels:
 
-### 1 Written Transmission (_Kitabah_)
+### 1. Written Transmission (_Kitabah_)
 
 The Prophet had designated **scribes** who wrote down every verse as it was revealed. He would dictate, specify exactly where each verse belonged in the Quranic sequence, and the scribes would record it on:
 
@@ -27,7 +27,7 @@ The Prophet had designated **scribes** who wrote down every verse as it was reve
 - Shoulder bones (_Aktaf_)
 - Leather pieces
 
-### 2 Oral Transmission (_Hifz_)
+### 2. Oral Transmission (_Hifz_)
 
 Simultaneously, thousands of Companions memorized the Quran entire chapters and eventually the full text. The oral tradition was primary. The Prophet himself reviewed the entire Quran with Jibreel (AS) annually, and in his final year, twice.
 

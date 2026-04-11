@@ -82,7 +82,7 @@ These goals are not only compatible with Sharia they ARE the inner dimension of 
 
 ## The Major Figures of Islamic Spirituality
 
-### Imam al-Ghazali (450505 AH / 10581111 CE)
+### Imam al-Ghazali (450–505 AH / 1058–1111 CE)
 
 Without question the most influential Islamic scholar on the interior life. His **Ihya Ulum al-Din** (Revival of the Religious Sciences) is the most comprehensive work ever written on Islamic spirituality covering theology, worship, the diseases of the heart, and the path of salvation.
 
@@ -104,7 +104,7 @@ One of the most celebrated figures in Islamic spirituality a woman whose love of
 
 Her articulation of _pure love_ (_Hubb Khalis_) as the highest motivation for worship influenced generations of Sufi thought.
 
-### Ibn Arabi (560638 AH / 11651240 CE)
+### Ibn Arabi (560–638 AH / 1165–1240 CE)
 
 One of the most complex and controversial figures in Islamic thought. His metaphysical system particularly the concept of _Wahdat al-Wujud_ (Unity of Being) has been interpreted by some as pantheism and criticized by major scholars including Ibn Taymiyyah. Others defend him as being misunderstood.
 

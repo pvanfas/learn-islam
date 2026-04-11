@@ -69,7 +69,7 @@ The Prophet said that a man might pray a prayer and only a tenth of it, or a hal
 
 ## How to Achieve Khushu'
 
-### 1 Prepare Before the Prayer
+### 1. Prepare Before the Prayer
 
 Do not rush into prayer from the middle of an activity. Take a moment:
 
@@ -77,19 +77,19 @@ Do not rush into prayer from the middle of an activity. Take a moment:
 - Move toward the prayer space intentionally
 - Stand for a moment before the Takbir and consciously recognize: _"I am about to stand before Allah"_
 
-### 2 Understand What You Are Saying
+### 2. Understand What You Are Saying
 
 The single greatest obstacle to Khushu' is reciting words in Arabic without knowing their meaning. Learn the translation of Al-Fatihah, the Tashahhud, and the dhikr of each position so that every word you say is alive with meaning.
 
-### 3 Vary Your Quranic Recitation
+### 3. Vary Your Quranic Recitation
 
 Reciting the same Surah in every prayer creates habit that bypasses attention. Expand your Quranic repertoire learn new Surahs, recite slowly, think about what you are reciting.
 
-### 4 Slow Down
+### 4. Slow Down
 
 The Prophet told a man who prayed quickly to _"go back and pray again you have not prayed."_ Each position must be held with _Tuma'ninah_ stillness and rest. Rushing through Ruku' and Sujood is one of the most common destroyers of prayer quality.
 
-### 5 Think About the Last Prayer
+### 5. Think About the Last Prayer
 
 Pray every prayer as if it might be your last. The Prophet advised: _"When you stand in prayer, pray the prayer of one bidding farewell."_ (Ibn Majah Hasan)
 

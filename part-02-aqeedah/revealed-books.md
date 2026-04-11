@@ -53,7 +53,7 @@ Beyond these four, the Quran indicates that Ibrahim (AS) received revealed pages
 
 ## What Muslims Believe About These Books
 
-### 1 They Were Originally from Allah
+### 1. They Were Originally from Allah
 
 Muslims believe that the Torah given to Musa (AS), the Psalms given to Dawud (AS), and the Gospel given to Isa (AS) were genuine divine revelations the word of Allah in their original form. They contained guidance, law, and truth.
 
@@ -63,7 +63,7 @@ Muslims believe that the Torah given to Musa (AS), the Psalms given to Dawud (AS
 **Translation:** "Indeed, We sent down the Torah, in which was guidance and light. The prophets who submitted to Allah judged by it for the Jews..."
 {% endhint %}
 
-### 2 They Were Altered (_Tahrif_)
+### 2. They Were Altered (_Tahrif_)
 
 Muslims also believe the earlier scriptures did not survive in their original form. Over centuries of transmission through scribes, translations, editorial processes, and political pressures the original text was subject to _Tahrif_ (alteration): additions, deletions, mistranslations, and interpolations.
 
@@ -75,7 +75,7 @@ Muslims also believe the earlier scriptures did not survive in their original fo
 
 This is not a claim that everything in the Bible is false but that it is a mixture of original divine truth and human addition, distortion, and mistranslation. Scholars have found this position increasingly supported by textual criticism of the Bible itself, which identifies multiple authors, editorial hands, and later insertions in both the Old and New Testaments.
 
-### 3 The Quran Confirms and Corrects
+### 3. The Quran Confirms and Corrects
 
 The Quran came as a **guardian over** (_Muhaymin_) the earlier scriptures:
 

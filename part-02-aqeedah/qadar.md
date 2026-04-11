@@ -134,7 +134,7 @@ Islamic theology answers this through several key principles:
 
 Understanding Qadar is not a theological exercise. It is one of the most psychologically liberating beliefs a human being can hold.
 
-### 1 It Removes Fear of the Future
+### 1. It Removes Fear of the Future
 
 If Allah has already decreed your provision, your lifespan, and your destiny there is no room for crippling anxiety about what has not yet come. You take the means available to you, then trust Allah.
 
@@ -144,7 +144,7 @@ If Allah has already decreed your provision, your lifespan, and your destiny the
 The Prophet said: _"Know that if the whole world were to gather together to benefit you, they could only benefit you with what Allah has already written for you. And if they were to gather together to harm you, they could only harm you with what Allah has already written against you."_
 {% endhint %}
 
-### 2 It Transforms Hardship
+### 2. It Transforms Hardship
 
 When difficulty comes illness, loss, failure Qadar teaches that this was decreed by the One who loves you more than your mother loves you, the One whose mercy precedes His anger, the One who never decrees something for a believer without a wisdom behind it.
 
@@ -154,11 +154,11 @@ When difficulty comes illness, loss, failure Qadar teaches that this was decreed
 The Prophet said: _"Wondrous is the affair of the believer, for all of his affairs are good and that is for no one except the believer. If something good happens to him, he is grateful, and that is good for him. And if something harmful happens to him, he is patient, and that is good for him."_
 {% endhint %}
 
-### 3 It Prevents Arrogance in Success
+### 3. It Prevents Arrogance in Success
 
 When something good comes wealth, health, honor Qadar reminds the Muslim that this was a gift from Allah, not earned purely by one's own cleverness or effort. This cultivates gratitude (_Shukr_) and humility instead of pride.
 
-### 4 It Prevents Paralysis in Action
+### 4. It Prevents Paralysis in Action
 
 Qadar is sometimes misunderstood as: _"Whatever will be, will be so why try?"_ This is the opposite of the Islamic understanding. When the Companions asked the Prophet : _"Shall we not rely on our decree and abandon action?"_ He replied:
 

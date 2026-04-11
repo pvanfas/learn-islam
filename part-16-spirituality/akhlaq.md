@@ -38,7 +38,7 @@ Character (_Akhlaq_) in Islam is not a supplement to worship it IS worship. The 
 
 ---
 
-### 1 Truthfulness (_Sidq_)
+### 1. Truthfulness (_Sidq_)
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -56,7 +56,7 @@ Truthfulness is the foundation virtue the one the Prophet was known for before p
 
 ---
 
-### 2 Trustworthiness (_Amanah_)
+### 2. Trustworthiness (_Amanah_)
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -75,7 +75,7 @@ The Quran calls trusteeship (_Amanah_) a weight so great that the heavens and ea
 
 ---
 
-### 3 Humility (_Tawadu'_)
+### 3. Humility (_Tawadu'_)
 
 {% hint style="info" %}
 **Hadith Sahih Muslim**
@@ -96,7 +96,7 @@ The Prophet ate on the floor, wore simple clothing, carried his own goods, and w
 
 ---
 
-### 4 Generosity (_Karam / Jud_)
+### 4. Generosity (_Karam / Jud_)
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -121,7 +121,7 @@ The categories of generosity in Islam:
 
 ---
 
-### 5 Patience (_Sabr_) Revisited as Virtue
+### 5. Patience (_Sabr_) Revisited as Virtue
 
 Sabr as a virtue operates in three directions simultaneously:
 
@@ -139,7 +139,7 @@ The Prophet said: _"No one has been given a gift better and more comprehensive t
 
 ---
 
-### 6 Gratitude (_Shukr_)
+### 6. Gratitude (_Shukr_)
 
 {% hint style="info" %}
 **Surah Ibrahim 14:7**
@@ -157,7 +157,7 @@ The Prophet would pray Tahajjud until his feet swelled and when asked why, given
 
 ---
 
-### 7 Mercy and Compassion (_Rahmah_)
+### 7. Mercy and Compassion (_Rahmah_)
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari and Muslim**
@@ -182,7 +182,7 @@ Mercy in practice:
 
 ---
 
-### 8 Justice (_'Adl_)
+### 8. Justice (_'Adl_)
 
 {% hint style="info" %}
 **Surah An-Nisa 4:135**
@@ -196,7 +196,7 @@ The Prophet said: _"A day of justice by a just ruler is better than sixty years 
 
 ---
 
-### 9 Forgiveness (_'Afw_)
+### 9. Forgiveness (_'Afw_)
 
 {% hint style="info" %}
 **Surah Al-Imran 3:134**
@@ -214,7 +214,7 @@ The Prophet forgave those who had tortured his Companions, killed his family, an
 
 ---
 
-### 10 Controlling the Tongue
+### 10. Controlling the Tongue
 
 {% hint style="info" %}
 **Hadith Sunan at-Tirmidhi (Sahih)**

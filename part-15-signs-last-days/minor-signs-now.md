@@ -45,7 +45,7 @@ The following signs described in authentic hadith appear to be observable in our
 
 ---
 
-### 1 The Spread of Zina (Fornication) and Its Normalization
+### 1. The Spread of Zina (Fornication) and Its Normalization
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -57,7 +57,7 @@ The Prophet described a time when fornication would not merely occur in secret (
 
 ---
 
-### 2 Widespread Consumption of Alcohol and Music
+### 2. Widespread Consumption of Alcohol and Music
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -69,7 +69,7 @@ The global music industry generates hundreds of billions of dollars annually. Al
 
 ---
 
-### 3 Time Moving Faster
+### 3. Time Moving Faster
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -81,7 +81,7 @@ Every generation reports that life feels faster than the previous generation's. 
 
 ---
 
-### 4 Increase in Earthquakes
+### 4. Increase in Earthquakes
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -93,7 +93,7 @@ Seismological data shows that earthquake frequency and intensity have been obser
 
 ---
 
-### 5 Tall Buildings Built by People of the Arabian Peninsula
+### 5. Tall Buildings Built by People of the Arabian Peninsula
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -105,7 +105,7 @@ The transformation of the Arabian Peninsula specifically the Gulf states from su
 
 ---
 
-### 6 The Disappearance of Knowledge and Spread of Religious Ignorance
+### 6. The Disappearance of Knowledge and Spread of Religious Ignorance
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -117,7 +117,7 @@ The Prophet clarified that knowledge is not taken from books but from the hearts
 
 ---
 
-### 7 The Prevalence of Killing
+### 7. The Prevalence of Killing
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -129,7 +129,7 @@ The 20th century was the bloodiest in human history two World Wars, regional con
 
 ---
 
-### 8 Women Outnumbering Men
+### 8. Women Outnumbering Men
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -141,7 +141,7 @@ Wars, conflict, and higher male mortality rates have created significant gender 
 
 ---
 
-### 9 Trusts Will Be Neglected and Untrustworthy People Given Authority
+### 9. Trusts Will Be Neglected and Untrustworthy People Given Authority
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -153,7 +153,7 @@ The placement of people in positions of authority based on connections, money, a
 
 ---
 
-### 10 Seeking Religious Rulings From the Unqualified
+### 10. Seeking Religious Rulings From the Unqualified
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**

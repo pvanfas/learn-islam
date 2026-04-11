@@ -49,7 +49,7 @@ For full detail on the marriage contract, its pillars, and the rights within mar
 
 ## Types of Divorce
 
-### 1 Talaq (Husband-Initiated)
+### 1. Talaq (Husband-Initiated)
 
 The husband has the right to pronounce Talaq. Islamic law specifies how this must be done to be valid and revocable.
 
@@ -71,7 +71,7 @@ The husband has the right to pronounce Talaq. Islamic law specifies how this mus
 - Pronouncing all three Talaqs at once considered sinful, though the madhabs differ on whether it counts as one or three
 - Pronouncing Talaq while the wife is menstruating (_Talaq Bid'i_) forbidden but valid according to most scholars
 
-### 2 Khul' (Wife-Initiated Divorce)
+### 2. Khul' (Wife-Initiated Divorce)
 
 The wife has the right to initiate divorce by returning the Mahr to the husband. This requires:
 
@@ -87,7 +87,7 @@ The wife has the right to initiate divorce by returning the Mahr to the husband.
 **Translation:** "...And it is not lawful for you to take back from them anything of what you have given them unless both fear that they will not keep within the limits of Allah. And if you fear that they will not keep within the limits of Allah, there is no blame upon either of them concerning that by which she ransoms herself..."
 {% endhint %}
 
-### 3 Faskh (Judicial Annulment)
+### 3. Faskh (Judicial Annulment)
 
 A judge may annul a marriage when:
 

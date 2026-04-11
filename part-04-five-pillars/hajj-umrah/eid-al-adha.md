@@ -40,7 +40,7 @@ The lesson: the act of sacrifice is not about the animal it is about surrenderin
 | Day              | Name                            | Activity                                           |
 | ---------------- | ------------------------------- | -------------------------------------------------- |
 | 10th Dhul Hijjah | Yawm al-Nahr (Day of Sacrifice) | Eid prayer, then Qurbani                           |
-| 11th13th         | Ayyam al-Tashriq                | Continued celebration; Hajj pilgrims still in Mina |
+| 11th–13th        | Ayyam al-Tashriq                | Continued celebration; Hajj pilgrims still in Mina |
 
 **Important:** Do NOT eat before the Eid prayer on Eid al-Adha eat after the Qurbani is done. This is the opposite of Eid al-Fitr, where eating before the prayer is Sunnah.
 

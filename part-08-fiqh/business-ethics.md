@@ -17,11 +17,11 @@ _"The truthful, trustworthy merchant will be with the Prophets, the truthful, an
 
 ## Prohibited Elements in Contracts
 
-### 1 Riba (Interest)
+### 1. Riba (Interest)
 
 All forms of predetermined increase on loans categorically prohibited. See [Islamic Finance](islamic-finance.md) for full treatment.
 
-### 2 Gharar (Excessive Uncertainty)
+### 2. Gharar (Excessive Uncertainty)
 
 Transactions where the subject matter is fundamentally uncertain forbidden.
 
@@ -33,13 +33,13 @@ Transactions where the subject matter is fundamentally uncertain forbidden.
 
 **Permitted uncertainty:** Minor uncertainty inherent in all trade is permitted the prohibition applies to _excessive_ or _fundamental_ uncertainty.
 
-### 3 Maysir (Gambling)
+### 3. Maysir (Gambling)
 
 Any transaction where one party's gain is purely another's loss through chance prohibited.
 
 **Note:** Insurance involves elements of uncertainty Islamic scholars have developed _Takaful_ (mutual guarantee) as a Sharia-compliant alternative.
 
-### 4 Exploitation and Deception
+### 4. Exploitation and Deception
 
 - False advertising
 - Hiding defects in goods being sold

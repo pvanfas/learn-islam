@@ -85,7 +85,7 @@ _"Wondrous is the affair of the believer all of it is good for him. If good come
 
 In Islamic theology, trials are never pointless. They serve multiple divine purposes:
 
-### 1 Trials Expiate Sins
+### 1. Trials Expiate Sins
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari and Muslim**
@@ -95,7 +95,7 @@ _"No fatigue, illness, worry, sadness, harm, or distress afflicts a Muslim even 
 
 The smallest discomfort carries spiritual weight. You are being purified as you suffer sins are being removed without you even being aware of it.
 
-### 2 Trials Elevate Rank
+### 2. Trials Elevate Rank
 
 {% hint style="info" %}
 **Hadith Tirmidhi (Sahih)**
@@ -105,11 +105,11 @@ _"The greatest reward comes with the greatest trial. When Allah loves a people, 
 
 Trials that are met with patience elevate the believer's rank in ways that decades of comfortable worship may not. The prophets were tested more severely than anyone because their rank was highest.
 
-### 3 Trials Reveal Character
+### 3. Trials Reveal Character
 
 Difficulty reveals what a person is truly made of. In comfort, many people appear virtuous. In crisis, the truth of a person's relationship with Allah becomes clear. The trial is, in some sense, a gift it shows you who you actually are.
 
-### 4 Trials Redirect Attention
+### 4. Trials Redirect Attention
 
 When the world is comfortable, the human heart naturally turns away from Allah toward dunya (worldly life). Difficulty interrupts this drift it forces the heart back toward its true anchor. Many people find that their relationship with Allah was never deeper than in their hardest moments.
 

@@ -64,7 +64,7 @@ The Quran commands Salah but does not describe how to pray. It commands Zakat bu
 
 Every authentic Hadith has two components:
 
-### 1 The Isnad (Chain of Narrators)
+### 1. The Isnad (Chain of Narrators)
 
 The _Isnad_ is the list of people who transmitted the Hadith from the final collector back to the person who witnessed it directly from the Prophet .
 
@@ -73,7 +73,7 @@ _"Imam al-Bukhari said: I was told by Abd Allah ibn Maslamah, who was told by Ma
 
 The Isnad is a complete human chain from the 9th-century collector all the way back to a Companion who personally witnessed the event.
 
-### 2 The Matn (Text)
+### 2. The Matn (Text)
 
 The _Matn_ is the actual content what the Prophet said, did, or approved. The Matn is evaluated both through the Isnad's reliability and through its internal consistency with the Quran and established Sunnah.
 

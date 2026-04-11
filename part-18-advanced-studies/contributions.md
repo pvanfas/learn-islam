@@ -6,7 +6,7 @@
 
 ## In This Chapter
 
-> From algebra to optics, from hospitals to universities, from coffee to the three-course meal Islamic civilization's contributions to humanity are enormous, underappreciated, and foundational to the modern world. This chapter surveys the major areas of Islamic intellectual achievement during the Golden Age (8th13th centuries CE) and their legacy.
+> From algebra to optics, from hospitals to universities, from coffee to the three-course meal Islamic civilization's contributions to humanity are enormous, underappreciated, and foundational to the modern world. This chapter surveys the major areas of Islamic intellectual achievement during the Golden Age (8th–13th centuries CE) and their legacy.
 
 ---
 
@@ -119,7 +119,7 @@ Commissioned by the Norman King Roger II of Sicily, Al-Idrisi produced the most 
 
 **The Great Mosque of Córdoba** (785-987 CE) one of the most beautiful buildings in human history; its hypostyle hall of 856 columns influenced cathedral architecture across Europe.
 
-**The Alhambra Palace** (Granada, Spain, 13th14th century) a masterwork of Islamic geometric art, muqarnas (honeycomb vaulting), calligraphic decoration, and the integration of water into architecture.
+**The Alhambra Palace** (Granada, Spain, 13th–14th century) a masterwork of Islamic geometric art, muqarnas (honeycomb vaulting), calligraphic decoration, and the integration of water into architecture.
 
 **The Dome of the Rock** (Jerusalem, 691 CE) one of the oldest extant Islamic buildings; its octagonal design and golden dome influenced Byzantine and later Christian church architecture.
 

@@ -10,7 +10,7 @@ This chapter describes practices that Islamic scholarship classifies as Bid'ah o
 
 ---
 
-## 1 Commemorating the 40th Day After Death
+## 1. Commemorating the 40th Day After Death
 
 **The practice:** Gathering on the 40th day (or the anniversary) after a person's death to recite Quran, feed people, and pray for the deceased.
 
@@ -20,7 +20,7 @@ This chapter describes practices that Islamic scholarship classifies as Bid'ah o
 
 ---
 
-## 2 Congregational Dhikr in Specific Unestablished Formulas
+## 2. Congregational Dhikr in Specific Unestablished Formulas
 
 Dhikr in congregation is established in the Sunnah. The issue arises when specific:
 
@@ -33,7 +33,7 @@ Dhikr in congregation is established in the Sunnah. The issue arises when specif
 
 ---
 
-## 3 Specific Night Prayers Not Established
+## 3. Specific Night Prayers Not Established
 
 Some communities perform special prayers on specific nights (15th of Sha'ban, first Friday of Rajab, etc.) with claims of specific rewards. When investigated, these narrations are typically fabricated or very weak.
 
@@ -41,7 +41,7 @@ Some communities perform special prayers on specific nights (15th of Sha'ban, fi
 
 ---
 
-## 4 Innovations in the Funeral Process
+## 4. Innovations in the Funeral Process
 
 **Examples:**
 
@@ -53,7 +53,7 @@ Some communities perform special prayers on specific nights (15th of Sha'ban, fi
 
 ---
 
-## 5 Adding Prayers to the Adhan
+## 5. Adding Prayers to the Adhan
 
 In some regions, additional phrases are added to the Adhan phrases not found in the established Sunnah narrations. The Adhan is a fixed text transmitted from the Prophet through Bilal (RA) additions are Bid'ah regardless of their content.
 

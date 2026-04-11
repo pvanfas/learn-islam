@@ -10,7 +10,7 @@
 
 ---
 
-## 1 Jumu'ah (The Friday Prayer)
+## 1. Jumu'ah (The Friday Prayer)
 
 ### What Is It?
 
@@ -60,7 +60,7 @@ Maximize dua in the last hour of Friday afternoon this is the weekly window of g
 
 ---
 
-## 2 Tahajjud (The Night Prayer)
+## 2. Tahajjud (The Night Prayer)
 
 ### What Is It?
 
@@ -87,7 +87,7 @@ Even **2 Rak'ahs** of Tahajjud prayed consistently carries enormous reward. Begi
 
 ---
 
-## 3 Witr Prayer
+## 3. Witr Prayer
 
 ### What Is It?
 
@@ -119,7 +119,7 @@ _اللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَع�
 
 ---
 
-## 4 Eid Prayers
+## 4. Eid Prayers
 
 ### What Is It?
 
@@ -148,7 +148,7 @@ Eid prayer is **Wajib (obligatory)** according to Hanafi and Hanbali schools, an
 
 ---
 
-## 5 Janazah (The Funeral Prayer)
+## 5. Janazah (The Funeral Prayer)
 
 ### What Is It?
 
@@ -187,7 +187,7 @@ For a child: use a different specific dua appropriate for children.
 
 ---
 
-## 6 Istikhara (The Prayer of Guidance)
+## 6. Istikhara (The Prayer of Guidance)
 
 ### What Is It?
 

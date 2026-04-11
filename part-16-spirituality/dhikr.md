@@ -100,15 +100,15 @@ Abu Hurairah (RA) reported: _"Saying Subhanallah 100 times in the morning and 10
 
 Recite these after the Fajr prayer they establish protection and Barakah for the entire day.
 
-### 1 Ayat al-Kursi (×1)
+### 1. Ayat al-Kursi (×1)
 
 Protection through the morning until the evening.
 
-### 2 Al-Ikhlas, Al-Falaq, An-Nas (×3 each)
+### 2. Al-Ikhlas, Al-Falaq, An-Nas (×3 each)
 
 _"Whoever recites them three times in the morning and three times in the evening they suffice him against everything."_ (Abu Dawud Sahih)
 
-### 3 The Master of Istighfar (_Sayyid al-Istighfar_)
+### 3. The Master of Istighfar (_Sayyid al-Istighfar_)
 
 {% hint style="info" %}
 _اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ لَكَ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ_
@@ -120,7 +120,7 @@ _اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّ
 _The Prophet said: "Whoever says this in the morning with certainty and dies before evening will be from the people of Paradise. And whoever says it in the evening with certainty and dies before morning will be from the people of Paradise."_ (Sahih al-Bukhari)
 {% endhint %}
 
-### 4 Protection Dua (×3 morning and evening)
+### 4. Protection Dua (×3 morning and evening)
 
 {% hint style="info" %}
 _بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ_
@@ -132,7 +132,7 @@ _بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اس�
 _"Whoever says this three times in the morning, nothing will harm him until evening. Whoever says it three times in the evening, nothing will harm him until morning."_ (Abu Dawud Sahih)
 {% endhint %}
 
-### 5 Subhanallah, Alhamdulillah, Allahu Akbar (×33 each)
+### 5. Subhanallah, Alhamdulillah, Allahu Akbar (×33 each)
 
 After every obligatory prayer as taught in the Tasbihat prayer.
 

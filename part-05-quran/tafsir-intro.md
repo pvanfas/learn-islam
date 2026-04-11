@@ -20,19 +20,19 @@ Tafsir addresses all of these dimensions.
 
 ## The Levels of Tafsir
 
-### 1 The Quran Explains Itself
+### 1. The Quran Explains Itself
 
 The most authoritative form. A verse that is brief in one place is explained in detail elsewhere. Example: the command to pray (_Salah_) is detailed in verses about specific times, postures, and conditions.
 
-### 2 The Sunnah Explains the Quran
+### 2. The Sunnah Explains the Quran
 
 The Prophet was the living Tafsir of the Quran his practice demonstrates what the commands actually mean. Aisha (RA) said: _"His character was the Quran."_
 
-### 3 The Companions' Explanations
+### 3. The Companions' Explanations
 
 The Companions witnessed the revelation in context their explanations carry unique authority as eyewitnesses.
 
-### 4 Scholarly Deduction (_Ijtihad_)
+### 4. Scholarly Deduction (_Ijtihad_)
 
 Using Arabic linguistic analysis, hadith, legal principles, and scholarly consensus to interpret passages not directly explained above.
 

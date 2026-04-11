@@ -6,7 +6,7 @@
 
 ## In This Chapter
 
-> The 18th21st centuries saw Islam face unprecedented challenges colonialism, Western modernity, secularism, nationalism, and the crisis of Muslim political fragmentation. This chapter surveys the major thinkers and movements that have shaped modern Islamic thought from revivalist reformers to modernist scholars presenting their ideas and the ongoing debates they generated.
+> The 18th–21st centuries saw Islam face unprecedented challenges colonialism, Western modernity, secularism, nationalism, and the crisis of Muslim political fragmentation. This chapter surveys the major thinkers and movements that have shaped modern Islamic thought from revivalist reformers to modernist scholars presenting their ideas and the ongoing debates they generated.
 
 ---
 
@@ -145,7 +145,7 @@ Three broad answers emerged:
 
 ### Yusuf al-Qaradawi (1926-2022 CE) Qatar
 
-**The fiqh of minorities.** One of the most globally influential Islamic scholars of the 20th21st centuries. He developed the concept of _Fiqh al-Aqalliyyat_ Islamic jurisprudence for Muslim minorities living in non-Muslim countries.
+**The fiqh of minorities.** One of the most globally influential Islamic scholars of the 20th–21st centuries. He developed the concept of _Fiqh al-Aqalliyyat_ Islamic jurisprudence for Muslim minorities living in non-Muslim countries.
 
 **Key contributions:**
 

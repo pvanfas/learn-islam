@@ -88,7 +88,7 @@ _Scholars who permit the Mawlid argue: the Prophet himself expressed joy at his 
 
 **3. Imam al-Suyuti's ruling**
 
-Imam Jalal al-Din al-Suyuti (849911 AH) one of the greatest scholars in Islamic history wrote a specific treatise defending the Mawlid: _Husn al-Maqsid fi Amal al-Mawlid_. His argument: the Mawlid consists of gathering people to recite Quran, hear the Seerah, praise the Prophet , feed people, and make dua. All of these individual components have basis in the Sunnah. Their combination is not a forbidden innovation.
+Imam Jalal al-Din al-Suyuti (849–911 AH) one of the greatest scholars in Islamic history wrote a specific treatise defending the Mawlid: _Husn al-Maqsid fi Amal al-Mawlid_. His argument: the Mawlid consists of gathering people to recite Quran, hear the Seerah, praise the Prophet , feed people, and make dua. All of these individual components have basis in the Sunnah. Their combination is not a forbidden innovation.
 
 **4. The principle of Bid'ah Hasanah**
 

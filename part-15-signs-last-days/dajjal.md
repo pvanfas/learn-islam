@@ -69,7 +69,7 @@ The Prophet compared his appearance to **Abdullah ibn Qatan** (a man known to th
 
 The Dajjal will be granted supernatural powers by Allah as a test for humanity. These powers will be real, observable, and enormously persuasive:
 
-### 1 Command Over Rain and Crops
+### 1. Command Over Rain and Crops
 
 {% hint style="info" %}
 **Hadith Sahih Muslim**
@@ -79,7 +79,7 @@ _"He will come to a people and call them, and they will believe in him and respo
 
 Those who believe in him will be rewarded with rain and fertile land. Those who disbelieve will suffer drought and famine. This is the nature of the test: material survival vs. faith.
 
-### 2 He Can Kill and Revive
+### 2. He Can Kill and Revive
 
 {% hint style="info" %}
 **Hadith Sahih Muslim**
@@ -89,7 +89,7 @@ _"He will come to a young man and strike him with a sword and cut him in two the
 
 The "young man" in this narration is described in other narrations as one of the greatest believers who will confront the Dajjal, be killed, and then apparently "revived" by the Dajjal (though Islamic scholars note this is an illusion the young man's soul returns by Allah's permission, not by the Dajjal's power, and the young man will again testify that the Dajjal is a liar).
 
-### 3 His Treasure and Swiftness
+### 3. His Treasure and Swiftness
 
 He will travel the earth at extraordinary speed. The Prophet described him moving like clouds driven by the wind. He will have rivers of water and fire what appears as water will be fire, and what appears as fire will be cool water. Muslims are warned: if you encounter him, choose the apparent fire it will be safe.
 
@@ -128,7 +128,7 @@ Believers who are unable to reach Makkah or Madinah should seek safety in **Al-S
 
 The Prophet taught specific protective measures:
 
-### 1 Memorize the First 10 Verses of Surah Al-Kahf
+### 1. Memorize the First 10 Verses of Surah Al-Kahf
 
 {% hint style="info" %}
 **Hadith Sahih Muslim**
@@ -138,7 +138,7 @@ _"Whoever memorizes ten verses from the beginning of Surah Al-Kahf will be prote
 
 Surah Al-Kahf tells the story of young men who fled to a cave to protect their faith from a corrupt, powerful ruler a parallel to the believer's situation with the Dajjal. It is recommended to recite it every **Friday**.
 
-### 2 Seek Refuge from the Dajjal After Tashahhud
+### 2. Seek Refuge from the Dajjal After Tashahhud
 
 {% hint style="info" %}
 _اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ النَّارِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّال_
@@ -150,7 +150,7 @@ _اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَاب
 _(Sahih Muslim the Prophet commanded this dua after Tashahhud, before Taslim, in every prayer)_
 {% endhint %}
 
-### 3 Flee from Him
+### 3. Flee from Him
 
 {% hint style="info" %}
 **Hadith Sahih Abu Dawud**
@@ -160,7 +160,7 @@ _"Whoever hears of the Dajjal let him flee from him. By Allah, a man may come to
 
 Do not approach the Dajjal out of curiosity. Do not try to debate or test him. Flee.
 
-### 4 Firm Aqeedah Tawhid
+### 4. Firm Aqeedah Tawhid
 
 The ultimate protection is deep, unshakeable belief in Allah's Oneness. The Dajjal claims to be God and the first thing that will expose this claim to any firmly grounded believer is the simple knowledge that **Allah is not one-eyed, and Allah is not a created being**. The word _Kafir_ visible between his eyes is readable by every believer a sign that Allah has exposed him to those with faith, even as he deceives those without it.
 

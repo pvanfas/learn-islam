@@ -50,7 +50,7 @@ The standard of a genuine scientific sign is not simply that the Quran mentions 
 
 ---
 
-## 1 The Expanding Universe
+## 1. The Expanding Universe
 
 {% hint style="info" %}
 **Surah Adh-Dhariyat 51:47**
@@ -68,7 +68,7 @@ In 7th-century Arabia, the cosmological view was of a fixed, static sky. No scie
 
 ---
 
-## 2 The Big Bang
+## 2. The Big Bang
 
 {% hint style="info" %}
 **Surah Al-Anbiya 21:30**
@@ -84,7 +84,7 @@ The verse also contains a second remarkable claim: _"From water We made every li
 
 ---
 
-## 3 Embryology and Human Development
+## 3. Embryology and Human Development
 
 {% hint style="info" %}
 **Surah Al-Mu'minun 23:1214**
@@ -109,7 +109,7 @@ The 2nd-century physician Galen, whose embryological writings dominated European
 
 ---
 
-## 4 The Barrier Between Two Seas
+## 4. The Barrier Between Two Seas
 
 {% hint style="info" %}
 **Surah Al-Furqan 25:53**
@@ -127,7 +127,7 @@ Jacques Cousteau, the pioneering oceanographer, reportedly expressed astonishmen
 
 ---
 
-## 5 The Water Cycle
+## 5. The Water Cycle
 
 {% hint style="info" %}
 **Surah Az-Zumar 39:21**
@@ -145,7 +145,7 @@ The complete water cycle evaporation, cloud formation, precipitation, groundwate
 
 ---
 
-## 6 Pain Receptors in the Skin
+## 6. Pain Receptors in the Skin
 
 {% hint style="info" %}
 **Surah An-Nisa 4:56**
@@ -159,7 +159,7 @@ The fact that the verse specifies that the _skins_ are replaced (not the body as
 
 ---
 
-## 7 Mountains as Pegs / Stabilizers
+## 7. Mountains as Pegs / Stabilizers
 
 {% hint style="info" %}
 **Surah An-Naba 78:67**
@@ -177,7 +177,7 @@ In the 7th century, mountains were simply observed as tall rock formations. The 
 
 ---
 
-## 8 Iron Sent from Space
+## 8. Iron Sent from Space
 
 {% hint style="info" %}
 **Surah Al-Hadid 57:25**
@@ -193,7 +193,7 @@ The specific use of the word "sent down" for iron unlike any other metal mention
 
 ---
 
-## 9 The Honeybee and Healing
+## 9. The Honeybee and Healing
 
 {% hint style="info" %}
 **Surah An-Nahl 16:6869**

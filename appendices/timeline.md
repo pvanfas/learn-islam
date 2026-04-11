@@ -43,10 +43,10 @@
 
 | Year (CE) | Year (AH) | Event                                                                             |
 | --------- | --------- | --------------------------------------------------------------------------------- |
-| 632634    | 1113 AH   | **Abu Bakr al-Siddiq (RA)** 1st Caliph                                            |
-| 632633    | 1112 AH   | **Wars of Riddah** (Apostasy Wars) Arabia reunified                               |
+| 632–634   | 11–13 AH  | **Abu Bakr al-Siddiq (RA)** 1st Caliph                                            |
+| 632–633   | 11–12 AH  | **Wars of Riddah** (Apostasy Wars) Arabia reunified                               |
 | 633 CE    | 12 AH     | **Compilation of the Quran** begins under Zayd ibn Thabit                         |
-| 634-644   | 1323 AH   | **Umar ibn al-Khattab (RA)** 2nd Caliph                                           |
+| 634-644   | 13–23 AH  | **Umar ibn al-Khattab (RA)** 2nd Caliph                                           |
 | 636 CE    | 15 AH     | **Battle of al-Qadisiyyah** Persian Sassanid Empire defeated                      |
 | 637 CE    | 16 AH     | **Fall of Ctesiphon** Persian capital falls to Muslim forces                      |
 | 638 CE    | 17 AH     | **Jerusalem** surrendered to Umar (RA); Covenant of Umar issued                   |
@@ -63,7 +63,7 @@
 
 ---
 
-## Umayyad Caliphate (661-750 CE / 41132 AH)
+## Umayyad Caliphate (661-750 CE / 41–132 AH)
 
 | Year (CE) | Year (AH) | Event                                                                                  |
 | --------- | --------- | -------------------------------------------------------------------------------------- |
@@ -73,44 +73,44 @@
 | 705 CE    | 86 AH     | **Great Mosque of Damascus** (_Umayyad Mosque_) construction begins                    |
 | 711 CE    | 92 AH     | **Tariq ibn Ziyad** crosses into Spain beginning of Al-Andalus (Muslim Spain)          |
 | 711 CE    | 92 AH     | **Muhammad ibn al-Qasim** conquers Sindh Islam enters Indian subcontinent              |
-| 717718    | 9899 AH   | **Second Arab Siege of Constantinople** fails                                          |
+| 717–718   | 98–99 AH  | **Second Arab Siege of Constantinople** fails                                          |
 | 732 CE    | 114 AH    | **Battle of Tours/Poitiers** Charles Martel halts Muslim expansion into Western Europe |
 | 750 CE    | 132 AH    | **Umayyad Caliphate overthrown** Abbasid revolution                                    |
 
 ---
 
-## Abbasid Caliphate and the Golden Age (750-1258 CE / 132656 AH)
+## Abbasid Caliphate and the Golden Age (750-1258 CE / 132–656 AH)
 
-| Year (CE) | Year (AH) | Event                                                                                          |
-| --------- | --------- | ---------------------------------------------------------------------------------------------- |
-| 750 CE    | 132 AH    | **Abbasid Caliphate** begins capital eventually moves to Baghdad                               |
-| 762 CE    | 145 AH    | **Baghdad founded** _Madinat al-Salam_ (City of Peace)                                         |
-| 786809    | 170193 AH | **Harun al-Rashid** peak of Abbasid power; **Bayt al-Hikmah** (House of Wisdom) founded        |
-| 813833    | 198218 AH | **Al-Ma'mun** major translation movement; _The Mihna_ (Mu'tazilite Inquisition)                |
-| 820s CE   | 200s AH   | **Imam al-Shafi'i** composes _Al-Risalah_ founding Usul al-Fiqh                                |
-| 833848    | 218234 AH | **Imam Ahmad ibn Hanbal** imprisoned and flogged for refusing Mihna                            |
-| 847 CE    | 232 AH    | **Mihna ends** Ahlus Sunnah vindicated under Caliph al-Mutawakkil                              |
-| 859 CE    | 245 AH    | **Al-Qarawiyyin university** founded in Fez by Fatima al-Fihri                                 |
-| 870 CE    | 256 AH    | **Death of Imam al-Bukhari** compiler of _Sahih al-Bukhari_                                    |
-| 909 CE    | 296 AH    | **Fatimid Caliphate** established in North Africa (rival to Abbasids)                          |
-| 970 CE    | 359 AH    | **Al-Azhar university** founded in Cairo                                                       |
-| 1010 CE   | 401 AH    | **Surah Al-Fath** of _Kitab al-Manazir_ Ibn al-Haytham founds modern optics                    |
-| 1095 CE   | 489 AH    | **The First Crusade** launched by Pope Urban II                                                |
-| 1099 CE   | 492 AH    | **Fall of Jerusalem** to Crusaders massacre of Muslim and Jewish populations                   |
-| 1111 CE   | 505 AH    | **Death of Imam al-Ghazali** completed _Ihya Ulum al-Din_                                      |
-| 1187 CE   | 583 AH    | **Saladin (Salah al-Din al-Ayyubi)** recaptures Jerusalem from Crusaders                       |
-| 1258 CE   | 656 AH    | **Mongols sack Baghdad** Hulagu Khan destroys the Abbasid Caliphate; House of Wisdom destroyed |
+| Year (CE) | Year (AH)  | Event                                                                                          |
+| --------- | ---------- | ---------------------------------------------------------------------------------------------- |
+| 750 CE    | 132 AH     | **Abbasid Caliphate** begins capital eventually moves to Baghdad                               |
+| 762 CE    | 145 AH     | **Baghdad founded** _Madinat al-Salam_ (City of Peace)                                         |
+| 786–809   | 170–193 AH | **Harun al-Rashid** peak of Abbasid power; **Bayt al-Hikmah** (House of Wisdom) founded        |
+| 813–833   | 198–218 AH | **Al-Ma'mun** major translation movement; _The Mihna_ (Mu'tazilite Inquisition)                |
+| 820s CE   | 200s AH    | **Imam al-Shafi'i** composes _Al-Risalah_ founding Usul al-Fiqh                                |
+| 833–848   | 218–234 AH | **Imam Ahmad ibn Hanbal** imprisoned and flogged for refusing Mihna                            |
+| 847 CE    | 232 AH     | **Mihna ends** Ahlus Sunnah vindicated under Caliph al-Mutawakkil                              |
+| 859 CE    | 245 AH     | **Al-Qarawiyyin university** founded in Fez by Fatima al-Fihri                                 |
+| 870 CE    | 256 AH     | **Death of Imam al-Bukhari** compiler of _Sahih al-Bukhari_                                    |
+| 909 CE    | 296 AH     | **Fatimid Caliphate** established in North Africa (rival to Abbasids)                          |
+| 970 CE    | 359 AH     | **Al-Azhar university** founded in Cairo                                                       |
+| 1010 CE   | 401 AH     | **Surah Al-Fath** of _Kitab al-Manazir_ Ibn al-Haytham founds modern optics                    |
+| 1095 CE   | 489 AH     | **The First Crusade** launched by Pope Urban II                                                |
+| 1099 CE   | 492 AH     | **Fall of Jerusalem** to Crusaders massacre of Muslim and Jewish populations                   |
+| 1111 CE   | 505 AH     | **Death of Imam al-Ghazali** completed _Ihya Ulum al-Din_                                      |
+| 1187 CE   | 583 AH     | **Saladin (Salah al-Din al-Ayyubi)** recaptures Jerusalem from Crusaders                       |
+| 1258 CE   | 656 AH     | **Mongols sack Baghdad** Hulagu Khan destroys the Abbasid Caliphate; House of Wisdom destroyed |
 
 ---
 
-## Aftermath and Recovery (12581500 CE)
+## Aftermath and Recovery (1258–1500 CE)
 
 | Year (CE) | Year (AH) | Event                                                                                 |
 | --------- | --------- | ------------------------------------------------------------------------------------- |
 | 1260 CE   | 658 AH    | **Battle of Ain Jalut** Mamluks defeat the Mongols; first major Mongol defeat         |
 | 1291 CE   | 690 AH    | **Fall of Acre** last Crusader stronghold in the Holy Land falls to Mamluks           |
 | 1299 CE   | 699 AH    | **Ottoman Empire** founded by Osman I in Anatolia                                     |
-| 134751    | 74852 AH  | **Black Death** devastates the Islamic world as well as Europe                        |
+| 1347–51   | 748–52 AH | **Black Death** devastates the Islamic world as well as Europe                        |
 | 1370s CE  | 770s AH   | **Timur (Tamerlane)** launches devastation of Islamic cities including Baghdad, Delhi |
 | 1453 CE   | 857 AH    | **Mehmed II conquers Constantinople** Byzantine Empire ends; city renamed Istanbul    |
 | 1492 CE   | 897 AH    | **Fall of Granada** last Muslim kingdom in Spain; the Reconquista completes           |
@@ -118,21 +118,21 @@
 
 ---
 
-## The Ottoman and Mughal Peak (15001800 CE)
+## The Ottoman and Mughal Peak (1500–1800 CE)
 
-| Year (CE) | Year (AH)  | Event                                                                              |
-| --------- | ---------- | ---------------------------------------------------------------------------------- |
-| 1517 CE   | 923 AH     | **Ottomans conquer Egypt** take the title Caliph and control of Makkah and Madinah |
-| 15201566  | 926974 AH  | **Suleiman the Magnificent** peak of Ottoman power                                 |
-| 1526 CE   | 932 AH     | **Mughal Empire** established in India by Babur                                    |
-| 15561605  | 9631014 AH | **Akbar the Great** Mughal peak in India                                           |
-| 1683 CE   | 1094 AH    | **Battle of Vienna** Ottoman expansion into Europe definitively halted             |
-| 1703 CE   | 1115 AH    | **Muhammad ibn Abd al-Wahhab** born in Arabia                                      |
-| 1703 CE   | 1115 AH    | **Shah Waliullah al-Dehlawi** born in India                                        |
+| Year (CE) | Year (AH)   | Event                                                                              |
+| --------- | ----------- | ---------------------------------------------------------------------------------- |
+| 1517 CE   | 923 AH      | **Ottomans conquer Egypt** take the title Caliph and control of Makkah and Madinah |
+| 1520–1566 | 926–974 AH  | **Suleiman the Magnificent** peak of Ottoman power                                 |
+| 1526 CE   | 932 AH      | **Mughal Empire** established in India by Babur                                    |
+| 1556–1605 | 963–1014 AH | **Akbar the Great** Mughal peak in India                                           |
+| 1683 CE   | 1094 AH     | **Battle of Vienna** Ottoman expansion into Europe definitively halted             |
+| 1703 CE   | 1115 AH     | **Muhammad ibn Abd al-Wahhab** born in Arabia                                      |
+| 1703 CE   | 1115 AH     | **Shah Waliullah al-Dehlawi** born in India                                        |
 
 ---
 
-## Colonialism and the Modern Era (18001924 CE)
+## Colonialism and the Modern Era (1800–1924 CE)
 
 | Year (CE)   | Year (AH)   | Event                                                                                                      |
 | ----------- | ----------- | ---------------------------------------------------------------------------------------------------------- |
@@ -174,7 +174,7 @@
 | 8     | Sha'ban        | Night of Mid-Sha'ban (_Laylat al-Bara'ah_)          |
 | **9** | **Ramadan**    | **Month of fasting; Laylatul Qadr; Quran revealed** |
 | 10    | Shawwal        | **Eid al-Fitr** (1st); six voluntary fasts          |
-| 12    | Dhul Hijjah    | **Hajj** (1st13th); **Eid al-Adha** (10th)          |
+| 12    | Dhul Hijjah    | **Hajj** (1st–13th); **Eid al-Adha** (10th)         |
 
 ---
 

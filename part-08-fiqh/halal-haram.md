@@ -70,17 +70,17 @@ _This verse permits Muslims to eat food prepared by Jews and Christians includin
 
 The Quran specifies several categories of forbidden food:
 
-### 1 Dead Animals (_Maytah_)
+### 1. Dead Animals (_Maytah_)
 
 An animal that died on its own without proper Islamic slaughter is forbidden. This includes animals that died of disease, drowning, or natural causes.
 
 **Exception:** Seafood and locusts dead sea creatures and locusts are permitted even without slaughter.
 
-### 2 Blood (_Dam Masfuh_)
+### 2. Blood (_Dam Masfuh_)
 
 Flowing blood is forbidden. The blood that remains in meat after slaughter (small residual amount) is not the "flowing blood" referred to it is permitted.
 
-### 3 Pork and Pork Products
+### 3. Pork and Pork Products
 
 Swine flesh is prohibited categorically. This extends to lard, gelatin derived from pork, and any other pork products.
 
@@ -90,11 +90,11 @@ Swine flesh is prohibited categorically. This extends to lard, gelatin derived f
 **Translation:** "Say: I do not find within what has been revealed to me anything forbidden to eat except dead animals, flowing blood, swine flesh for it is impure or what is dedicated to other than Allah..."
 {% endhint %}
 
-### 4 Animals Dedicated to Other Than Allah
+### 4. Animals Dedicated to Other Than Allah
 
 Any animal slaughtered in the name of an idol or false deity is forbidden regardless of how it was killed.
 
-### 5 Intoxicants (_Khamr / Muskir_)
+### 5. Intoxicants (_Khamr / Muskir_)
 
 {% hint style="info" %}
 **Surah Al-Ma'idah 5:90**

@@ -14,7 +14,6 @@
 
 {% hint style="info" %}
 **Surah Al-Imran 3:97**
-
 **Translation:** "...Pilgrimage to the House is a duty owed to Allah by people who are able to undertake it. And whoever disbelieves then indeed, Allah is free from need of the worlds."
 {% endhint %}
 
@@ -51,7 +50,7 @@ The Prophet said: _"Whoever performs Hajj and does not commit any obscenity or w
 | **Day 1**     | 8th (Yawm al-Tarwiyah) | Move to Mina night in Mina                                      |
 | **Day 2**     | 9th (Yawm Arafah)      | ARAFAH the heart of Hajj                                        |
 | **Day 3**     | 10th (Yawm al-Nahr)    | Muzdalifah → Mina: stoning, sacrifice, shaving, Tawaf al-Ifadah |
-| **Days 45**   | 11th12th (Tashriq)     | Remain in Mina, stone the Jamarat                               |
+| **Days 4–5**  | 11th–12th (Tashriq)    | Remain in Mina, stone the Jamarat                               |
 | **Final day** | 13th (optional)        | Stoning for those staying, then Tawaf al-Wada'                  |
 
 ---
@@ -89,7 +88,7 @@ _لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ
 
 ---
 
-### Day 0 Arrival in Makkah (7th Dhul Hijjah)
+### Day 0 7th Dhul Hijjah Arrival in Makkah
 
 Perform **Tawaf al-Qudum** (the Arrival Tawaf) 7 circuits around the Ka'bah, then 2 Rak'ahs behind Maqam Ibrahim, then Sa'i between Safa and Marwa if performing **Hajj Tamattu'** (the most common type for international pilgrims).
 
@@ -135,7 +134,7 @@ At sunset, leave Arafah for **Muzdalifah** reciting the Talbiyah and making dhik
 
 ---
 
-### Night of 9th10th Muzdalifah
+### Night of 9th–10th Muzdalifah
 
 Arrive at Muzdalifah after Maghrib. Pray Maghrib and Isha combined and shortened. Sleep under the open sky.
 
@@ -175,7 +174,7 @@ Return to Mina for the night.
 
 ---
 
-### Days 45 11th and 12th Dhul Hijjah The Days of Tashriq
+### Days 4–5 11th and 12th Dhul Hijjah The Days of Tashriq
 
 Remain in Mina. After midday (_Dhuhr_ enters), stone **all three Jamarat** in order:
 
@@ -208,7 +207,7 @@ After the Farewell Tawaf, depart Makkah facing the Qiblah walking backward for a
 | Tawaf al-Ifadah             | 10th Dhul Hijjah or after                 |
 | Sa'i between Safa and Marwa | After Tawaf al-Ifadah                     |
 | Stoning the large Jamarat   | 10th Dhul Hijjah                          |
-| Stoning all three Jamarat   | 11th12th (and 13th if staying)            |
+| Stoning all three Jamarat   | 11th–12th (and 13th if staying)           |
 | Farewell Tawaf              | Before leaving Makkah                     |
 
 ---
