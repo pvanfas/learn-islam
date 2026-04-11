@@ -16,15 +16,15 @@ Understanding Aqeedah properly is foundational. Without it, worship becomes holl
 
 ## Chapters in This Part
 
-| #   | Chapter                                               | Level | Read Time |
-| --- | ----------------------------------------------------- | ----- | --------- |
-| 1   | [Tawhid The Oneness of God](tawhid.md)                |       | ~12 min   |
-| 2   | [The 99 Names of Allah](99-names.md)                  |       | ~10 min   |
-| 3   | [Belief in the Angels](angels.md)                     |       | ~7 min    |
-| 4   | [Belief in the Revealed Books](revealed-books.md)     |       | ~7 min    |
-| 5   | [Belief in the Prophets](prophets.md)                 |       | ~10 min   |
-| 6   | [Belief in the Day of Judgement](day-of-judgement.md) |       | ~12 min   |
-| 7   | [Belief in Divine Decree (Qadar)](qadar.md)           |       | ~10 min   |
+| #   | Chapter                                               | Level        | Read Time |
+| --- | ----------------------------------------------------- | ------------ | --------- |
+| 1   | [Tawhid The Oneness of God](tawhid.md)                | Beginner     | ~12 min   |
+| 2   | [The 99 Names of Allah](99-names.md)                  | Beginner     | ~10 min   |
+| 3   | [Belief in the Angels](angels.md)                     | Beginner     | ~7 min    |
+| 4   | [Belief in the Revealed Books](revealed-books.md)     | Beginner     | ~7 min    |
+| 5   | [Belief in the Prophets](prophets.md)                 | Beginner     | ~10 min   |
+| 6   | [Belief in the Day of Judgement](day-of-judgement.md) | Intermediate | ~12 min   |
+| 7   | [Belief in Divine Decree (Qadar)](qadar.md)           | Intermediate | ~10 min   |
 
 ---
 

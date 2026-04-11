@@ -198,7 +198,7 @@ Jahannam is real, described in detail in the Quran, and treated with the utmost 
 {% endhint %}
 
 {% hint style="warning" %}
-** Scholarly Note:** On whether Hell is eternal for those who believed in Allah but sinned: the majority of Islamic scholars hold that believers who sinned may enter Hell temporarily but will eventually be admitted to Paradise through Allah's mercy or intercession. The eternal dwellers of Hell, according to the Quran, are those who died in a state of associating partners with Allah (_Shirk_) and rejection of the truth after it was made clear to them.
+**Scholarly Note:** On whether Hell is eternal for those who believed in Allah but sinned: the majority of Islamic scholars hold that believers who sinned may enter Hell temporarily but will eventually be admitted to Paradise through Allah's mercy or intercession. The eternal dwellers of Hell, according to the Quran, are those who died in a state of associating partners with Allah (_Shirk_) and rejection of the truth after it was made clear to them.
 {% endhint %}
 
 ---

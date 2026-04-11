@@ -66,7 +66,7 @@ For a _Nikah_ to be valid in Islamic law, four elements must be present:
 | **Mahr (Dowry)**                           | A gift from the husband to the wife she owns it absolutely                                                                                                                                                                 |
 
 {% hint style="warning" %}
-** Important:** The marriage is a **contract between the couple** not a transaction between families. The woman's consent is obligatory. The Prophet said: _"Do not marry a previously married woman until she gives her permission, and do not marry a virgin until she gives her consent."_ (Sahih al-Bukhari). A marriage conducted without the woman's consent is invalid.
+**Important:** The marriage is a **contract between the couple** not a transaction between families. The woman's consent is obligatory. The Prophet said: _"Do not marry a previously married woman until she gives her permission, and do not marry a virgin until she gives her consent."_ (Sahih al-Bukhari). A marriage conducted without the woman's consent is invalid.
 {% endhint %}
 
 ---

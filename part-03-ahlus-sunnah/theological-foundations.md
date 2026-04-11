@@ -87,22 +87,22 @@ Despite methodological differences, all three schools hold:
 
 | Belief                               | Ash'ari | Maturidi | Athari |
 | ------------------------------------ | ------- | -------- | ------ |
-| Allah is One no partners             |         |          |        |
-| Allah is above the throne (_Istawa_) |         |          |        |
-| Allah sees and hears                 |         |          |        |
-| Quran is uncreated Kalam of Allah    |         |          |        |
-| Believers will see Allah in Jannah   |         |          |        |
-| Prophets are infallible in conveying |         |          |        |
-| The Companions are trustworthy       |         |          |        |
-| The six pillars of faith             |         |          |        |
-| Five pillars of Islam                |         |          |        |
+| Allah is One — no partners           | ✅      | ✅       | ✅     |
+| Allah is above the throne (_Istawa_) | ✅      | ✅       | ✅     |
+| Allah sees and hears                 | ✅      | ✅       | ✅     |
+| Quran is uncreated Kalam of Allah    | ✅      | ✅       | ✅     |
+| Believers will see Allah in Jannah   | ✅      | ✅       | ✅     |
+| Prophets are infallible in conveying | ✅      | ✅       | ✅     |
+| The Companions are trustworthy       | ✅      | ✅       | ✅     |
+| The six pillars of faith             | ✅      | ✅       | ✅     |
+| Five pillars of Islam                | ✅      | ✅       | ✅     |
 
 ---
 
 ## Important Principles for the Student
 
 {% hint style="warning" %}
-** Three cautions:**
+**Three cautions:**
 
 **1. These schools are ALL Ahlus Sunnah.** A Muslim from a Shafi'i-Ash'ari background and a Muslim from a Hanbali-Athari background share the same fundamental creed. The differences are real but subsidiary not a basis for declaring the other "deviant" or outside Ahlus Sunnah.
 

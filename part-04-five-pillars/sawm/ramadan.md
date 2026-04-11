@@ -97,7 +97,7 @@ Fasting is **obligatory (_Fard_)** upon every:
 - Kissing one's spouse without desire leading to more (with discipline)
 
 {% hint style="warning" %}
-** Scholarly note on toothpaste:** Using toothpaste while fasting is disliked by many scholars because of the risk of swallowing. Using a Siwak (Miswak) is Sunnah and does not break the fast.
+**Scholarly Note on toothpaste:** Using toothpaste while fasting is disliked by many scholars because of the risk of swallowing. Using a Siwak (Miswak) is Sunnah and does not break the fast.
 {% endhint %}
 
 ---

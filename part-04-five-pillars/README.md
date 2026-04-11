@@ -20,13 +20,13 @@ This part covers each pillar in depth from the basic "what" to the deep "why" in
 The Prophet said: _"Islam is built upon five: the testimony that there is no god but Allah and that Muhammad is the Messenger of Allah, establishing prayer, giving Zakat, pilgrimage to the House, and fasting Ramadan."_
 {% endhint %}
 
-| Pillar | Arabic              | English              | Frequency                                    |
-| ------ | ------------------- | -------------------- | -------------------------------------------- |
-|        | الشَّهَادَة Shahada | Declaration of Faith | Once at entry into Islam, renewed constantly |
-|        | الصَّلَاة Salah     | Prayer               | 5 times daily                                |
-|        | الزَّكَاة Zakat     | Obligatory Charity   | Once per year                                |
-|        | الصَّوْم Sawm       | Fasting              | Every day of Ramadan                         |
-|        | الحَجّ Hajj         | Pilgrimage           | Once in a lifetime (for the capable)         |
+| Arabic              | English              | Frequency                                    |
+| ------------------- | -------------------- | -------------------------------------------- |
+| الشَّهَادَة Shahada | Declaration of Faith | Once at entry into Islam, renewed constantly |
+| الصَّلَاة Salah     | Prayer               | 5 times daily                                |
+| الزَّكَاة Zakat     | Obligatory Charity   | Once per year                                |
+| الصَّوْم Sawm       | Fasting              | Every day of Ramadan                         |
+| الحَجّ Hajj         | Pilgrimage           | Once in a lifetime (for the capable)         |
 
 ---
 
@@ -34,50 +34,50 @@ The Prophet said: _"Islam is built upon five: the testimony that there is no god
 
 ### Pillar 1 Shahada
 
-| Chapter                                | Level | Read Time |
-| -------------------------------------- | ----- | --------- |
-| [The Declaration of Faith](shahada.md) |       | ~7 min    |
+| Chapter                                | Level    | Read Time |
+| -------------------------------------- | -------- | --------- |
+| [The Declaration of Faith](shahada.md) | Beginner | ~7 min    |
 
 ### Pillar 2 Salah (Prayer)
 
-| Chapter                                                            | Level | Read Time |
-| ------------------------------------------------------------------ | ----- | --------- |
-| [Introduction to Salah](salah/introduction.md)                     |       | ~6 min    |
-| [Preparation Wudu, Ghusl & Tayammum](salah/preparation.md)         |       | ~12 min   |
-| [Prayer Times Fajr to Isha](salah/prayer-times.md)                 |       | ~6 min    |
-| [Performing the Prayer Step by Step](salah/how-to-pray.md)         |       | ~15 min   |
-| [What Is Recited in Each Position](salah/recitations.md)           |       | ~8 min    |
-| [Special Prayers](salah/special-prayers.md)                        |       | ~14 min   |
-| [The Deeper Spirituality of Salah](salah/spirituality-of-salah.md) |       | ~10 min   |
+| Chapter                                                            | Level        | Read Time |
+| ------------------------------------------------------------------ | ------------ | --------- |
+| [Introduction to Salah](salah/introduction.md)                     | Beginner     | ~6 min    |
+| [Preparation Wudu, Ghusl & Tayammum](salah/preparation.md)         | Beginner     | ~12 min   |
+| [Prayer Times Fajr to Isha](salah/prayer-times.md)                 | Beginner     | ~6 min    |
+| [Performing the Prayer Step by Step](salah/how-to-pray.md)         | Beginner     | ~15 min   |
+| [What Is Recited in Each Position](salah/recitations.md)           | Beginner     | ~8 min    |
+| [Special Prayers](salah/special-prayers.md)                        | Intermediate | ~14 min   |
+| [The Deeper Spirituality of Salah](salah/spirituality-of-salah.md) | Intermediate | ~10 min   |
 
 ### Pillar 3 Zakat (Charity)
 
-| Chapter                                                          | Level | Read Time |
-| ---------------------------------------------------------------- | ----- | --------- |
-| [Understanding Zakat](zakat/understanding-zakat.md)              |       | ~11 min   |
-| [Calculating Your Zakat](zakat/calculating-zakat.md)             |       | ~7 min    |
-| [Zakat vs. Sadaqah Voluntary Charity](zakat/zakat-vs-sadaqah.md) |       | ~9 min    |
+| Chapter                                                          | Level    | Read Time |
+| ---------------------------------------------------------------- | -------- | --------- |
+| [Understanding Zakat](zakat/understanding-zakat.md)              | Beginner | ~11 min   |
+| [Calculating Your Zakat](zakat/calculating-zakat.md)             | Beginner | ~7 min    |
+| [Zakat vs. Sadaqah Voluntary Charity](zakat/zakat-vs-sadaqah.md) | Beginner | ~9 min    |
 
 ### Pillar 4 Sawm (Fasting)
 
-| Chapter                                                          | Level | Read Time |
-| ---------------------------------------------------------------- | ----- | --------- |
-| [Ramadan The Month of Fasting](sawm/ramadan.md)                  |       | ~13 min   |
-| [Rules of Fasting](sawm/rules-of-fasting.md)                     |       | ~8 min    |
-| [The Spiritual Dimensions of Ramadan](sawm/spiritual-ramadan.md) |       | ~9 min    |
-| [Laylatul Qadr The Night of Power](sawm/laylatul-qadr.md)        |       | ~9 min    |
-| [Eid al-Fitr The Celebration](sawm/eid-al-fitr.md)               |       | ~6 min    |
+| Chapter                                                          | Level        | Read Time |
+| ---------------------------------------------------------------- | ------------ | --------- |
+| [Ramadan The Month of Fasting](sawm/ramadan.md)                  | Beginner     | ~13 min   |
+| [Rules of Fasting](sawm/rules-of-fasting.md)                     | Beginner     | ~8 min    |
+| [The Spiritual Dimensions of Ramadan](sawm/spiritual-ramadan.md) | Intermediate | ~9 min    |
+| [Laylatul Qadr The Night of Power](sawm/laylatul-qadr.md)        | Beginner     | ~9 min    |
+| [Eid al-Fitr The Celebration](sawm/eid-al-fitr.md)               | Beginner     | ~6 min    |
 
 ### Pillar 5 Hajj & Umrah
 
-| Chapter                                                         | Level | Read Time |
-| --------------------------------------------------------------- | ----- | --------- |
-| [Introduction The Sacred Journey](hajj-umrah/introduction.md)   |       | ~7 min    |
-| [Hajj Rituals Day by Day](hajj-umrah/hajj-rituals.md)           |       | ~16 min   |
-| [The Spiritual Meaning of Hajj](hajj-umrah/hajj-spiritual.md)   |       | ~8 min    |
-| [Umrah The Lesser Pilgrimage](hajj-umrah/umrah.md)              |       | ~14 min   |
-| [Visiting Al-Madinah al-Munawwarah](hajj-umrah/madinah.md)      |       | ~8 min    |
-| [Eid al-Adha The Feast of Sacrifice](hajj-umrah/eid-al-adha.md) |       | ~6 min    |
+| Chapter                                                         | Level        | Read Time |
+| --------------------------------------------------------------- | ------------ | --------- |
+| [Introduction The Sacred Journey](hajj-umrah/introduction.md)   | Beginner     | ~7 min    |
+| [Hajj Rituals Day by Day](hajj-umrah/hajj-rituals.md)           | Intermediate | ~16 min   |
+| [The Spiritual Meaning of Hajj](hajj-umrah/hajj-spiritual.md)   | Intermediate | ~8 min    |
+| [Umrah The Lesser Pilgrimage](hajj-umrah/umrah.md)              | Beginner     | ~14 min   |
+| [Visiting Al-Madinah al-Munawwarah](hajj-umrah/madinah.md)      | Beginner     | ~8 min    |
+| [Eid al-Adha The Feast of Sacrifice](hajj-umrah/eid-al-adha.md) | Beginner     | ~6 min    |
 
 ---
 

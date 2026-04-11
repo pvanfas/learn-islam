@@ -50,7 +50,7 @@ Muslims believe that God sent **revealed books** to earlier communities. The Qur
 Muslims believe these scriptures originally contained the same essential message: worship God alone and live righteously. However, Muslims also believe the earlier scriptures were not preserved in their original form they were transmitted through human hands over centuries and underwent alteration, addition, and translation in ways that changed their content.
 
 {% hint style="warning" %}
-** Scholarly Note:** This is a theological position, not a dismissal. Muslims hold the **original** Torah, Psalms, and Gospel in great reverence as divine revelation. What exists today the Old Testament, the Psalms, the four Gospels contains truth mixed with human addition and error, according to Islamic teaching. The Quran was sent as the final, protected revelation preserved in its original Arabic to this day.
+**Scholarly Note:** This is a theological position, not a dismissal. Muslims hold the **original** Torah, Psalms, and Gospel in great reverence as divine revelation. What exists today the Old Testament, the Psalms, the four Gospels contains truth mixed with human addition and error, according to Islamic teaching. The Quran was sent as the final, protected revelation preserved in its original Arabic to this day.
 {% endhint %}
 
 ---
@@ -61,24 +61,24 @@ Muslims believe these scriptures originally contained the same essential message
 
 | Belief                              | Christianity | Islam |
 | ----------------------------------- | ------------ | ----- |
-| One God, the Creator                |              |       |
-| Jesus (Isa AS) was born of a virgin |              |       |
-| Jesus performed miracles            |              |       |
-| Jesus is the Messiah                |              |       |
-| A Day of Judgement                  |              |       |
-| Heaven and Hell exist               |              |       |
-| Moral life matters                  |              |       |
+| One God, the Creator                | ✅           | ✅    |
+| Jesus (Isa AS) was born of a virgin | ✅           | ✅    |
+| Jesus performed miracles            | ✅           | ✅    |
+| Jesus is the Messiah                | ✅           | ✅    |
+| A Day of Judgement                  | ✅           | ✅    |
+| Heaven and Hell exist               | ✅           | ✅    |
+| Moral life matters                  | ✅           | ✅    |
 
 ### Where They Differ
 
-| Belief                                     | Christianity       | Islam |
-| ------------------------------------------ | ------------------ | ----- |
-| Jesus is the son of God                    | Many denominations |       |
-| The Trinity Father, Son, Holy Spirit       | Mainstream         |       |
-| Jesus was crucified                        |                    |       |
-| Jesus died for humanity's sins (Atonement) |                    |       |
-| Muhammad is a prophet                      |                    |       |
-| The Quran is God's word                    |                    |       |
+| Belief                                     | Christianity          | Islam |
+| ------------------------------------------ | --------------------- | ----- |
+| Jesus is the son of God                    | ✅ Many denominations | ❌    |
+| The Trinity — Father, Son, Holy Spirit     | ✅ Mainstream         | ❌    |
+| Jesus was crucified                        | ✅                    | ❌    |
+| Jesus died for humanity's sins (Atonement) | ✅                    | ❌    |
+| Muhammad ﷺ is a prophet                    | ❌                    | ✅    |
+| The Quran is God's word                    | ❌                    | ✅    |
 
 **On Jesus specifically:** Muslims believe Isa (Jesus AS) was not crucified but was raised by God before crucifixion and that he will return before the Day of Judgement. He is one of the five greatest prophets in Islamic tradition (_Ulul Azm_ the prophets of firm resolve).
 
@@ -96,23 +96,23 @@ Islam and Judaism share even more structural similarities than Islam and Christi
 
 ### Where They Agree
 
-| Belief                                      | Judaism  | Islam   |
-| ------------------------------------------- | -------- | ------- |
-| Strict monotheism One God, no partners      |          |         |
-| Rejection of the Trinity                    |          |         |
-| The Torah was given to Moses                |          |         |
-| Prophets as guides for humanity             |          |         |
-| Detailed religious law governing daily life |          |         |
-| Dietary law and permissible food            | (Kosher) | (Halal) |
+| Belief                                      | Judaism     | Islam      |
+| ------------------------------------------- | ----------- | ---------- |
+| Strict monotheism — One God, no partners    | ✅          | ✅         |
+| Rejection of the Trinity                    | ✅          | ✅         |
+| The Torah was given to Moses                | ✅          | ✅         |
+| Prophets as guides for humanity             | ✅          | ✅         |
+| Detailed religious law governing daily life | ✅          | ✅         |
+| Dietary law and permissible food            | ✅ (Kosher) | ✅ (Halal) |
 
 ### Where They Differ
 
-| Belief                                      | Judaism   | Islam |
-| ------------------------------------------- | --------- | ----- |
-| Muhammad is a prophet                       |           |       |
-| Ismail (Ishmael) was the intended sacrifice | Generally |       |
-| The Quran is God's word                     |           |       |
-| Jesus is a prophet                          | Generally |       |
+| Belief                                      | Judaism      | Islam |
+| ------------------------------------------- | ------------ | ----- |
+| Muhammad ﷺ is a prophet                     | ❌           | ✅    |
+| Ismail (Ishmael) was the intended sacrifice | Generally ❌ | ✅    |
+| The Quran is God's word                     | ❌           | ✅    |
+| Jesus is a prophet                          | Generally ❌ | ✅    |
 
 ---
 

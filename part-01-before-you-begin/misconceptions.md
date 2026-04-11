@@ -15,7 +15,7 @@
 When a religion has 1.9 billion followers across every continent, culture, and language, generalizations are inevitable and almost always wrong. The misconceptions below are not dismissed casually. Each one is addressed with historical evidence, Quranic verses, and reasoning, so that the reader can evaluate the answer, not just accept it.
 
 {% hint style="tip" %}
-** Approach:** Islam's own tradition values honest questioning. The Quran repeatedly invites people to think, reflect, and examine evidence. _"Do they not reflect?"_ appears multiple times. Questioning is not the problem inaccurate answers are.
+**Approach:** Islam's own tradition values honest questioning. The Quran repeatedly invites people to think, reflect, and examine evidence. _"Do they not reflect?"_ appears multiple times. Questioning is not the problem inaccurate answers are.
 {% endhint %}
 
 ---
@@ -45,7 +45,7 @@ _This verse was revealed in Madinah at the height of the Prophet's political and
 **Historian Thomas Arnold**, a non-Muslim scholar, wrote after extensive research that he found no evidence of forced mass conversion in Islamic history, and that the rapid spread of Islam was far more attributable to its theological simplicity and moral appeal.
 
 {% hint style="warning" %}
-** Fair acknowledgment:** There were periods and rulers in Islamic history who acted violently and unjustly. Islamic scholarship itself criticizes these deviations from the Prophet's example. The actions of imperfect rulers do not represent the religion's teaching just as the Crusades do not represent the core of Christianity.
+**Fair acknowledgment:** There were periods and rulers in Islamic history who acted violently and unjustly. Islamic scholarship itself criticizes these deviations from the Prophet's example. The actions of imperfect rulers do not represent the religion's teaching just as the Crusades do not represent the core of Christianity.
 {% endhint %}
 
 ---
@@ -56,7 +56,7 @@ This claim is widespread in Western discourse and requires a careful, honest res
 
 ### What Islam Actually Teaches
 
-**At the time of the Prophet **, Arabia was a society where daughters were sometimes buried alive at birth, women had no inheritance rights, no right to choose a husband, and no legal standing. Islam arrived and fundamentally transformed this:
+**At the time of the Prophet**, Arabia was a society where daughters were sometimes buried alive at birth, women had no inheritance rights, no right to choose a husband, and no legal standing. Islam arrived and fundamentally transformed this:
 
 - Women were granted the **right to own property** (7th century CE British women did not receive this right until 1870).
 - Women were given the **right to inherit** a fixed, guaranteed share.
@@ -84,7 +84,7 @@ Many practices that appear to oppress women forced marriages, honour killings, f
 Khadijah (RA), the Prophet's first wife, was a successful businesswoman and merchant who employed men including the Prophet himself before their marriage. Aisha (RA) became one of the greatest scholars of hadith in Islamic history, teaching both men and women. These are not footnotes they are central figures in early Islam.
 
 {% hint style="warning" %}
-** Honest note:** There are genuine debates within Islamic scholarship about certain rulings related to women in areas of testimony, inheritance, and leadership. These debates are real, ongoing, and deserve serious engagement, not dismissal. The mainstream position of classical scholarship has internal logic rooted in specific social and legal contexts, though contemporary scholars continue to discuss their application today.
+**Honest note:** There are genuine debates within Islamic scholarship about certain rulings related to women in areas of testimony, inheritance, and leadership. These debates are real, ongoing, and deserve serious engagement, not dismissal. The mainstream position of classical scholarship has internal logic rooted in specific social and legal contexts, though contemporary scholars continue to discuss their application today.
 {% endhint %}
 
 ---

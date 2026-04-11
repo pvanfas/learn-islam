@@ -22,15 +22,17 @@ This guide serves four audiences:
 
 The guide is divided into 18 Parts, moving from foundational to advanced:
 
-**Parts 1-2:** What Islam is and what Muslims believe (belief/theology)
-**Parts 3-5:** The tradition, the scripture, and its sciences
-**Part 6-7:** The Prophet's life and the Hadith science
-**Part 8-10:** Islamic law, dress, and the purity of practice
-**Parts 11-14:** Responding to criticism, how Islam spread, reverts
-**Parts 15-16:** Eschatology and spirituality
-**Part 17:** Practical daily Muslim life
-**Part 18:** Advanced scholarship
-**Appendices:** Reference materials
+| Part(s)     | Topic Description                                  |
+| ----------- | -------------------------------------------------- |
+| Parts 1–2   | What Islam is and what Muslims believe             |
+| Parts 3–5   | The tradition, the scripture, and its sciences     |
+| Parts 6–7   | The Prophet's life and the Hadith science          |
+| Parts 8–10  | Islamic law, dress, and the purity of practice     |
+| Parts 11–14 | Responding to criticism, how Islam spread, reverts |
+| Parts 15–16 | Eschatology and spirituality                       |
+| Part 17     | Practical daily Muslim life                        |
+| Part 18     | Advanced scholarship                               |
+| Appendices  | Reference materials                                |
 
 ---
 

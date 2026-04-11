@@ -90,7 +90,7 @@ If this section contains a step-by-step process, use a numbered list:
 ### Section Four Scholarly Notes (if applicable)
 
 {% hint style="warning" %}
-** Scholarly Note:** If there is a valid difference of opinion among scholars on this topic, present it here fairly. Example: "The majority of scholars hold [position A], while the Hanafi madhab holds [position B]. Both positions have strong evidence."
+**Scholarly Note:** If there is a valid difference of opinion among scholars on this topic, present it here fairly. Example: "The majority of scholars hold [position A], while the Hanafi madhab holds [position B]. Both positions have strong evidence."
 {% endhint %}
 
 ---

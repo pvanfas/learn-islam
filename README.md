@@ -51,15 +51,15 @@ This guide is divided into **18 Parts** that flow from beginner to advanced:
 
 ## Quick Links
 
-| Topic                     | Link                                                                        |
-| ------------------------- | --------------------------------------------------------------------------- |
-| How to Pray               | [Salah Step by Step](part-04-five-pillars/salah/how-to-pray.md)             |
-| How to Perform Umrah      | [Umrah Practical Guide](part-04-five-pillars/hajj-umrah/umrah-practical.md) |
-| Misconceptions            | [Common Misconceptions](part-01-before-you-begin/misconceptions.md)         |
-| Science in the Quran      | [Science & the Quran](part-05-quran/science-in-quran.md)                    |
-| ⏳ Signs of the Last Days | [Eschatology Overview](part-15-signs-last-days/introduction.md)             |
-| Famous Reverts            | [Revert Stories](part-14-famous-reverts/README.md)                          |
-| Criticism & Responses     | [Arguments & Answers](part-11-criticism/README.md)                          |
+| Topic                  | Link                                                                        |
+| ---------------------- | --------------------------------------------------------------------------- |
+| How to Pray            | [Salah Step by Step](part-04-five-pillars/salah/how-to-pray.md)             |
+| How to Perform Umrah   | [Umrah Practical Guide](part-04-five-pillars/hajj-umrah/umrah-practical.md) |
+| Misconceptions         | [Common Misconceptions](part-01-before-you-begin/misconceptions.md)         |
+| Science in the Quran   | [Science & the Quran](part-05-quran/science-in-quran.md)                    |
+| Signs of the Last Days | [Eschatology Overview](part-15-signs-last-days/introduction.md)             |
+| Famous Reverts         | [Revert Stories](part-14-famous-reverts/README.md)                          |
+| Criticism & Responses  | [Arguments & Answers](part-11-criticism/README.md)                          |
 
 ---
 

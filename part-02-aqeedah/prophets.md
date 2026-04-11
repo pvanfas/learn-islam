@@ -132,7 +132,7 @@ Five prophets are distinguished in the Quran as _Ulul Azm_ the prophets of firm 
 
 They are:
 
-1. **Muhammad ** the greatest of all creation and the final prophet
+1. **Muhammad** the greatest of all creation and the final prophet
 2. **Ibrahim (AS)** tested with fire, exile, and sacrificing his son
 3. **Musa (AS)** confronted Pharaoh with the truth; led his people through the sea
 4. **Isa (AS)** born without a father; tried, accused, and raised by Allah

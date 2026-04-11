@@ -78,7 +78,7 @@ The Nisab is the minimum amount of wealth above which Zakat becomes due. It is c
 | **Silver Nisab** | 595 grams of silver | Varies check current silver price |
 
 {% hint style="warning" %}
-** Scholarly note:** Most contemporary scholars recommend using the **silver Nisab** as it is lower and therefore more inclusive meaning more people pay Zakat and more poor people benefit. Some scholars use gold. Consult your local scholar or Zakat organization for the current Nisab value in your currency.
+**Scholarly Note:** Most contemporary scholars recommend using the **silver Nisab** as it is lower and therefore more inclusive meaning more people pay Zakat and more poor people benefit. Some scholars use gold. Consult your local scholar or Zakat organization for the current Nisab value in your currency.
 {% endhint %}
 
 If your total zakatable wealth (cash, gold, silver, stock, trade goods) equals or exceeds the Nisab and has been held for a full lunar year Zakat is due.

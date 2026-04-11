@@ -93,7 +93,7 @@ Islamic knowledge is not a matter of personal reading and conclusion. The tradit
 This does not mean ordinary Muslims cannot read the Quran or hadith. It means that **deriving legal rulings** from those sources (_Ijtihad_) requires deep training in Arabic language, Quranic sciences, hadith criticism, principles of jurisprudence, and historical context.
 
 {% hint style="warning" %}
-** Important:** Just because someone quotes a verse from the Quran or a hadith does not mean their interpretation is correct. Context, Arabic grammar, the science of abrogation (_Naskh_), and the understanding of the Companions all affect interpretation. This is why Islamic scholarship is a discipline not a hobby.
+**Important:** Just because someone quotes a verse from the Quran or a hadith does not mean their interpretation is correct. Context, Arabic grammar, the science of abrogation (_Naskh_), and the understanding of the Companions all affect interpretation. This is why Islamic scholarship is a discipline not a hobby.
 {% endhint %}
 
 ---

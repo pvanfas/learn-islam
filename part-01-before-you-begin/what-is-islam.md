@@ -53,7 +53,7 @@ Muslims believe that:
 4. **Islam is a complete way of life** (_Deen_) not merely a weekend religion, but a framework covering belief, worship, ethics, family, society, and law.
 
 {% hint style="tip" %}
-** Key Point:** Islam is not a new religion. Muslims believe it is the same message that God sent to every prophet the call to worship one God and live righteously. Muhammad is the final messenger, not the founder of a new faith.
+**Key Point:** Islam is not a new religion. Muslims believe it is the same message that God sent to every prophet the call to worship one God and live righteously. Muhammad is the final messenger, not the founder of a new faith.
 {% endhint %}
 
 ---

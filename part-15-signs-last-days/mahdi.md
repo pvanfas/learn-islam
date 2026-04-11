@@ -54,7 +54,7 @@ Based on the authentic hadith, the Mahdi has the following characteristics:
 | **He will have a broad forehead and a prominent nose**   | Abu Dawud             |
 
 {% hint style="warning" %}
-** Scholarly note:** The Mahdi's identity will not be known until he appears and he himself will not initially know he is the Mahdi. Classical scholars warn strongly against anyone claiming to be the Mahdi in advance. Throughout Islamic history, there have been false claimants to the title and all have been exposed. The authentic Mahdi will be recognized through events unfolding around him, not through personal proclamation.
+**Scholarly Note:** The Mahdi's identity will not be known until he appears and he himself will not initially know he is the Mahdi. Classical scholars warn strongly against anyone claiming to be the Mahdi in advance. Throughout Islamic history, there have been false claimants to the title and all have been exposed. The authentic Mahdi will be recognized through events unfolding around him, not through personal proclamation.
 {% endhint %}
 
 ---

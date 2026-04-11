@@ -67,7 +67,7 @@ Together, the phrase means: **those who adhere to the transmitted way of the Pro
 
 Ahlus Sunnah does not define itself by a founder, a movement, or a personality after the Prophet . Its reference points are:
 
-**1. The Prophet Muhammad ** his words, actions, and approvals as preserved in the Hadith.
+**1. The Prophet Muhammad** his words, actions, and approvals as preserved in the Hadith.
 
 **2. The Sahabah (Companions)** those who lived with the Prophet , saw the revelation applied in real life, and transmitted Islam to the next generation. They are the first and most authoritative interpreters of the Quran and Sunnah.
 
@@ -95,7 +95,7 @@ Ahlus Sunnah holds that the understanding of Islam held by these three generatio
 
 ## How Large Is Ahlus Sunnah?
 
-Ahlus Sunnah Wal Jama'ah represents the **overwhelming majority** of the world's Muslims estimated at around **8590%** of the global Muslim population.
+Ahlus Sunnah Wal Jama'ah represents the **overwhelming majority** of the world's Muslims estimated at around **85-90%** of the global Muslim population.
 
 Within Ahlus Sunnah, there is significant internal diversity in theological school (_Ash'ari, Maturidi, Athari_), in legal school (_Hanafi, Maliki, Shafi'i, Hanbali_), in spiritual orientation (some follow Sufi orders, others do not), and in culture. But they are united on the foundational articles of belief described in Part 2, on the authority of the Quran and Sunnah, and on the legitimacy of the four Sunni madhabs.
 
@@ -114,7 +114,7 @@ Understanding what Ahlus Sunnah is requires understanding what it is not:
 | **Ismailis / Seveners**   | A branch of Shi'a Islam with esoteric interpretations                                                                                                                   |
 
 {% hint style="warning" %}
-** Scholarly Note:** Categorizing groups does not mean every individual within them is judged negatively as a person. These are theological distinctions, not verdicts on individuals. The vast majority of Muslims in all these groups are sincere in their practice. The distinctions matter for the purpose of understanding doctrine not for social judgment or hostility.
+**Scholarly Note:** Categorizing groups does not mean every individual within them is judged negatively as a person. These are theological distinctions, not verdicts on individuals. The vast majority of Muslims in all these groups are sincere in their practice. The distinctions matter for the purpose of understanding doctrine not for social judgment or hostility.
 {% endhint %}
 
 ---
@@ -140,7 +140,7 @@ Knowing that Ahlus Sunnah is:
 
 - Ahlus Sunnah Wal Jama'ah means the people who follow the Prophet's transmitted way and stay with the main Muslim community.
 - Its reference points are the Prophet , then the Companions, then the first three generations of Islam.
-- It represents approximately 8590% of the world's Muslims.
+- It represents approximately 85-90% of the world's Muslims.
 - Internal diversity exists within Ahlus Sunnah in theology, law, and practice but core beliefs are shared.
 - The 73-sects hadith motivates commitment to the mainstream transmitted tradition rather than sectarian innovation.
 - Knowing what Ahlus Sunnah is provides a practical compass for navigating the diversity of Islamic claims.

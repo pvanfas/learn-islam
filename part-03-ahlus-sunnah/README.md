@@ -14,12 +14,12 @@ Understanding what Ahlus Sunnah means its theology, its methodology, and its bou
 
 ## Chapters in This Part
 
-| #   | Chapter                                                       | Level | Read Time |
-| --- | ------------------------------------------------------------- | ----- | --------- |
-| 1   | [Who Are Ahlus Sunnah Wal Jama'ah?](who-are-ahlus-sunnah.md)  |       | ~10 min   |
-| 2   | [Theological Foundations](theological-foundations.md)         |       | ~10 min   |
-| 3   | [The Major Sects Historical Context](major-sects.md)          |       | ~10 min   |
-| 4   | [Recognizing Ahlus Sunnah Today](recognizing-ahlus-sunnah.md) |       | ~8 min    |
+| #   | Chapter                                                       | Level        | Read Time |
+| --- | ------------------------------------------------------------- | ------------ | --------- |
+| 1   | [Who Are Ahlus Sunnah Wal Jama'ah?](who-are-ahlus-sunnah.md)  | Intermediate | ~10 min   |
+| 2   | [Theological Foundations](theological-foundations.md)         | Intermediate | ~10 min   |
+| 3   | [The Major Sects Historical Context](major-sects.md)          | Intermediate | ~10 min   |
+| 4   | [Recognizing Ahlus Sunnah Today](recognizing-ahlus-sunnah.md) | Intermediate | ~8 min    |
 
 ---
 

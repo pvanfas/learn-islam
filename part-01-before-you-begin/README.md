@@ -14,12 +14,12 @@ If you are a complete newcomer, this is where to begin. If you already know the 
 
 ## Chapters in This Part
 
-| #   | Chapter                                                             | Level | Read Time |
-| --- | ------------------------------------------------------------------- | ----- | --------- |
-| 1   | [What Is Islam? A First Look](what-is-islam.md)                     |       | ~7 min    |
-| 2   | [Common Misconceptions About Islam](misconceptions.md)              |       | ~12 min   |
-| 3   | [Islam's Relationship with Other Faiths](islam-and-other-faiths.md) |       | ~8 min    |
-| 4   | [A Note on Sources](sources.md)                                     |       | ~6 min    |
+| #   | Chapter                                                             | Level    | Read Time |
+| --- | ------------------------------------------------------------------- | -------- | --------- |
+| 1   | [What Is Islam? A First Look](what-is-islam.md)                     | Beginner | ~7 min    |
+| 2   | [Common Misconceptions About Islam](misconceptions.md)              | Beginner | ~12 min   |
+| 3   | [Islam's Relationship with Other Faiths](islam-and-other-faiths.md) | Beginner | ~8 min    |
+| 4   | [A Note on Sources](sources.md)                                     | Beginner | ~6 min    |
 
 ---
 
