@@ -81,7 +81,3 @@ _For the disbeliever, it will feel like fifty thousand years. For the believer: 
 The Day of Judgement makes ethics ultimate. The Prophet said: _"The intelligent person is the one who humbles himself and works for what comes after death."_ (Tirmidhi Hasan)
 
 Every atom of good matters. Every atom of evil matters. Nothing is wasted. Nothing is forgotten.
-
-## Next Chapter
-
-**Continue to:** [Part 16 Islamic Spirituality](../part-16-spirituality/README.md)

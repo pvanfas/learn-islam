@@ -98,7 +98,7 @@ A judge may annul a marriage when:
 
 ---
 
-## ⏳ The 'Iddah (Waiting Period)
+## The 'Iddah (Waiting Period)
 
 After divorce or a husband's death, the wife observes a waiting period before she may remarry:
 

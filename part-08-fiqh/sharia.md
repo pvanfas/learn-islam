@@ -166,7 +166,7 @@ The _Maqasid_ (objectives) are eternal; many specific rulings are context-depend
 Many Muslim-majority countries operate on secular civil law while maintaining Islamic personal status laws (marriage, divorce, inheritance).
 
 {% hint style="warning" %}
-** Important context:** There is no single "Sharia state" that all Muslims agree on. The debate about how Sharia should relate to modern governance is one of the most active and important discussions in contemporary Islamic scholarship. What is agreed upon: the Sharia's spiritual, ethical, and personal dimensions are binding on every Muslim, regardless of what state they live in.
+**Important context:** There is no single "Sharia state" that all Muslims agree on. The debate about how Sharia should relate to modern governance is one of the most active and important discussions in contemporary Islamic scholarship. What is agreed upon: the Sharia's spiritual, ethical, and personal dimensions are binding on every Muslim, regardless of what state they live in.
 {% endhint %}
 
 ---

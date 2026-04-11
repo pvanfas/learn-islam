@@ -1,4 +1,4 @@
-# ⏳ Part 15 Signs of the Last Days (_Ashratus Sa'ah_)
+# Part 15 Signs of the Last Days (_Ashratus Sa'ah_)
 
 **Difficulty:** Intermediate &nbsp;|&nbsp; **Chapters:** 9 &nbsp;|&nbsp; **Estimated reading time:** ~85 min
 
@@ -12,17 +12,17 @@ Islamic eschatology the study of end-times is one of the most detailed subjects 
 
 ## Chapters
 
-| #   | Chapter                                                  | Level |
-| --- | -------------------------------------------------------- | ----- |
-| 1   | [Introduction to Islamic Eschatology](introduction.md)   |       |
-| 2   | [Minor Signs Already Passed](minor-signs-passed.md)      |       |
-| 3   | [Minor Signs Occurring Now](minor-signs-now.md)          |       |
-| 4   | [The Ten Major Signs](major-signs.md)                    |       |
-| 5   | [The Dajjal The False Messiah](dajjal.md)                |       |
-| 6   | [The Mahdi](mahdi.md)                                    |       |
-| 7   | [The Descent of Isa ibn Maryam (AS)](descent-of-isa.md)  |       |
-| 8   | [Ya'juj and Ma'juj](yajuj-majuj.md)                      |       |
-| 9   | [The Day of Judgement Step by Step](day-of-judgement.md) |       |
+| #   | Chapter                                                  | Level        |
+| --- | -------------------------------------------------------- | ------------ |
+| 1   | [Introduction to Islamic Eschatology](introduction.md)   | Intermediate |
+| 2   | [Minor Signs Already Passed](minor-signs-passed.md)      | Intermediate |
+| 3   | [Minor Signs Occurring Now](minor-signs-now.md)          | Intermediate |
+| 4   | [The Ten Major Signs](major-signs.md)                    | Intermediate |
+| 5   | [The Dajjal The False Messiah](dajjal.md)                | Intermediate |
+| 6   | [The Mahdi](mahdi.md)                                    | Intermediate |
+| 7   | [The Descent of Isa ibn Maryam (AS)](descent-of-isa.md)  | Intermediate |
+| 8   | [Ya'juj and Ma'juj](yajuj-majuj.md)                      | Intermediate |
+| 9   | [The Day of Judgement Step by Step](day-of-judgement.md) | Intermediate |
 
 ---
 

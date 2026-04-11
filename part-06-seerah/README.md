@@ -16,18 +16,18 @@ Non-Muslim historians, philosophers, and writers have also recognized the extrao
 
 ## Chapters in This Part
 
-| #   | Chapter                                                          | Level | Read Time |
-| --- | ---------------------------------------------------------------- | ----- | --------- |
-| 1   | [Arabia Before Islam](arabia-before-islam.md)                    |       | ~7 min    |
-| 2   | [Early Life of the Prophet ](early-life.md)                      |       | ~9 min    |
-| 3   | [The Beginning of Revelation](first-revelation.md)               |       | ~8 min    |
-| 4   | [The Makkan Period Patience Under Persecution](makkan-period.md) |       | ~10 min   |
-| 5   | [The Hijrah Migration to Madinah](hijrah.md)                     |       | ~8 min    |
-| 6   | [The Madinan Period](madinan-period.md)                          |       | ~10 min   |
-| 7   | [The Conquest of Makkah](conquest-of-makkah.md)                  |       | ~7 min    |
-| 8   | [The Farewell Sermon & Final Days](farewell-sermon.md)           |       | ~8 min    |
-| 9   | [The Character of the Prophet ](character.md)                    |       | ~10 min   |
-| 10  | [Non-Muslim Historians on Muhammad ](non-muslim-views.md)        |       | ~7 min    |
+| #   | Chapter                                                          | Level        | Read Time |
+| --- | ---------------------------------------------------------------- | ------------ | --------- |
+| 1   | [Arabia Before Islam](arabia-before-islam.md)                    | Beginner     | ~7 min    |
+| 2   | [Early Life of the Prophet ](early-life.md)                      | Beginner     | ~9 min    |
+| 3   | [The Beginning of Revelation](first-revelation.md)               | Beginner     | ~8 min    |
+| 4   | [The Makkan Period Patience Under Persecution](makkan-period.md) | Beginner     | ~10 min   |
+| 5   | [The Hijrah Migration to Madinah](hijrah.md)                     | Beginner     | ~8 min    |
+| 6   | [The Madinan Period](madinan-period.md)                          | Intermediate | ~10 min   |
+| 7   | [The Conquest of Makkah](conquest-of-makkah.md)                  | Beginner     | ~7 min    |
+| 8   | [The Farewell Sermon & Final Days](farewell-sermon.md)           | Beginner     | ~8 min    |
+| 9   | [The Character of the Prophet ](character.md)                    | Beginner     | ~10 min   |
+| 10  | [Non-Muslim Historians on Muhammad ](non-muslim-views.md)        | Intermediate | ~7 min    |
 
 ---
 

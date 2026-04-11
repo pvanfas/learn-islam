@@ -12,17 +12,17 @@
 
 ## Chapters in This Part
 
-| #   | Chapter                                                     | Level | Read Time |
-| --- | ----------------------------------------------------------- | ----- | --------- |
-| 1   | [Understanding Sharia](sharia.md)                           |       | ~11 min   |
-| 2   | [Sources of Islamic Law](sources.md)                        |       | ~8 min    |
-| 3   | [The Four Major Sunni Madhabs](madhabs.md)                  |       | ~10 min   |
-| 4   | [Purification (Taharah)](taharah.md)                        |       | ~8 min    |
-| 5   | [Halal and Haram Food & Drink](halal-haram.md)              |       | ~11 min   |
-| 6   | [Family Law Marriage, Divorce & Inheritance](family-law.md) |       | ~11 min   |
-| 7   | [Business Ethics and Contracts](business-ethics.md)         |       | ~8 min    |
-| 8   | [Islamic Finance Riba & Alternatives](islamic-finance.md)   |       | ~11 min   |
-| 9   | [Medical Ethics in Islam](medical-ethics.md)                |       | ~8 min    |
+| #   | Chapter                                                     | Level        | Read Time |
+| --- | ----------------------------------------------------------- | ------------ | --------- |
+| 1   | [Understanding Sharia](sharia.md)                           | Intermediate | ~11 min   |
+| 2   | [Sources of Islamic Law](sources.md)                        | Intermediate | ~8 min    |
+| 3   | [The Four Major Sunni Madhabs](madhabs.md)                  | Intermediate | ~10 min   |
+| 4   | [Purification (Taharah)](taharah.md)                        | Beginner     | ~8 min    |
+| 5   | [Halal and Haram Food & Drink](halal-haram.md)              | Beginner     | ~11 min   |
+| 6   | [Family Law Marriage, Divorce & Inheritance](family-law.md) | Intermediate | ~11 min   |
+| 7   | [Business Ethics and Contracts](business-ethics.md)         | Intermediate | ~8 min    |
+| 8   | [Islamic Finance Riba & Alternatives](islamic-finance.md)   | Intermediate | ~11 min   |
+| 9   | [Medical Ethics in Islam](medical-ethics.md)                | Intermediate | ~8 min    |
 
 ---
 

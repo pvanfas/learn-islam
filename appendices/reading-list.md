@@ -73,7 +73,3 @@ The most widely used structured Quranic Arabic curriculum. Systematic and thorou
 
 "Arabic Unlocked" Ustadh Asif Meherali
 Accessible and practical for self-study.
-
----
-
-## Continue to: Glossary

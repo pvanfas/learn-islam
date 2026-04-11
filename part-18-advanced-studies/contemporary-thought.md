@@ -26,7 +26,7 @@ Three broad answers emerged:
 
 ---
 
-### Shah Waliullah al-Dehlawi (17031762 CE) India
+### Shah Waliullah al-Dehlawi (1703-1762 CE) India
 
 **The great synthesizer.** Born in Delhi during the Mughal Empire's decline, Shah Waliullah attempted to reconcile the four madhabs, bridge the gap between Sufism and hadith-based scholarship, and produce an integrated Islamic intellectual framework for a Muslim minority navigating the loss of political power.
 
@@ -41,7 +41,7 @@ Three broad answers emerged:
 
 ---
 
-### Muhammad ibn Abd al-Wahhab (17031792 CE) Arabia
+### Muhammad ibn Abd al-Wahhab (1703-1792 CE) Arabia
 
 **The reformer of the Arabian Peninsula.** A Hanbali scholar who saw the Muslim world of his time as filled with bid'ah, grave worship, and practices he considered Shirk. He allied with Muhammad ibn Saud the political ruler of Najd in an effort to purify Arabian Islam and return it to what he understood as the practice of the Salaf.
 
@@ -57,7 +57,7 @@ Three broad answers emerged:
 
 ---
 
-### Jamal al-Din al-Afghani (18381897 CE) Pan-Islamism
+### Jamal al-Din al-Afghani (1838-1897 CE) Pan-Islamism
 
 **The political activist.** Born in Afghanistan, al-Afghani traveled across the Muslim world arguing for Pan-Islamic unity as a response to European colonialism. He believed Muslims needed to modernize intellectually while resisting Western political domination.
 
@@ -71,7 +71,7 @@ Three broad answers emerged:
 
 ---
 
-### Muhammad Abduh (18491905 CE) Egypt
+### Muhammad Abduh (1849-1905 CE) Egypt
 
 **The rationalist reformer.** Grand Mufti of Egypt and one of the most consequential Islamic modernist thinkers, Abduh argued for a rational reinterpretation of Islam that could engage productively with Western science and political philosophy.
 
@@ -86,7 +86,7 @@ Three broad answers emerged:
 
 ---
 
-### Muhammad Iqbal (18771938 CE) South Asia
+### Muhammad Iqbal (1877-1938 CE) South Asia
 
 **The poet-philosopher.** Perhaps the greatest Islamic thinker in the Urdu and Persian languages. Iqbal combined deep engagement with Western philosophy (he studied in Germany and England) with a profound Islamic worldview to produce a vision of Islamic renewal.
 
@@ -100,7 +100,7 @@ Three broad answers emerged:
 
 ---
 
-### Hassan al-Banna (19061949 CE) Egypt
+### Hassan al-Banna (1906-1949 CE) Egypt
 
 **The organizer.** Founder of the _Muslim Brotherhood_ (Al-Ikhwan al-Muslimun) the first and most influential modern Islamic political organization, founded in Egypt in 1928.
 
@@ -117,7 +117,7 @@ Three broad answers emerged:
 
 ---
 
-### Sayyid Abul Ala Maududi (19031979 CE) Pakistan
+### Sayyid Abul Ala Maududi (1903-1979 CE) Pakistan
 
 **The systematizer.** Founder of _Jamaat-e-Islami_ in Pakistan, Maududi developed the most systematic modern articulation of political Islam.
 
@@ -133,7 +133,7 @@ Three broad answers emerged:
 
 ---
 
-### Sayyid Qutb (19061966 CE) Egypt
+### Sayyid Qutb (1906-1966 CE) Egypt
 
 **The radical:** Initially a literary critic, Qutb became an Islamist thinker after imprisonment by Nasser's regime. His concept of _Jahiliyyah_ (applying the pre-Islamic "age of ignorance" label to contemporary Muslim societies) and his call for _Jihad_ against nominally Muslim governments became the intellectual foundation of jihadist movements.
 
@@ -143,7 +143,7 @@ Three broad answers emerged:
 
 ---
 
-### Yusuf al-Qaradawi (19262022 CE) Qatar
+### Yusuf al-Qaradawi (1926-2022 CE) Qatar
 
 **The fiqh of minorities.** One of the most globally influential Islamic scholars of the 20th21st centuries. He developed the concept of _Fiqh al-Aqalliyyat_ Islamic jurisprudence for Muslim minorities living in non-Muslim countries.
 

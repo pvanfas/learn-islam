@@ -15,5 +15,3 @@ The Abbasid Caliphate (750-1258 CE) saw the greatest flourishing of Islamic inte
 The Ottoman Caliphate (1299-1924 CE) was the last great Islamic political institution — protecting the holy cities of Makkah and Madinah, the pilgrimage routes, and Muslim communities across three continents. Its fall in 1924 left a vacuum that Muslim political thought has been trying to address ever since.
 
 ---
-
-## Continue to: Islam in the Modern Era

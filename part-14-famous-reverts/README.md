@@ -180,7 +180,3 @@ Formally, a person enters Islam by sincerely declaring the Shahada in Arabic _"A
 </details>
 
 ---
-
-## Next Chapter
-
-**Continue to:** [Common Reasons People Revert to Islam](common-reasons.md)

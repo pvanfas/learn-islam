@@ -45,7 +45,3 @@ Contemporary jihadist movements that practice takfir against Muslim governments 
 Ahlus Sunnah does not declare Shi'a or Ibadi Muslims as non-Muslims (kafir) these are Muslim communities with whom Sunnis have serious theological disagreements. Productive dialogue, clear scholarly engagement with differences, and avoidance of violence are the Sunni approach.
 
 What Ahlus Sunnah does reject: the theological positions of the Mu'tazilah (who denied certain divine attributes), the extreme Shi'a positions that amount to veneration of the Imams beyond Islamic bounds, and Kharijite-style takfir.
-
----
-
-## Continue to: Recognizing Ahlus Sunnah

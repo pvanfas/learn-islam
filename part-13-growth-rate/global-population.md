@@ -127,7 +127,7 @@ The Pew Research Center projects:
 ## A Balanced View
 
 {% hint style="warning" %}
-** Important nuance:** Raw population numbers are not a measure of religious truth or spiritual vitality. Islam teaches that quality of faith matters more than quantity of believers. The Prophet warned of a time when Muslims would be numerically many but spiritually weak _"like the foam on the water."_
+**Important nuance:** Raw population numbers are not a measure of religious truth or spiritual vitality. Islam teaches that quality of faith matters more than quantity of believers. The Prophet warned of a time when Muslims would be numerically many but spiritually weak _"like the foam on the water."_
 
 The growth of Muslim populations raises important questions about the quality of Islamic knowledge, practice, and character in those communities questions that Islamic scholars are actively engaging with. Numbers alone are not a victory condition in Islamic theology.
 {% endhint %}
@@ -164,7 +164,3 @@ This counterintuitive pattern is documented in multiple studies. Researchers sug
 </details>
 
 ---
-
-## Next Chapter
-
-**Continue to:** [Famous Reverts to Islam](../part-14-famous-reverts/README.md)

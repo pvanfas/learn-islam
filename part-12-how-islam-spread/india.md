@@ -15,5 +15,3 @@ The third and most spiritually significant channel was the Chishti Sufi order. M
 The Mughal Empire (1526-1858 CE) produced perhaps the greatest synthesis of Islamic and Indian culture — in architecture (the Taj Mahal), music, poetry (Urdu literature), and visual art. The Mughals demonstrated that Islamic civilization could absorb and enrich rather than simply replace what it encountered.
 
 ---
-
-## Continue to: Islam in Southeast Asia

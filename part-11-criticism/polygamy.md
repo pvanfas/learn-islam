@@ -43,7 +43,3 @@ The question of which system better protects women is more complex than the dism
 ## Contemporary Reality
 
 Most Muslim marriages globally are monogamous. Polygamy is legally restricted in many Muslim-majority countries. The demanding conditions make it rare in practice. The Prophet's own example 25 years of exclusive marriage to Khadijah before her death shows that monogamy was his preferred default.
-
----
-
-## Continue to: Scientific Criticisms

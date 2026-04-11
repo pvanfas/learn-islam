@@ -15,5 +15,3 @@ Conversion in Western contexts is occurring across demographic lines — most no
 The digital revolution has transformed da'wah. YouTube channels reaching millions, online Islamic education platforms like SeekersGuidance and Bayyinah, and social media communities allow people to learn about Islam independently of physical community — a development unprecedented in Islamic history.
 
 ---
-
-## Continue to: Part 13 — Islam's Growth Rate Today

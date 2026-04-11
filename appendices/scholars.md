@@ -16,23 +16,23 @@ _These scholars laid the foundations of Islamic knowledge. Their works are studi
 
 ### Theology & Aqeedah
 
-**Imam Ahmad ibn Hanbal** (164241 AH)
+**Imam Ahmad ibn Hanbal** (164-241 AH)
 The founding Imam of the Hanbali madhab and a towering Hadith scholar. His steadfastness during the Mihna (Inquisition) made him the symbol of Ahlus Sunnah's commitment to principle.
 _Key works:_ Musnad Ahmad (27,000+ Hadith), Al-Radd ala al-Zanadiqah.
 
-**Imam al-Ash'ari** (260324 AH)
+**Imam al-Ash'ari** (260-324 AH)
 Founder of the Ash'ari theological school the most widely followed school of Sunni theology. A former Mu'tazilite who returned to Ahlus Sunnah.
 _Key works:_ Al-Ibanah, Maqalat al-Islamiyyin.
 
-**Imam al-Maturidi** (238333 AH)
+**Imam al-Maturidi** (238-333 AH)
 Founder of the Maturidi theological school dominant in the Hanafi tradition. His theology is nearly identical to Ash'ari with minor differences.
 _Key works:_ Kitab al-Tawhid.
 
-**Ibn Taymiyyah** (661728 AH)
+**Ibn Taymiyyah** (661-728 AH)
 One of the most influential scholars in Islamic history known for his encyclopedic knowledge, bold scholarship, and commitment to returning to the texts of Quran and Sunnah. A Hanbali scholar with significant impact on later revivalist movements.
 _Key works:_ Majmu' al-Fatawa (37 volumes), Al-Aqeedah al-Wasitiyyah, Kitab al-Iman.
 
-**Ibn al-Qayyim al-Jawziyyah** (691751 AH)
+**Ibn al-Qayyim al-Jawziyyah** (691-751 AH)
 The greatest student of Ibn Taymiyyah. Particularly known for his spiritual writings combining deep Quranic knowledge with practical guidance for the heart.
 _Key works:_ Madarij al-Salikin, Zad al-Ma'ad, Al-Wabil al-Sayyib, I'lam al-Muwaqqi'in.
 
@@ -40,13 +40,13 @@ _Key works:_ Madarij al-Salikin, Zad al-Ma'ad, Al-Wabil al-Sayyib, I'lam al-Muwa
 
 ### Hadith Sciences
 
-**Imam Muhammad ibn Ismail al-Bukhari** (194256 AH)
+**Imam Muhammad ibn Ismail al-Bukhari** (194-256 AH)
 Compiler of Sahih al-Bukhari the most rigorously verified Hadith collection in Islamic history. His standard of verification is the benchmark against which all Hadith scholarship is measured.
 
-**Imam Muslim ibn al-Hajjaj** (206261 AH)
+**Imam Muslim ibn al-Hajjaj** (206-261 AH)
 Compiler of Sahih Muslim the second most authoritative Hadith collection. Known for his excellent organization and rigorous methodology.
 
-**Imam an-Nawawi** (631676 AH)
+**Imam an-Nawawi** (631-676 AH)
 One of the greatest scholars of Hadith and Fiqh. His compilation of 40 Hadith (_Al-Arba'een al-Nawawiyyah_) is the most widely memorized collection of hadith in the world. His commentary on Sahih Muslim remains a primary reference.
 _Key works:_ Riyadh al-Salihin, Al-Arba'een al-Nawawiyyah, Sharh Sahih Muslim.
 
@@ -54,10 +54,10 @@ _Key works:_ Riyadh al-Salihin, Al-Arba'een al-Nawawiyyah, Sharh Sahih Muslim.
 
 ### Tafsir (Quranic Commentary)
 
-**Imam Ibn Kathir** (701774 AH)
+**Imam Ibn Kathir** (701-774 AH)
 His Tafsir (_Tafsir Ibn Kathir_) is the most widely used classical Tafsir in the English-speaking world. Clear, evidence-based, and accessible.
 
-**Imam al-Tabari** (224310 AH)
+**Imam al-Tabari** (224-310 AH)
 The earliest and most comprehensive classical Tafsir _Jami' al-Bayan fi Tafsir al-Quran_. The primary reference for understanding what the Companions and Tabi'un said about Quranic verses.
 
 **Imam al-Qurtubi** (d. 671 AH)
@@ -67,29 +67,29 @@ His Tafsir (_Al-Jami' li Ahkam al-Quran_) is particularly strong on the legal ru
 
 ### Islamic Law (Fiqh)
 
-**Imam Abu Hanifah** (80150 AH) Founder of the Hanafi madhab
+**Imam Abu Hanifah** (80-150 AH) Founder of the Hanafi madhab
 
-**Imam Malik ibn Anas** (93179 AH) Founder of the Maliki madhab; compiler of Al-Muwatta
+**Imam Malik ibn Anas** (93-179 AH) Founder of the Maliki madhab; compiler of Al-Muwatta
 
-**Imam al-Shafi'i** (150204 AH) Founder of the Shafi'i madhab; father of Usul al-Fiqh
+**Imam al-Shafi'i** (150-204 AH) Founder of the Shafi'i madhab; father of Usul al-Fiqh
 
-**Imam Ahmad ibn Hanbal** (164241 AH) Founder of the Hanbali madhab
+**Imam Ahmad ibn Hanbal** (164-241 AH) Founder of the Hanbali madhab
 
-**Ibn Qudamah al-Maqdisi** (541620 AH)
+**Ibn Qudamah al-Maqdisi** (541-620 AH)
 The great Hanbali jurist. His _Al-Mughni_ is one of the most comprehensive works of comparative Fiqh, covering all four madhabs.
 
 ---
 
 ### Spirituality & Character
 
-**Imam al-Ghazali** (450505 AH)
+**Imam al-Ghazali** (450-505 AH)
 Arguably the most influential Muslim scholar after the Companions. His _Ihya Ulum al-Din_ (Revival of the Religious Sciences) is the most comprehensive work on Islamic spirituality ever written covering theology, worship, ethics, and the diseases of the heart.
 _Key works:_ Ihya Ulum al-Din, Al-Maqsad al-Asna, Minhaj al-Abidin.
 
 **Ibn Ata'illah al-Iskandari** (d. 709 AH)
 Author of the _Hikam_ (Book of Wisdom) 264 aphorisms on the spiritual life that are among the most profound writings in Islamic literature.
 
-**Imam al-Muhasibi** (165243 AH)
+**Imam al-Muhasibi** (165-243 AH)
 One of the earliest systematic writers on the purification of the soul. His _Al-Ri'ayah_ is a masterwork on self-examination and spiritual discipline.
 
 ---
@@ -140,10 +140,10 @@ _Accessible through:_ YouTube
 
 ### Arabic-Language Scholars (for advanced students)
 
-**Sheikh Ibn Baz** (19101999)
+**Sheikh Ibn Baz** (1910-1999)
 Former Grand Mufti of Saudi Arabia. Known for his vast knowledge of Hadith, Fiqh, and Aqeedah and his accessibility to ordinary Muslims.
 
-**Sheikh Ibn Uthaymeen** (19252001)
+**Sheikh Ibn Uthaymeen** (1925-2001)
 One of the most prolific scholars of the 20th century. His recorded lessons and fatwas cover virtually every area of Islamic law.
 
 **Sheikh Salman al-Awdah**

@@ -90,7 +90,7 @@ What is clear from the Quran: the barrier exists, it is real, it will be leveled
 Yes according to the Islamic tradition. They are confined behind the barrier of Dhul-Qarnayn, trying to break through every day, and will continue until their appointed time.
 
 {% hint style="warning" %}
-** Scholarly caution on modern interpretations:**
+**Scholarl caution on modern interpretations:**
 
 Some contemporary Muslims have interpreted Ya'juj and Ma'juj symbolically as representing certain nations or ideological forces. The mainstream Ahlus Sunnah position is that they are a literal, physical nation as described in the Quran and Sunnah. Their allegorical identification with specific modern nations (Russia, China, Mongol descendants, etc.) is speculative and not supported by clear evidence and should be approached with extreme caution.
 {% endhint %}
@@ -142,7 +142,3 @@ Not necessarily. The Quran says it is between two mountain cliffs but does not s
 </details>
 
 ---
-
-## Next Chapter
-
-**Continue to:** [The Day of Judgement Step by Step](day-of-judgement.md)

@@ -62,7 +62,3 @@ Each chapter is marked with a level:
 ## A Note on Madhab Differences
 
 Where scholars of the four Sunni schools differ on a ruling, this guide notes the difference clearly. It does not declare one madhab correct and dismiss others. Readers should follow the ruling of their own qualified scholar for personal practice.
-
----
-
-## Continue to: Part 1 Before You Begin

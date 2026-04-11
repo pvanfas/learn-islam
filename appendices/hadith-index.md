@@ -62,7 +62,3 @@ Use Sunnah.com to access the full text of any hadith searchable by keyword, chap
 "I am as my servant thinks of Me..." Reading Hadith chapter
 "All deeds of the son of Adam are for himself except fasting..." Spiritual Ramadan
 "I have divided the prayer between Myself and my servant into two halves..." (Al-Fatihah response) Spirituality of Salah
-
----
-
-## Continue to: Timeline of Islamic History

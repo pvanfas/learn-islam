@@ -183,7 +183,7 @@ Their differences are in **subsidiary matters** specific rulings within these br
 ## Why Should Every Muslim Follow a Madhab?
 
 {% hint style="warning" %}
-** Important principle:** The alternative to following a madhab is not "following the Quran and Sunnah directly." It is following your own unqualified reading of the Quran and Sunnah which carries serious risk of error.
+**Important principle:** The alternative to following a madhab is not "following the Quran and Sunnah directly." It is following your own unqualified reading of the Quran and Sunnah which carries serious risk of error.
 
 The scholars of each madhab spent decades in deep study of every hadith, every Quranic verse, every precedent and they still disagreed on details. A person who has not done this work is not qualified to derive rulings independently.
 

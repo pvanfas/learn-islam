@@ -51,7 +51,3 @@ On love of Allah: Al-Ghazali's final volume on love (mahabbah) is among the most
 The Ihya is available in full English translation the most accessible is the translation published by the Islamic Texts Society (Cambridge), translated by Tim Winter (Abdal Hakim Murad). Reading even one of the 40 books slowly, with reflection and application, is more valuable than reading the entire work as an academic exercise.
 
 Al-Ghazali himself would say: the Ihya is not meant to be read it is meant to be practiced.
-
----
-
-## Continue to: Part 17 Living as a Muslim

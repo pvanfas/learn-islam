@@ -12,11 +12,11 @@ Bid'ah religious innovation is the introduction of acts of worship without basis
 
 ## Chapters
 
-| #   | Chapter                                            | Level |
-| --- | -------------------------------------------------- | ----- |
-| 1   | [What Is Bid'ah?](what-is-bidah.md)                |       |
-| 2   | [Categories of Bid'ah](categories.md)              |       |
-| 3   | [Common Bid'ahs Practiced Today](common-bidahs.md) |       |
-| 4   | [The Mawlid Scholarly Discussion](mawlid.md)       |       |
-| 5   | [Grave Worship and Tawassul](grave-worship.md)     |       |
-| 6   | [How to Respond to Bid'ah](how-to-respond.md)      |       |
+| #   | Chapter                                            | Level        |
+| --- | -------------------------------------------------- | ------------ |
+| 1   | [What Is Bid'ah?](what-is-bidah.md)                | Intermediate |
+| 2   | [Categories of Bid'ah](categories.md)              | Intermediate |
+| 3   | [Common Bid'ahs Practiced Today](common-bidahs.md) | Intermediate |
+| 4   | [The Mawlid Scholarly Discussion](mawlid.md)       | Intermediate |
+| 5   | [Grave Worship and Tawassul](grave-worship.md)     | Intermediate |
+| 6   | [How to Respond to Bid'ah](how-to-respond.md)      | Beginner     |

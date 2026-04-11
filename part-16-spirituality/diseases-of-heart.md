@@ -23,7 +23,3 @@ Beyond the six major diseases covered in the main chapter, Islamic scholars iden
 **Hiqd Grudge-bearing.** Holding grudges refusing to forgive, nurturing resentment is described as burning the heart from within. The Prophet said: "Do not harbor mutual hatred, do not turn your backs on each other, do not artificially inflate prices, and be servants of Allah as brothers." (Sahih al-Bukhari)
 
 **'Ujb Self-admiration.** Related to kibr (pride) but distinct: ujb is satisfaction with one's own deeds and qualities to the point of forgetting that all good comes from Allah. The Prophet warned against it explicitly.
-
----
-
-## Continue to: Virtues and Character

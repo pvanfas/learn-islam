@@ -41,7 +41,3 @@ Modern cosmology places the universe at approximately 13.8 billion years old. Th
 ## Historical Criticism of the Quran
 
 Academic scholars applying textual-historical methods to the Quran have raised questions about variant readings, the compilation process, and the relationship between the Quran and earlier texts. Islamic scholarship has engaged with these arguments extensively. The key Islamic responses: the Isnad system provides a level of chain-of-transmission verification unmatched for any ancient text; the variant readings (Qira'at) are acknowledged and documented within the Islamic tradition itself; the relationship with earlier scriptures is explained by the Quran's own claim to confirm, correct, and supersede them.
-
----
-
-## Continue to: Orientalist and Academic Criticisms

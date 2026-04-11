@@ -34,7 +34,7 @@ These signs occurred definitively in Islamic history:
 | The conquest of Jerusalem                                          | 638 CE under Umar (RA)                                       |
 | The great plague of Amwas (Syria/Palestine)                        | 638639 CE killed 25,000 Companions                           |
 | The conquest of Persia and Rome (Byzantine territory)              | 630s640s CE                                                  |
-| The civil wars among Muslims (_Fitan_) the first civil war         | 656661 CE                                                    |
+| The civil wars among Muslims (_Fitan_) the first civil war         | 656-661 CE                                                   |
 | Arabia becoming rivers and gardens (narration about it being seen) | Archaeological evidence now confirms Arabia was once fertile |
 
 ---
@@ -168,7 +168,7 @@ The phenomenon of unqualified individuals on social media issuing Islamic ruling
 ## The Right Response to These Signs
 
 {% hint style="warning" %}
-** Critical balance:**
+**Critical balance:**
 
 Recognizing these signs should produce THREE responses not just the first one:
 
@@ -215,7 +215,3 @@ Individual and community improvement is always possible and is always the Muslim
 </details>
 
 ---
-
-## Next Chapter
-
-**Continue to:** [The Ten Major Signs](major-signs.md)

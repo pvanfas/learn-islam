@@ -15,5 +15,3 @@ The traveling scholar (alim) was equally significant. Ibn Battuta's extraordinar
 The result of this patient, personal, spiritual da'wah: Islam is today the majority religion in more countries than any other faith — and the dominant religion of populations that no Muslim army ever conquered.
 
 ---
-
-## Continue to: The Caliphates

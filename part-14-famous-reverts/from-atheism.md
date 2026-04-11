@@ -19,5 +19,3 @@ The cosmological argument. Classical Islamic philosophers (al-Kindi, Ibn Rushd, 
 The problem of meaning. Secular materialism cannot coherently ground objective moral values, purpose, or meaning. For former atheists who found this conclusion unbearable not merely uncomfortable but genuinely nihilistic Islamic theology offered a coherent alternative.
 
 ---
-
-## Continue to: Common Reasons for Accepting Islam

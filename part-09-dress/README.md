@@ -12,14 +12,14 @@ Islam treats the body and its presentation as a form of worship modesty (_Haya_)
 
 ## Chapters in This Part
 
-| #   | Chapter                                             | Level | Read Time |
-| --- | --------------------------------------------------- | ----- | --------- |
-| 1   | [The Concept of Modesty (Haya)](haya.md)            |       | ~6 min    |
-| 2   | [Islamic Dress for Women](women-dress.md)           |       | ~7 min    |
-| 3   | [Hijab Quranic Basis & Conditions](hijab.md)        |       | ~13 min   |
-| 4   | [Niqab Scholarly Positions](niqab.md)               |       | ~6 min    |
-| 5   | [Islamic Dress for Men](men-dress.md)               |       | ~9 min    |
-| 6   | [General Appearance Rulings](general-appearance.md) |       | ~7 min    |
+| #   | Chapter                                             | Level        | Read Time |
+| --- | --------------------------------------------------- | ------------ | --------- |
+| 1   | [The Concept of Modesty (Haya)](haya.md)            | Beginner     | ~6 min    |
+| 2   | [Islamic Dress for Women](women-dress.md)           | Beginner     | ~7 min    |
+| 3   | [Hijab Quranic Basis & Conditions](hijab.md)        | Beginner     | ~13 min   |
+| 4   | [Niqab Scholarly Positions](niqab.md)               | Intermediate | ~6 min    |
+| 5   | [Islamic Dress for Men](men-dress.md)               | Beginner     | ~9 min    |
+| 6   | [General Appearance Rulings](general-appearance.md) | Beginner     | ~7 min    |
 
 ---
 

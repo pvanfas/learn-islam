@@ -49,7 +49,3 @@ Severing from the broader Muslim community and regarding engagement with mainstr
 Ibn Mas'ud (RA) said: "Whoever wishes to follow a path, let him follow the path of those who have died for the living are not safe from fitnah. They are the Companions of Muhammad, the best of this Ummah, the most righteous of heart, the deepest in knowledge, the least in formality. A people whom Allah chose to accompany His Prophet and establish His religion so recognize their merit and follow their path."
 
 The Companions are the reference point. A group that honors the Companions, follows their transmitted practice, and maintains the established scholarly tradition is on the path of Ahlus Sunnah.
-
----
-
-## Continue to: Part 4 The Five Pillars

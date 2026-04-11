@@ -24,5 +24,3 @@ Islam is the world's fastest-growing major religion. The Pew Research Center pro
 Muslims should approach demographic data with appropriate detachment. The Prophet said: "Islam began as something strange, and it will return to being something strange — so glad tidings to the strangers." (Sahih Muslim) Large numbers are not the goal. A billion sincere Muslims would be worth more, in the scale of Allah, than two billion nominal ones. Demographic growth is a fact of our era — the obligation is to make sure what is growing has depth, character, and genuine connection to the Quran and Sunnah.
 
 ---
-
-## Continue to: Global Muslim Population

@@ -50,7 +50,3 @@ Al-Risalah (Imam al-Shafi'i) the founding text; English translation available.
 Al-Mustasfa (Imam al-Ghazali) the most systematic classical treatment.
 Principles of Islamic Jurisprudence (Mohammad Hashim Kamali) accessible English introduction.
 Introduction to Islamic Law (Wael Hallaq) academic but thorough.
-
----
-
-## Continue to: Contemporary Islamic Thought

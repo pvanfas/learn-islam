@@ -43,7 +43,3 @@ Tafsir Ibn Kathir most accessible classical Tafsir in English; available free on
 Tafsir al-Qurtubi essential for legal rulings derived from verses.
 Al-Kashshaf (al-Zamakhshari) the masterwork of linguistic and rhetorical analysis; requires advanced Arabic.
 Fi Zilal al-Quran (Sayyid Qutb) powerful modern literary Tafsir; read with awareness of some contested positions.
-
----
-
-## Continue to: Usul al-Fiqh

@@ -171,7 +171,3 @@ The sense of oppression, division, and waiting for divine rescue that many Musli
 </details>
 
 ---
-
-## Next Chapter
-
-**Continue to:** [The Descent of Isa ibn Maryam (AS)](descent-of-isa.md)

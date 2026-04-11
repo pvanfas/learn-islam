@@ -45,7 +45,3 @@ He was deeply skeptical of inherited historical accounts not because he doubted 
 Ibn Khaldun's theory has been applied to modern geopolitics scholars have used it to analyze the decline of established powers and the rise of new ones, the relationship between frontier and urban culture, and the sociology of political power.
 
 His observations about the economics of taxation ("the state that reduces taxes generates more revenue in the long run than the state that raises them" a principle anticipating the Laffer Curve by 600 years) show the range of his economic insight.
-
----
-
-## Continue to: Advanced Tafsir Studies

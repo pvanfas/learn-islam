@@ -68,7 +68,3 @@ A fire will emerge from Yemen that will drive all remaining people toward their 
 ## The Order of the Major Signs
 
 Scholars generally understand the order as: Mahdi → Dajjal → Isa (AS) descends → Ya'juj and Ma'juj → then the geological signs (landslides, sun rising from west) → then the fire. But the exact sequence of some signs is debated among scholars.
-
-## Next Chapter
-
-**Continue to:** [The Dajjal The False Messiah](dajjal.md)

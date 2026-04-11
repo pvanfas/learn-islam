@@ -14,14 +14,14 @@ This part covers the foundational concepts: the heart's health and its diseases,
 
 ## Chapters in This Part
 
-| #   | Chapter                                               | Level | Read Time |
-| --- | ----------------------------------------------------- | ----- | --------- |
-| 1   | [The Heart in Islam Diseases and Cures](the-heart.md) |       | ~12 min   |
-| 2   | [Virtues and Character (Akhlaq)](akhlaq.md)           |       | ~11 min   |
-| 3   | [Dhikr Remembrance of Allah](dhikr.md)                |       | ~11 min   |
-| 4   | [Morning and Evening Adhkar](adhkar.md)               |       | ~8 min    |
-| 5   | [Introduction to Tasawwuf (Sufism)](tasawwuf.md)      |       | ~12 min   |
-| 6   | [Al-Ghazali's _Ihya_ A Deep Dive](ihya.md)            |       | ~10 min   |
+| #   | Chapter                                               | Level        | Read Time |
+| --- | ----------------------------------------------------- | ------------ | --------- |
+| 1   | [The Heart in Islam Diseases and Cures](the-heart.md) | Intermediate | ~12 min   |
+| 2   | [Virtues and Character (Akhlaq)](akhlaq.md)           | Beginner     | ~11 min   |
+| 3   | [Dhikr Remembrance of Allah](dhikr.md)                | Beginner     | ~11 min   |
+| 4   | [Morning and Evening Adhkar](adhkar.md)               | Beginner     | ~8 min    |
+| 5   | [Introduction to Tasawwuf (Sufism)](tasawwuf.md)      | Intermediate | ~12 min   |
+| 6   | [Al-Ghazali's _Ihya_ A Deep Dive](ihya.md)            | Advanced     | ~10 min   |
 
 ---
 

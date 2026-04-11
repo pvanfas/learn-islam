@@ -10,7 +10,7 @@
 
 ---
 
-## Period 1 The Rightly Guided Caliphs (_Al-Khulafa al-Rashidun_) 632661 CE
+## Period 1 The Rightly Guided Caliphs (_Al-Khulafa al-Rashidun_) 632-661 CE
 
 The four caliphs who immediately succeeded the Prophet are known as the _Khulafa al-Rashidun_ the Rightly Guided. They are given a unique status in Islamic tradition:
 
@@ -32,7 +32,7 @@ The Prophet said: _"Hold fast to my Sunnah and the Sunnah of the rightly-guided 
 
 ---
 
-### Umar ibn al-Khattab (RA) 634644 CE (10 years)
+### Umar ibn al-Khattab (RA) 634-644 CE (10 years)
 
 **The most transformative caliph** under whose leadership the Islamic state expanded to cover Persia, Syria, Egypt, and Palestine.
 
@@ -51,7 +51,7 @@ He was assassinated by a Persian slave (Abu Lu'lu'ah) while leading the Fajr pra
 
 ---
 
-### Uthman ibn Affan (RA) 644656 CE (12 years)
+### Uthman ibn Affan (RA) 644-656 CE (12 years)
 
 **Known for:** The standardization of the Quranic Mushaf one of the most consequential acts in Islamic history, preserving the Quran's textual unity across the expanding empire.
 
@@ -59,7 +59,7 @@ He was assassinated by a Persian slave (Abu Lu'lu'ah) while leading the Fajr pra
 
 ---
 
-### Ali ibn Abi Talib (RA) 656661 CE (5 years)
+### Ali ibn Abi Talib (RA) 656-661 CE (5 years)
 
 **The Prophet's cousin and son-in-law** husband of Fatimah (RA), father of Hasan and Husayn (RA). His caliphate was dominated by civil war:
 
@@ -71,7 +71,7 @@ Ali (RA) was assassinated by a Kharijite in 661 CE. His death ended the era of t
 
 ---
 
-## Period 2 The Umayyad Caliphate 661750 CE
+## Period 2 The Umayyad Caliphate 661-750 CE
 
 **Capital:** Damascus (Syria)
 **Founded by:** Muawiyah ibn Abi Sufyan (RA)
@@ -93,7 +93,7 @@ Despite political controversies, the Umayyads administered an enormous empire, e
 
 ---
 
-## Period 3 The Abbasid Caliphate and the Golden Age 7501258 CE
+## Period 3 The Abbasid Caliphate and the Golden Age 750-1258 CE
 
 **Capital:** Baghdad (Iraq), founded 762 CE
 **Founded by:** As-Saffah, overthrowing the Umayyads
@@ -107,22 +107,22 @@ Founded by Caliph Harun al-Rashid and expanded by al-Ma'mun in Baghdad the great
 
 **Key figures and achievements:**
 
-| Scholar                                | Field                | Achievement                                                                         |
-| -------------------------------------- | -------------------- | ----------------------------------------------------------------------------------- |
-| **Al-Khwarizmi** (780850 CE)           | Mathematics          | Invented algebra (_Al-jabr_ → algebra); developed algorithms (his name → algorithm) |
-| **Ibn Sina (Avicenna)** (9801037 CE)   | Medicine, Philosophy | _Canon of Medicine_ the standard medical textbook in Europe until 17th century      |
-| **Al-Biruni** (9731048 CE)             | Science, Geography   | Calculated Earth's radius; pioneered comparative religion and anthropology          |
-| **Ibn al-Haytham** (9651040 CE)        | Optics               | _Book of Optics_ laid foundations of modern optical science                         |
-| **Al-Kindi** (801873 CE)               | Philosophy           | First systematic Islamic philosopher                                                |
-| **Ibn Rushd (Averroes)** (11261198 CE) | Philosophy           | Commentaries on Aristotle shaped European scholasticism                             |
-| **Al-Farabi** (872950 CE)              | Philosophy, Music    | Founded Islamic political philosophy                                                |
-| **Al-Idrisi** (11001165 CE)            | Geography            | Most accurate world map of the medieval period                                      |
+| Scholar                                 | Field                | Achievement                                                                         |
+| --------------------------------------- | -------------------- | ----------------------------------------------------------------------------------- |
+| **Al-Khwarizmi** (780-850 CE)           | Mathematics          | Invented algebra (_Al-jabr_ → algebra); developed algorithms (his name → algorithm) |
+| **Ibn Sina (Avicenna)** (980-1037 CE)   | Medicine, Philosophy | _Canon of Medicine_ the standard medical textbook in Europe until 17th century      |
+| **Al-Biruni** (973-1048 CE)             | Science, Geography   | Calculated Earth's radius; pioneered comparative religion and anthropology          |
+| **Ibn al-Haytham** (965-1040 CE)        | Optics               | _Book of Optics_ laid foundations of modern optical science                         |
+| **Al-Kindi** (801-873 CE)               | Philosophy           | First systematic Islamic philosopher                                                |
+| **Ibn Rushd (Averroes)** (1126-1198 CE) | Philosophy           | Commentaries on Aristotle shaped European scholasticism                             |
+| **Al-Farabi** (872-950 CE)              | Philosophy, Music    | Founded Islamic political philosophy                                                |
+| **Al-Idrisi** (1100-1165 CE)            | Geography            | Most accurate world map of the medieval period                                      |
 
 This golden age preserved and advanced Greek knowledge during Europe's Dark Ages and when Europe's Renaissance began, it built on the Arabic translations and advances made during this period.
 
 ### The Mihna The Crisis of the Abbasid Period
 
-Caliph al-Ma'mun (813833 CE) imposed the **Mihna** a theological inquisition forcing scholars to declare the Quran was "created" (a Mu'tazilite position). Imam Ahmad ibn Hanbal refused, was imprisoned and flogged and his steadfastness became the symbol of Ahlus Sunnah's commitment to principle over political pressure.
+Caliph al-Ma'mun (813-833 CE) imposed the **Mihna** a theological inquisition forcing scholars to declare the Quran was "created" (a Mu'tazilite position). Imam Ahmad ibn Hanbal refused, was imprisoned and flogged and his steadfastness became the symbol of Ahlus Sunnah's commitment to principle over political pressure.
 
 The Mihna ended under Caliph al-Mutawakkil (847 CE) who restored Ahlus Sunnah and honored Ibn Hanbal.
 
@@ -175,9 +175,3 @@ After World War I (in which the Ottomans sided with Germany), the empire was car
 - The Mongol sack of Baghdad (1258) was a catastrophe but the Mongols themselves subsequently converted to Islam.
 - The Ottoman Empire (12991922) was the last great Islamic caliphate protecting the holy cities and bridging medieval and modern Muslim civilization.
 - The fall of the Ottoman Caliphate in 1924 began the period of Muslim fragmentation and searching for identity that characterizes the modern era.
-
----
-
-## Next Chapter
-
-**Continue to:** [Islamic Contributions to World Civilization](contributions.md)

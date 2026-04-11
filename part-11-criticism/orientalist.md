@@ -51,7 +51,3 @@ Scholars like Hamza Yusuf, Tariq Ramadan, Sherman Jackson, Umar F. Abdullah, and
 ## The Appropriate Posture
 
 Neither wholesale acceptance of Western academic conclusions about Islam nor wholesale dismissal of Western scholarship serves the student of knowledge. What is required: honest engagement with the evidence, understanding of the frameworks and biases of different scholarly traditions, and grounding in the classical Islamic scholarly tradition as the primary reference point.
-
----
-
-## Continue to: Part 12 How Islam Spread

@@ -174,7 +174,3 @@ Yes completely. He will follow the Sharia of Muhammad in all respects. He will p
 </details>
 
 ---
-
-## Next Chapter
-
-**Continue to:** [Ya'juj and Ma'juj](yajuj-majuj.md)

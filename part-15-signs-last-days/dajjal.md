@@ -169,7 +169,7 @@ The ultimate protection is deep, unshakeable belief in Allah's Oneness. The Dajj
 ## Scholarly Notes on Modern Interpretations
 
 {% hint style="warning" %}
-** Caution on symbolic interpretations:**
+**Caution on symbolic interpretations:**
 
 Some contemporary Muslims have interpreted the Dajjal symbolically as a system, an ideology, or a global power rather than a literal individual. While this approach has some scholarly precedent in a minority of opinions, the **overwhelming classical consensus** (Ahlus Sunnah) holds that the Dajjal is a literal, individual human being who will physically appear as described in the authentic hadith.
 
@@ -210,9 +210,3 @@ Isa ibn Maryam (Jesus AS), upon descending, will pursue the Dajjal. The Dajjal w
 </details>
 
 ---
-
-## Next Chapter
-
-**Continue to:** [The Mahdi](mahdi.md)
-
-**Or explore:** [The Descent of Isa ibn Maryam (AS)](descent-of-isa.md)

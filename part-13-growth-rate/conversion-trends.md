@@ -29,5 +29,3 @@ The Quran's literary and spiritual power many converts report encountering the Q
 The character and example of the Prophet Muhammad particularly after reading the Seerah.
 
 ---
-
-## Continue to: Projections to 2050

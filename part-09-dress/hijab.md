@@ -71,7 +71,7 @@ Islamic scholars have derived the following conditions for a woman's dress in pu
 | **Not worn for show or pride**                   | Modesty is internal as well as external                                 |
 
 {% hint style="warning" %}
-** Note on the face and hands:** The majority of classical scholars (Hanafi, Maliki, Shafi'i in their well-known positions) hold that the face and hands are _not_ part of the Awrah that must be covered meaning the headscarf covering the hair, neck, and chest is the obligatory minimum. The Niqab (face veil) is an additional act of worship that some scholars consider obligatory and others consider highly recommended.
+**Note on the face and hands:** The majority of classical scholars (Hanafi, Maliki, Shafi'i in their well-known positions) hold that the face and hands are _not_ part of the Awrah that must be covered meaning the headscarf covering the hair, neck, and chest is the obligatory minimum. The Niqab (face veil) is an additional act of worship that some scholars consider obligatory and others consider highly recommended.
 {% endhint %}
 
 ---
@@ -99,7 +99,7 @@ The face veil (_Niqab_) is one of the most debated topics in Islamic jurispruden
 ### The Scholarly Positions:
 
 {% hint style="warning" %}
-** Four positions among scholars:**
+**Four positions among scholars:**
 
 **Position 1 Obligatory (_Wajib_):** The Niqab is obligatory based on the interpretation that the face is part of the Awrah that must be covered. This is the position associated with the Hanbali school and some scholars within the Shafi'i school. Evidence: various hadith describe the Companions' wives covering their faces.
 

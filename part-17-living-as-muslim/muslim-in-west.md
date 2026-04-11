@@ -132,7 +132,7 @@ Most contemporary scholars including Sheikh Yusuf al-Qaradawi, Hamza Yusuf, and 
 ### Voting and Political Participation
 
 {% hint style="warning" %}
-** Scholarly discussion:** There is genuine scholarly discussion on whether Muslims should vote in non-Muslim democratic elections.
+**Scholarl discussion:** There is genuine scholarly discussion on whether Muslims should vote in non-Muslim democratic elections.
 
 **Position A (permissible and encouraged):** Voting to select the lesser harm, protect Muslim rights, and promote justice is permitted and sometimes obligatory as a form of _Maslahah_ (public interest). This is the majority contemporary scholarly position.
 

@@ -109,7 +109,7 @@ Her articulation of _pure love_ (_Hubb Khalis_) as the highest motivation for wo
 One of the most complex and controversial figures in Islamic thought. His metaphysical system particularly the concept of _Wahdat al-Wujud_ (Unity of Being) has been interpreted by some as pantheism and criticized by major scholars including Ibn Taymiyyah. Others defend him as being misunderstood.
 
 {% hint style="warning" %}
-** Scholarly caution:** Ibn Arabi's works are not suitable for the beginner or intermediate student. His metaphysical writing is complex enough that misunderstanding it can lead to serious theological error. Many classical scholars while acknowledging his linguistic brilliance cautioned against his works for those without deep grounding in Aqeedah. Approach only under qualified scholarly guidance.
+**Scholarl caution:** Ibn Arabi's works are not suitable for the beginner or intermediate student. His metaphysical writing is complex enough that misunderstanding it can lead to serious theological error. Many classical scholars while acknowledging his linguistic brilliance cautioned against his works for those without deep grounding in Aqeedah. Approach only under qualified scholarly guidance.
 {% endhint %}
 
 ---
@@ -153,7 +153,7 @@ The four major Sunni Sufi orders:
 These orders were among the most effective vehicles for spreading Islam peacefully through teaching, healing, music (in the Chishti tradition), and community service.
 
 {% hint style="warning" %}
-** Contemporary guidance:** Not all Sufi orders operating today maintain the standards of their classical founders. Before affiliating with any Tariqah, one should verify that the Shaykh is grounded in traditional Islamic scholarship, that the practices are within Sharia, and that the structure is one of spiritual guidance rather than authority or financial exploitation.
+**Contemporary guidance:** Not all Sufi orders operating today maintain the standards of their classical founders. Before affiliating with any Tariqah, one should verify that the Shaykh is grounded in traditional Islamic scholarship, that the practices are within Sharia, and that the structure is one of spiritual guidance rather than authority or financial exploitation.
 {% endhint %}
 
 ---

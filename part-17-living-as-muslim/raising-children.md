@@ -94,7 +94,7 @@ The Prophet is reported to have said: _"Command your children to pray at seven."
 | **Prayer postures**         | Let children imitate prayer naturally don't force, encourage                             |
 | **Quranic exposure**        | Play Quran recitation in the home the ears absorb the sounds before the mind understands |
 | **Stories of the prophets** | Children's books and age-appropriate storytelling                                        |
-| **Love of the Prophet **    | Tell his stories his kindness, his gentleness before his commands                        |
+| **Love of the Prophet**     | Tell his stories his kindness, his gentleness before his commands                        |
 
 ---
 

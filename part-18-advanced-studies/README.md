@@ -14,15 +14,15 @@ The chapters here cover: Islamic history from the Caliphs to the Ottomans, the e
 
 ## Chapters in This Part
 
-| #   | Chapter                                                         | Level | Read Time |
-| --- | --------------------------------------------------------------- | ----- | --------- |
-| 1   | [Islamic History Caliphs to Ottomans](islamic-history.md)       |       | ~14 min   |
-| 2   | [Islamic Contributions to World Civilization](contributions.md) |       | ~12 min   |
-| 3   | [Classical Islamic Philosophy (Falsafa)](falsafa.md)            |       | ~10 min   |
-| 4   | [Ibn Khaldun and the Philosophy of History](ibn-khaldun.md)     |       | ~10 min   |
-| 5   | [Advanced Tafsir Studies](advanced-tafsir.md)                   |       | ~10 min   |
-| 6   | [Usul al-Fiqh Principles of Jurisprudence](usul-al-fiqh.md)     |       | ~10 min   |
-| 7   | [Contemporary Islamic Thought](contemporary-thought.md)         |       | ~13 min   |
+| #   | Chapter                                                         | Level        | Read Time |
+| --- | --------------------------------------------------------------- | ------------ | --------- |
+| 1   | [Islamic History Caliphs to Ottomans](islamic-history.md)       | Intermediate | ~14 min   |
+| 2   | [Islamic Contributions to World Civilization](contributions.md) | Intermediate | ~12 min   |
+| 3   | [Classical Islamic Philosophy (Falsafa)](falsafa.md)            | Advanced     | ~10 min   |
+| 4   | [Ibn Khaldun and the Philosophy of History](ibn-khaldun.md)     | Advanced     | ~10 min   |
+| 5   | [Advanced Tafsir Studies](advanced-tafsir.md)                   | Advanced     | ~10 min   |
+| 6   | [Usul al-Fiqh Principles of Jurisprudence](usul-al-fiqh.md)     | Advanced     | ~10 min   |
+| 7   | [Contemporary Islamic Thought](contemporary-thought.md)         | Advanced     | ~13 min   |
 
 ---
 

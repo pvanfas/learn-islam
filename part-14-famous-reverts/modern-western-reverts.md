@@ -15,5 +15,3 @@ Abdal Hakim Murad (Timothy Winter, born 1960) — a Cambridge-educated British a
 Jeffrey Lang — an American mathematics professor who began as a convinced atheist. He encountered a copy of the Quran left in his office, read it as an intellectual exercise, and found himself unable to dismiss it. His book "Struggling to Surrender" (1994) became one of the most widely read accounts of an intellectual journey to Islam, particularly resonant with Western readers from secular backgrounds.
 
 ---
-
-## Continue to: Coming to Islam from Christianity

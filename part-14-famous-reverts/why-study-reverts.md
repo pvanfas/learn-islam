@@ -17,5 +17,3 @@ For reverts themselves, knowing that thousands of people from their background h
 For the Muslim community overall, reverts represent the continuing vitality of the da'wah obligation. The Prophet's words — "convey from me even a single verse" — are fulfilled whenever a Muslim's character, honesty, or spiritual depth inspires someone outside the faith to inquire further.
 
 ---
-
-## Continue to: Historical Reverts to Islam

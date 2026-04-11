@@ -14,16 +14,16 @@ Every Muslim should have a deep, personal relationship with the Quran. This part
 
 ## Chapters in This Part
 
-| #   | Chapter                                              | Level | Read Time |
-| --- | ---------------------------------------------------- | ----- | --------- |
-| 1   | [Introduction to the Quran](introduction.md)         |       | ~10 min   |
-| 2   | [Structure of the Quran](structure.md)               |       | ~7 min    |
-| 3   | [How the Quran Was Preserved](preservation.md)       |       | ~8 min    |
-| 4   | [Science in the Quran](science-in-quran.md)          |       | ~15 min   |
-| 5   | [Tajweed Rules of Recitation](tajweed.md)            |       | ~8 min    |
-| 6   | [The Role of Tafsir](tafsir-intro.md)                |       | ~8 min    |
-| 7   | [Key Surahs Every Muslim Should Know](key-surahs.md) |       | ~14 min   |
-| 8   | [Major Themes of the Quran](major-themes.md)         |       | ~12 min   |
+| #   | Chapter                                              | Level        | Read Time |
+| --- | ---------------------------------------------------- | ------------ | --------- |
+| 1   | [Introduction to the Quran](introduction.md)         | Beginner     | ~10 min   |
+| 2   | [Structure of the Quran](structure.md)               | Beginner     | ~7 min    |
+| 3   | [How the Quran Was Preserved](preservation.md)       | Intermediate | ~8 min    |
+| 4   | [Science in the Quran](science-in-quran.md)          | Intermediate | ~15 min   |
+| 5   | [Tajweed Rules of Recitation](tajweed.md)            | Intermediate | ~8 min    |
+| 6   | [The Role of Tafsir](tafsir-intro.md)                | Intermediate | ~8 min    |
+| 7   | [Key Surahs Every Muslim Should Know](key-surahs.md) | Beginner     | ~14 min   |
+| 8   | [Major Themes of the Quran](major-themes.md)         | Intermediate | ~12 min   |
 
 ---
 

@@ -234,7 +234,7 @@ Umar (RA) later revived congregational Tarawih and said: _"What an excellent inn
 **Tarawih Rak'ahs:**
 
 {% hint style="warning" %}
-** Scholarly difference:** The Hanafi and Maliki schools hold 20 Rak'ahs. The Shafi'i school also holds 20. The position attributed to some Hanbali scholars and many contemporary scholars is 8 Rak'ahs (based on the authentic number the Prophet prayed). Both 8 and 20 are practiced widely both are valid. The final 3 Rak'ahs of Witr are separate from Tarawih.
+**Scholarl difference:** The Hanafi and Maliki schools hold 20 Rak'ahs. The Shafi'i school also holds 20. The position attributed to some Hanbali scholars and many contemporary scholars is 8 Rak'ahs (based on the authentic number the Prophet prayed). Both 8 and 20 are practiced widely both are valid. The final 3 Rak'ahs of Witr are separate from Tarawih.
 {% endhint %}
 
 ---

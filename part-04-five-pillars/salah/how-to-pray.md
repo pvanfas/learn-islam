@@ -87,7 +87,7 @@ This guide will teach you one complete Rak'ah, then show how they connect.
 **Important:** The Niyyah does not need to be spoken aloud. It is an act of the heart, not the tongue. Simply intend: _"I am praying the Fajr prayer (or whichever prayer), for the sake of Allah."_
 
 {% hint style="tip" %}
-** Note:** The intention is a condition of the prayer, not a verbal formula. Many people incorrectly recite a specific phrase aloud before every prayer this was not the practice of the Prophet and is unnecessary.
+**Note:** The intention is a condition of the prayer, not a verbal formula. Many people incorrectly recite a specific phrase aloud before every prayer this was not the practice of the Prophet and is unnecessary.
 {% endhint %}
 
 ---
@@ -249,7 +249,7 @@ Your arms should not rest on the ground keep your elbows raised. Your head shoul
 {% endhint %}
 
 {% hint style="tip" %}
-** Spiritual Insight:** Sujud is the closest a human being comes to Allah in prayer. The Prophet said: _"The closest that a servant is to his Lord is when he is in prostration so make much supplication in it."_ (Sahih Muslim). After the obligatory dhikr, make personal dua in your own language.
+**Spiritual Insight:** Sujud is the closest a human being comes to Allah in prayer. The Prophet said: _"The closest that a servant is to his Lord is when he is in prostration so make much supplication in it."_ (Sahih Muslim). After the obligatory dhikr, make personal dua in your own language.
 {% endhint %}
 
 ---

@@ -212,7 +212,7 @@ Honey has been used medicinally across cultures for millennia so this is not the
 ## Responsible Limits What to Be Careful About
 
 {% hint style="warning" %}
-** Important scholarly caution:**
+**Important scholarly caution:**
 
 Not every alignment between a Quranic verse and a scientific fact is a genuine scientific miracle. The following are cautions from Muslim scholars who study this field carefully:
 

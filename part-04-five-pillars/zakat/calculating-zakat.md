@@ -87,7 +87,7 @@ Deduct debts that are **due within the year**:
 | Future installments not yet due          | No only what is currently due |
 
 {% hint style="warning" %}
-** Madhab difference on debt deduction:**
+**Madhab difference on debt deduction:**
 
 The majority position: deduct debts from total zakatable assets before calculating. If assets minus debts fall below Nisab no Zakat is due.
 

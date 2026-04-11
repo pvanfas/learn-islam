@@ -50,7 +50,3 @@ Subhanallah x33, Alhamdulillah x33, Allahu Akbar x33, then:
 Mirror the morning adhkar, adjusting the time-specific du'as. Replace "Asbahna" with "Amsayna" (We entered the evening).
 
 Add before sleep: Ayat al-Kursi, the last two verses of Al-Baqarah, Al-Ikhlas/Al-Falaq/An-Nas (blown into palms, wiped over body x3), the sleeping dua.
-
----
-
-## Continue to: Introduction to Tasawwuf

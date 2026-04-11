@@ -31,5 +31,3 @@ Conversion to Islam is a secondary factor significant, but smaller than demograp
 Notably, in Western countries, the rate of people leaving Islam (apostasy) is lower than the rate for most other major religions contributing to net growth even in societies where conversion both ways is common.
 
 ---
-
-## Continue to: Conversion Trends

@@ -39,7 +39,3 @@ However, there is substantial scholarly disagreement about whether the hadith in
 The classical position has genuine textual support. Dismissing it requires careful scholarly argument, not simply asserting it is obviously wrong. The contemporary rereadings are principled scholarly positions not capitulation to Western pressure. The student should engage with both honestly.
 
 What is universally condemned: social coercion, family violence, and vigilante action against those who leave Islam. These are prohibited regardless of what any state law says.
-
----
-
-## Continue to: Social and Ethical Criticisms

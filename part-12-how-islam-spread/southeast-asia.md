@@ -13,5 +13,3 @@ The deeper Islamization came through Sufi teachers. The Wali Songo (Nine Saints)
 The result is an Islam with a distinctly Southeast Asian character. The world's most populous Muslim nation produces scholars, thinkers, and communities that demonstrate the extraordinary diversity of Islamic civilization. Malaysian and Indonesian Islam have historically been among the most pluralistic expressions of the faith — evidence of what Islam looks like when it grows from within a culture rather than being imposed upon it.
 
 ---
-
-## Continue to: Islam in the Modern Era

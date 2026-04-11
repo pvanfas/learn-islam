@@ -53,7 +53,3 @@ Make du'a specifically for mental health. The Prophet's dua for anxiety: "Allahu
 ---
 
 If you are in crisis, please contact a crisis helpline in your country immediately. In the UK: Samaritans 116 123. In the US: 988 Suicide and Crisis Lifeline. Muslim mental health resources: Khalil Center (US), Muslim Youth Helpline (UK).
-
----
-
-## Continue to: Islam and the Environment

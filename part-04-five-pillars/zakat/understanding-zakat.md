@@ -150,7 +150,7 @@ The Quran specifies exactly who may receive Zakat:
 | 8   | ابْنِ السَّبِيل            | Ibn as-Sabil            | The stranded traveler with no access to their own funds                     |
 
 {% hint style="tip" %}
-** Practical note:** In most modern contexts, the most relevant categories are (1) the poor, (2) the needy, (6) those in debt, and (7) Islamic causes. Many Muslims pay Zakat directly to established charities or organizations that distribute to eligible recipients this is valid and encouraged.
+**Practical note:** In most modern contexts, the most relevant categories are (1) the poor, (2) the needy, (6) those in debt, and (7) Islamic causes. Many Muslims pay Zakat directly to established charities or organizations that distribute to eligible recipients this is valid and encouraged.
 {% endhint %}
 
 ---

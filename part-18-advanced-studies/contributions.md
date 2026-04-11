@@ -37,7 +37,7 @@ The Islamic theological framework created a civilization that:
 
 ## Mathematics
 
-**Al-Khwarizmi** (780850 CE) _Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala_
+**Al-Khwarizmi** (780-850 CE) _Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala_
 
 The word **algebra** comes directly from _Al-Jabr_ in the title of this book the systematic treatment of linear and quadratic equations. Al-Khwarizmi created the foundation of modern mathematics.
 
@@ -45,15 +45,15 @@ The word **algorithm** comes from the Latinization of his name _Algoritmi_ becau
 
 He also championed the Indian numeral system (the digits 09 we use today) as superior to Roman numerals and this transmission through Arabic texts is why these are called _Arabic numerals_.
 
-**Al-Battani** (858929 CE) refined trigonometric functions, corrected astronomical calculations by Ptolemy, and calculated the solar year with remarkable precision.
+**Al-Battani** (858-929 CE) refined trigonometric functions, corrected astronomical calculations by Ptolemy, and calculated the solar year with remarkable precision.
 
-**Omar Khayyam** (10481131 CE) solved cubic equations geometrically, developed a solar calendar more accurate than the Gregorian calendar (which came 500 years later), and his calendar is still used in Iran.
+**Omar Khayyam** (1048-1131 CE) solved cubic equations geometrically, developed a solar calendar more accurate than the Gregorian calendar (which came 500 years later), and his calendar is still used in Iran.
 
 ---
 
 ## Physics and Optics
 
-**Ibn al-Haytham (Alhazen)** (9651040 CE) _Kitab al-Manazir_ (Book of Optics)
+**Ibn al-Haytham (Alhazen)** (965-1040 CE) _Kitab al-Manazir_ (Book of Optics)
 
 Ibn al-Haytham's _Book of Optics_ written while he was under house arrest in Egypt after falsely claiming he could regulate the Nile is one of the most influential scientific texts in history. It was the primary text on optics in Europe for 600 years after its translation into Latin.
 
@@ -64,7 +64,7 @@ His contributions:
 - Performed the first controlled scientific experiments with independent variables
 - Founded the scientific method of empirical testing before Ibn al-Haytham was fully recognized in Europe
 
-**Al-Biruni** (9731048 CE):
+**Al-Biruni** (973-1048 CE):
 
 - Calculated the Earth's radius to within 1% of the modern value using his own mathematical method
 - Described the Earth as rotating on its axis
@@ -75,7 +75,7 @@ His contributions:
 
 ## Medicine
 
-**Ibn Sina (Avicenna)** (9801037 CE) _Al-Qanun fi al-Tibb_ (Canon of Medicine)
+**Ibn Sina (Avicenna)** (980-1037 CE) _Al-Qanun fi al-Tibb_ (Canon of Medicine)
 
 Ibn Sina's _Canon of Medicine_ a million-word encyclopedia of all medical knowledge was the standard medical textbook in European universities until the 17th century. It was translated into Latin and used at Oxford, Montpellier, Padua, and Louvain.
 
@@ -87,7 +87,7 @@ His contributions:
 - Developed drug testing protocols
 - Discovered that mental illness is a medical condition
 
-**Ibn al-Nafis** (12131288 CE):
+**Ibn al-Nafis** (1213-1288 CE):
 
 - Correctly described pulmonary circulation blood circulating through the lungs 300 years before William Harvey's famous discovery
 
@@ -98,7 +98,7 @@ The first hospital in the modern sense providing free medical care to all, with 
 
 ## Geography and Navigation
 
-**Al-Idrisi** (11001165 CE):
+**Al-Idrisi** (1100-1165 CE):
 Commissioned by the Norman King Roger II of Sicily, Al-Idrisi produced the most accurate world map of the medieval period the _Tabula Rogeriana_. He divided the world into seven climate zones and compiled geographical data more comprehensive than anything before it.
 
 **Islamic navigational contributions:**
@@ -117,7 +117,7 @@ Commissioned by the Norman King Roger II of Sicily, Al-Idrisi produced the most 
 
 ## Architecture
 
-**The Great Mosque of Córdoba** (785987 CE) one of the most beautiful buildings in human history; its hypostyle hall of 856 columns influenced cathedral architecture across Europe.
+**The Great Mosque of Córdoba** (785-987 CE) one of the most beautiful buildings in human history; its hypostyle hall of 856 columns influenced cathedral architecture across Europe.
 
 **The Alhambra Palace** (Granada, Spain, 13th14th century) a masterwork of Islamic geometric art, muqarnas (honeycomb vaulting), calligraphic decoration, and the integration of water into architecture.
 

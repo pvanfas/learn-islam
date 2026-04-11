@@ -45,7 +45,3 @@ The Prophet said knowledge would spread first then be taken away. The explosion 
 ## The Significance of Past Signs
 
 The fact that so many signs described by the Prophet 1,400 years ago have come to pass exactly is itself evidence of his prophethood. He described events from the specific (the conquest of Jerusalem) to the general (the abundance of wealth and tall buildings of Arabia) that no person could have predicted through human foresight alone.
-
-## Next Chapter
-
-**Continue to:** [Minor Signs Occurring Now](minor-signs-now.md)

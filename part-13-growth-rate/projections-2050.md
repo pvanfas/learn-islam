@@ -35,5 +35,3 @@ Muslim scholars are generally careful not to equate demographic growth with spir
 A large Muslim population that does not practice the religion, does not live its values, and does not contribute to human civilization is not the goal of Islamic da'wah. The goal is communities that embody the Quran and Sunnah.
 
 ---
-
-## Continue to: Part 14 Famous Reverts to Islam

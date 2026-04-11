@@ -19,5 +19,3 @@ The humanity of Jesus. Islam's view of Jesus as a prophet human, honored, miracu
 The Bible. Engagement with textual criticism of the Bible the multiple authorship of the Gospels, the selection process at Nicaea, the differences between the Synoptics and John led many to question the reliability of the New Testament as transmitted divine revelation. The Quran's own explanation (the earlier scriptures were partially preserved but partially altered) provided an intellectually satisfying account.
 
 ---
-
-## Continue to: Coming to Islam from Atheism

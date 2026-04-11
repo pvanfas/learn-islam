@@ -62,7 +62,7 @@ Merely pronouncing the words is not sufficient. The Shahada requires seven inter
 | 7   | **Rejection of falsehood** | القَبُول Al-Qabul      | Accepting the Shahada's implications and rejecting all it negates |
 
 {% hint style="tip" %}
-** The Companions' teaching:** The Companions taught that many people in Makkah _knew_ the Prophet was telling the truth but rejected out of arrogance (Abu Jahl), stubbornness, or worldly interest. Knowledge without the other six conditions does not save.
+**The Companions' teaching:** The Companions taught that many people in Makkah _knew_ the Prophet was telling the truth but rejected out of arrogance (Abu Jahl), stubbornness, or worldly interest. Knowledge without the other six conditions does not save.
 {% endhint %}
 
 ---

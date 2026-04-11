@@ -78,7 +78,7 @@ _You're going to Makkah and want to be fully prepared spiritually and practicall
 
 ---
 
-## ⏳ Path 5 Signs of the Last Days
+## Path 5 Signs of the Last Days
 
 _You want to understand Islamic eschatology the signs, the major events, and the Day of Judgement._
 

@@ -43,7 +43,3 @@ Fez, Morocco: 34.0333 N, 5.0 W Al-Qarawiyyin University (859 CE), the world's ol
 Cordoba (Qurtubah), Spain: 37.8882 N, 4.7794 W capital of Andalusian Islam; the Great Mosque of Cordoba.
 
 Samarkand, Uzbekistan: 39.6542 N, 66.9597 E center of Central Asian Islamic civilization; where Imam al-Bukhari was born.
-
----
-
-## Continue to: Scholars and Reading List

@@ -52,7 +52,3 @@ Islam commands kindness to parents regardless of their faith. "And your Lord has
 Patience and example are more effective than argument. Most non-Muslim families come around over time when they see Islam making you more loving, responsible, and ethical not less.
 
 Find community among other reverts who understand this challenge. Many mosques have revert support groups.
-
----
-
-## Continue to: Glossary

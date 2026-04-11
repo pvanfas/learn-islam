@@ -78,7 +78,7 @@ This is one of the most genuinely debated topics in contemporary Islamic scholar
 **The contemporary scholarly debate:**
 
 {% hint style="warning" %}
-** Scholarly disagreement:**
+**Scholarl disagreement:**
 
 **Traditionalist position:** The classical ruling stands apostasy was treated as treason in the classical Islamic state (where religion and state were unified), not purely as a matter of personal belief.
 

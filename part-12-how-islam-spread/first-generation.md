@@ -13,5 +13,3 @@ The Companions carried Islam outward after the Prophet's death. Abu Bakr's calip
 The Coptic Christians of Egypt, long persecuted by Byzantine orthodoxy, largely welcomed the Arab Muslim forces. The Syriac Christians of the Levant similarly found Muslim governance more tolerant than what they had experienced. This social reality — that Islamic governance provided a better deal for minority religious communities than the alternatives — was itself a form of da'wah.
 
 ---
-
-## Continue to: Trade Routes

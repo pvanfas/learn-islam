@@ -128,7 +128,7 @@ Imam al-Bukhari reportedly examined **600,000 Hadith** of which he selected only
 | **Fabricated**        | مَوْضُوع Mawdu'            | Invented knowingly attributed to the Prophet falsely; rejected entirely               |
 
 {% hint style="warning" %}
-** Practical note:** On social media and in many lectures, Hadith are frequently quoted without grade or source. The careful Muslim asks: _Is this Sahih? Is this Hasan? What is the source?_ Fabricated Hadith circulate widely and have caused confusion in Islamic practice for centuries. The Prophet himself warned: _"Whoever attributes to me what I did not say, let him take his place in the Fire."_ (Sahih al-Bukhari)
+**Practical note:** On social media and in many lectures, Hadith are frequently quoted without grade or source. The careful Muslim asks: _Is this Sahih? Is this Hasan? What is the source?_ Fabricated Hadith circulate widely and have caused confusion in Islamic practice for centuries. The Prophet himself warned: _"Whoever attributes to me what I did not say, let him take his place in the Fire."_ (Sahih al-Bukhari)
 {% endhint %}
 
 ---

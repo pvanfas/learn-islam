@@ -144,7 +144,7 @@ The screen whether television, phone, or computer is the primary vehicle by whic
 This is one of the most debated contemporary issues:
 
 {% hint style="warning" %}
-** Scholarly positions:**
+**Scholarl positions:**
 
 **Majority position (classical scholars):** Musical instruments particularly those associated with entertainment and revelry (_ma'azif_) are prohibited. A hadith in Sahih al-Bukhari mentions groups who will permit "musical instruments" and this is cited as evidence.
 

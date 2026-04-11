@@ -14,19 +14,19 @@ Whether you are a new Muslim figuring out how to practice in a non-Muslim enviro
 
 ## Chapters in This Part
 
-| #   | Chapter                                                     | Level | Read Time |
-| --- | ----------------------------------------------------------- | ----- | --------- |
-| 1   | [The Muslim's Daily Routine](daily-routine.md)              |       | ~11 min   |
-| 2   | [Islamic Manners (Adab) in Daily Life](adab.md)             |       | ~12 min   |
-| 3   | [Building an Islamic Home](islamic-home.md)                 |       | ~11 min   |
-| 4   | [Marriage in Islam](marriage.md)                            |       | ~13 min   |
-| 5   | [Raising Children with Islamic Values](raising-children.md) |       | ~12 min   |
-| 6   | [Community and Social Life](community.md)                   |       | ~10 min   |
-| 7   | [Halal and Haram in Modern Life](modern-halal-haram.md)     |       | ~12 min   |
-| 8   | [Dealing with Trials and Hardship](trials.md)               |       | ~11 min   |
-| 9   | [Mental Health and Islamic Spirituality](mental-health.md)  |       | ~9 min    |
-| 10  | [Islam and the Environment](environment.md)                 |       | ~8 min    |
-| 11  | [Being a Muslim in a Non-Muslim Country](muslim-in-west.md) |       | ~11 min   |
+| #   | Chapter                                                     | Level        | Read Time |
+| --- | ----------------------------------------------------------- | ------------ | --------- |
+| 1   | [The Muslim's Daily Routine](daily-routine.md)              | Beginner     | ~11 min   |
+| 2   | [Islamic Manners (Adab) in Daily Life](adab.md)             | Beginner     | ~12 min   |
+| 3   | [Building an Islamic Home](islamic-home.md)                 | Beginner     | ~11 min   |
+| 4   | [Marriage in Islam](marriage.md)                            | Intermediate | ~13 min   |
+| 5   | [Raising Children with Islamic Values](raising-children.md) | Beginner     | ~12 min   |
+| 6   | [Community and Social Life](community.md)                   | Beginner     | ~10 min   |
+| 7   | [Halal and Haram in Modern Life](modern-halal-haram.md)     | Intermediate | ~12 min   |
+| 8   | [Dealing with Trials and Hardship](trials.md)               | Beginner     | ~11 min   |
+| 9   | [Mental Health and Islamic Spirituality](mental-health.md)  | Intermediate | ~9 min    |
+| 10  | [Islam and the Environment](environment.md)                 | Beginner     | ~8 min    |
+| 11  | [Being a Muslim in a Non-Muslim Country](muslim-in-west.md) | Beginner     | ~11 min   |
 
 ---
 

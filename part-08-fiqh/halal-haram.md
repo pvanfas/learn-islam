@@ -128,7 +128,7 @@ For meat from land animals to be halal, it must be slaughtered according to Isla
 Modern industrial slaughter often uses pre-stunning an electric shock, bolt, or gas to render the animal unconscious before killing. This is an area of significant scholarly debate:
 
 {% hint style="warning" %}
-** Scholarly positions on pre-stunned meat:**
+**Scholarl positions on pre-stunned meat:**
 
 **Position A (strict):** Pre-stunning that could kill the animal before slaughter invalidates the slaughter the meat is not halal. This is the position of many traditional scholars and halal certification bodies in some countries.
 

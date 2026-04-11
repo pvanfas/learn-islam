@@ -39,31 +39,31 @@
 
 ---
 
-## The Rightly Guided Caliphs (632661 CE / 1140 AH)
+## The Rightly Guided Caliphs (632-661 CE / 1140 AH)
 
 | Year (CE) | Year (AH) | Event                                                                             |
 | --------- | --------- | --------------------------------------------------------------------------------- |
 | 632634    | 1113 AH   | **Abu Bakr al-Siddiq (RA)** 1st Caliph                                            |
 | 632633    | 1112 AH   | **Wars of Riddah** (Apostasy Wars) Arabia reunified                               |
 | 633 CE    | 12 AH     | **Compilation of the Quran** begins under Zayd ibn Thabit                         |
-| 634644    | 1323 AH   | **Umar ibn al-Khattab (RA)** 2nd Caliph                                           |
+| 634-644   | 1323 AH   | **Umar ibn al-Khattab (RA)** 2nd Caliph                                           |
 | 636 CE    | 15 AH     | **Battle of al-Qadisiyyah** Persian Sassanid Empire defeated                      |
 | 637 CE    | 16 AH     | **Fall of Ctesiphon** Persian capital falls to Muslim forces                      |
 | 638 CE    | 17 AH     | **Jerusalem** surrendered to Umar (RA); Covenant of Umar issued                   |
 | 639 CE    | 18 AH     | **Plague of Amwas** kills 25,000 including many Companions                        |
 | 641 CE    | 20 AH     | **Conquest of Egypt** Amr ibn al-As                                               |
-| 644656    | 2335 AH   | **Uthman ibn Affan (RA)** 3rd Caliph                                              |
+| 644-656   | 2335 AH   | **Uthman ibn Affan (RA)** 3rd Caliph                                              |
 | 646 CE    | 25 AH     | **Standardization of the Quran** Uthmanic Mushaf distributed                      |
 | 655 CE    | 34 AH     | **First Muslim navy** built; Cyprus captured                                      |
 | 656 CE    | 35 AH     | **Assassination of Uthman (RA)** first great Fitnah begins                        |
-| 656661    | 3540 AH   | **Ali ibn Abi Talib (RA)** 4th Caliph                                             |
+| 656-661   | 3540 AH   | **Ali ibn Abi Talib (RA)** 4th Caliph                                             |
 | 656 CE    | 35 AH     | **Battle of the Camel** civil war between Ali (RA) and Aisha, Talhah, Zubayr (RA) |
 | 657 CE    | 37 AH     | **Battle of Siffin** Ali (RA) vs. Muawiyah; arbitration; Kharijite schism         |
 | 661 CE    | 40 AH     | **Assassination of Ali (RA)** end of the Rightly Guided Caliphs era               |
 
 ---
 
-## Umayyad Caliphate (661750 CE / 41132 AH)
+## Umayyad Caliphate (661-750 CE / 41132 AH)
 
 | Year (CE) | Year (AH) | Event                                                                                  |
 | --------- | --------- | -------------------------------------------------------------------------------------- |
@@ -79,7 +79,7 @@
 
 ---
 
-## Abbasid Caliphate and the Golden Age (7501258 CE / 132656 AH)
+## Abbasid Caliphate and the Golden Age (750-1258 CE / 132656 AH)
 
 | Year (CE) | Year (AH) | Event                                                                                          |
 | --------- | --------- | ---------------------------------------------------------------------------------------------- |

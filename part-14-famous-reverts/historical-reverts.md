@@ -17,5 +17,3 @@ Negus (Ashama ibn Abjar) — the Christian King of Abyssinia who, after hearing 
 Umar ibn al-Khattab (RA) — one of the most dramatic conversions in Islamic history. He had been among Islam's fiercest opponents, had planned to kill the Prophet, and was turned when he encountered the Quran being recited at his sister's home. His conversion was so significant that it immediately emboldened the Muslim community to pray publicly.
 
 ---
-
-## Continue to: Modern Western Reverts

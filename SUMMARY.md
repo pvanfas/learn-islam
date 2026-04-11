@@ -218,7 +218,7 @@
 
 ---
 
-## ⏳ Part 15 Signs of the Last Days
+## Part 15 Signs of the Last Days
 
 - [Overview](part-15-signs-last-days/README.md)
 - [Introduction to Islamic Eschatology](part-15-signs-last-days/introduction.md)

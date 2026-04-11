@@ -113,7 +113,7 @@ Many contemporary scholars articulate a middle position:
 ## How to Approach This Disagreement
 
 {% hint style="warning" %}
-** Important principle:**
+**Important principle:**
 
 Both positions are held by major Ahlus Sunnah scholars of the highest caliber. A Muslim following the position of Ibn Taymiyyah and not celebrating the Mawlid is not an extremist. A Muslim following the position of al-Suyuti and al-Nawawi and attending a Mawlid gathering of Quran and Seerah is not an innovator.
 

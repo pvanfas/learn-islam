@@ -22,14 +22,14 @@ Islam has been subjected to a wide range of criticisms historical, theological, 
 
 ## Chapters in This Part
 
-| #   | Chapter                                               | Level | Read Time |
-| --- | ----------------------------------------------------- | ----- | --------- |
-| 1   | [How to Approach Criticism of Islam](approach.md)     |       | ~8 min    |
-| 2   | [Historical Criticisms](historical.md)                |       | ~11 min   |
-| 3   | [Theological Criticisms](theological.md)              |       | ~12 min   |
-| 4   | [Social and Ethical Criticisms](social-ethical.md)    |       | ~14 min   |
-| 5   | [Scientific Criticisms](scientific.md)                |       | ~9 min    |
-| 6   | [Orientalist and Academic Criticisms](orientalist.md) |       | ~10 min   |
+| #   | Chapter                                               | Level        | Read Time |
+| --- | ----------------------------------------------------- | ------------ | --------- |
+| 1   | [How to Approach Criticism of Islam](approach.md)     | Intermediate | ~8 min    |
+| 2   | [Historical Criticisms](historical.md)                | Intermediate | ~11 min   |
+| 3   | [Theological Criticisms](theological.md)              | Intermediate | ~12 min   |
+| 4   | [Social and Ethical Criticisms](social-ethical.md)    | Intermediate | ~14 min   |
+| 5   | [Scientific Criticisms](scientific.md)                | Intermediate | ~9 min    |
+| 6   | [Orientalist and Academic Criticisms](orientalist.md) | Advanced     | ~10 min   |
 
 ---
 

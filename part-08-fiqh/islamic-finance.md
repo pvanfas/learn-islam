@@ -127,7 +127,7 @@ Additionally, Riba commodifies time treating the passage of time as a commodity 
 The most common practical question for Western Muslims: _Is it permissible to take a conventional interest-bearing mortgage?_
 
 {% hint style="warning" %}
-** Three scholarly positions:**
+**Three scholarly positions:**
 
 **Position 1 (Strict):** Conventional mortgages are categorically prohibited Riba in any form is Haram. Muslims must seek Islamic mortgage alternatives (_Murabahah, Musharakah_) or rent until they can afford one.
 

@@ -127,16 +127,16 @@ _With this intention, you have entered the state of Ihram._
 
 Once in Ihram, the following are **prohibited** until you exit Ihram:
 
-| Prohibited                | Men        | Women                 |
-| ------------------------- | ---------- | --------------------- |
-| Cutting hair or nails     |            |                       |
-| Using perfume/fragrance   |            |                       |
-| Sexual relations          |            |                       |
-| Marriage contract         |            |                       |
-| Hunting                   |            |                       |
-| Wearing stitched garments |            | (normal modest dress) |
-| Covering the head         | (men only) |                       |
-| Covering the face         | (men)      | (women in Ihram)      |
+| Prohibited                | Men           | Women                    |
+| ------------------------- | ------------- | ------------------------ |
+| Cutting hair or nails     | ❌            | ❌                       |
+| Using perfume/fragrance   | ❌            | ❌                       |
+| Sexual relations          | ❌            | ❌                       |
+| Marriage contract         | ❌            | ❌                       |
+| Hunting                   | ❌            | ❌                       |
+| Wearing stitched garments | ❌            | ✅ (normal modest dress) |
+| Covering the head         | ❌ (men only) | ✅                       |
+| Covering the face         | ✅ (men)      | ❌ (women in Ihram)      |
 
 ---
 

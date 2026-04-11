@@ -67,7 +67,3 @@ Zakariyyah (AS): "My Lord, do not leave me alone, and You are the best of inheri
 The Prophet said: "There is no Muslim who calls upon Allah with any du'a that is not a sin or severing of family ties, but Allah gives him one of three things: He either answers his du'a, or stores it for him in the Hereafter, or diverts from him a harm equivalent to it." The Companions said: "Then we will ask for much." He said: "Allah is more than that." (Musnad Ahmad Sahih)
 
 Nothing is lost. Every sincere du'a is received and responded to sometimes in the form requested, sometimes in the form that is better.
-
----
-
-## Continue to: Al-Ghazali's Ihya

@@ -238,7 +238,3 @@ The entire Surah cited in Key Surahs, How to Pray, Salah Recitations, Spirituali
 ### Surah An-Nas (Chapter 114)
 
 114 Key Surahs, Dhikr
-
----
-
-## Continue to: Hadith Index

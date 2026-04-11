@@ -13,5 +13,3 @@ In East Africa, Arab and Persian traders established coastal settlements as earl
 Sufi orders — particularly the Qadiri and Tijaniyyah — were the primary vehicles of Islamic expansion into sub-Saharan Africa. The Sufi shaykh, with his spiritual authority, healing practices, and education networks, reached populations that no Arab army ever approached. Today, West Africa is home to some of the world's most devout Muslim populations — a direct legacy of peaceful Sufi da'wah.
 
 ---
-
-## Continue to: Part 13 — Islam's Growth Rate Today

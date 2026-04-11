@@ -15,5 +15,3 @@ The trans-Saharan routes carried Islam across the Sahara. Gold, salt, and ivory 
 The Silk Road carried Islam eastward. Muslim traders were present in China by the Tang Dynasty (7th century CE). The Hui Muslim minority in China traces its origins to these early merchants and diplomats. Islam reached China through commerce — before any Muslim dynasty came near Chinese borders.
 
 ---
-
-## Continue to: Sufis and Scholars as Carriers of Islam

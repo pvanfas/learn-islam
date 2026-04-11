@@ -201,7 +201,3 @@ The believer's response to signs of the Hour is not fear it is urgency. The Prop
 </details>
 
 ---
-
-## Next Chapter
-
-**Continue to:** [Minor Signs Already Passed](minor-signs-passed.md)

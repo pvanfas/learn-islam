@@ -19,5 +19,3 @@ The coherence of the worldview. Islam provides an integrated account of creation
 Personal encounter with Muslims. For many converts, the immediate trigger was not theology but character encountering a Muslim colleague, friend, or family member whose conduct, ethics, and spiritual grounding was compelling. The Hadith that the Prophet was sent to perfect good character describes precisely this missionary dimension.
 
 ---
-
-## Continue to: Part 15 Signs of the Last Days

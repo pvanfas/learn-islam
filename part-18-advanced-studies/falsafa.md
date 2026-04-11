@@ -31,7 +31,3 @@ Falsafa (from the Greek philosophia) is the tradition of Islamic philosophy that
 The tension between the philosophers (falasifa) and the theologians (mutakallimun) is one of the defining intellectual dramas of Islamic civilization. Al-Ghazali's critique effectively ended the classical falsafa tradition within the Islamic world subsequent thinkers either worked within the mutakallim framework or integrated philosophical tools into it rather than operating as independent philosophers.
 
 In Europe, however, the Islamic philosophical tradition particularly Ibn Rushd became foundational. The "double truth" controversy in 13th-century European universities whether philosophical and theological truth could contradict was catalyzed by Averroist philosophy.
-
----
-
-## Continue to: Ibn Khaldun

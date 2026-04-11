@@ -47,7 +47,3 @@ The United States maintained slavery for 87 years after independence, with treat
 ## Contemporary Position
 
 Slavery is abolished in every Muslim-majority country. No legitimate contemporary Islamic scholar defends its reinstatement. The remaining question whether Islamic law could in principle permit it again under certain conditions is answered by virtually all mainstream scholars in the negative, on the grounds that the objectives of Islamic law (maqasid) require human dignity and that the conditions for the original permission no longer exist.
-
----
-
-## Continue to: Orientalist and Academic Criticisms

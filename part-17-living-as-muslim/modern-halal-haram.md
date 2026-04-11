@@ -46,7 +46,7 @@ Social media platforms themselves are neutral tools like a pen or a phone. The p
 - Excessive photography/video of oneself for attention
 
 {% hint style="warning" %}
-** The key question:** Does your social media use increase your connection to Allah or decrease it? Does it make you a better Muslim or a more distracted one? Time is the believer's most precious resource and social media's design is specifically optimized to consume it.
+**The key question:** Does your social media use increase your connection to Allah or decrease it? Does it make you a better Muslim or a more distracted one? Time is the believer's most precious resource and social media's design is specifically optimized to consume it.
 {% endhint %}
 
 **Practical guidance:**

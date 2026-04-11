@@ -190,7 +190,7 @@ The Prophet performed Ghusl in this way (_Sahih al-Bukhari_):
 Then the body is fully purified.
 
 {% hint style="tip" %}
-** Key Point:** For those with thick hair (especially women), it is not necessary to undo the hair for Ghusl after sexual intercourse or ejaculation only for Ghusl from menstruation or post-natal bleeding. This ruling is from Sahih Muslim.
+**Key Point:** For those with thick hair (especially women), it is not necessary to undo the hair for Ghusl after sexual intercourse or ejaculation only for Ghusl from menstruation or post-natal bleeding. This ruling is from Sahih Muslim.
 {% endhint %}
 
 ---
