@@ -10,7 +10,7 @@
 
 ---
 
-## Period 1 - The Rightly Guided Caliphs (_Al-Khulafa al-Rashidun_) 632-661 CE
+## Period 1 - The Rightly Guided Caliphs (_Al-Khulafa al-Rashidun_) 632–661 CE
 
 The four caliphs who immediately succeeded the Prophet are known as the _Khulafa al-Rashidun_ the Rightly Guided. They are given a unique status in Islamic tradition:
 
@@ -22,7 +22,7 @@ The Prophet said: _"Hold fast to my Sunnah and the Sunnah of the rightly-guided 
 
 ---
 
-### Abu Bakr as-Siddiq (RA) 632634 CE (2 years)
+### Abu Bakr as-Siddiq (RA) 632–634 CE (2 years)
 
 **The Challenge:** The Prophet's death triggered two immediate crises the apostasy of several Arab tribes (_Riddah_) who had submitted politically but not spiritually, and the refusal of some to pay Zakat.
 
@@ -71,7 +71,7 @@ Ali (RA) was assassinated by a Kharijite in 661 CE. His death ended the era of t
 
 ---
 
-## Period 2 - The Umayyad Caliphate 661-750 CE
+## Period 2 - The Umayyad Caliphate 661–750 CE
 
 **Capital:** Damascus (Syria)
 **Founded by:** Muawiyah ibn Abi Sufyan (RA)
@@ -93,14 +93,14 @@ Despite political controversies, the Umayyads administered an enormous empire, e
 
 ---
 
-## Period 3 - The Abbasid Caliphate and the Golden Age 750-1258 CE
+## Period 3 - The Abbasid Caliphate and the Golden Age 750–1258 CE
 
 **Capital:** Baghdad (Iraq), founded 762 CE
 **Founded by:** As-Saffah, overthrowing the Umayyads
 
 ### The Islamic Golden Age 8th to 13th Centuries
 
-The Abbasid period particularly from the reign of Harun al-Rashid (786809 CE) through al-Ma'mun (813833 CE) produced the greatest flowering of Islamic intellectual civilization.
+The Abbasid period particularly from the reign of Harun al-Rashid (786–809 CE) through al-Ma'mun (813–833 CE) produced the greatest flowering of Islamic intellectual civilization.
 
 **The House of Wisdom (_Bayt al-Hikmah_):**
 Founded by Caliph Harun al-Rashid and expanded by al-Ma'mun in Baghdad the greatest center of learning in the medieval world. Scholars from across the empire worked here translating Greek, Persian, and Indian texts into Arabic and producing original scholarship.

@@ -47,7 +47,7 @@ _"There is no compulsion in religion."_ (Surah Al-Baqarah 2:256)
 
 - Jerusalem had been under Muslim rule for over 400 years before the First Crusade (1095)
 - Christian pilgrims had been generally permitted to visit Jerusalem throughout most of this period
-- The Fatimid Caliph Al-Hakim bi-Amr Allah (9961021 CE) did temporarily prohibit Christian pilgrimage but this was considered aberrant even by Muslim standards and was reversed by his successors
+- The Fatimid Caliph Al-Hakim bi-Amr Allah (996–1021 CE) did temporarily prohibit Christian pilgrimage but this was considered aberrant even by Muslim standards and was reversed by his successors
 - The Byzantine Emperor Alexios I asked Pope Urban II for _mercenary_ military assistance against the Seljuk Turks not a crusade against Islam
 - What Urban II launched was far beyond what Alexios requested
 

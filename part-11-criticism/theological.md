@@ -96,7 +96,7 @@ The Companions people who knew the Prophet intimately, who had every reason to n
 
 **1. Context Is Everything in Interpretation**
 
-The "violent verses" most cited by critics including Surah At-Tawbah 9:5 ("kill the polytheists wherever you find them") were revealed in a specific military context:
+The "violent verses" most cited by critics including (Surah At-Tawbah 9:5) ("kill the polytheists wherever you find them") were revealed in a specific military context:
 
 This verse was revealed about specific polytheist groups who had broken a treaty with the Muslim community and were actively fighting them. The verse that immediately precedes it says: _"But if they repent and establish prayer and give Zakat, let them on their way indeed, Allah is Forgiving and Merciful."_ (9:5) And the verse after it says: _"If any one of the polytheists seeks your protection, then grant him protection so that he may hear the words of Allah."_ (9:6)
 

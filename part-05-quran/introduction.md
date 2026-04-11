@@ -28,7 +28,7 @@
 
 ## What Is the Quran?
 
-The Quran is the **literal, verbatim word of Allah** revealed in Arabic to the Prophet Muhammad through the Angel Jibreel (AS) over a period of **23 years** (610632 CE).
+The Quran is the **literal, verbatim word of Allah** revealed in Arabic to the Prophet Muhammad through the Angel Jibreel (AS) over a period of **23 years** (610–632 CE).
 
 It is not:
 

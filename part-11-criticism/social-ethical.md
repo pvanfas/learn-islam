@@ -57,7 +57,7 @@ The Quran permits polygamy in verse 3 and then immediately makes it practically 
 - Equal treatment in gifts and affection (as much as humanly possible)
 - No new marriage if the existing wife negotiated monogamy in her contract
 
-**The historical context of the verse:** Surah An-Nisa 4:3 was revealed after the Battle of Uhud when many Muslim men were killed and widows and orphans needed social and economic protection. The permission to marry up to four was a social welfare mechanism, not a license for self-gratification.
+**The historical context of the verse:** (Surah An-Nisa 4:3) was revealed after the Battle of Uhud when many Muslim men were killed and widows and orphans needed social and economic protection. The permission to marry up to four was a social welfare mechanism, not a license for self-gratification.
 
 **Reality:** The Prophet was monogamous with Khadijah (RA) for 25 years his most complete, happiest, most documented relationship. His later marriages were almost entirely to widows for political and humanitarian reasons.
 
@@ -120,7 +120,7 @@ Islam did not abolish slavery and even regulated it, suggesting approval of the 
 2. **Made emancipation an act of worship:**
 
 - Freeing a slave is listed as the expiation for major sins (breaking an oath, accidental killing, etc.)
-- Freeing a slave is described as the path to salvation in Surah Al-Balad 90:1213: _"And what can make you know what is the difficult path? It is the freeing of a slave."_
+- Freeing a slave is described as the path to salvation in (Surah Al-Balad 90:1213): _"And what can make you know what is the difficult path? It is the freeing of a slave."_
 - The Prophet freed his own slaves, encouraged others to do so, and his close Companions freed thousands
 
 3. **The trajectory was toward abolition:**
@@ -129,7 +129,7 @@ Islam did not abolish slavery and even regulated it, suggesting approval of the 
 - Islam created legal mechanisms for freedom (_Mukataba_ the freedom contract) that enslaved people themselves could initiate
 - The Prophet said: _"Whoever frees a Muslim slave, Allah will free every limb of his body from the Fire."_
 
-**The scholarly argument:** Classical scholars like Ibn Ashur and Mahmoud Muhammad Taha have argued that the Quran's overall trajectory the repeated push toward emancipation, the description of freeing slaves as the highest moral act, the universal human dignity (_Karamah_) established in Surah Al-Isra 17:70 shows that abolition was the direction Islam was moving, and that the failure to complete that trajectory was a human failure, not a divine one.
+**The scholarly argument:** Classical scholars like Ibn Ashur and Mahmoud Muhammad Taha have argued that the Quran's overall trajectory the repeated push toward emancipation, the description of freeing slaves as the highest moral act, the universal human dignity (_Karamah_) established in (Surah Al-Isra 17:70) shows that abolition was the direction Islam was moving, and that the failure to complete that trajectory was a human failure, not a divine one.
 
 **The honest acknowledgment:** Islamic civilization did not abolish slavery and in some periods and places, Muslim rulers participated in the slave trade in ways that violated Islamic principles. This is a historical failure of Muslim societies not a divine mandate.
 

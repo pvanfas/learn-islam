@@ -32,8 +32,8 @@ These signs occurred definitively in Islamic history:
 | ------------------------------------------------------------------ | ------------------------------------------------------------ |
 | The death of the Prophet                                           | 11 AH / 632 CE                                               |
 | The conquest of Jerusalem                                          | 638 CE under Umar (RA)                                       |
-| The great plague of Amwas (Syria/Palestine)                        | 638639 CE killed 25,000 Companions                           |
-| The conquest of Persia and Rome (Byzantine territory)              | 630s640s CE                                                  |
+| The great plague of Amwas (Syria/Palestine)                        | 638–639 CE killed 25,000 Companions                          |
+| The conquest of Persia and Rome (Byzantine territory)              | 630s–640s CE                                                 |
 | The civil wars among Muslims (_Fitan_) the first civil war         | 656-661 CE                                                   |
 | Arabia becoming rivers and gardens (narration about it being seen) | Archaeological evidence now confirms Arabia was once fertile |
 

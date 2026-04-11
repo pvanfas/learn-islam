@@ -89,7 +89,7 @@ The migration to Abyssinia taught the Ummah a lesson: Islam could be lived in a 
 
 ## The Conversion of Hamza and Umar (RA)
 
-In approximately 615616 CE, two men of extraordinary strength accepted Islam transforming the community's position:
+In approximately 615–616 CE, two men of extraordinary strength accepted Islam transforming the community's position:
 
 ### Hamza ibn Abd al-Muttalib (RA)
 
@@ -107,7 +107,7 @@ The Prophet said: _"O Allah, by Umar's Islam, make Islam strong."_ The next day,
 
 ## The Boycott Three Years of Siege
 
-The Quraysh imposed a total economic and social boycott on the **Banu Hashim clan** (the Prophet's family) whether they were Muslim or not. For approximately **three years** (617619 CE), the entire clan was confined to a mountain pass (_Shi'b Abi Talib_) and cut off from:
+The Quraysh imposed a total economic and social boycott on the **Banu Hashim clan** (the Prophet's family) whether they were Muslim or not. For approximately **three years** (617–619 CE), the entire clan was confined to a mountain pass (_Shi'b Abi Talib_) and cut off from:
 
 - Trade
 - Marriage alliances

@@ -31,7 +31,7 @@ Hudhayfah ibn Usayd al-Ghifari (RA) reported: The Prophet came to us while we we
 
 ### 1. The Smoke (_Ad-Dukhan_)
 
-A great smoke will fill the earth, affecting believers (causing something like a cold) and severely afflicting disbelievers. Referenced in Surah Ad-Dukhan 44:10.
+A great smoke will fill the earth, affecting believers (causing something like a cold) and severely afflicting disbelievers. Referenced in (Surah Ad-Dukhan 44:10).
 
 ### 2. The Dajjal
 
@@ -39,7 +39,7 @@ The False Messiah covered in full detail in [the Dajjal chapter](dajjal.md). The
 
 ### 3. The Beast of the Earth (_Dabbat al-Ard_)
 
-A creature will emerge from the earth and mark people believers and disbelievers distinguishing between them. Referenced in Surah An-Naml 27:82. Its exact nature is from the unseen.
+A creature will emerge from the earth and mark people believers and disbelievers distinguishing between them. Referenced in (Surah An-Naml 27:82). Its exact nature is from the unseen.
 
 ### 4. The Rising of the Sun from the West
 

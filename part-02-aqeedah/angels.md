@@ -202,7 +202,7 @@ Angels are not distant cosmic beings. They are present in every human life:
 
 <summary>Can angels disobey Allah? What about Iblees (Shaytan)?</summary>
 
-Iblees (Satan) is not an angel he is a Jinn who was elevated among the angels due to his worship. When Allah commanded the angels and Iblees to prostrate to Adam, the angels obeyed without question. Iblees refused out of arrogance because he was a Jinn with free will, not an angel. The Quran clarifies this in Surah Al-Kahf 18:50: _"He was of the jinn, so he departed from the command of his Lord."_
+Iblees (Satan) is not an angel he is a Jinn who was elevated among the angels due to his worship. When Allah commanded the angels and Iblees to prostrate to Adam, the angels obeyed without question. Iblees refused out of arrogance because he was a Jinn with free will, not an angel. The Quran clarifies this in (Surah Al-Kahf 18:50): _"He was of the jinn, so he departed from the command of his Lord."_
 
 </details>
 

@@ -47,7 +47,7 @@ They differed because:
 
 ## The Hanafi Madhab
 
-**Founder:** Imam Abu Hanifah al-Nu'man ibn Thabit (80150 AH / 699767 CE), born in Kufa, Iraq.
+**Founder:** Imam Abu Hanifah al-Nu'man ibn Thabit (80–150 AH / 699–767 CE), born in Kufa, Iraq.
 
 ### His Background
 
@@ -74,7 +74,7 @@ It became dominant through the Ottoman Empire, which adopted it as the official 
 
 ## The Maliki Madhab
 
-**Founder:** Imam Malik ibn Anas (93179 AH / 711795 CE), born in Madinah.
+**Founder:** Imam Malik ibn Anas (93–179 AH / 711–795 CE), born in Madinah.
 
 ### His Background
 

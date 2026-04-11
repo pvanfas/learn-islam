@@ -26,7 +26,7 @@ However, there is substantial scholarly disagreement about whether the hadith in
 
 **The contextual argument.** Numerous contemporary scholars including Yusuf al-Qaradawi, Abdullah bin Bayyah, and others argue that apostasy in the classical context was inseparable from political treason. The early Muslim community was a city-state under constant external threat; leaving Islam publicly was simultaneously abandoning the political community and potentially joining the enemy. The punishment was for treason, not for private change of belief. Evidence: the Prophet himself never executed anyone solely for leaving Islam in a private, non-political manner.
 
-**The Quranic principle of no compulsion.** Surah Al-Baqarah 2:256 "There is no compulsion in religion" is a Medinan verse, generally held to govern the established community. Many scholars argue this verse establishes a principle incompatible with executing people for private religious choice.
+**The Quranic principle of no compulsion.** (Surah Al-Baqarah 2:256) "There is no compulsion in religion" is a Medinan verse, generally held to govern the established community. Many scholars argue this verse establishes a principle incompatible with executing people for private religious choice.
 
 **The legal argument.** The hadith is an ahad (single-chain) report and classical jurisprudence holds that capital punishment requires the highest level of evidence. Some scholars argue an ahad hadith cannot establish a hadd punishment.
 

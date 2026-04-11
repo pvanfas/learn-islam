@@ -98,7 +98,7 @@ _"One of the signs of relying on one's own deeds is the loss of hope when a down
 
 _"Were the light of certainty to shine, you would see the Hereafter so close that you would not need to take steps toward it, and you would see the dunya so far that the eyes could not reach it."_
 
-### Rabia al-Adawiyyah (714801 CE)
+### Rabia al-Adawiyyah (714–801 CE)
 
 One of the most celebrated figures in Islamic spirituality a woman whose love of Allah was so pure that she is said to have prayed: _"O Allah, if I worship You out of fear of Your Fire burn me in it. And if I worship You out of desire for Your Paradise keep it from me. But if I worship You for Your own sake do not withhold Your eternal Face from me."_
 

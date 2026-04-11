@@ -19,10 +19,10 @@
 | 610 CE     |            | **First Revelation** in Cave Hira beginning of prophethood                               |
 | 613 CE     |            | **Public declaration** of Islam at Mount Safa                                            |
 | 615 CE     |            | **First Hijrah to Abyssinia** ~80 Muslims emigrate                                       |
-| 616619 CE  |            | Three-year **boycott of Banu Hashim**                                                    |
+| 616–619 CE |            | Three-year **boycott of Banu Hashim**                                                    |
 | 619 CE     |            | **Year of Grief** deaths of Khadijah (RA) and Abu Talib                                  |
 | 620 CE     |            | **Al-Isra wal-Mi'raj** the Night Journey and Ascension; the five daily prayers are given |
-| 621622 CE  |            | Pledges of Aqabah Madinah's Ansar pledge allegiance                                      |
+| 621–622 CE |            | Pledges of Aqabah Madinah's Ansar pledge allegiance                                      |
 | **622 CE** | **1 AH**   | **THE HIJRAH** Migration to Madinah; **beginning of the Islamic calendar**               |
 | 622 CE     | 1 AH       | **Constitution of Madinah** established                                                  |
 | 624 CE     | 2 AH       | **Battle of Badr** decisive Muslim victory (313 vs. 1,000)                               |
@@ -35,11 +35,11 @@
 | 630 CE     | 8 AH       | **Battle of Hunayn** last major battle of the Makkan period                              |
 | 631 CE     | 9 AH       | **Year of Delegations** Arabian tribes accept Islam en masse                             |
 | 632 CE     | 10 AH      | **Farewell Pilgrimage** (_Hajjat al-Wada'_) the Farewell Sermon                          |
-| **632 CE** | **11 AH**  | **Death of the Prophet Muhammad ** 12 Rabi' al-Awwal                                     |
+| **632 CE** | **11 AH**  | **Death of the Prophet Muhammad** 12 Rabi' al-Awwal                                      |
 
 ---
 
-## The Rightly Guided Caliphs (632-661 CE / 1140 AH)
+## The Rightly Guided Caliphs (632–661 CE / 11–40 AH)
 
 | Year (CE) | Year (AH) | Event                                                                             |
 | --------- | --------- | --------------------------------------------------------------------------------- |
@@ -52,11 +52,11 @@
 | 638 CE    | 17 AH     | **Jerusalem** surrendered to Umar (RA); Covenant of Umar issued                   |
 | 639 CE    | 18 AH     | **Plague of Amwas** kills 25,000 including many Companions                        |
 | 641 CE    | 20 AH     | **Conquest of Egypt** Amr ibn al-As                                               |
-| 644-656   | 2335 AH   | **Uthman ibn Affan (RA)** 3rd Caliph                                              |
+| 644–656   | 23–35 AH  | **Uthman ibn Affan (RA)** 3rd Caliph                                              |
 | 646 CE    | 25 AH     | **Standardization of the Quran** Uthmanic Mushaf distributed                      |
 | 655 CE    | 34 AH     | **First Muslim navy** built; Cyprus captured                                      |
 | 656 CE    | 35 AH     | **Assassination of Uthman (RA)** first great Fitnah begins                        |
-| 656-661   | 3540 AH   | **Ali ibn Abi Talib (RA)** 4th Caliph                                             |
+| 656–661   | 35–40 AH  | **Ali ibn Abi Talib (RA)** 4th Caliph                                             |
 | 656 CE    | 35 AH     | **Battle of the Camel** civil war between Ali (RA) and Aisha, Talhah, Zubayr (RA) |
 | 657 CE    | 37 AH     | **Battle of Siffin** Ali (RA) vs. Muawiyah; arbitration; Kharijite schism         |
 | 661 CE    | 40 AH     | **Assassination of Ali (RA)** end of the Rightly Guided Caliphs era               |

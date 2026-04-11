@@ -1,9 +1,5 @@
 # How to Use This Guide
 
-Part: Start Here
-
----
-
 ## Who This Guide Is For
 
 This guide serves four audiences:

@@ -113,7 +113,7 @@ _Revealed immediately after the Treaty of Hudaybiyyah what appeared to be a defe
 
 ## Key Takeaways
 
-- The Madinan period (622632 CE) was the decade in which Islam transformed from a persecuted movement to a complete civilization.
+- The Madinan period (622–632 CE) was the decade in which Islam transformed from a persecuted movement to a complete civilization.
 - The Constitution of Madinah established a pluralistic political community one of the earliest written constitutional documents in history.
 - The three major battles (Badr, Uhud, Khandaq) each taught essential lessons: reliance on Allah, the price of disobedience, and strategic innovation.
 - The Treaty of Hudaybiyyah appearing as defeat was declared by Allah a "manifest victory" and opened the door to the Conquest of Makkah.

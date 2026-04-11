@@ -65,7 +65,7 @@ He replied: _"Allah is Beautiful and loves beauty. Pride means rejecting the tru
 **Its cure:**
 
 - Regular contemplation of one's sins and shortcomings
-- Remembering one's origins (_"From a drop of despised fluid"_ Surah Al-Mursalat 77:20)
+- Remembering one's origins (_"From a drop of despised fluid"_ (Surah Al-Mursalat 77:20))
 - Serving others especially the poor and vulnerable
 - Regular Sujood the physical humbling of the highest part of the body
 - Seeking knowledge of one's own ignorance

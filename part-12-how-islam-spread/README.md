@@ -35,7 +35,7 @@ _This verse establishes the universal scope of the mission from the beginning. I
 
 ---
 
-## Phase 1 - The Arabian Peninsula (610632 CE)
+## Phase 1 - The Arabian Peninsula (610–632 CE)
 
 ### The Prophet's Lifetime
 
@@ -50,20 +50,20 @@ By the time of the Prophet's death in 632 CE, the **entire Arabian Peninsula** h
 
 ---
 
-## Phase 2 - Military Expansion Under the Caliphs (632750 CE)
+## Phase 2 - Military Expansion Under the Caliphs (632–750 CE)
 
 ### The Rightly Guided Caliphs and Umayyads
 
 After the Prophet's death, the Muslim community under Abu Bakr, Umar, Uthman, and Ali (RA) expanded rapidly:
 
-| Region                   | Year      | Caliph         |
-| ------------------------ | --------- | -------------- |
-| Persia (Sassanid Empire) | 636651 CE | Umar (RA)      |
-| Egypt                    | 639642 CE | Umar (RA)      |
-| Syria and the Levant     | 636 CE    | Umar (RA)      |
-| North Africa             | 647700 CE | Uthman onwards |
-| Spain (Al-Andalus)       | 711 CE    | Umayyad period |
-| Central Asia             | 710715 CE | Umayyad period |
+| Region                   | Year       | Caliph         |
+| ------------------------ | ---------- | -------------- |
+| Persia (Sassanid Empire) | 636–651 CE | Umar (RA)      |
+| Egypt                    | 639–642 CE | Umar (RA)      |
+| Syria and the Levant     | 636 CE     | Umar (RA)      |
+| North Africa             | 647–700 CE | Uthman onwards |
+| Spain (Al-Andalus)       | 711 CE     | Umayyad period |
+| Central Asia             | 710–715 CE | Umayyad period |
 
 **What actually happened in these conquests?**
 

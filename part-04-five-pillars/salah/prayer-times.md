@@ -74,7 +74,7 @@ Each prayer has a **beginning time** (when it becomes valid to pray) and an **en
 **The Hanafi-Other madhab difference on Asr time:** The Hanafi school holds that Asr begins when the shadow equals twice the object's length making Asr begin later than in the other three madhabs. Both positions are valid; follow your madhab's ruling.
 {% endhint %}
 
-**The most guarded prayer:** The Quran specifically calls Asr "the middle prayer" (_As-Salat al-Wusta_ Surah Al-Baqarah 2:238) and commands it be guarded above all others. It is also the prayer most commonly missed by busy people in the middle of the working day set a reminder.
+**The most guarded prayer:** The Quran specifically calls Asr "the middle prayer" (_As-Salat al-Wusta_ (Surah Al-Baqarah 2:238)) and commands it be guarded above all others. It is also the prayer most commonly missed by busy people in the middle of the working day set a reminder.
 
 ---
 

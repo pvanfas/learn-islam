@@ -1,6 +1,6 @@
 # The Complete Islamic Knowledge Guide
 
-> _"Read in the name of your Lord who created"_ Surah Al-Alaq 96:1
+> _"Read in the name of your Lord who created"_ (Surah Al-Alaq 96:1)
 
 ---
 
@@ -40,12 +40,12 @@ You're already familiar with the basics and want to go deeper into Hadith scienc
 
 This guide is divided into **18 Parts** that flow from beginner to advanced:
 
-| Level            | Parts      | Focus                                                  |
-| ---------------- | ---------- | ------------------------------------------------------ |
-| **Beginner**     | Parts 14   | What Islam is, core beliefs, the five pillars          |
-| **Intermediate** | Parts 511  | Quran, Seerah, Hadith, Fiqh, dress, bid'ah, criticism  |
-| **Applied**      | Parts 1217 | How Islam spread, reverts, last days, living as Muslim |
-| **Advanced**     | Part 18    | Theology, philosophy, jurisprudence, Islamic thought   |
+| Level            | Parts       | Focus                                                  |
+| ---------------- | ----------- | ------------------------------------------------------ |
+| **Beginner**     | Parts 14    | What Islam is, core beliefs, the five pillars          |
+| **Intermediate** | Parts 5-11  | Quran, Seerah, Hadith, Fiqh, dress, bid'ah, criticism  |
+| **Applied**      | Parts 12-17 | How Islam spread, reverts, last days, living as Muslim |
+| **Advanced**     | Part 18     | Theology, philosophy, jurisprudence, Islamic thought   |
 
 ---
 

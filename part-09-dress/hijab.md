@@ -149,7 +149,7 @@ This is factually incorrect. Many highly educated, professionally accomplished M
 
 ## Key Takeaways
 
-- The Quranic basis for Islamic dress is in Surah An-Nur 24:31 and Surah Al-Ahzab 33:59.
+- The Quranic basis for Islamic dress is in (Surah An-Nur 24:31) and (Surah Al-Ahzab 33:59).
 - The minimum requirements are: covering the body except face and hands, with loose, non-transparent, non-attractive clothing.
 - The Niqab (face veil) is a matter of scholarly debate both wearing and not wearing it are within legitimate positions.
 - Muslim women who wear Hijab overwhelmingly do so by personal choice as an act of worship.

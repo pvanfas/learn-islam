@@ -102,7 +102,7 @@ When the Prophet died in 632 CE, his close companion Umar ibn al-Khattab (RA) wa
 
 _"Whoever worshipped Muhammad, Muhammad has died. But whoever worships Allah Allah is Ever-Living and never dies."_
 
-He then recited Surah Al-Imran 3:144: _"Muhammad is not but a messenger. Other messengers have passed on before him..."_
+He then recited (Surah Al-Imran 3:144): _"Muhammad is not but a messenger. Other messengers have passed on before him..."_
 {% endhint %}
 
 Muslims send blessings upon the Prophet (_Salawat_), love him deeply, and follow his example but they direct their worship exclusively to Allah. The distinction is clear and non-negotiable in Islamic theology.

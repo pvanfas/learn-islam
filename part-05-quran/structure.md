@@ -29,7 +29,7 @@ The 114 Surahs are classified by where they were revealed:
 
 The Quran is divided into 30 equal portions (_Ajza'_ plural of Juz') to facilitate reading one per day during Ramadan, completing the entire Quran in 30 days.
 
-**Juz' 1** begins at Surah Al-Baqarah 1:1 (after Al-Fatihah which is its own Surah).
+**Juz' 1** begins at (Surah Al-Baqarah 1:1) (after Al-Fatihah which is its own Surah).
 
 ## Al-Fatihah The Opening
 
