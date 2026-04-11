@@ -231,9 +231,3 @@ Repeat Istikhara if needed. Then proceed with the decision you feel inclined tow
 - **Eid:** 2 Rak'ahs with extra Takbirat a community celebration of worship.
 - **Janazah:** 4 Takbirat with no bowing or prostration a collective duty of mercy for the deceased.
 - **Istikhara:** 2 voluntary Rak'ahs + dua placing major decisions in Allah's hands and seeking His guidance.
-
----
-
-## Next Chapter
-
-**Continue to:** [The Deeper Spirituality of Salah](spirituality-of-salah.md)

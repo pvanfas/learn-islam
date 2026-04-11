@@ -176,9 +176,3 @@ Fabrication of Hadith began as early as the political conflicts within the Musli
 The Quran commands prayer, but only the Sunnah shows how to pray. The Quran prohibits certain foods, but only the Sunnah specifies which ones in detail. The Quran establishes Zakat, but only the Sunnah gives the rates. Without the Hadith, the Quran remains a book of principles without a model for application. The Quran itself commands Muslims to follow the Prophet which requires knowing what he did and said.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [How Hadith Were Collected and Preserved](collection.md)

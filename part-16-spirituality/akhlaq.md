@@ -250,9 +250,3 @@ Then ask: Are these the characteristics I wish to stand before Allah with?
 - The core virtues: Truthfulness, Trustworthiness, Humility, Generosity, Patience, Gratitude, Mercy, Justice, Forgiveness, and Controlling the Tongue.
 - Each virtue has its root in Tawhid in the recognition that Allah is the source of all good and the objective is to reflect His attributes in human life.
 - Character is built through repetition one truthful choice, one act of generosity, one moment of patience at a time.
-
----
-
-## Next Chapter
-
-**Continue to:** [Dhikr Remembrance of Allah](dhikr.md)

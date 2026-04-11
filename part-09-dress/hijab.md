@@ -175,11 +175,3 @@ If a woman genuinely fears physical harm because of her Hijab for example in a c
 Yes. Men are commanded to lower their gaze (Surah An-Nur 24:30), to cover their Awrah (from the navel to the knee in the minimum, according to most scholars), and to dress modestly. The Prophet also prohibited men from wearing silk and gold, from wearing garments below the ankle out of arrogance (_Isbal_), and from imitating women's dress. Modesty is a shared Islamic value.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [The Niqab Scholarly Positions in Detail](niqab.md)
-
-**Or explore:** [Islamic Dress for Men](men-dress.md)

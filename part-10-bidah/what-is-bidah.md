@@ -210,11 +210,3 @@ No. This is a worldly tool (_wasila_) used to facilitate the prayer not an act o
 It depends on what is claimed about those specific nights. Gathering to read Quran and make dua is encouraged generally. If specific nights are designated with specific acts not established in the Sunnah and presented as a religious obligation or special night that specific designation becomes problematic. Consult a qualified scholar for specific cases.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Categories of Bid'ah](categories.md)
-
-**Or explore:** [Common Bid'ahs Practiced Today](common-bidahs.md)

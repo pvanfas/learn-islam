@@ -221,9 +221,3 @@ This is an area of scholarly difference. The majority of classical scholars proh
 With patience, mercy, and wisdom never coercion. The Prophet was the most religiously committed person alive, yet he had family members who were not Muslim. He treated them with kindness, maintained the relationship, and continued to be an example. Nagging rarely produces religious growth sincere love, the beauty of your own practice, and consistent dua for your spouse are far more effective than ultimatums.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Halal and Haram in Modern Life](modern-halal-haram.md)

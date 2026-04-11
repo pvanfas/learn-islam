@@ -164,9 +164,3 @@ Not necessarily. Ahlus Sunnah is defined by belief and methodology, not just a l
 Yes. All four Sunni madhabs Hanafi, Maliki, Shafi'i, Hanbali are valid expressions of Ahlus Sunnah jurisprudence. Choosing to follow one does not make a person less of a Muslim, nor does it mean the others are wrong. They differ on subsidiary matters of law not on the fundamentals of faith.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Theological Foundations of Ahlus Sunnah](theological-foundations.md)

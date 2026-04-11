@@ -220,9 +220,3 @@ This is a genuine hardship. The UK has a Sharia-compliant government student fin
 This depends on your specific role. Scholars generally distinguish: a cleaner or security guard at a bank earns permissibly from their service, even if the bank's primary business involves Riba. A loan officer who directly facilitates Riba transactions is in a more serious position. Get specific guidance from a qualified Islamic finance scholar on your exact role.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Dealing with Trials and Hardship](trials.md)

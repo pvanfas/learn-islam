@@ -76,9 +76,3 @@ Before booking flights, confirm which Miqat applies to your route. If flying, yo
 - Touching or kissing the Ka'bah walls not established in the Sunnah
 - Praying toward the Ka'bah from very close range during the prayer times (stand in the prayer rows instead)
 - Assuming Umrah is complete after Sa'i it requires the hair cutting to exit Ihram
-
----
-
-## Next Chapter
-
-**Continue to:** [The Spiritual Meaning of Hajj](hajj-spiritual.md)

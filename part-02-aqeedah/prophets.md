@@ -229,9 +229,3 @@ The Quran does not explicitly address whether prophethood can be female. The sch
 Yes. The Prophet Muhammad is described in the Quran as _Al-Ummi_ the unlettered prophet. He could not read or write. This is considered one of the greatest evidences for the divine origin of the Quran an unlettered man in 7th-century Arabia could not have produced a text of such literary brilliance, scientific accuracy, and theological depth without divine revelation.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Belief in the Day of Judgement](day-of-judgement.md)

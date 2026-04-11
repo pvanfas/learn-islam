@@ -152,9 +152,3 @@ _"The most beloved deeds to Allah are those that are most consistent, even if th
 - Sadaqah Jariyah (ongoing charity) continues to earn reward after death among the three things that don't stop with death.
 - The reward of Sadaqah is multiplied up to 700 times or more and charity does not decrease wealth.
 - Giving secretly is the highest form; Friday and Ramadan are optimal times; consistency is more beloved than quantity.
-
----
-
-## Next Chapter
-
-**Continue to:** [Part 5 The Quran](../../part-05-quran/README.md)

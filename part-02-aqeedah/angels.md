@@ -221,9 +221,3 @@ The Quran and Sunnah do not describe angels as human-looking with white bird win
 Angels can appear in human form when Allah wills. Jibreel appeared to the Prophet in human form on multiple occasions most famously as a man in white clothing in the Hadith of Jibreel. He also appeared to Maryam (AS) in human form. Regular humans do not see angels in their true form the Prophet saw Jibreel in his true angelic form only twice.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Belief in the Revealed Books](revealed-books.md)

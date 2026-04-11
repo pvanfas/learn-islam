@@ -142,9 +142,3 @@ The reaction was immediate and hostile. The mission had been declared. The perse
 - After the period of pause (_Fatrah_), Surah Al-Muddaththir gave the formal command to warn the mission had begun.
 - The first Muslims were Khadijah, Ali, Zayd, and Abu Bakr (RA) then a small circle who gathered secretly in the house of Al-Arqam.
 - Three years of private calling was followed by a public declaration on Mount Safa met with immediate hostility from the Quraysh.
-
----
-
-## Next Chapter
-
-**Continue to:** [The Makkan Period Patience Under Persecution](makkan-period.md)

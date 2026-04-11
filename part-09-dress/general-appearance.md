@@ -65,9 +65,3 @@ _"Allahumma anta hassanta khalqi fa-hassin khuluqi"_
 "O Allah, You have made my creation good, so make my character good."
 
 (Musnad Ahmad Hasan)
-
----
-
-## Next Chapter
-
-**Continue to:** [Part 10 Bid'ah (Religious Innovation)](../part-10-bidah/README.md)

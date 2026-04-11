@@ -227,9 +227,3 @@ The five obligatory prayers must be prayed at their times regardless of shift pa
 The five daily prayers and their Sunnah prayers are the obligatory and strongly recommended elements. The rest Tahajjud, Ishraq, Adhkar are deeply recommended Sunnah with enormous reward. A Muslim who fulfills the five obligatory prayers has fulfilled their fundamental duty. Building the additional Sunnah practices around them is the path of excellence (_Ihsan_).
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Islamic Manners (Adab) in Daily Life](adab.md)

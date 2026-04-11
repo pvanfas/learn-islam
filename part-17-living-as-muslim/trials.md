@@ -251,11 +251,3 @@ Absolutely not. The Prophet wept when his son Ibrahim died his eyes filled with 
 No. Mental health conditions are illnesses like physical illnesses and seeking treatment for them is encouraged and permitted in Islam. The Prophet said: _"Make use of medical treatment, for Allah has not made a disease without making a cure for it."_ Spiritual practices (prayer, dhikr, Quran, community) support mental health significantly but they are not substitutes for professional treatment when clinical illness is present. Faith and mental health care are not in competition.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Mental Health and Islamic Spirituality](mental-health.md)
-
-**Or explore:** [Islam and the Environment](environment.md)

@@ -184,9 +184,3 @@ These stations are not automatic they require sustained spiritual work, regular 
 - The major classical figures al-Ghazali, Ibn Ata'illah, Rabia al-Adawiyyah represent Tasawwuf at its most authentic.
 - The Sufi orders (_Turuq_) were major vehicles for Islam's peaceful spread but require careful evaluation in the contemporary context.
 - The goal of the spiritual path is not esoteric experience it is a heart that worships Allah with complete awareness, humility, love, and presence.
-
----
-
-## Next Chapter
-
-**Continue to:** [Al-Ghazali's _Ihya Ulum al-Din_ A Deep Dive](ihya.md)

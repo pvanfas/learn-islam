@@ -54,9 +54,3 @@ The lesson: the act of sacrifice is not about the animal it is about surrenderin
 - Go to Eid prayer
 - Perform Qurbani
 - Say Takbir throughout the days: _"Allahu Akbar, Allahu Akbar, la ilaha illallah..."_
-
----
-
-## Next Chapter
-
-**Continue to:** [Part 5 The Quran](../../part-05-quran/README.md)

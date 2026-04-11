@@ -246,9 +246,3 @@ _"Whoever recites the last two verses of Surah Al-Baqarah at night they will suf
 - Al-Kahf recited every Friday gives light between two Fridays and protects from the Dajjal.
 - Al-Mulk recited every night intercedes for its reader in the grave.
 - Al-Baqarah in the home drives Shaytan out.
-
----
-
-## Next Chapter
-
-**Continue to:** [Science in the Quran](science-in-quran.md)

@@ -150,12 +150,4 @@ Yes deeply. Muslims believe Jesus (Isa AS) was one of the greatest prophets, bor
 
 ---
 
-## Next Chapter
-
-**Continue to:** [Common Misconceptions About Islam](misconceptions.md)
-
-**Or jump ahead to:** [The Foundations of Belief Aqeedah](../part-02-aqeedah/README.md)
-
----
-
 _If you found an error or have a suggestion, please raise an issue or contact us._

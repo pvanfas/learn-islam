@@ -53,9 +53,3 @@ The Jamarat stoning the pillars where Shaytan appeared to Ibrahim (AS) to tempt 
 ## Sacrifice Ibrahim's Ultimate Surrender
 
 The Qurbani reenacts Ibrahim's (AS) willingness to sacrifice his beloved son by Allah's command and Allah's replacement of Ismail (AS) with a ram. The message: when you surrender completely to Allah, He provides from where you cannot imagine.
-
----
-
-## Next Chapter
-
-**Continue to:** [Umrah The Lesser Pilgrimage](umrah.md)

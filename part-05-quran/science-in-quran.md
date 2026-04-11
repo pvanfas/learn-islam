@@ -254,11 +254,3 @@ This is a common objection. The Prophet was _Al-Ummi_ unlettered. He could not r
 This verse (Surah Al-Kahf 18:86) describes the narrative of Dhul-Qarnayn: _"Until, when he reached the setting of the sun, he found it setting in a spring of dark mud."_ This is a narrative verse describing what Dhul-Qarnayn _perceived_ from his vantage point it is not a cosmological statement about where the sun actually goes. Classical scholars understood this as a description of his perspective, like a person watching a sunset over the ocean it appears to "set" in the water. This is a literary description, not a cosmological claim.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Tajweed Rules of Recitation](tajweed.md)
-
-**Or explore:** [Major Themes of the Quran](major-themes.md)

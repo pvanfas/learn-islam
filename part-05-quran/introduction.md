@@ -184,9 +184,3 @@ No. The Quran in Arabic is one text textually identical in every country, every 
 A translation is a _tafsir_ (interpretation) not the Quran itself. The divine status of the Quran belongs to the Arabic text. Translations are aids for understanding valuable and important but they are human works, not divine. The Quran's recitation in prayer must be in Arabic. Learning the Arabic and engaging with the original is the highest goal though reading translations is an excellent starting point for those learning.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Structure of the Quran](structure.md)

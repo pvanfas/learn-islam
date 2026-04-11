@@ -112,9 +112,3 @@ The Quraysh-controlled Makkah is a symbol of any environment that suppresses fai
 - The Ansar's extraordinary welcome marked a new beginning for the Muslim community.
 - The Islamic calendar (Hijri) begins with the Hijrah marking the birth of Islam as a civilization.
 - The Hijrah is a permanent spiritual principle: every Muslim migrates internally from what Allah has forbidden.
-
----
-
-## Next Chapter
-
-**Continue to:** [The Madinan Period Building a Civilization](madinan-period.md)

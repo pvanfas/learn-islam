@@ -151,9 +151,3 @@ He would not wait long.
 - His marriage to Khadijah (RA) a wealthy, accomplished businesswoman 15 years his senior was by proposal and was a partnership of deep love and mutual respect.
 - The Black Stone incident showed his natural wisdom and ability to resolve conflicts equitably.
 - By age 40 he was spending long periods in spiritual seclusion on the eve of receiving the greatest responsibility ever given to a human being.
-
----
-
-## Next Chapter
-
-**Continue to:** [The Beginning of Revelation](first-revelation.md)

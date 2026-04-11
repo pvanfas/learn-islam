@@ -216,9 +216,3 @@ NET ZAKATABLE WEALTH × 2.5% = ZAKAT DUE: $________
 - Non-zakatable: home, car, personal belongings, locked pension funds.
 - Subtract debts due this year before calculating.
 - Choose a consistent annual Zakat date Ramadan 1st is easy to remember.
-
----
-
-## Next Chapter
-
-**Continue to:** [Zakat vs. Sadaqah Voluntary Charity](zakat-vs-sadaqah.md)

@@ -126,10 +126,4 @@ Throughout this guide, you will encounter:
 - Hadith are graded by authenticity from Sahih (fully verified) to Mawdu' (fabricated and rejected).
 - This guide will always cite its sources so you can verify and go deeper.
 
----
-
-## Next Chapter
-
-**Continue to:** [Part 2 Foundations of Belief (Aqeedah)](../part-02-aqeedah/README.md)
-
 _You now have the foundation. Let's begin learning what Muslims believe._

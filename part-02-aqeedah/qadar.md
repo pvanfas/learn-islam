@@ -220,10 +220,4 @@ Islamic theology does not promise a comfortable worldly life for the righteous. 
 
 </details>
 
----
-
-## Next Chapter
-
-**Continue to:** [Part 3 Ahlus Sunnah Wal Jama'ah](../part-03-ahlus-sunnah/README.md)
-
 _Part 2 is complete. You now have all six pillars of Islamic faith. Next: the tradition that preserved and transmitted these beliefs._

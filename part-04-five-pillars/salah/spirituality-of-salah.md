@@ -178,9 +178,3 @@ This is the universal experience of every praying person. The scholars teach: wh
 This is a sign that the heart needs work which is why the greatest scholars like Imam al-Ghazali dedicated the first quarter of his _Ihya_ to worship and its spiritual diseases. Start by learning the meanings of what you recite. Attend to what you are doing in each position. Make personal dua in Sujood. Read about the Prophet's prayer and the prayer of the Companions. And ask Allah in the prayer itself to open your heart to it.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Special Prayers Jumu'ah, Tahajjud, Eid, Janazah, Istikhara](special-prayers.md)

@@ -191,9 +191,3 @@ The Quran invites investigation, reflection, and critical engagement from its fi
 - **Community and family** are the social units through which Islamic values are embodied.
 - **Dua** is the language of the Quran's most intimate divine-human relationship.
 - **Reason** is invited throughout the Quran never asks for blind faith but for honest reflection.
-
----
-
-## Next Chapter
-
-**Continue to:** [Science in the Quran](science-in-quran.md)

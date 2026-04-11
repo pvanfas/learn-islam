@@ -193,9 +193,3 @@ Yes. The night's blessing is not contingent on being in a mosque though the mosq
 Allah knows your circumstances. Make up as many of the remaining odd nights as possible. If the 27th has passed and you are now well, pray the remaining nights with full sincerity you may still catch it if it has not yet come. And remember: even missing Laylatul Qadr, the other nights of Ramadan carry enormous blessing. Do not despair.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Eid al-Fitr The Celebration](eid-al-fitr.md)

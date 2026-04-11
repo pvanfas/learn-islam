@@ -100,9 +100,3 @@ The world was waiting though it did not know it for a clear, uncomplicated, univ
 - The Quraysh tribe the Prophet's own people were the political and religious power of Makkah.
 - Pre-Islamic Arab culture had genuine strengths hospitality, poetry, and some codes of honor that Islam would preserve and purify.
 - The 6th century world was in a broad spiritual crisis making it a moment ripe for a final, universal divine message.
-
----
-
-## Next Chapter
-
-**Continue to:** [Early Life of the Prophet ](early-life.md)

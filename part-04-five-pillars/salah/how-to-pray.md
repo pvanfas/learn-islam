@@ -433,11 +433,3 @@ Then: _La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamd, wa 
 
 _(Source: Sahih Muslim the Prophet taught this after every obligatory prayer)_
 {% endhint %}
-
----
-
-## Next Chapter
-
-**Continue to:** [Special Prayers Jumu'ah, Tahajjud, Witr, Eid, Janazah, Istikhara](special-prayers.md)
-
-**Or explore:** [The Deeper Spirituality of Salah](spirituality-of-salah.md)

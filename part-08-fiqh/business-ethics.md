@@ -68,9 +68,3 @@ Any transaction where one party's gain is purely another's loss through chance p
 **Surah Al-Baqarah 2:275**
 **Translation:** "...And Allah has permitted trade and has forbidden Riba..."
 {% endhint %}
-
----
-
-## Next Chapter
-
-**Continue to:** [Islamic Finance Riba and Alternatives](islamic-finance.md)

@@ -276,11 +276,3 @@ If you genuinely did not know Fajr had entered you were not aware your fast is v
 This is a medical-religious question. Oral medications that are swallowed break the fast for many scholars. If your medication is life-sustaining and cannot be delayed, you are in the category of the ill you may break your fast and make it up later. Consult both your doctor and a knowledgeable scholar.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [The Spiritual Dimensions of Ramadan](spiritual-ramadan.md)
-
-**Or explore:** [Laylatul Qadr The Night of Power](laylatul-qadr.md)

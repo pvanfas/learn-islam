@@ -171,9 +171,3 @@ Islamic law permits combining Dhuhr + Asr, and Maghrib + Isha in specific circum
 - Prayer time apps provide accurate local times choose the calculation method used by scholars in your region.
 - Three voluntary-prayer-free times exist; obligatory prayers may be made up at any time.
 - Combining prayers is permitted during travel, illness, and hardship with madhab-specific conditions.
-
----
-
-## Next Chapter
-
-**Continue to:** [Performing the Prayer Step by Step](how-to-pray.md)

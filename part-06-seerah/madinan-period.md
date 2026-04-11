@@ -118,9 +118,3 @@ _Revealed immediately after the Treaty of Hudaybiyyah what appeared to be a defe
 - The three major battles (Badr, Uhud, Khandaq) each taught essential lessons: reliance on Allah, the price of disobedience, and strategic innovation.
 - The Treaty of Hudaybiyyah appearing as defeat was declared by Allah a "manifest victory" and opened the door to the Conquest of Makkah.
 - By the end of the Madinan period, the Prophet had transformed a small persecuted community into the dominant political and spiritual force in Arabia.
-
----
-
-## Next Chapter
-
-**Continue to:** [The Conquest of Makkah](conquest-of-makkah.md)

@@ -217,11 +217,3 @@ You must calculate what was due and pay it Zakat is a debt owed to Allah and to 
 Yes fundamentally. Zakat is an act of worship owed to Allah. Tax is a legal obligation owed to a government. Paying income tax does not fulfill Zakat. They are separate obligations. However, the way Zakat is managed in some countries (collected by Islamic authorities and distributed systematically) resembles a social welfare tax in structure which is intentional. Islam institutionalized welfare 1,400 years before the modern welfare state.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Calculating Your Zakat](calculating-zakat.md)
-
-**Or explore:** [Zakat vs. Sadaqah The Difference](zakat-vs-sadaqah.md)

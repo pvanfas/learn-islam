@@ -168,9 +168,3 @@ According to the majority of classical scholars yes, shaving the beard is either
 If the shorts cover the knees, they cover the minimum Awrah. If they expose above the knee, they do not cover the Awrah and cannot be worn in prayer or in front of non-Mahram women. Most scholars recommend that Muslim men dress modestly beyond the minimum full-length trousers are more in keeping with the Sunnah of dignity and Haya.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [General Appearance Rulings](general-appearance.md)

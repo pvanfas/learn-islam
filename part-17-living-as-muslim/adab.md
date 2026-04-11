@@ -272,9 +272,3 @@ The Prophet said a person whose neighbor is not safe from their harm has not ent
 - The right hand is used for honorable acts; the left for cleansing.
 - Backbiting (_Ghibah_) and tale-carrying (_Namimah_) are among the most socially destructive sins both explicitly forbidden.
 - Respect for elders and rights of neighbors are cornerstones of Islamic social life.
-
----
-
-## Next Chapter
-
-**Continue to:** [Building an Islamic Home](islamic-home.md)

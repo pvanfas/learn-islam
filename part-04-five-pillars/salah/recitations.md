@@ -102,9 +102,3 @@ _Allahumma salli 'ala Muhammadin wa 'ala ali Muhammadin kama sallayta 'ala Ibrah
 **اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ** (right then left)
 _As-salamu 'alaykum wa rahmatullah_
 "Peace be upon you and the mercy of Allah"
-
----
-
-## Next Chapter
-
-**Continue to:** [Special Prayers](special-prayers.md)

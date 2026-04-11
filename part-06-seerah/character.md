@@ -172,9 +172,3 @@ This is not a demand for blind devotion. It is the natural consequence of truly 
 - His mercy extended to enemies, animals, and the vulnerable consistently and without exception.
 - Despite political power, he lived in extraordinary simplicity his shield was pledged for food.
 - Muslims' love for him is not blind sentiment it is the natural outcome of knowing his life.
-
----
-
-## Next Chapter
-
-**Continue to:** [Non-Muslim Historians on Muhammad ](non-muslim-views.md)

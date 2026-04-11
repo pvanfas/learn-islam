@@ -142,9 +142,3 @@ These are not Muslim hagiographies they are the honest assessments of people who
 - Even critical biographers like William Muir acknowledged the man's character and the Quran's textual integrity.
 - The common thread: integrity, simplicity, universality, and the extraordinary ratio of achievement to material means.
 - Muslims' love for the Prophet is confirmed, from the outside, by those who had no theological stake in that love.
-
----
-
-## Next Chapter
-
-**Continue to:** [Part 7 Hadith Science](../part-07-hadith/README.md)

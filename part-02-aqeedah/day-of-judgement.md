@@ -239,9 +239,3 @@ The vast majority of Islamic scholars hold that children who die before reaching
 Islamic scholars hold that no one will be punished for a message they never received. The Quran states that Allah does not punish until He has sent a messenger. Those who never received the message of Islam clearly and honestly will be judged by their deeds and a test will be set for them on the Day of Judgement, according to some scholarly positions.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Belief in Divine Decree (Qadar)](qadar.md)

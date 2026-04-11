@@ -118,9 +118,3 @@ This is why Muslims remind the dying to say the Shahada not to force it, but to 
 - Seven conditions make the Shahada valid: knowledge, certainty, sincerity, truthfulness, love, submission, and rejection of falsehood.
 - Entering Islam requires sincere belief in the heart + verbal pronouncement no ceremony, no priesthood.
 - The Shahada is renewed in every prayer and should be the Muslim's last words.
-
----
-
-## Next Chapter
-
-**Continue to:** [Introduction to Salah](salah/introduction.md)

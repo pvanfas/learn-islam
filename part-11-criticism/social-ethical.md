@@ -193,9 +193,3 @@ The _Dhimmi_ system the status of non-Muslims under classical Islamic governance
 - **Slavery:** Islam dramatically improved enslaved people's conditions and pushed strongly toward emancipation failure to complete abolition was a human failure, not divine mandate.
 - **Hudood:** Exist within extraordinary evidentiary requirements and social justice prerequisites that make mechanical application impermissible. Their purpose is deterrence within a fully just social order.
 - **Dhimmi:** Provided significant protections in historical context imperfectly applied, needing evolution for modern contexts, but not equivalent to the caricature of dhimmitude as mere subjugation.
-
----
-
-## Next Chapter
-
-**Continue to:** [Scientific Criticisms](scientific.md)

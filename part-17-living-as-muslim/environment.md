@@ -194,9 +194,3 @@ Every Muslim will be asked about the earth they were given stewardship over. The
 Not by name but the principles are clear. Altering the earth's climate in ways that harm billions of people violates the prohibition on harm (_La darar wa la dirar_ no harm and no reciprocal harm, a foundational Islamic legal maxim). Causing environmental damage that harms future generations violates the principle of stewardship (_Khalifah_). And the disruption of Allah's created balance (_Mizan_) is explicitly warned against in the Quran. Contemporary Islamic scholars have increasingly engaged with climate change as an Islamic concern.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Being a Muslim in a Non-Muslim Country](muslim-in-west.md)

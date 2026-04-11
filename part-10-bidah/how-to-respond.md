@@ -45,9 +45,3 @@ _"It is enough of a sin for a person to neglect those he is responsible for."_
 {% endhint %}
 
 Spending more energy correcting others' Bid'ah than perfecting one's own worship and character is itself a kind of misprioritization. Focus on your own Sunnah first.
-
----
-
-## Next Chapter
-
-**Continue to:** [Part 11 Criticism and Arguments Against Islam](../part-11-criticism/README.md)

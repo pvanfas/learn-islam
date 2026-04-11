@@ -166,12 +166,4 @@ _Arabic text_
 
 ---
 
-## Next Chapter
-
-**Continue to:** [Next Chapter Title](../link-to-next-chapter.md)
-
-**Or explore:** [Related Chapter Title](../link-to-related.md)
-
----
-
 _If you found an error or have a suggestion, please [raise an issue](#) or contact us._

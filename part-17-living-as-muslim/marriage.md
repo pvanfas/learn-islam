@@ -225,9 +225,3 @@ No classical Islamic jurisprudence prohibits a Muslim woman from marrying a non-
 The Nikah itself (the contract with its pillars) is the Islamic marriage. There is no required ceremony beyond this. However, it is Sunnah to announce the marriage (so it is not secret) and to hold a _Walimah_ a wedding feast, even a simple one, to celebrate and announce the marriage to the community. The Walimah can be a simple gathering with food it does not need to be elaborate.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Raising Children with Islamic Values](raising-children.md)

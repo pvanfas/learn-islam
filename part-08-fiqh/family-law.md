@@ -183,9 +183,3 @@ The son receives double the daughter's share when they inherit together the clas
 - The 'Iddah serves multiple purposes: confirming paternity, allowing reconciliation, and honoring the marriage's solemnity.
 - Custody priority goes to the mother for young children; guardianship remains with the father.
 - Islamic inheritance follows Quranic fixed shares the son's double portion reflects his greater financial obligations.
-
----
-
-## Next Chapter
-
-**Continue to:** [Business Ethics and Contracts](business-ethics.md)

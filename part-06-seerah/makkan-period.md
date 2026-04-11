@@ -161,9 +161,3 @@ When the Prophet reported this the next morning, many in Makkah mocked and some 
 - The conversions of Hamza and Umar (RA) strengthened the Muslim community significantly.
 - The three-year boycott and the Year of Grief (loss of Khadijah and Abu Talib) were the lowest point of the mission.
 - The Night Journey (Al-Isra wal-Mi'raj) was Allah's gift at the darkest moment and the occasion of the five daily prayers.
-
----
-
-## Next Chapter
-
-**Continue to:** [The Hijrah Migration to Madinah](hijrah.md)

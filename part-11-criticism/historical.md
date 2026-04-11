@@ -126,9 +126,3 @@ This comparison is not to justify the Dhimmi system's restrictions but to provid
 - The Crusades began through a complex series of political requests and were not a simple "just response" the massacre of Jerusalem (1099) stands as a documented atrocity; Saladin's reconquest provides a striking contrast.
 - Early Islamic civil wars were genuine tragedies honestly recorded by Muslim scholars not evidence of a failed system, but of the universal difficulty of political transition.
 - The Dhimmi system had both protections and restrictions evaluated fairly against the treatment of non-Christians in medieval Christian Europe, it often compares favorably.
-
----
-
-## Next Chapter
-
-**Continue to:** [Theological Criticisms](theological.md)

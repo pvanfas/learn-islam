@@ -218,9 +218,3 @@ Dhikr does not require stillness or isolation it is designed for a life in motio
 - After every obligatory prayer: Subhanallah (×33), Alhamdulillah (×33), Allahu Akbar (×33), then the closing Tahlil sins forgiven even if like the foam of the sea.
 - Sending Salawat on the Prophet returns tenfold increase it especially on Fridays.
 - Dhikr is designed for a life in motion every moment of the day has a remembrance attached to it.
-
----
-
-## Next Chapter
-
-**Continue to:** [Morning and Evening Adhkar Full Collection](adhkar.md)

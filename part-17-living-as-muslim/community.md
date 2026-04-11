@@ -185,9 +185,3 @@ The Prophet praised the pre-Islamic _Hilf al-Fudul_ (Pact of Justice) that he ha
 - _Amr bil-Ma'ruf wa Nahy 'anil-Munkar_ (commanding good and forbidding wrong) is a community obligation done with wisdom and beautiful speech.
 - Justice and kindness to non-Muslims is commanded civic participation in shared goods is encouraged.
 - The most beloved people to Allah are those most beneficial to people service is worship.
-
----
-
-## Next Chapter
-
-**Continue to:** [Halal and Haram in Modern Life](modern-halal-haram.md)

@@ -226,9 +226,3 @@ There is scholarly disagreement on this. The majority position is that a Muslim 
 The term "Salafi" is complex. Some scholars who advocate direct engagement with texts do so within a Hanbali framework in practice. Others do advocate for independent derivation from texts without madhab affiliation a position that most classical scholars have historically cautioned against for non-mujtahids. The concern is not the principle of following evidence all four imams taught that but the practical qualification required to do so reliably.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Halal and Haram Food & Drink](halal-haram.md)

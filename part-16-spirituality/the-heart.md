@@ -207,9 +207,3 @@ The Quran mentions it as one of the Prophet's primary missions:
 - Each disease has specific cures drawn from the Quran and Sunnah not vague spiritual effort but specific practices.
 - Tazkiyah is the ongoing discipline of purifying the heart through worship, dhikr, fasting, righteous company, and self-accounting.
 - The Quran is itself described as a cure for what is in the chest regular recitation with understanding is the most direct medicine for the heart.
-
----
-
-## Next Chapter
-
-**Continue to:** [Virtues and Character (Akhlaq)](akhlaq.md)

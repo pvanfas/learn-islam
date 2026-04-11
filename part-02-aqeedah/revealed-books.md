@@ -166,9 +166,3 @@ No. The _Injil_ (Gospel) referred to in the Quran is the original revelation giv
 No. The God described in the earlier scriptures even in their current form is recognizably the same God: the Creator of the heavens and the earth, the God of Abraham, Isaac, and Jacob, the God who spoke to Moses. The theological differences the Trinity, the divinity of Jesus, the sonship of God are, in the Islamic understanding, later human additions to the revelation, not original teachings of the earlier prophets.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Belief in the Prophets and Messengers](prophets.md)

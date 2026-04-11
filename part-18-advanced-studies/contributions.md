@@ -162,9 +162,3 @@ The Renaissance was, in significant part, the rediscovery of Greek knowledge thr
 - **Architecture:** Pointed arch, ribbed vault, and honeycomb vaulting of Gothic cathedrals developed from Islamic architecture.
 - **Education:** The world's oldest university (Al-Qarawiyyin) was founded by a Muslim woman; the madrasa system was the model for European universities.
 - **The Renaissance itself** was largely built on Islamic preservation and advancement of Greek knowledge.
-
----
-
-## Next Chapter
-
-**Continue to:** [Ibn Khaldun and the Philosophy of History](ibn-khaldun.md)

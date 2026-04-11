@@ -134,9 +134,3 @@ _"Whoever sends blessings upon me at my grave I hear him. And whoever sends bles
 - The final Quranic revelation declared the religion complete and perfected.
 - The Prophet died in Aisha's (RA) arms on 12 Rabi' al-Awwal, 11 AH aged 63.
 - Abu Bakr's (RA) response anchored the community: Allah lives and the mission continues.
-
----
-
-## Next Chapter
-
-**Continue to:** [The Character of the Prophet ](character.md)

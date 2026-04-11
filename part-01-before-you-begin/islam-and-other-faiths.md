@@ -179,11 +179,3 @@ Yes. The Quran's instruction to avoid taking certain non-Muslims as close allies
 This is a nuanced theological question in Islamic scholarship. The mainstream position is that those who received the message of Islam clearly and rejected it will be accountable. Those who never received the message, or received a distorted version, are a matter between them and Allah who is described 113 times in the Quran as _Al-Rahman Al-Rahim_ (The Most Gracious, The Most Merciful). No Muslim can declare with certainty who is or isn't admitted to Paradise that belongs to Allah alone.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [A Note on Sources](sources.md)
-
-**Or jump ahead to:** [The Foundations of Belief Aqeedah](../part-02-aqeedah/README.md)

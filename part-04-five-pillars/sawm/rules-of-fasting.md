@@ -79,9 +79,3 @@ This applies per occurrence, not per Ramadan.
 | Cupping/bloodletting            | Does not break     | Breaks fast        | Does not break     | Breaks fast    |
 | Tasting food without swallowing | Does not break     | Does not break     | Does not break     | Does not break |
 | Intentional vomiting            | Breaks if mouthful | Breaks if mouthful | Breaks if mouthful | Breaks         |
-
----
-
-## Next Chapter
-
-**Continue to:** [The Spiritual Dimensions of Ramadan](spiritual-ramadan.md)

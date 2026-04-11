@@ -197,9 +197,3 @@ Muslim armies, like all pre-modern armies, fought to establish political authori
 Spain (Al-Andalus) was Muslim for 700 years but is now overwhelmingly Christian. Central Asia was deeply Muslim but Soviet atheist rule caused significant detachment. These cases show that political and cultural dominance affects religious affiliation. What they also show is that when Muslim political authority ended, mass reconversion often required significant external pressure (the Spanish Inquisition, Soviet persecution) suggesting the populations had genuinely embraced Islam, not merely performed it under compulsion.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Islam's Growth Rate Today](../part-13-growth-rate/global-population.md)

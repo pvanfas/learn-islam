@@ -75,9 +75,3 @@ The people of Makkah entered Islam in their thousands.
 - The Prophet declared a general amnesty: _"Go, you are free"_ to those who had persecuted him for 21 years.
 - The Ka'bah was cleansed of idols and restored to the pure monotheistic sanctuary of Ibrahim (AS).
 - Bilal (RA) gave the first Adhan from the top of the Ka'bah a moment of profound historical symmetry.
-
----
-
-## Next Chapter
-
-**Continue to:** [The Farewell Sermon and the Prophet's Final Days](farewell-sermon.md)

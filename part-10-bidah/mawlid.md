@@ -134,9 +134,3 @@ Muslims should follow the ruling of their qualified local scholar, maintain cour
 - **Position for:** The Monday fasting hadith, Imam al-Suyuti's detailed argument, the principle that gatherings of individually Sunnah components are permissible.
 - **Consensus:** Mawlid gatherings with Quran, Seerah, and Salawat are more defensible than those with impermissible elements; declaring it obligatory or the Prophet physically attends is rejected.
 - **The essential practice:** Whether or not one celebrates the Mawlid, every Muslim should send abundant Salawat on the Prophet , study his Seerah deeply, and love him more than anything in this world.
-
----
-
-## Next Chapter
-
-**Continue to:** [Grave Worship and Tawassul](grave-worship.md)

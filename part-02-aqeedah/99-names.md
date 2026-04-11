@@ -197,9 +197,3 @@ The Hadith says Allah has 99 names "with which He has named Himself" suggesting 
 The Quran says: _"Invoke Him by them."_ In practice: when asking for provision, call upon Ar-Razzaq (The Provider). When seeking forgiveness, call upon Al-Ghafur or Al-'Afuw. When afraid, call upon Al-Hafiz (The Preserver) or Al-Wali (The Protecting Friend). When facing injustice, call upon Al-'Adl (The Just). The name you choose should reflect the attribute you are calling upon and this itself is a form of Tawhid: recognizing which of His attributes is most relevant to your need.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Belief in the Angels](angels.md)

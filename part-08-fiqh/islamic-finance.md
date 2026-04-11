@@ -194,9 +194,3 @@ Interest that accrues in a conventional savings account is Riba even though you 
 This is one of the most commonly raised arguments for interest. Islamic scholars have engaged with it extensively. Their responses: (1) Riba was prohibited even in 7th-century Arabia where monetary inflation was minimal it is not primarily an inflation argument. (2) Murabahah and other Islamic instruments do account for the time-value concern without resorting to guaranteed returns disconnected from real economic activity. (3) The solution to inflation in Islamic economics is investment in real assets not lending at interest.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Medical Ethics in Islam](medical-ethics.md)

@@ -230,9 +230,3 @@ It is the cleansing of a lifetime the Prophet promised that an accepted Hajj ret
 - Arafah is the most important day make dua with complete presence and sincerity.
 - The stoning of the Jamarat is the symbolic rejection of Shaytan not a ritual of anger but of renewal.
 - An accepted Hajj (_Hajj Mabrur_) has no reward except Paradise.
-
----
-
-## Next Chapter
-
-**Continue to:** [The Spiritual Meaning of Hajj Rituals](hajj-spiritual.md)

@@ -53,9 +53,3 @@ Eid is not merely a reward for fasting it is the celebration of _Taqwa_ achieved
 - Give gifts, especially to children
 - Feed the poor and include them in the celebration
 - Express gratitude to Allah with joy not guilt about the month ending
-
----
-
-## Next Chapter
-
-**Continue to:** [Introduction The Sacred Journey](hajj-umrah/introduction.md)

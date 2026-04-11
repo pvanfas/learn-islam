@@ -54,9 +54,3 @@ _"Seek treatment for Allah has not created a disease without creating a cure."_
 **For medical need or defect correction:** Generally permitted.
 
 **For pure vanity:** More controversial scholars differ, with many holding it is disliked or prohibited when it involves changing Allah's natural creation without medical necessity.
-
----
-
-## Next Chapter
-
-**Continue to:** [Part 9 Islamic Dress & Appearance](../part-09-dress/README.md)

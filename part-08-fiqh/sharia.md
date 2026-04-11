@@ -199,9 +199,3 @@ Yes most of Sharia applies regardless of where you live. The personal dimensions
 Sharia is the divine law as revealed by Allah eternal, perfect, and unchanging. Fiqh is human jurisprudence the scholars' understanding and derivation of specific rulings from that divine law. Fiqh is fallible, diverse (hence four Sunni madhabs), and may evolve as contexts change. The distinction matters: when scholars disagree on a ruling, they are disagreeing about Fiqh (human interpretation) not about Sharia (divine will) itself.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [The Four Major Sunni Madhabs](madhabs.md)

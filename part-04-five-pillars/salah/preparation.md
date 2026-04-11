@@ -253,9 +253,3 @@ Yes. Wudu remains valid until something breaks it not until you complete a praye
 Yes. Any substance that creates a barrier preventing water from reaching the skin like nail polish or waterproof foundation on areas that must be washed invalidates Wudu for those areas. The water must reach the skin directly. Breathable nail polishes are a contemporary scholarly debate the majority of traditional scholars still require removal for Wudu to be valid.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Prayer Times Fajr to Isha](prayer-times.md)

@@ -132,9 +132,3 @@ The Quran itself commands reflection on the natural world as a form of worship m
 - The Quran-as-plagiarism claim fails: the Prophet was illiterate, the Quran differs significantly from Biblical accounts, and its literary quality cannot be explained by access to oral traditions.
 - "Violent verses" in the Quran must be read in context the most cited ones were specific to historical military situations and are surrounded by verses of mercy and specific protections.
 - Islamic civilization's Golden Age of science disproves the anti-science charge the Quran itself commands reflection on the natural world.
-
----
-
-## Next Chapter
-
-**Continue to:** [Social and Ethical Criticisms](social-ethical.md)

@@ -217,9 +217,3 @@ This is a nuanced area with scholarly disagreement. Most contemporary mainstream
 This is the greatest challenge of Muslim minority parenting. Practical responses: enroll them in Islamic Sunday school or full-time Islamic school if available. Create a strong Islamic home environment prayers together, Quran together, halal entertainment. Connect them with Muslim peer groups and youth programs. Discuss Islamic identity openly and positively not defensively. Model Islamic living yourself. And make dua for their guidance ultimately, hidayah (guidance) is Allah's gift.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Part 18 Advanced Studies](../part-18-advanced-studies/README.md)

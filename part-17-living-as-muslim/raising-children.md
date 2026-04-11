@@ -208,9 +208,3 @@ This is one of the most painful experiences for Muslim parents and it requires w
 There is no set requirement. Memorization should be encouraged but not forced to the point of trauma. Children who are pushed too hard often develop aversion to the Quran. A child who loves the Quran and memorizes 20 Surahs joyfully is in a better position than one who memorized the entire Quran under pressure and now associates it with stress. Start small, be consistent, celebrate every achievement.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Community and Social Life](community.md)

@@ -149,9 +149,3 @@ All three are within Ahlus Sunnah and represent legitimate scholarly traditions 
 The Mu'tazilah were a rationalist theological school that gave precedence to reason over revelation in several key areas including the claim that the Quran was created (not uncreated) and the denial of certain of Allah's attributes. These positions were rejected by the majority of scholars and are considered outside Ahlus Sunnah. The Mu'tazilah as an active school declined by the 10th century after the failure of the Mihna (Inquisition), though some of their ideas influenced later Islamic philosophy.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [The Major Sects Historical Context](major-sects.md)

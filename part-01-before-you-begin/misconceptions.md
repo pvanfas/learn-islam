@@ -234,10 +234,4 @@ Yes and so does the Bible and the Torah. Every scripture contains verses about w
 
 </details>
 
----
-
-## Next Chapter
-
-**Continue to:** [Islam's Relationship with Other Faiths](islam-and-other-faiths.md)
-
 **Or jump ahead to:** [The Foundations of Belief](../part-02-aqeedah/README.md)

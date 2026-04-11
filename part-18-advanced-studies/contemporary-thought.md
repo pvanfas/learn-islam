@@ -175,9 +175,3 @@ Contemporary Islamic thought continues to wrestle with:
 - Three main responses: revivalism (return to pure sources), reform (reinterpretation within Islamic framework), and modernism (substantial reinterpretation).
 - Key figures: Shah Waliullah (synthesis), Ibn Abd al-Wahhab (strict revivalism), al-Afghani (Pan-Islamism), Abduh (rationalist reform), Iqbal (poet-philosopher), al-Banna (political organizing), Maududi (systematic political Islam), Qutb (jihadist ideology largely rejected), Qaradawi (fiqh of minorities).
 - The debates continue on governance, gender, pluralism, and methodology and are features of a living tradition, not signs of failure.
-
----
-
-## Next Chapter
-
-**Continue to:** [Advanced Tafsir Studies](advanced-tafsir.md)

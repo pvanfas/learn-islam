@@ -220,9 +220,3 @@ Loving the Prophet deeply is part of Iman (faith) the Prophet said he must be mo
 | _Kitab al-Tawhid_ by Muhammad ibn Abd al-Wahhab   | Book      | Intermediate |
 | _Sharh al-Aqeedah al-Wasitiyyah_ by Ibn Taymiyyah | Classical | Advanced     |
 | _The Fundamentals of Tawhid_ by Bilal Philips     | Book      | Beginner     |
-
----
-
-## Next Chapter
-
-**Continue to:** [The 99 Names of Allah](99-names.md)

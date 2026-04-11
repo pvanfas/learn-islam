@@ -126,9 +126,3 @@ Acknowledge any internal scholarly disagreement honestly, while presenting the m
 | -------------- | -------------- | ----- |
 | [Book/article] | [Scholar name] |       |
 | [Book/article] | [Scholar name] |       |
-
----
-
-## Next Chapter
-
-**Continue to:** [Next Criticism or Chapter](link.md)

@@ -213,9 +213,3 @@ If the pan was washed properly such that no impurity remains the food cooked in 
 The majority of classical scholars hold that kosher meat is halal based on the Quranic verse permitting the food of Ahl al-Kitab (Surah Al-Ma'idah 5:5). Both kosher and halal slaughter require cutting the throat and draining blood. The key difference is that kosher may not require saying Bismillah in the same way. Many contemporary scholars maintain that kosher is acceptable when halal is genuinely unavailable; some are more cautious. This remains a valid area of scholarly difference.
 
 </details>
-
----
-
-## Next Chapter
-
-**Continue to:** [Family Law Marriage, Divorce & Inheritance](family-law.md)
