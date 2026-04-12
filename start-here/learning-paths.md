@@ -18,8 +18,6 @@ _You want to understand Islam properly. You have questions. Maybe skepticism. Th
 6. [Criticism & Arguments With Honest Responses](../part-11-criticism/README.md)
 7. [Famous Reverts to Islam](../part-14-famous-reverts/README.md)
 
-**Estimated time:** 812 hours of reading
-
 ---
 
 ## Path 2 - The New Muslim
@@ -36,8 +34,6 @@ _You've taken your Shahada or are very close. You need the basics belief, prayer
 6. [Islamic Manners (Adab) in Daily Life](../part-17-living-as-muslim/adab.md)
 7. [Ramadan What You Need to Know](../part-04-five-pillars/sawm/ramadan.md)
 8. [Zakat Who Must Pay and How](../part-04-five-pillars/zakat/understanding-zakat.md)
-
-**Estimated time:** 58 hours of reading
 
 ---
 
@@ -56,8 +52,6 @@ _You know the basics. Now you want depth theology, Hadith, Fiqh, history, and cl
 7. [Ibn Khaldun & the Philosophy of History](../part-18-advanced-studies/ibn-khaldun.md)
 8. [Contemporary Islamic Thought](../part-18-advanced-studies/contemporary-thought.md)
 
-**Estimated time:** 2030 hours of reading
-
 ---
 
 ## Path 4 - Preparing for Umrah or Hajj
@@ -73,8 +67,6 @@ _You're going to Makkah and want to be fully prepared spiritually and practicall
 5. [Hajj Rituals Day by Day](../part-04-five-pillars/hajj-umrah/hajj-rituals.md)
 6. [The Spiritual Meaning of Each Ritual](../part-04-five-pillars/hajj-umrah/hajj-spiritual.md)
 7. [Visiting Al-Madinah al-Munawwarah](../part-04-five-pillars/hajj-umrah/madinah.md)
-
-**Estimated time:** 46 hours of reading
 
 ---
 
@@ -92,8 +84,6 @@ _You want to understand Islamic eschatology the signs, the major events, and the
 6. [The Mahdi](../part-15-signs-last-days/mahdi.md)
 7. [The Descent of Isa (Jesus AS)](../part-15-signs-last-days/descent-of-isa.md)
 8. [The Day of Judgement Step by Step](../part-15-signs-last-days/day-of-judgement.md)
-
-**Estimated time:** 57 hours of reading
 
 ---
 

@@ -12,7 +12,7 @@
 
 ## Why Misconceptions Matter
 
-When a religion has 1.9 billion followers across every continent, culture, and language, generalizations are inevitable and almost always wrong. The misconceptions below are not dismissed casually. Each one is addressed with historical evidence, Quranic verses, and reasoning, so that the reader can evaluate the answer, not just accept it.
+When a religion has 1.9 billion followers worldwide, across many cultures and languages, broad generalizations are almost always inaccurate. The misconceptions below are not dismissed casually. Each one is addressed with historical evidence, Quranic verses, and reasoning, so that the reader can evaluate the answer, not just accept it.
 
 {% hint style="tip" %}
 **Approach:** Islam's own tradition values honest questioning. The Quran repeatedly invites people to think, reflect, and examine evidence. _"Do they not reflect?"_ appears multiple times. Questioning is not the problem inaccurate answers are.
@@ -20,7 +20,7 @@ When a religion has 1.9 billion followers across every continent, culture, and l
 
 ---
 
-## Misconception 1 "Islam Was Spread by the Sword"
+## Misconception 1: "Islam Was Spread by the Sword"
 
 This is perhaps the most common accusation against Islam that it spread through forced conversion at sword-point.
 
@@ -38,7 +38,7 @@ _لَا إِكْرَاهَ فِي الدِّينِ_
 _This verse was revealed in Madinah at the height of the Prophet's political and military power. If forced conversion was the goal, this was the moment to enforce it. Instead, the opposite was declared._
 {% endhint %}
 
-**Historical reality:** Islam spread most rapidly through trade, scholarship, and the character of Muslim merchants and Sufis not through armies. Indonesia is the world's largest Muslim-majority country. No Muslim army ever invaded it. Islam arrived through Indian Ocean trade routes, carried by merchants whose honesty and integrity impressed local populations. The same is true of much of sub-Saharan Africa, Malaysia, and China.
+**Historical reality:** Islam spread most rapidly through trade, scholarship, and the character of Muslim merchants, not through armies. Indonesia is the world's largest Muslim-majority country. No Muslim army ever invaded it. Islam arrived through Indian Ocean trade routes, carried by merchants whose honesty and integrity impressed local populations. The same is true of much of sub-Saharan Africa, Malaysia, and China.
 
 **What actually happened during conquests:** When Muslim armies did conquer territories such as Egypt, Persia, and Spain non-Muslim populations were **not** forced to convert. They were given protected status (_Dhimmi_) and allowed to practice their religion, own property, and maintain their communities. The Coptic Christians of Egypt remained a significant population for centuries under Muslim rule. Jews expelled from Spain in 1492 by the Catholic Inquisition were _welcomed_ into the Ottoman Empire.
 
@@ -50,7 +50,7 @@ _This verse was revealed in Madinah at the height of the Prophet's political and
 
 ---
 
-## Misconception 2 "Islam Oppresses Women"
+## Misconception 2: "Islam Oppresses Women"
 
 This claim is widespread in Western discourse and requires a careful, honest response.
 
@@ -89,7 +89,7 @@ Khadijah (RA), the Prophet's first wife, was a successful businesswoman and merc
 
 ---
 
-## Misconception 3 "Muslims Worship Muhammad "
+## Misconception 3: "Muslims Worship Muhammad "
 
 This misconception is understandable, given how deeply Muslims revere the Prophet but it is incorrect.
 
@@ -109,7 +109,7 @@ Muslims send blessings upon the Prophet (_Salawat_), love him deeply, and follow
 
 ---
 
-## Misconception 4 "Allah Is a Different God"
+## Misconception 4: "Allah Is a Different God"
 
 Allah (اللّٰه) is simply the **Arabic word for God** the same God of Abraham, Moses, and Jesus. It is not a different deity.
 
@@ -119,7 +119,7 @@ The difference between Islam and other Abrahamic faiths is not _who_ God is, but
 
 ---
 
-## Misconception 5 "Jihad Means Holy War"
+## Misconception 5: "Jihad Means Holy War"
 
 The Arabic word **Jihad** (جِهَاد) means _struggle_ or _striving_. It does not mean "holy war" that phrase does not exist in Arabic Islamic literature.
 
@@ -139,7 +139,7 @@ Armed Jihad in Islamic law has strict conditions: it must be declared by legitim
 
 ---
 
-## Misconception 6 "Islam Is an Arab Religion"
+## Misconception 6: "Islam Is an Arab Religion"
 
 **Only about 20% of the world's Muslims are Arab.** The largest Muslim populations are in:
 
@@ -165,7 +165,7 @@ The Prophet said in his Farewell Sermon: _"An Arab has no superiority over a non
 
 ---
 
-## Misconception 7 "Islam Is a Religion of Violence and Terrorism"
+## Misconception 7: "Islam Is a Religion of Violence and Terrorism"
 
 **The statistical reality:** 1.9 billion Muslims live, work, raise families, pay taxes, and contribute to their communities every day without violence. Terrorist groups that claim Islamic justification represent a fraction of a fraction of the global Muslim population, and are condemned by mainstream Islamic scholarship worldwide.
 
@@ -181,7 +181,7 @@ Attributing terrorism to Islam based on the actions of a small extremist minorit
 
 ---
 
-## Misconception 8 "All Muslims Are the Same"
+## Misconception 8: "All Muslims Are the Same"
 
 1.9 billion people spanning over 50 countries, hundreds of languages, and dozens of ethnic backgrounds cannot be reduced to a single profile. A Bosnian Muslim, a Nigerian Muslim, a Chinese Muslim, an American Muslim, and a Pakistani Muslim may share core beliefs Tawhid, the Quran, the Five Pillars while differing significantly in culture, practice, dress, language, and even some jurisprudential positions.
 
@@ -233,5 +233,3 @@ There is often a significant gap between what Islam teaches and what cultural or
 Yes and so does the Bible and the Torah. Every scripture contains verses about warfare. The relevant question is: what is the context, and how is it applied? Quranic verses about fighting were revealed in specific military contexts during the Prophet's lifetime and have specific rules of application. They cannot be lifted out of context and applied universally this is the error that extremists make, and which mainstream Islamic scholarship explicitly corrects.
 
 </details>
-
-**Or jump ahead to:** [The Foundations of Belief](../part-02-aqeedah/README.md)

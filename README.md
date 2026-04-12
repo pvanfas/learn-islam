@@ -4,7 +4,7 @@
 
 ---
 
-## Assalamu Alaikum Welcome
+## Assalamu Alaikum
 
 This guide is a free, open, and comprehensive resource for anyone who wants to understand Islam whether you are a complete newcomer, a new Muslim finding your footing, or a lifelong Muslim seeking deeper knowledge.
 
@@ -42,7 +42,7 @@ This guide is divided into **18 Parts** that flow from beginner to advanced:
 
 | Level            | Parts       | Focus                                                  |
 | ---------------- | ----------- | ------------------------------------------------------ |
-| **Beginner**     | Parts 14    | What Islam is, core beliefs, the five pillars          |
+| **Beginner**     | Parts 1-4   | What Islam is, core beliefs, the five pillars          |
 | **Intermediate** | Parts 5-11  | Quran, Seerah, Hadith, Fiqh, dress, bid'ah, criticism  |
 | **Applied**      | Parts 12-17 | How Islam spread, reverts, last days, living as Muslim |
 | **Advanced**     | Part 18     | Theology, philosophy, jurisprudence, Islamic thought   |
