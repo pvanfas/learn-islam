@@ -110,7 +110,7 @@ Understanding what Ahlus Sunnah is requires understanding what it is not:
 | **Shi'a Muslims**         | Hold that Ali (RA) was the rightful first caliph; have different hadith collections and theological principles; venerate the Imams in ways Ahlus Sunnah does not accept |
 | **Kharijites / Takfiris** | Extreme position that major sinners leave Islam; tendency to declare other Muslims as disbelievers; ancestors of modern extremist groups                                |
 | **Mu'tazilites**          | Gave reason precedence over revelation; denied Allah's attributes as described in Quran                                                                                 |
-| **Qadianis / Ahmadiyya**  | Believe in a prophet after Muhammad rejected by consensus as outside Islam                                                                                              |
+| **Qadianis / Ahmadiyya**  | Believe in a prophet after Muhammad, rejected by consensus as outside Islam                                                                                             |
 | **Ismailis / Seveners**   | A branch of Shi'a Islam with esoteric interpretations                                                                                                                   |
 
 {% hint style="warning" %}

@@ -71,7 +71,7 @@ The Prophet said: _"The angels were created from light, the jinn were created fr
 
 ## Key Angels and Their Roles
 
-### 1. Jibreel (Gabriel AS) _The Angel of Revelation_
+### 1. Jibreel (Gabriel AS): _The Angel of Revelation_
 
 Jibreel is the greatest of all angels. His primary role is to deliver revelation from Allah to the prophets. He appeared to Maryam (Mary) to announce the birth of Isa (Jesus AS), and he delivered the entire Quran to the Prophet Muhammad over 23 years.
 
@@ -87,19 +87,19 @@ The Prophet described seeing him in his true form with **600 wings** that spanne
 
 ---
 
-### 2. Mikail (Michael AS) _The Angel of Provision and Rain_
+### 2. Mikail (Michael AS): _The Angel of Provision and Rain_
 
 Mikail is responsible for the rain, the sustenance of creation, and natural phenomena. Under Allah's command, he oversees the distribution of rizq (provision) the food, rain, and resources of the world.
 
 ---
 
-### 3. Israfil _The Angel of the Trumpet_
+### 3. Israfil: _The Angel of the Trumpet_
 
 Israfil holds the Trumpet (_Sur_) to his lips, waiting for the command from Allah to blow it which will signal the end of the world, then the beginning of the resurrection. The Prophet said: _"How can I be at ease when the angel of the Trumpet has put the Trumpet to his lips and is waiting for the command to blow?"_ (Tirmidhi)
 
 ---
 
-### 4. Izraeel _The Angel of Death (Malak al-Mawt)_
+### 4. Izraeel: _The Angel of Death (Malak al-Mawt)_
 
 The Angel of Death takes every soul at its appointed time no soul departs before or after its fixed moment. He has assistants who help in the collection of souls.
 
@@ -111,13 +111,13 @@ The Angel of Death takes every soul at its appointed time no soul departs before
 
 ---
 
-### 5. Munkar and Nakir _The Angels of the Grave_
+### 5. Munkar and Nakir: _The Angels of the Grave_
 
 These two angels question every soul in the grave after burial, asking about their Lord, their religion, and their prophet. Their questioning is the first test a soul faces after death. (See [Belief in the Day of Judgement](day-of-judgement.md) for full detail.)
 
 ---
 
-### 6. Kiraman Katibin _The Noble Recording Angels_
+### 6. Kiraman Katibin: _The Noble Recording Angels_
 
 Every human being is accompanied by two angels one on the right, one on the left who record every deed, word, and intention.
 
@@ -131,7 +131,7 @@ The angel on the right records good deeds. The angel on the left records bad dee
 
 ---
 
-### 7. Ridwan _The Keeper of Paradise_
+### 7. Ridwan: _The Keeper of Paradise_
 
 Ridwan is the angel entrusted with Jannah (Paradise) and its gates. When the believers approach Paradise, they will be welcomed by its keepers:
 
@@ -143,13 +143,13 @@ Ridwan is the angel entrusted with Jannah (Paradise) and its gates. When the bel
 
 ---
 
-### 8. Malik _The Keeper of Hell_
+### 8. Malik: _The Keeper of Hell_
 
 Malik is the fierce angel in charge of Jahannam (Hell). The Quran mentions that the inhabitants of Hell will call out to him, asking him to intercede to Allah to end their punishment. He will reply that they will remain.
 
 ---
 
-### 9. The Bearers of the Throne (_Hamalat al-Arsh_)
+### 9. The Bearers of the Throne: (_Hamalat al-Arsh_)
 
 Eight mighty angels bear the Throne of Allah (_Al-Arsh_). Their greatness is incomprehensible the Prophet said the distance between one of their earlobes and their shoulder is a journey of 700 years.
 
@@ -218,6 +218,6 @@ The Quran and Sunnah do not describe angels as human-looking with white bird win
 
 <summary>Can angels be seen by human beings?</summary>
 
-Angels can appear in human form when Allah wills. Jibreel appeared to the Prophet in human form on multiple occasions most famously as a man in white clothing in the Hadith of Jibreel. He also appeared to Maryam (AS) in human form. Regular humans do not see angels in their true form the Prophet saw Jibreel in his true angelic form only twice.
+Angels can appear in human form when Allah wills. Jibreel appeared to the Prophet in human form on multiple occasions most famously as a man in white clothing in the Hadith of Jibreel. He also appeared to Maryam (AS) in human form. Regular humans do not see angels in their true form. The Prophet saw Jibreel in his true angelic form only twice.
 
 </details>

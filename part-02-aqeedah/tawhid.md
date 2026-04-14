@@ -150,11 +150,11 @@ _This single verse establishes both uniqueness (nothing is like Him) and affirma
 
 Shirk takes different forms:
 
-| Type             | Description                                                                                  | Example                                                                    |
-| ---------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| **Major Shirk**  | Directing acts of worship to other than Allah                                                | Praying to, vowing to, or asking a dead saint for what only Allah can give |
-| **Minor Shirk**  | Acts that approach Shirk without being full worship of another                               | Showing off in worship (_Riya_) doing good deeds for people to see         |
-| **Hidden Shirk** | The subtlest love of praise, fear of people, reliance on means without remembering the Giver |
+| Type             | Description                                                                                  | Example                                                                                       |
+| ---------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Major Shirk**  | Directing acts of worship to other than Allah                                                | Praying to, vowing to, or asking a dead saint for what only Allah can give                    |
+| **Minor Shirk**  | Acts that approach Shirk without being full worship of another                               | Showing off in worship (_Riya_) doing good deeds for people to see                            |
+| **Hidden Shirk** | The subtlest love of praise, fear of people, reliance on means without remembering the Giver | Feeling happy when others notice your worship, or fearing people's opinions more than Allah's |
 
 ---
 

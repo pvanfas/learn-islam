@@ -55,7 +55,7 @@ Beyond these four, the Quran indicates that Ibrahim (AS) received revealed pages
 
 ### 1. They Were Originally from Allah
 
-Muslims believe that the Torah given to Musa (AS), the Psalms given to Dawud (AS), and the Gospel given to Isa (AS) were genuine divine revelations the word of Allah in their original form. They contained guidance, law, and truth.
+Muslims believe that the Torah given to Musa (AS), the Psalms given to Dawud (AS), and the Gospel given to Isa (AS) were genuine divine revelations, the word of Allah in their original form. They contained guidance, law, and truth.
 
 {% hint style="info" %}
 **Surah Al-Ma'idah 5:44**
@@ -163,6 +163,6 @@ No. The _Injil_ (Gospel) referred to in the Quran is the original revelation giv
 
 <summary>If the earlier scriptures were altered, does that mean the God of the Bible is different from Allah?</summary>
 
-No. The God described in the earlier scriptures even in their current form is recognizably the same God: the Creator of the heavens and the earth, the God of Abraham, Isaac, and Jacob, the God who spoke to Moses. The theological differences the Trinity, the divinity of Jesus, the sonship of God are, in the Islamic understanding, later human additions to the revelation, not original teachings of the earlier prophets.
+No. The God described in the earlier scriptures even in their current form is recognizably the same God: the Creator of the heavens and the earth, the God of Abraham, Isaac, and Jacob, the God who spoke to Moses. In the Islamic understanding, theological concepts such as the Trinity, the divinity of Jesus, and the sonship of God are considered later human additions to the revelation, not original teachings of the earlier prophets.
 
 </details>

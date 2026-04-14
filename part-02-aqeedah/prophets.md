@@ -67,12 +67,12 @@ Islamic theology defines four essential qualities of every prophet:
 
 And two things are impossible for any prophet:
 
-| Impossible Quality | Meaning                                      |
-| ------------------ | -------------------------------------------- |
-| **Lying**          | Kidhb a prophet cannot lie                   |
-| **Treachery**      | Khiyanah a prophet cannot betray his mission |
+| Impossible Quality | Meaning                                        |
+| ------------------ | ---------------------------------------------- |
+| **Lying**          | Kidhb - a prophet cannot lie                   |
+| **Treachery**      | Khiyanah - a prophet cannot betray his mission |
 
-**Ismah (Prophetic Protection):** Prophets are protected by Allah from committing major sins that would undermine their credibility as His representatives. This does not mean they never made human mistakes the Quran honestly records moments where prophets were corrected by Allah. But they were protected from acts of moral corruption.
+**Ismah (Prophetic Protection):** Prophets are protected by Allah from committing major sins that would undermine their credibility as His representatives. This does not mean they never made human mistakes. the Quran honestly records moments where prophets were corrected by Allah. But they were protected from acts of moral corruption.
 
 ---
 
