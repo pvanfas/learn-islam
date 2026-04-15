@@ -16,7 +16,7 @@ There are no prerequisites. You do not need to know Arabic. You do not need to k
 
 {% tabs %}
 {% tab title=" The Curious Non-Muslim" %}
-You've heard about Islam and want to understand it properly not from headlines, but from the source. This guide will walk you through what Muslims actually believe, why they practice what they practice, and answer the hard questions honestly.
+You've heard about Islam and want to understand it properly, not from headlines, but from the source. This guide will walk you through what Muslims actually believe, why they practice what they practice, and answer the hard questions honestly.
 
 **Start here →** [What Is Islam? A First Look](part-01-before-you-begin/what-is-islam.md)
 {% endtab %}

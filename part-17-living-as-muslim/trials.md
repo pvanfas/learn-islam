@@ -12,15 +12,15 @@
 
 ## Key Arabic Terms
 
-| Arabic       | Transliteration | Meaning                                                           |
-| ------------ | --------------- | ----------------------------------------------------------------- |
+| Arabic       | Transliteration | Meaning                                                            |
+| ------------ | --------------- | ------------------------------------------------------------------ |
 | صَبْر        | Sabr            | Patient perseverance: not passive resignation but active endurance |
 | شُكْر        | Shukr           | Gratitude: active recognition and use of Allah's blessings         |
-| بَلَاء       | Bala'           | Trial, tribulation, calamity                                      |
-| مُصِيبَة     | Musibah         | A calamity or affliction                                          |
-| إِسْتِرْجَاع | Istirja'        | The act of saying _"Inna lillahi wa inna ilayhi raji'un"_         |
-| رِضَا        | Rida            | Contentment with Allah's decree                                   |
-| تَوَكُّل     | Tawakkul        | Complete reliance on Allah after taking means                     |
+| بَلَاء       | Bala'           | Trial, tribulation, calamity                                       |
+| مُصِيبَة     | Musibah         | A calamity or affliction                                           |
+| إِسْتِرْجَاع | Istirja'        | The act of saying _"Inna lillahi wa inna ilayhi raji'un"_          |
+| رِضَا        | Rida            | Contentment with Allah's decree                                    |
+| تَوَكُّل     | Tawakkul        | Complete reliance on Allah after taking means                      |
 | كَفَّارَة    | Kaffarah        | Expiation: trials expiate sins                                     |
 
 ---
@@ -39,7 +39,7 @@ The Quran does not promise the believer a comfortable life. It promises somethin
 
 ## What Is Sabr?
 
-The Arabic word **Sabr** is often translated as "patience" but it is far richer than the English word suggests. _Sabr_ comes from a root meaning to bind, to tie, to contain. It is the act of **holding yourself together** when everything in you wants to collapse and doing so consciously, willingly, for the sake of Allah.
+The Arabic word **Sabr** is often translated as "patience," but it is far richer than the English word suggests. _Sabr_ comes from a root meaning to bind, to tie, to contain. It is the act of **holding yourself together** when everything in you wants to collapse and doing so consciously, willingly, for the sake of Allah.
 
 Islamic scholars have described Sabr as having three dimensions:
 
@@ -155,7 +155,7 @@ _اللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي وَأَخ�
 _(Sahih Muslim Umm Salamah (RA) said she said this dua when her husband Abu Salamah died. She said: 'What could be better than Abu Salamah?' then Allah gave her the Prophet in marriage.)_
 {% endhint %}
 
-This is not a passive resignation. It is a powerful theological statement: _Everything is Allah's. Everything returns to Allah. Therefore nothing is truly lost it has only returned._
+This is not a passive resignation. It is a powerful theological statement: _Everything is Allah's. Everything returns to Allah. Therefore, nothing is truly lost; it has only returned._
 
 ---
 

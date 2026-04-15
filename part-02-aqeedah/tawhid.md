@@ -12,14 +12,14 @@
 
 ## Key Arabic Terms
 
-| Arabic            | Transliteration | Meaning                                              |
-| ----------------- | --------------- | ---------------------------------------------------- |
+| Arabic            | Transliteration | Meaning                                               |
+| ----------------- | --------------- | ----------------------------------------------------- |
 | تَوْحِيد          | Tawhid          | The Oneness of God: monotheism                        |
 | شِرْك             | Shirk           | Associating partners with God: the opposite of Tawhid |
 | رُبُوبِيَّة       | Rububiyyah      | Lordship: God as Creator, Sustainer, Controller       |
 | أُلُوهِيَّة       | Uluhiyyah       | Divinity: God alone deserves worship                  |
-| أَسْمَاء وَصِفَات | Asma wa Sifat   | Names and Attributes of God                          |
-| مُوَحِّد          | Muwahhid        | One who affirms Tawhid                               |
+| أَسْمَاء وَصِفَات | Asma wa Sifat   | Names and Attributes of God                           |
+| مُوَحِّد          | Muwahhid        | One who affirms Tawhid                                |
 
 ---
 
@@ -41,7 +41,7 @@ _The Prophet said this Surah is equal to one-third of the Quran in value because
 
 ## What Is Tawhid?
 
-The Arabic word **Tawhid** (تَوْحِيد) comes from the root _wahhada_ meaning to make something one, to unify, to declare something singular. In Islamic theology, it refers to the absolute, uncompromising **Oneness of God** in every dimension.
+The Arabic word **Tawhid** (تَوْحِيد) comes from the root _wahhada_, meaning to make something one, to unify, to declare something singular. In Islamic theology, it refers to the absolute, uncompromising **Oneness of God** in every dimension.
 
 This is not merely saying "I believe there is one God" as a checkbox. Tawhid is a living conviction that reshapes how you understand:
 
@@ -150,11 +150,11 @@ _This single verse establishes both uniqueness (nothing is like Him) and affirma
 
 Shirk takes different forms:
 
-| Type             | Description                                                                                  | Example                                                                                       |
-| ---------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| **Major Shirk**  | Directing acts of worship to other than Allah                                                | Praying to, vowing to, or asking a dead saint for what only Allah can give                    |
-| **Minor Shirk**  | Acts that approach Shirk without being full worship of another                               | Showing off in worship (_Riya_): doing good deeds for people to see                            |
-| **Hidden Shirk** | The subtlest: love of praise, fear of people, reliance on means without remembering the Giver | Feeling happy when others notice your worship, or fearing people's opinions more than Allah's | |
+| Type             | Description                                                                                   | Example                                                                                       |
+| ---------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --- |
+| **Major Shirk**  | Directing acts of worship to other than Allah                                                 | Praying to, vowing to, or asking a dead saint for what only Allah can give                    |
+| **Minor Shirk**  | Acts that approach Shirk without being full worship of another                                | Showing off in worship (_Riya_): doing good deeds for people to see                           |
+| **Hidden Shirk** | The subtlest: love of praise, fear of people, reliance on means without remembering the Giver | Feeling happy when others notice your worship, or fearing people's opinions more than Allah's |     |
 
 ---
 

@@ -6,9 +6,9 @@ Difficulty: Advanced | Part: Part 11 Criticism and Responses
 
 ## What Is Orientalism?
 
-Edward Said's landmark work "Orientalism" (1978) analyzed the Western academic tradition of studying the "East" including Islam and argued that this tradition was shaped by colonial power dynamics, producing a distorted, condescending picture of Muslim civilizations as static, irrational, and inherently inferior.
+Edward Said's landmark work "Orientalism" (1978) analyzed the Western academic tradition of studying the "East," including Islam, and argued that this tradition was shaped by colonial power dynamics, producing a distorted, condescending picture of Muslim civilizations as static, irrational, and inherently inferior.
 
-Said's critique was not that Western scholarship on Islam is entirely wrong it is that the framework within which it operates has been systematically biased.
+Said's critique was not that Western scholarship on Islam is entirely wrong; it is that the framework within which it operates has been systematically biased.
 
 ---
 
@@ -32,7 +32,7 @@ Contemporary scholars like Karen Armstrong, Reza Aslan, and John Esposito have w
 
 **The colonial framing.** Much classical Orientalist scholarship was produced in the context of European colonial administration of Muslim territories creating structural incentives to portray Islamic civilization as backward and requiring Western governance.
 
-**The insider-outsider problem.** Scholars studying Islam from outside the tradition frequently miss dimensions of meaning that are only accessible through practice and lived faith. This is not unique to Islamic studies but it is particularly acute given the spiritual and experiential dimensions of Islamic practice.
+**The insider-outsider problem.** Scholars studying Islam from outside the tradition frequently miss dimensions of meaning that are only accessible through practice and lived faith. This is not unique to Islamic studies, but it is particularly acute given the spiritual and experiential dimensions of Islamic practice.
 
 **The selective evidence problem.** Critics of Islam in the Western academic and popular tradition have frequently selected the most extreme or atypical examples to characterize the whole.
 
