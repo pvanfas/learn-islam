@@ -1,6 +1,6 @@
 # Contemporary Islamic Thought Renewal, Reform, and Modernity
 
-**Difficulty:** Advanced &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 18 Advanced Studies
+**Difficulty:** Advanced &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 18: Advanced Studies
 
 ---
 

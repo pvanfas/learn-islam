@@ -1,6 +1,6 @@
 # Visiting Al-Madinah al-Munawwarah
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Hajj & Umrah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Hajj & Umrah
 
 ---
 

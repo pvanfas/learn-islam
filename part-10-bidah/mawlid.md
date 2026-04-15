@@ -1,6 +1,6 @@
 # The Mawlid Celebrating the Prophet's Birthday
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 10 Bid'ah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 10: Bid'ah
 
 ---
 

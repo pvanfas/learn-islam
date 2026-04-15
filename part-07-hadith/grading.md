@@ -1,6 +1,6 @@
 # Understanding Hadith Grades
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 7 Hadith Science
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 7: Hadith Science
 
 ---
 
@@ -57,9 +57,9 @@ Not all Hadith are equal. A Hadith attributed to the Prophet with an unbroken ch
 
 ## How to Know a Hadith's Grade
 
-1. **Check the collection** anything in Sahih al-Bukhari or Sahih Muslim is Sahih by scholarly consensus
-2. **Check the grading** major collections like Tirmidhi and Abu Dawud note the grade after the Hadith
-3. **Use Sunnah.com** shows collector's grading and often contemporary scholar's assessment
+1. **Check the collection:** anything in Sahih al-Bukhari or Sahih Muslim is Sahih by scholarly consensus
+2. **Check the grading:** major collections like Tirmidhi and Abu Dawud note the grade after the Hadith
+3. **Use Sunnah.com:** shows collector's grading and often contemporary scholar's assessment
 4. **Consult scholars** for important legal or theological questions
 
 ---

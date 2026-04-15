@@ -1,6 +1,6 @@
 # Special Prayers Jumu'ah, Tahajjud, Witr, Eid, Janazah & Istikhara
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Salah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Salah
 
 ---
 
@@ -33,17 +33,17 @@ The Prophet said: _"People must stop neglecting the Friday prayer or Allah will 
 The Prophet specified the following Sunnah for Friday:
 
 - **Ghusl (ritual bath)** on Friday morning highly recommended, close to obligatory
-- **Wearing clean, best clothes** Friday is a celebration
+- **Wearing clean, best clothes.** Friday is a celebration
 - **Using Siwak** (tooth-cleaning stick)
 - **Applying perfume** (for men)
-- **Going early to the mosque** the earlier you arrive, the greater the reward
+- **Going early to the mosque:** the earlier you arrive, the greater the reward
 - **Reciting Surah Al-Kahf** (before or after the prayer, within the Friday time window)
 - **Sending abundant Salawat** (blessings on the Prophet ) especially in the last hour before Maghrib
 
 ### The Structure of Jumu'ah
 
-1. **Two Khutbahs (sermons)** delivered by the Imam while standing, with a short sitting between them
-2. **Two Rak'ahs of congregational prayer** replacing Dhuhr
+1. **Two Khutbahs (sermons):** delivered by the Imam while standing, with a short sitting between them
+2. **Two Rak'ahs of congregational prayer:** replacing Dhuhr
 3. After the prayer: 2 or 4 Sunnah Rak'ahs (scholars differ)
 
 ### The Hour of Response
@@ -103,7 +103,7 @@ The Prophet said: _"Make Witr your last prayer of the night."_
 
 Witr is at minimum **1 Rak'ah**. The Prophet prayed 1, 3, 5, 7, 9, or 11 Rak'ahs at different times all are valid. The most common practice:
 
-- **3 Rak'ahs** either 2 then 1 (with separate Taslim), or all 3 together without sitting between the 2nd and 3rd
+- **3 Rak'ahs:** either 2 then 1 (with separate Taslim), or all 3 together without sitting between the 2nd and 3rd
 
 ### Dua al-Qunut in Witr
 
@@ -132,7 +132,7 @@ Eid prayer is **Wajib (obligatory)** according to Hanafi and Hanbali schools, an
 
 ### Structure of Eid Prayer
 
-- **2 Rak'ahs** prayed in congregation in the morning (after sunrise, before Dhuhr)
+- **2 Rak'ahs:** prayed in congregation in the morning (after sunrise, before Dhuhr)
 - **Extra Takbirat:** In the first Rak'ah: 7 extra Takbirat (after Takbirat al-Ihram before Al-Fatihah). In the second Rak'ah: 5 extra Takbirat (before Ruku')
 - **No Adhan or Iqamah** for Eid prayer
 - **Two Khutbahs** after the prayer (unlike Jumu'ah where they precede the prayer)

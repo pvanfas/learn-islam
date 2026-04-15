@@ -1,6 +1,6 @@
 # How Hadith Were Collected and Preserved
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 7 Hadith Science
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 7: Hadith Science
 
 ---
 

@@ -1,6 +1,6 @@
 # The Four Major Sunni Madhabs
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 8 Islamic Law
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 8: Islamic Law
 
 ---
 
@@ -39,8 +39,8 @@ The founding scholars of the four madhabs were not competitors they were colleag
 They differed because:
 
 1. **Not all hadith reached every scholar equally** some narrations were known to one scholar and not another
-2. **They weighted different types of evidence differently** Imam Malik gave great weight to the practice of Madinah's people; Imam Abu Hanifah gave particular weight to analogical reasoning
-3. **They applied different principles** when texts apparently conflicted
+2. **They weighted different types of evidence differently.** Imam Malik gave great weight to the practice of Madinah's people; Imam Abu Hanifah gave particular weight to analogical reasoning
+3. **They applied different principles:** when texts apparently conflicted
 4. **They served different communities** with different social contexts
 
 ---
@@ -96,8 +96,8 @@ The Maliki school uniquely emphasizes:
 
 The Maliki madhab is followed by approximately **25% of Sunni Muslims**:
 
-- **North Africa** Morocco, Algeria, Tunisia, Libya
-- **West Africa** Nigeria, Mali, Senegal, Guinea
+- **North Africa.** Morocco, Algeria, Tunisia, Libya
+- **West Africa.** Nigeria, Mali, Senegal, Guinea
 - **Sudan and parts of Egypt**
 - Historical presence in Muslim Spain (Al-Andalus)
 
@@ -119,7 +119,7 @@ He is also famous for changing his legal positions between his time in Iraq ("th
 
 The Shafi'i school emphasizes:
 
-- **Strict adherence to text** over opinion
+- **Strict adherence to text:** over opinion
 - **Systematic hierarchy** of evidence Quran, then Sunnah, then Ijma', then Qiyas
 - Highly organized legal categories and principles
 
@@ -128,9 +128,9 @@ The Shafi'i school emphasizes:
 The Shafi'i madhab is followed by approximately **15% of Sunni Muslims**:
 
 - **Southeast Asia** **Indonesia, Malaysia, Brunei** (the world's largest Muslim-majority region)
-- **East Africa** Somalia, Kenya, Tanzania
-- **Egypt** a significant portion
-- **Kurdish regions** Iraq and Syria
+- **East Africa.** Somalia, Kenya, Tanzania
+- **Egypt:** a significant portion
+- **Kurdish regions.** Iraq and Syria
 - **Parts of Yemen and Hijaz**
 
 ---
@@ -157,9 +157,9 @@ The Hanbali school is the most **text-literal** of the four madhabs:
 
 The Hanbali madhab is followed by approximately **510% of Sunni Muslims**:
 
-- **Saudi Arabia** official school since the modern state's founding
-- **Qatar, UAE, Bahrain** Gulf states
-- **Parts of Syria and Iraq** historically
+- **Saudi Arabia:** official school since the modern state's founding
+- **Qatar, UAE, Bahrain.** Gulf states
+- **Parts of Syria and Iraq:** historically
 
 Despite being the smallest school by followers, its influence in the modern world is disproportionate due to its adoption in Saudi Arabia and the resources that come with that.
 

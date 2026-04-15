@@ -1,6 +1,6 @@
 # Non-Muslim Historians and Thinkers on Muhammad
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 6 Seerah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 6: Seerah
 
 ---
 
@@ -126,10 +126,10 @@ The American psychoanalyst defined great leadership through three criteria: prov
 
 Across different eras, nationalities, religions, and purposes these thinkers converge on several observations:
 
-1. **The contrast between means and results** an orphan with no army, no wealth, no political position transformed a world
-2. **The integrity of the man** even hostile critics acknowledged his personal honesty, simplicity, and consistency
-3. **The universality of the message** Islam's appeal across cultures, races, and centuries without diminishing
-4. **The preservation of the text** the Quran's textual integrity acknowledged even by critics
+1. **The contrast between means and results:** an orphan with no army, no wealth, no political position transformed a world
+2. **The integrity of the man:** even hostile critics acknowledged his personal honesty, simplicity, and consistency
+3. **The universality of the message.** Islam's appeal across cultures, races, and centuries without diminishing
+4. **The preservation of the text:** the Quran's textual integrity acknowledged even by critics
 
 These are not Muslim hagiographies they are the honest assessments of people who studied the evidence and wrote what they found.
 

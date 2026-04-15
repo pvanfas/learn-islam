@@ -1,6 +1,6 @@
 # Reading Hadith Practical Examples
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 7 Hadith Science
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 7: Hadith Science
 
 ---
 

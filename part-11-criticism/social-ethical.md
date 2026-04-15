@@ -1,6 +1,6 @@
 # Social and Ethical Criticisms Detailed Responses
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 11 Criticism & Responses
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 11: Criticism & Responses
 
 ---
 
@@ -120,7 +120,7 @@ Islam did not abolish slavery and even regulated it, suggesting approval of the 
 2. **Made emancipation an act of worship:**
 
 - Freeing a slave is listed as the expiation for major sins (breaking an oath, accidental killing, etc.)
-- Freeing a slave is described as the path to salvation in (Surah Al-Balad 90:1213): _"And what can make you know what is the difficult path? It is the freeing of a slave."_
+- Freeing a slave is described as the path to salvation in (Surah Al-Balad 90:12-13): _"And what can make you know what is the difficult path? It is the freeing of a slave."_
 - The Prophet freed his own slaves, encouraged others to do so, and his close Companions freed thousands
 
 3. **The trajectory was toward abolition:**

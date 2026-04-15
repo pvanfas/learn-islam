@@ -14,9 +14,9 @@ Islam has been subjected to a wide range of criticisms historical, theological, 
 
 **Three commitments guide this part:**
 
-1. **State the criticism fairly** as a serious critic would make it, not as a strawman
-2. **Acknowledge genuine complexity** where a criticism has a valid point, say so
-3. **Present the Islamic response with evidence** Quran, Sunnah, history, reason
+1. **State the criticism fairly:** as a serious critic would make it, not as a strawman
+2. **Acknowledge genuine complexity:** where a criticism has a valid point, say so
+3. **Present the Islamic response with evidence.** Quran, Sunnah, history, reason
 
 ---
 

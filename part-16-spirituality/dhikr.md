@@ -1,6 +1,6 @@
 # Dhikr Remembrance of Allah
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 16 Islamic Spirituality
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 16: Islamic Spirituality
 
 ---
 
@@ -38,7 +38,7 @@ _This is one of the most frequently quoted verses in the Quran because it answer
 {% endhint %}
 
 {% hint style="info" %}
-**Surah Al-Ahzab 33:4142**
+**Surah Al-Ahzab 33:41-42**
 
 **Translation:** "O you who have believed, remember Allah with much remembrance and exalt Him morning and evening."
 {% endhint %}

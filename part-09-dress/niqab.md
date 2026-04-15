@@ -1,6 +1,6 @@
 # The Niqab Scholarly Positions
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 9 Islamic Dress
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 9: Islamic Dress
 
 ---
 

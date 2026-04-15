@@ -1,6 +1,6 @@
 # Hajj The Pilgrimage, Day by Day
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~16 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Hajj & Umrah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~16 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Hajj & Umrah
 
 ---
 

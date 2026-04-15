@@ -1,6 +1,6 @@
 # The Concept of Modesty (_Haya_) in Islam
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 9 Islamic Dress
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 9: Islamic Dress
 
 ---
 

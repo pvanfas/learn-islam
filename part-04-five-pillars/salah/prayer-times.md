@@ -1,6 +1,6 @@
 # Prayer Times Fajr to Isha
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Salah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Salah
 
 ---
 
@@ -135,7 +135,7 @@ _\*Hanafi: shadow = twice the object's height_
 
 The Prophet identified three times during which voluntary prayers (Nawafil) should not be prayed:
 
-1. **At sunrise** until the sun has fully risen and is the height of a spear above the horizon (approximately 20 minutes)
+1. **At sunrise:** until the sun has fully risen and is the height of a spear above the horizon (approximately 20 minutes)
 2. **When the sun is at its zenith** (exactly at midday) until it begins to decline
 3. **From Asr until sunset**
 

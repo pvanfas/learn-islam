@@ -1,6 +1,6 @@
 # Historical Criticisms of Islam With Responses
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 11 Criticism & Responses
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 11: Criticism & Responses
 
 ---
 

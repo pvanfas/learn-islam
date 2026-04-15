@@ -1,6 +1,6 @@
 # How Islam Spread Trade, Character, and Scholarship
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 12 How Islam Spread
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 12: How Islam Spread
 
 ---
 
@@ -41,10 +41,10 @@ _This verse establishes the universal scope of the mission from the beginning. I
 
 Islam's first 23 years were characterized by:
 
-- **Personal da'wah** the Prophet speaking directly to individuals, families, and tribes
-- **The power of character** his trustworthiness, justice, and compassion converted people before his arguments did
-- **Gradual political authority** the Hijrah to Madinah established a Muslim political community; the Constitution of Madinah created a pluralistic city-state with Muslims, Jews, and polytheists
-- **Peaceful treaties** the Treaty of Hudaybiyyah opened doors for da'wah across Arabia; within two years of its signing, more people entered Islam than in all the preceding years combined
+- **Personal da'wah:** the Prophet speaking directly to individuals, families, and tribes
+- **The power of character:** his trustworthiness, justice, and compassion converted people before his arguments did
+- **Gradual political authority:** the Hijrah to Madinah established a Muslim political community; the Constitution of Madinah created a pluralistic city-state with Muslims, Jews, and polytheists
+- **Peaceful treaties:** the Treaty of Hudaybiyyah opened doors for da'wah across Arabia; within two years of its signing, more people entered Islam than in all the preceding years combined
 
 By the time of the Prophet's death in 632 CE, the **entire Arabian Peninsula** had embraced Islam a transformation within a single generation that has no parallel in religious history.
 
@@ -70,8 +70,8 @@ After the Prophet's death, the Muslim community under Abu Bakr, Umar, Uthman, an
 The historical record shows a pattern very different from the "convert or die" caricature:
 
 - **Non-Muslims were not forced to convert.** Egypt's Coptic Christians, Persia's Zoroastrians, and Syria's Christians maintained their religions for centuries under Muslim rule.
-- **The Dhimmi system** gave non-Muslim subjects religious freedom, legal autonomy, property rights, and protection in exchange for _Jizyah_ (a tax also exempting them from military service, which Muslims paid through Zakat).
-- **Many populations welcomed Muslim rule** as preferable to Byzantine or Sassanid oppression. The Coptic Christians of Egypt, for instance, had been persecuted by Constantinople over theological disputes and opened their gates to the Muslim armies.
+- **The Dhimmi system:** gave non-Muslim subjects religious freedom, legal autonomy, property rights, and protection in exchange for _Jizyah_ (a tax also exempting them from military service, which Muslims paid through Zakat).
+- **Many populations welcomed Muslim rule:** as preferable to Byzantine or Sassanid oppression. The Coptic Christians of Egypt, for instance, had been persecuted by Constantinople over theological disputes and opened their gates to the Muslim armies.
 
 The Byzantine historian **Theophanes the Confessor**, writing decades after the Islamic conquest of Syria, noted that many Syrian Christians preferred Muslim to Byzantine rule.
 
@@ -127,10 +127,10 @@ Islam in Sub-Saharan Africa has been one of the fastest-growing religious moveme
 
 The growth is driven by:
 
-- **Islamic education networks** Quranic schools (_Madrasas_) that provide free or low-cost education
-- **Social welfare** Islamic organizations building hospitals, wells, and food programs
-- **Islamic business ethics** Muslim traders' reputation for honest commerce
-- **Personal da'wah** individual Muslims sharing Islam with neighbors, colleagues, and friends
+- **Islamic education networks.** Quranic schools (_Madrasas_) that provide free or low-cost education
+- **Social welfare.** Islamic organizations building hospitals, wells, and food programs
+- **Islamic business ethics.** Muslim traders' reputation for honest commerce
+- **Personal da'wah:** individual Muslims sharing Islam with neighbors, colleagues, and friends
 
 **Nigeria** has roughly 90 million Muslims the majority came to Islam gradually over centuries through trade, scholarship, and social influence.
 

@@ -1,6 +1,6 @@
 # Who Are Ahlus Sunnah Wal Jama'ah?
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 3 Ahlus Sunnah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 3: Ahlus Sunnah
 
 ---
 
@@ -18,10 +18,10 @@
 | السُّنَّة                      | As-Sunnah                | The way of the Prophet                                 |
 | الْجَمَاعَة                    | Al-Jama'ah               | The main body of the Muslim community                  |
 | الصَّحَابَة                    | As-Sahabah               | The Companions of the Prophet                          |
-| السَّلَف                       | As-Salaf                 | The righteous predecessors the first three generations |
+| السَّلَف                       | As-Salaf                 | The righteous predecessors: the first three generations |
 | الْخَلَف                       | Al-Khalaf                | The later generations of scholars                      |
 | إِجْمَاع                       | Ijma'                    | Scholarly consensus                                    |
-| الْفِرْقَة النَّاجِيَة         | Al-Firqah al-Najiyah     | The saved sect a hadith reference                      |
+| الْفِرْقَة النَّاجِيَة         | Al-Firqah al-Najiyah     | The saved sect: a hadith reference                      |
 
 ---
 
@@ -30,34 +30,34 @@
 {% hint style="info" %}
 **Hadith Sunan Abu Dawud, Tirmidhi (Hasan/Sahih)**
 
-The Prophet said: _"The Jews split into 71 sects. The Christians split into 72 sects. My nation will split into 73 sects all in the Fire except one."_
+The Prophet said: _"The Jews split into 71 sects. The Christians split into 72 sects. My nation will split into 73 sects, all in the Fire except one."_
 
 The Companions asked: _"Which one, O Messenger of Allah?"_
 
 He replied: _"Those who follow what I and my Companions are upon."_
 
-In another narration: _"It is the Jama'ah the main body."_
+In another narration: _"It is the Jama'ah, the main body."_
 {% endhint %}
 
-This hadith though debated in its precise wording established in the early Muslim consciousness the importance of staying with the mainstream community (_Jama'ah_) and the transmitted way (_Sunnah_), rather than following new innovations or deviant interpretations.
+This hadith, though debated in its precise wording, established in the early Muslim consciousness the importance of staying with the mainstream community (_Jama'ah_) and the transmitted way (_Sunnah_), rather than following new innovations or deviant interpretations.
 
 ---
 
 ## Breaking Down the Name
 
-### "Ahl" The People
+### "Ahl": The People
 
-_Ahl_ means people, family, or those who belong to something. It implies membership, identity, and commitment not merely intellectual agreement.
+_Ahl_ means people, family, or those who belong to something. It implies membership, identity, and commitment, not merely intellectual agreement.
 
-### "As-Sunnah" The Way
+### "As-Sunnah": The Way
 
-_Sunnah_ here does not refer only to the voluntary acts of worship called Sunnah prayers. It refers to the **complete transmitted way** of the Prophet his beliefs, his worship, his conduct, his rulings as understood and practiced by the Companions.
+_Sunnah_ here does not refer only to the voluntary acts of worship called Sunnah prayers. It refers to the **complete transmitted way** of the Prophet, his beliefs, his worship, his conduct, his rulings, as understood and practiced by the Companions.
 
 The Sunnah in this broader sense is the living tradition of Islam in its authentic form.
 
-### "Wal Jama'ah" And the Community
+### "Wal Jama'ah": And the Community
 
-_Al-Jama'ah_ refers to the main body of Muslims those who stayed together upon the path of the Companions after the Prophet's death. It is the antithesis of _Firqah_ (sect) a splinter group that broke away from the community over doctrinal innovation.
+_Al-Jama'ah_ refers to the main body of Muslims, those who stayed together upon the path of the Companions after the Prophet's death. It is the antithesis of _Firqah_ (sect), a splinter group that broke away from the community over doctrinal innovation.
 
 Together, the phrase means: **those who adhere to the transmitted way of the Prophet as understood by his Companions, and who remain with the main body of the Muslim community in their core beliefs.**
 
@@ -123,7 +123,7 @@ Understanding what Ahlus Sunnah is requires understanding what it is not:
 
 A new Muslim or a student of Islam might ask: _"Why do I need to know all this? I just want to worship Allah."_
 
-The answer is practical. In a world of competing Islamic claims YouTube scholars, social media dawah, sectarian groups, extremist ideologies the student of Islam needs a reference point to evaluate what they encounter.
+The answer is practical. In a world of competing Islamic claims YouTube scholars, social media dawah, sectarian groups, extremist ideologies, the student of Islam needs a reference point to evaluate what they encounter.
 
 Knowing that Ahlus Sunnah is:
 
@@ -141,7 +141,7 @@ Knowing that Ahlus Sunnah is:
 - Ahlus Sunnah Wal Jama'ah means the people who follow the Prophet's transmitted way and stay with the main Muslim community.
 - Its reference points are the Prophet , then the Companions, then the first three generations of Islam.
 - It represents approximately 85-90% of the world's Muslims.
-- Internal diversity exists within Ahlus Sunnah in theology, law, and practice but core beliefs are shared.
+- Internal diversity exists within Ahlus Sunnah in theology, law, and practice, but core beliefs are shared.
 - The 73-sects hadith motivates commitment to the mainstream transmitted tradition rather than sectarian innovation.
 - Knowing what Ahlus Sunnah is provides a practical compass for navigating the diversity of Islamic claims.
 
@@ -153,7 +153,7 @@ Knowing that Ahlus Sunnah is:
 
 <summary>Am I automatically part of Ahlus Sunnah just because I say I'm Sunni?</summary>
 
-Not necessarily. Ahlus Sunnah is defined by belief and methodology, not just a label. A person who holds the beliefs of Ahlus Sunnah the six pillars of faith, the Sunni theological positions, the authority of the four madhabs and follows the way of the Companions is from Ahlus Sunnah, regardless of whether they use that specific label. Conversely, someone who calls themselves Sunni but holds deviant theological positions is not, by label alone, from Ahlus Sunnah.
+Not necessarily. Ahlus Sunnah is defined by belief and methodology, not just a label. A person who holds the beliefs of Ahlus Sunnah, the six pillars of faith, the Sunni theological positions, the authority of the four madhabs, and follows the way of the Companions is from Ahlus Sunnah, regardless of whether they use that specific label. Conversely, someone who calls themselves Sunni but holds deviant theological positions is not, by label alone, from Ahlus Sunnah.
 
 </details>
 
@@ -161,6 +161,6 @@ Not necessarily. Ahlus Sunnah is defined by belief and methodology, not just a l
 
 <summary>Can someone from Ahlus Sunnah follow any of the four madhabs?</summary>
 
-Yes. All four Sunni madhabs Hanafi, Maliki, Shafi'i, Hanbali are valid expressions of Ahlus Sunnah jurisprudence. Choosing to follow one does not make a person less of a Muslim, nor does it mean the others are wrong. They differ on subsidiary matters of law not on the fundamentals of faith.
+Yes. All four Sunni madhabs, Hanafi, Maliki, Shafi'i, Hanbali, are valid expressions of Ahlus Sunnah jurisprudence. Choosing to follow one does not make a person less of a Muslim, nor does it mean the others are wrong. They differ on subsidiary matters of law, not on the fundamentals of faith.
 
 </details>

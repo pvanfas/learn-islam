@@ -1,6 +1,6 @@
 # The Hijrah Migration to Madinah
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 6 Seerah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 6: Seerah
 
 ---
 

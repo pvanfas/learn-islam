@@ -1,6 +1,6 @@
 # Islamic History From the Rightly Guided Caliphs to the Ottomans
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 18 Advanced Studies
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 18: Advanced Studies
 
 ---
 
@@ -38,12 +38,12 @@ The Prophet said: _"Hold fast to my Sunnah and the Sunnah of the rightly-guided 
 
 **Key achievements:**
 
-- **Conquered Jerusalem** accepted its surrender personally, riding a donkey to demonstrate humility
-- **Defeated the Persian Sassanid Empire** ending 400 years of Persian dominance in the region
-- **Established the Diwan** the first organized state administrative and financial system in Islamic history
-- **Founded garrison cities** Kufa, Basra, Fustat (Old Cairo) as planned Islamic urban centers
+- **Conquered Jerusalem:** accepted its surrender personally, riding a donkey to demonstrate humility
+- **Defeated the Persian Sassanid Empire:** ending 400 years of Persian dominance in the region
+- **Established the Diwan:** the first organized state administrative and financial system in Islamic history
+- **Founded garrison cities.** Kufa, Basra, Fustat (Old Cairo) as planned Islamic urban centers
 - **Established the Islamic calendar** (Hijri calendar) counting from the Hijrah
-- **Walked the streets at night** incognito to check on the welfare of his people
+- **Walked the streets at night:** incognito to check on the welfare of his people
 
 Umar (RA) was known for his extraordinary personal accountability. He reportedly wept at himself: _"If a mule in Iraq stumbles on a rough road, I fear I will be asked about it before Allah for not paving the road."_
 
@@ -65,7 +65,7 @@ He was assassinated by a Persian slave (Abu Lu'lu'ah) while leading the Fajr pra
 
 - **The Battle of the Camel** (656 CE) against Aisha (RA), Talhah, and Zubayr (RA) who demanded justice for Uthman's killers
 - **The Battle of Siffin** (657 CE) against Muawiyah ibn Abi Sufyan, governor of Syria
-- **The emergence of the Kharijites** extreme faction who broke from Ali and were defeated at the Battle of Nahrawan
+- **The emergence of the Kharijites:** extreme faction who broke from Ali and were defeated at the Battle of Nahrawan
 
 Ali (RA) was assassinated by a Kharijite in 661 CE. His death ended the era of the Rightly Guided Caliphs.
 

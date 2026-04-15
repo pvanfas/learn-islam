@@ -1,6 +1,6 @@
 # Theological Criticisms of Islam With Responses
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 11 Criticism & Responses
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 11: Criticism & Responses
 
 ---
 
@@ -23,7 +23,7 @@ This is one of the oldest philosophical questions in any theistic tradition and 
 The Quran does not present a world in which God makes everything comfortable. It presents a world that is explicitly a test:
 
 {% hint style="info" %}
-**Surah Al-Baqarah 2:155157**
+**Surah Al-Baqarah 2:155-157**
 
 **Translation:** "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits but give good tidings to the patient. Who, when disaster strikes them, say: 'Indeed we belong to Allah, and indeed to Him we will return.' Those are the ones upon whom are blessings from their Lord and mercy."
 {% endhint %}

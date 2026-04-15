@@ -1,6 +1,6 @@
 # The Madinan Period Building a Civilization
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 6 Seerah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 6: Seerah
 
 ---
 

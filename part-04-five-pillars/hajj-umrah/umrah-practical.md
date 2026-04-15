@@ -1,6 +1,6 @@
 # Practical Guide to Umrah Preparation and Tips
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Hajj & Umrah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Hajj & Umrah
 
 ---
 

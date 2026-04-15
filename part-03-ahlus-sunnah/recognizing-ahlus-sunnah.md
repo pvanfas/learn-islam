@@ -20,7 +20,7 @@ A community is identifiable as Ahlus Sunnah when it demonstrates:
 
 **Following one of the four recognized madhabs** in legal practice Hanafi, Maliki, Shafi'i, or Hanbali or operating within the framework of classical Islamic jurisprudence.
 
-**Holding to one of the three recognized theological schools** Ash'ari, Maturidi, or Athari in matters of belief, without innovation in the fundamentals of creed.
+**Holding to one of the three recognized theological schools.** Ash'ari, Maturidi, or Athari in matters of belief, without innovation in the fundamentals of creed.
 
 **Avoiding takfir** not declaring Muslims who commit sins or hold different opinions on subsidiary matters to be disbelievers.
 

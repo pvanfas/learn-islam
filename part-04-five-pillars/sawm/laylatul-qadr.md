@@ -1,6 +1,6 @@
 # Laylatul Qadr The Night of Power
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Sawm
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Sawm
 
 ---
 
@@ -39,8 +39,8 @@ The odd nights of the last ten days: 21st, 23rd, 25th, 27th, and 29th of Ramadan
 
 The **27th night** is widely considered the most likely based on several narrations including the Companion Ubayy ibn Ka'b's confident statement that it is the 27th. However, the Prophet himself never fixed it definitively and the wisdom in that is that:
 
-1. **Seeking it across multiple nights** multiplies the worship of the final ten days
-2. **Uncertainty motivates more effort** if everyone knew it was the 27th, the other nights would be neglected
+1. **Seeking it across multiple nights:** multiplies the worship of the final ten days
+2. **Uncertainty motivates more effort:** if everyone knew it was the 27th, the other nights would be neglected
 3. **The entire last ten days become blessed** through the seeking
 
 The practice of the Prophet was to **make I'tikaf** (seclusion in the mosque) during the last ten days spending every night in prayer, Quran, and dua.

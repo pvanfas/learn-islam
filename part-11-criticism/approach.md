@@ -1,6 +1,6 @@
 # How to Approach Criticism of Islam
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 11 Criticism & Responses
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 11: Criticism & Responses
 
 ---
 
@@ -68,10 +68,10 @@ A Muslim engaging with critics of Islam should stand on a foundation of intellec
 
 This confidence comes from:
 
-1. **Knowing the tradition deeply** a Muslim who has studied the Quran, the Seerah, and Islamic scholarship has a storehouse of honest, evidenced responses
-2. **Understanding that hard questions have been asked before** Islamic scholarship has been engaging with philosophical challenges for 1,400 years; very few "new" objections are actually new
-3. **Recognizing that doubt is normal** the Prophet said that some degree of doubt may pass through believers' hearts, and what matters is what they do with it
-4. **Trusting the tradition's self-correcting mechanism** where Islamic civilization has made mistakes (and it has), Islamic scholars have been among the first to acknowledge and address them
+1. **Knowing the tradition deeply:** a Muslim who has studied the Quran, the Seerah, and Islamic scholarship has a storehouse of honest, evidenced responses
+2. **Understanding that hard questions have been asked before.** Islamic scholarship has been engaging with philosophical challenges for 1,400 years; very few "new" objections are actually new
+3. **Recognizing that doubt is normal:** the Prophet said that some degree of doubt may pass through believers' hearts, and what matters is what they do with it
+4. **Trusting the tradition's self-correcting mechanism:** where Islamic civilization has made mistakes (and it has), Islamic scholars have been among the first to acknowledge and address them
 
 ---
 
@@ -87,10 +87,10 @@ When the people of Ta'if stoned him until he bled, his response was to pray: _"O
 
 The emotional response most pleasing to Allah when Islam is criticized or mocked:
 
-- **Sadness** appropriate; loving what Allah has revealed and feeling pain at its dismissal
-- **Clear, calm rebuttal** appropriate; responding with evidence
-- **Rage that leads to violence** never appropriate; this harms the da'wah and contradicts Islamic principles
-- **Silent abandonment of the faith** never appropriate; the challenge is to engage, not retreat
+- **Sadness:** appropriate; loving what Allah has revealed and feeling pain at its dismissal
+- **Clear, calm rebuttal:** appropriate; responding with evidence
+- **Rage that leads to violence:** never appropriate; this harms the da'wah and contradicts Islamic principles
+- **Silent abandonment of the faith:** never appropriate; the challenge is to engage, not retreat
 
 ---
 

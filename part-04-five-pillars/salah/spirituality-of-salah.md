@@ -1,6 +1,6 @@
 # The Deeper Spirituality of Salah
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Salah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Salah
 
 ---
 
@@ -50,9 +50,9 @@ This hadith reveals the nature of Salah: Allah is _responding_ to each phrase of
 
 **Khushu'** (خُشُوع) is the quality of heart that transforms valid prayer into truly accepted prayer. It combines:
 
-- **Presence** your mind, heart, and body are all in the prayer
-- **Humility** awareness of your smallness before the Infinite
-- **Awe** a sense of the greatness of the One you are addressing
+- **Presence:** your mind, heart, and body are all in the prayer
+- **Humility:** awareness of your smallness before the Infinite
+- **Awe:** a sense of the greatness of the One you are addressing
 - **Hope and fear** in balance hoping for mercy, fearing falling short
 
 {% hint style="info" %}

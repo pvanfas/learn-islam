@@ -1,6 +1,6 @@
 # Halal and Haram in Modern Life
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 17 Living as a Muslim
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 17: Living as a Muslim
 
 ---
 
@@ -92,9 +92,9 @@ For the full treatment of Riba and Islamic finance alternatives, see [Islamic Fi
 
 **Priority order:**
 
-1. **Islamic mortgage (Murabahah, Musharakah)** now available in many Western countries through institutions like Guidance Residential (USA), Al Rayan Bank (UK), and others. This is the safest option.
-2. **Renting** always permissible and sometimes the wiser financial choice
-3. **Conventional mortgage** the majority of scholars maintain this is Riba and prohibited; a minority of scholars permit it under necessity conditions in specific contexts
+1. **Islamic mortgage (Murabahah, Musharakah):** now available in many Western countries through institutions like Guidance Residential (USA), Al Rayan Bank (UK), and others. This is the safest option.
+2. **Renting:** always permissible and sometimes the wiser financial choice
+3. **Conventional mortgage:** the majority of scholars maintain this is Riba and prohibited; a minority of scholars permit it under necessity conditions in specific contexts
 
 **The necessity argument:** Scholars who permit conventional mortgages under necessity (_Darurah_) set strict conditions genuine Islamic alternatives must be unavailable, renting must not be a viable long-term option, and the matter must be verified with a qualified scholar in your specific situation.
 
@@ -126,7 +126,7 @@ Working with people of the opposite gender is unavoidable in most modern context
 
 **Scholarly positions:**
 
-- **Takaful (Islamic mutual insurance)** the halal alternative, based on mutual guarantee rather than gambling-like premiums
+- **Takaful (Islamic mutual insurance):** the halal alternative, based on mutual guarantee rather than gambling-like premiums
 - **Mandatory insurance (car, health where legally required):** Most scholars permit this under necessity, since refusing breaks the law
 - **Optional insurance:** More debated seek a qualified scholar's guidance
 

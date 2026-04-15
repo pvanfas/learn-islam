@@ -1,6 +1,6 @@
 # The Heart in Islam Diseases and Their Cures
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 16 Islamic Spirituality
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 16: Islamic Spirituality
 
 ---
 

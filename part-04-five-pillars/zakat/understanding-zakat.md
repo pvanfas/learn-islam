@@ -1,6 +1,6 @@
 # Understanding Zakat The Obligatory Charity
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 4 The Five Pillars Zakat
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 4: The Five Pillars Zakat
 
 ---
 
@@ -157,10 +157,10 @@ The Quran specifies exactly who may receive Zakat:
 
 ## Who Cannot Receive Zakat?
 
-- **Non-Muslims** Zakat is specifically for Muslims (though Sadaqah is encouraged for all)
-- **The giver's own immediate dependents** spouse, children, parents
-- **The wealthy** those above the Nisab
-- **Banu Hashim** the Prophet's family (by some scholarly positions)
+- **Non-Muslims.** Zakat is specifically for Muslims (though Sadaqah is encouraged for all)
+- **The giver's own immediate dependents:** spouse, children, parents
+- **The wealthy:** those above the Nisab
+- **Banu Hashim:** the Prophet's family (by some scholarly positions)
 
 ---
 

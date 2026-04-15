@@ -1,6 +1,6 @@
 # What Is a Hadith? Introduction to Hadith Science
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 7 Hadith Science
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 7: Hadith Science
 
 ---
 

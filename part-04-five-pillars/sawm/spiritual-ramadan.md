@@ -1,6 +1,6 @@
 # The Spiritual Dimensions of Ramadan
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Sawm
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Sawm
 
 ---
 

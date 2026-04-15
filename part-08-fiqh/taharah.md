@@ -1,6 +1,6 @@
 # Purification (Taharah) Fiqh of Ritual Purity
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 8 Islamic Law
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 8: Islamic Law
 
 ---
 
@@ -67,7 +67,7 @@ For the step-by-step practical guides to Wudu, Ghusl, and Tayammum, see [Prepara
 
 After using the toilet, one must clean appropriately:
 
-- **Istinja** using water to clean private parts
-- **Istijmar** using dry material (toilet paper, stones) minimum three wipes, odd number
+- **Istinja:** using water to clean private parts
+- **Istijmar:** using dry material (toilet paper, stones) minimum three wipes, odd number
 
 Both together is Sunnah and most thorough.

@@ -1,12 +1,12 @@
 # Belief in the Angels
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 2 Aqeedah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 2: Aqeedah
 
 ---
 
 ## In This Chapter
 
-> Belief in the angels is the second pillar of Islamic faith. Angels are not mythological figures or poetic symbols in Islamic theology they are real, created beings with specific roles and characteristics described in the Quran and authentic Sunnah. This chapter covers who the angels are, what they are made of, their roles, and the key angels Muslims must know by name.
+> Belief in the angels is the second pillar of Islamic faith. Angels are not mythological figures or poetic symbols in Islamic theology. They are real, created beings with specific roles and characteristics described in the Quran and authentic Sunnah. This chapter covers who the angels are, what they are made of, their roles, and the key angels Muslims must know by name.
 
 ---
 
@@ -15,13 +15,13 @@
 | Arabic             | Transliteration | Meaning                            |
 | ------------------ | --------------- | ---------------------------------- |
 | مَلَائِكَة         | Mala'ikah       | Angels (singular: Malak)           |
-| جِبْرِيل           | Jibreel         | Gabriel the Angel of Revelation    |
-| مِيكَائِيل         | Mikail          | Michael the Angel of Provision     |
+| جِبْرِيل           | Jibreel         | Gabriel: the Angel of Revelation    |
+| مِيكَائِيل         | Mikail          | Michael: the Angel of Provision     |
 | إِسْرَافِيل        | Israfil         | The angel who blows the Trumpet    |
 | عِزْرَائِيل        | Izraeel         | The Angel of Death                 |
 | كِرَامًا كَاتِبِين | Kiraman Katibin | The noble scribes recording angels |
 | مُنْكَر وَنَكِير   | Munkar wa Nakir | The two angels of the grave        |
-| نُور               | Nur             | Light what angels are created from |
+| نُور               | Nur             | Light: what angels are created from |
 
 ---
 
@@ -32,14 +32,14 @@
 
 **Translation:** "The Messenger has believed in what was revealed to him from his Lord, and so have the believers. All of them have believed in Allah, His angels, His books, and His messengers..."
 
-_Belief in the angels is listed alongside belief in Allah Himself it is not optional or secondary._
+_Belief in the angels is listed alongside belief in Allah Himself. It is not optional or secondary._
 {% endhint %}
 
 ---
 
 ## What Are Angels?
 
-Angels are a **distinct category of creation** different from humans and jinn. The Quran and Sunnah describe them with precision:
+Angels are a **distinct category of creation,** different from humans and jinn. The Quran and Sunnah describe them with precision:
 
 **They are created from light:**
 
@@ -49,7 +49,7 @@ Angels are a **distinct category of creation** different from humans and jinn. T
 The Prophet said: _"The angels were created from light, the jinn were created from smokeless fire, and Adam was created from what has been described to you."_
 {% endhint %}
 
-**They have wings** some with two, some with three, some with four, and the greatest of them with more:
+**They have wings:** some with two, some with three, some with four, and the greatest of them with more:
 
 {% hint style="info" %}
 **Surah Fatir 35:1**
@@ -89,24 +89,24 @@ The Prophet described seeing him in his true form with **600 wings** that spanne
 
 ### 2. Mikail (Michael AS): _The Angel of Provision and Rain_
 
-Mikail is responsible for the rain, the sustenance of creation, and natural phenomena. Under Allah's command, he oversees the distribution of rizq (provision) the food, rain, and resources of the world.
+Mikail is responsible for the rain, the sustenance of creation, and natural phenomena. Under Allah's command, he oversees the distribution of rizq (provision): the food, rain, and resources of the world.
 
 ---
 
 ### 3. Israfil: _The Angel of the Trumpet_
 
-Israfil holds the Trumpet (_Sur_) to his lips, waiting for the command from Allah to blow it which will signal the end of the world, then the beginning of the resurrection. The Prophet said: _"How can I be at ease when the angel of the Trumpet has put the Trumpet to his lips and is waiting for the command to blow?"_ (Tirmidhi)
+Israfil holds the Trumpet (_Sur_) to his lips, waiting for the command from Allah to blow it, which will signal the end of the world, then the beginning of the resurrection. The Prophet said: _"How can I be at ease when the angel of the Trumpet has put the Trumpet to his lips and is waiting for the command to blow?"_ (Tirmidhi)
 
 ---
 
 ### 4. Izraeel: _The Angel of Death (Malak al-Mawt)_
 
-The Angel of Death takes every soul at its appointed time no soul departs before or after its fixed moment. He has assistants who help in the collection of souls.
+The Angel of Death takes every soul at its appointed time. No soul departs before or after its fixed moment. He has assistants who help in the collection of souls.
 
 {% hint style="info" %}
 **Surah As-Sajdah 32:11**
 
-**Translation:** "Say: The Angel of Death will take you the one entrusted with you and then to your Lord you will be returned."
+**Translation:** "Say: The Angel of Death will take you, the one entrusted with you, and then to your Lord you will be returned."
 {% endhint %}
 
 ---
@@ -119,12 +119,12 @@ These two angels question every soul in the grave after burial, asking about the
 
 ### 6. Kiraman Katibin: _The Noble Recording Angels_
 
-Every human being is accompanied by two angels one on the right, one on the left who record every deed, word, and intention.
+Every human being is accompanied by two angels, one on the right, one on the left, who record every deed, word, and intention.
 
 {% hint style="info" %}
-**Surah Qaf 50:1718**
+**Surah Qaf 50:17-18**
 
-**Translation:** "When the two receivers receive seated on the right and on the left he does not utter a word except that there is an observer beside him, ready to record."
+**Translation:** "When the two receivers receive, seated on the right and on the left, he does not utter a word except that there is an observer beside him, ready to record."
 {% endhint %}
 
 The angel on the right records good deeds. The angel on the left records bad deeds but waits before recording a sin to give the person a chance to seek forgiveness or follow it with a good deed.
@@ -138,7 +138,7 @@ Ridwan is the angel entrusted with Jannah (Paradise) and its gates. When the bel
 {% hint style="info" %}
 **Surah Az-Zumar 39:73**
 
-**Translation:** "And those who feared their Lord will be driven to Paradise in groups until, when they reach it and its gates are opened, its keepers will say: 'Peace be upon you you have done well, so enter it to abide eternally.'"
+**Translation:** "And those who feared their Lord will be driven to Paradise in groups until, when they reach it and its gates are opened, its keepers will say: 'Peace be upon you. You have done well, so enter it to abide eternally.'"
 {% endhint %}
 
 ---
@@ -151,13 +151,13 @@ Malik is the fierce angel in charge of Jahannam (Hell). The Quran mentions that 
 
 ### 9. The Bearers of the Throne: (_Hamalat al-Arsh_)
 
-Eight mighty angels bear the Throne of Allah (_Al-Arsh_). Their greatness is incomprehensible the Prophet said the distance between one of their earlobes and their shoulder is a journey of 700 years.
+Eight mighty angels bear the Throne of Allah (_Al-Arsh_). Their greatness is incomprehensible. The Prophet said the distance between one of their earlobes and their shoulder is a journey of 700 years.
 
 ---
 
 ### 10. The Angels Who Circle the Earth
 
-There are angels who travel the earth looking for gatherings of people remembering Allah. When they find such a gathering, they surround it and ascend to the heavens to tell Allah about it and Allah asks them about His servants, though He knows, out of love and pride.
+There are angels who travel the earth looking for gatherings of people remembering Allah. When they find such a gathering, they surround it and ascend to the heavens to tell Allah about it, and Allah asks them about His servants, though He knows, out of love and pride.
 
 {% hint style="info" %}
 **Hadith Sahih Muslim**
@@ -171,7 +171,7 @@ _"Allah has angels who go about on the roads seeking those who remember Allah. W
 
 Angels are not distant cosmic beings. They are present in every human life:
 
-- **Two recording angels** accompany every person at all times.
+- **Two recording angels:** accompany every person at all times.
 - Angels **descend with blessings** upon gatherings of Quran recitation and remembrance of Allah.
 - Angels **send blessings** upon those who send blessings upon the Prophet .
 - Angels **pray for the believer** who prays in a mosque, as long as they remain in their place.
@@ -187,11 +187,11 @@ Angels are not distant cosmic beings. They are present in every human life:
 
 ## Key Takeaways
 
-- Angels are real, created beings made from light distinct from humans, jinn, and all other creation.
+- Angels are real, created beings made from light, distinct from humans, jinn, and all other creation.
 - They do not disobey Allah, have no desires, and worship ceaselessly.
-- The greatest angel is Jibreel, who delivered revelation to all the prophets including the full Quran.
+- The greatest angel is Jibreel, who delivered revelation to all the prophets, including the full Quran.
 - Key named angels include Jibreel, Mikail, Israfil, Izraeel, Munkar and Nakir, the recording angels, Ridwan, and Malik.
-- Angels are present in every human life recording deeds, protecting, and attending gatherings of remembrance.
+- Angels are present in every human life, recording deeds, protecting, and attending gatherings of remembrance.
 - Belief in the angels is the second of the six pillars of Islamic faith.
 
 ---
@@ -202,13 +202,13 @@ Angels are not distant cosmic beings. They are present in every human life:
 
 <summary>Can angels disobey Allah? What about Iblees (Shaytan)?</summary>
 
-Iblees (Satan) is not an angel he is a Jinn who was elevated among the angels due to his worship. When Allah commanded the angels and Iblees to prostrate to Adam, the angels obeyed without question. Iblees refused out of arrogance because he was a Jinn with free will, not an angel. The Quran clarifies this in (Surah Al-Kahf 18:50): _"He was of the jinn, so he departed from the command of his Lord."_
+Iblees (Satan) is not an angel. He is a Jinn who was elevated among the angels due to his worship. When Allah commanded the angels and Iblees to prostrate to Adam, the angels obeyed without question. Iblees refused out of arrogance because he was a Jinn with free will, not an angel. The Quran clarifies this in (Surah Al-Kahf 18:50): _"He was of the jinn, so he departed from the command of his Lord."_
 
 </details>
 
 <details>
 
-<summary>Do angels look like they do in Western art human figures with white wings?</summary>
+<summary>Do angels look like they do in Western art, such as human figures with white wings?</summary>
 
 The Quran and Sunnah do not describe angels as human-looking with white bird wings. They are beings of light with multiple wings and a form beyond our imagination. The images in Western art are cultural artistic traditions, not descriptions from Islamic or any other scripture.
 
@@ -218,6 +218,6 @@ The Quran and Sunnah do not describe angels as human-looking with white bird win
 
 <summary>Can angels be seen by human beings?</summary>
 
-Angels can appear in human form when Allah wills. Jibreel appeared to the Prophet in human form on multiple occasions most famously as a man in white clothing in the Hadith of Jibreel. He also appeared to Maryam (AS) in human form. Regular humans do not see angels in their true form. The Prophet saw Jibreel in his true angelic form only twice.
+Angels can appear in human form when Allah wills. Jibreel appeared to the Prophet in human form on multiple occasions, most famously as a man in white clothing in the Hadith of Jibreel. He also appeared to Maryam (AS) in human form. Regular humans do not see angels in their true form. The Prophet saw Jibreel in his true angelic form only twice.
 
 </details>

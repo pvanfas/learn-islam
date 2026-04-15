@@ -1,12 +1,12 @@
 # Belief in the Day of Judgement
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 2 Aqeedah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 2: Aqeedah
 
 ---
 
 ## In This Chapter
 
-> The Day of Judgement is one of the six pillars of Islamic faith. It is not a peripheral topic it is the moral backbone of Islamic ethics. This chapter covers the Islamic understanding of death, what happens after, the resurrection, the events of the Day of Judgement, and the final destinations: Jannah and Jahannam. All described as the Quran and authentic Sunnah describe them.
+> The Day of Judgement is one of the six pillars of Islamic faith. It is not a peripheral topic. It is the moral backbone of Islamic ethics. This chapter covers the Islamic understanding of death, what happens after, the resurrection, the events of the Day of Judgement, and the final destinations: Jannah and Jahannam. All described as the Quran and authentic Sunnah describe them.
 
 ---
 
@@ -44,7 +44,7 @@ _These are two of the most powerful verses in the Quran. The entire moral weight
 
 The Quran links belief in the Hereafter (_Akhirah_) to moral behavior in this world more directly than almost any other article of faith. The person who truly believes they will stand before Allah and answer for every action, every word, and every intention lives differently.
 
-This is why the Quran refers to the Day of Judgement by over 70 different names each name highlighting a different aspect: _The Day of Reckoning_, _The Day of Gathering_, _The Day of Resurrection_, _The Inevitable_, _The Reality_, _The Overwhelming Event_, _The Day of the Thunderbolt_...
+This is why the Quran refers to the Day of Judgement by over 70 different names, each name highlighting a different aspect: _The Day of Reckoning_, _The Day of Gathering_, _The Day of Resurrection_, _The Inevitable_, _The Reality_, _The Overwhelming Event_, _The Day of the Thunderbolt_...
 
 The sheer variety reflects how central this concept is to Quranic teaching.
 
@@ -52,23 +52,23 @@ The sheer variety reflects how central this concept is to Quranic teaching.
 
 ## Step 1 - Death and What Follows (_Al-Barzakh_)
 
-Before the Day of Judgement comes, every soul must pass through death. The Quran presents death not as an ending but as a transition a door from one existence to another.
+Before the Day of Judgement comes, every soul must pass through death. The Quran presents death not as an ending, but as a transition, a door from one existence to another.
 
 {% hint style="info" %}
 **Surah Al-Mulk 67:2**
 
 **Translation:** "He who created death and life to test you as to which of you is best in deed and He is the Exalted in Might, the Forgiving."
 
-_Notice: death was created before life in this verse. Death is purposeful a designed part of the test._
+_Notice: death was created before life in this verse. Death is purposeful, a designed part of the test._
 {% endhint %}
 
 ### The Angel of Death
 
-The Angel of Death (_Malak al-Mawt_, also known as Izraeel) takes the soul at the appointed moment no sooner, no later. The Quran says every soul has a fixed term (_Ajal_) that cannot be advanced or delayed.
+The Angel of Death (_Malak al-Mawt_, also known as Izraeel) takes the soul at the appointed moment, no sooner, no later. The Quran says every soul has a fixed term (_Ajal_) that cannot be advanced or delayed.
 
 ### The Questioning in the Grave (_Su'al al-Qabr_)
 
-After burial, the soul enters _Al-Barzakh_ the intermediate state between death and resurrection. According to authentic hadith, two angels named **Munkar and Nakir** come to the deceased and ask three questions:
+After burial, the soul enters _Al-Barzakh_, the intermediate state between death and resurrection. According to authentic hadith, two angels named **Munkar and Nakir** come to the deceased and ask three questions:
 
 1. **Who is your Lord?**
 2. **What is your religion?**
@@ -80,7 +80,7 @@ After burial, the soul enters _Al-Barzakh_ the intermediate state between death 
 The Prophet said: _"When the deceased is placed in his grave, two angels come to him, dark and blue-black in color. One is called Munkar and the other Nakir... If he was a believer, he will answer clearly. His grave will be expanded for him, and he will sleep like a bridegroom until Allah resurrects him. If he was a hypocrite or disbeliever, he will be unable to answer, and his grave will be compressed upon him."_
 {% endhint %}
 
-The _Barzakh_ is thus a foretaste the believer rests in peace and the disbeliever is shown their punishment until the Day of Resurrection.
+The _Barzakh_ is thus a foretaste: the believer rests in peace, and the disbeliever is shown their punishment until the Day of Resurrection.
 
 ---
 
@@ -102,14 +102,14 @@ The Day of Judgement begins when the Angel Israfil blows the Trumpet (_Sur_). Th
 
 ## Step 3 - The Gathering (_Al-Hashr_)
 
-All of humanity every person who ever lived from the time of Adam (AS) to the last person to be born is gathered on a vast plain called _Al-Mahshar_. The sun is brought close. The heat is intense. People stand in their sweat according to their deeds.
+All of humanity every person who ever lived from the time of Adam (AS) to the last person to be born is gathered on a vast plain called _Al-Mahshar_. The sun is brought close. The heat is intense. People stand in their sweat according to their deeds:
 
 The Prophet described the scene:
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
 
-_"The sun will be brought close to people on the Day of Resurrection until it is about a mile away. People will be in their sweat according to their deeds some up to their ankles, some up to their knees, some up to their waists, and some bridled in sweat."_
+_"The sun will be brought close to people on the Day of Resurrection until it is about a mile away. People will be in their sweat according to their deeds: some up to their ankles, some up to their knees, some up to their waists, and some bridled in sweat."_
 {% endhint %}
 
 There is no escape, no hiding, no running. Every person stands exposed before the complete knowledge of Allah.
@@ -118,10 +118,10 @@ There is no escape, no hiding, no running. Every person stands exposed before th
 
 ## Step 4 - The Record of Deeds (_As-Sahifah_)
 
-Every person is handed their **record of deeds** every action, word, intention, and thought is recorded by the two angels (_Kiraman Katibin_) who accompany every human being throughout life.
+Every person is handed their **record of deeds.** Every action, word, intention, and thought is recorded by the two angels (_Kiraman Katibin_) who accompany every human being throughout life.
 
 {% hint style="info" %}
-**Surah Al-Isra 17:1314**
+**Surah Al-Isra 17:13-14**
 
 **Translation:** "And every person We have fastened his deeds around his neck, and on the Day of Resurrection We will produce for him a record which he will find spread open. 'Read your record. Sufficient is yourself against you this Day as an accountant.'"
 {% endhint %}
@@ -173,26 +173,26 @@ The Prophet will perform the **Great Intercession** (_Al-Shafa'ah al-Uzma_) pros
 
 ## Jannah Paradise
 
-Jannah is the final destination of the believers. The Quran describes it in vivid detail not as an abstract spiritual state, but as a real, physical, and exquisitely beautiful dwelling.
+Jannah is the final destination of the believers. The Quran describes it in vivid detail, not as an abstract spiritual state, but as a real, physical, and exquisitely beautiful dwelling.
 
 {% hint style="info" %}
-**Surah Al-Waqi'ah 56:1537**
+**Surah Al-Waqi'ah 56:15-37**
 
-**Translation:** _"On thrones woven with ornament... amid thornless lote trees, clustered plantains, extended shade, flowing water, abundant fruit neither limited nor forbidden..."_
+**Translation:** _"On thrones woven with ornament... amid thornless lote trees, clustered plantains, extended shade, flowing water, abundant fruit, neither limited nor forbidden..."_
 {% endhint %}
 
 The Prophet said: _"Allah says: 'I have prepared for My righteous servants what no eye has seen, no ear has heard, and no human heart has ever imagined.'"_ (Sahih al-Bukhari)
 
-Jannah has **multiple levels** the highest is _Firdaws_, and above all levels is the direct Vision of Allah (_Ar-Ru'yah_), which the believers will be granted described as the greatest reward, surpassing everything else in Jannah.
+Jannah has **multiple levels.** The highest is _Firdaws_, and above all levels is the direct Vision of Allah (_Ar-Ru'yah_), which the believers will be granted, described as the greatest reward, surpassing everything else in Jannah.
 
 ---
 
-## Jahannam Hell
+## Jahannam: Hell
 
-Jahannam is real, described in detail in the Quran, and treated with the utmost seriousness in Islamic theology. It has **seven levels of severity**. It is a place of fire, extreme heat, and suffering the consequence of rejecting the guidance Allah provided.
+Jahannam is real, described in detail in the Quran, and treated with the utmost seriousness in Islamic theology. It has **seven levels of severity**. It is a place of fire, extreme heat, and suffering, the consequence of rejecting the guidance Allah provided.
 
 {% hint style="info" %}
-**Surah Ibrahim 14:1617**
+**Surah Ibrahim 14:16-17**
 
 **Translation:** "Before him is Hell, and he will be given a drink of purulent water. He will gulp it but will hardly be able to swallow it. And death will come to him from every direction, but he will not die. And before him is a harsh punishment."
 {% endhint %}
@@ -206,11 +206,11 @@ Jahannam is real, described in detail in the Quran, and treated with the utmost 
 ## Key Takeaways
 
 - Belief in the Day of Judgement is the sixth pillar of Islamic faith and the moral foundation of Islamic ethics.
-- After death, the soul enters _Barzakh_ an intermediate state of either peace or punishment until resurrection.
-- The Day begins with the Trumpet then resurrection, gathering, distribution of records, weighing of deeds, crossing the bridge, and intercession.
+- After death, the soul enters _Barzakh_, an intermediate state of either peace or punishment until resurrection.
+- The Day begins with the Trumpet, then resurrection, gathering, distribution of records, weighing of deeds, crossing the bridge, and intercession.
 - Jannah (Paradise) is described as real, physical, and beautiful with the greatest reward being the vision of Allah.
-- Jahannam (Hell) is described in detail it is the consequence of persistent rejection of truth and worship of other than Allah.
-- The Day of Judgement makes ethics ultimate because every atom's weight of good and evil will be seen.
+- Jahannam (Hell) is described in detail. It is the consequence of persistent rejection of truth and worship of other than Allah.
+- The Day of Judgement makes ethics ultimate, because every atom's weight of good and evil will be seen.
 
 ---
 
@@ -220,7 +220,7 @@ Jahannam is real, described in detail in the Quran, and treated with the utmost 
 
 <summary>How can a merciful God send people to Hell?</summary>
 
-This question assumes that mercy requires the absence of justice. In Islamic theology, Allah is both infinitely merciful and absolutely just and these are not in conflict. Allah provides guidance, sends prophets, gives humans intellect, and grants a complete lifetime to choose. Hell is the consequence of choosing with full knowledge to reject truth and live without accountability. Even then, the Prophet taught that Allah's mercy will remove many from Hell through intercession. No one goes to Hell except after Allah's case is fully established against them.
+This question assumes that mercy requires the absence of justice. In Islamic theology, Allah is both infinitely merciful and absolutely just, and these are not in conflict. Allah provides guidance, sends prophets, gives humans intellect, and grants a complete lifetime to choose. Hell is the consequence of choosing with full knowledge to reject truth and live without accountability. Even then, the Prophet taught that Allah's mercy will remove many from Hell through intercession. No one goes to Hell except after Allah's case is fully established against them.
 
 </details>
 

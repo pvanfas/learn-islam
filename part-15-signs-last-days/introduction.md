@@ -1,6 +1,6 @@
 # Introduction to Islamic Eschatology
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 15 Signs of the Last Days
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 15: Signs of the Last Days
 
 ---
 
@@ -45,7 +45,7 @@ Eschatology is the study of the ultimate fate of humanity and the world the "las
 
 - **The signs before the Day of Judgement** events and conditions that precede the end
 - **The Day of Judgement itself** resurrection, reckoning, the crossing of the Sirat
-- **The final destinations** Jannah (Paradise) and Jahannam (Hell)
+- **The final destinations.** Jannah (Paradise) and Jahannam (Hell)
 
 We covered the Day of Judgement and the final destinations in Part 2. This part focuses specifically on the **signs before the Hour** what the Prophet told us to watch for, understand, and prepare for.
 
@@ -86,9 +86,9 @@ No scholar, no imam, no astrologer, and no algorithm can tell you when the Hour 
 The Prophet described the signs so that Muslims would:
 
 - **Recognize the times they are living in** and respond appropriately
-- **Prepare spiritually** increasing good deeds before the window closes
-- **Not be deceived** especially by the Dajjal and other fitnahs
-- **Hold fast to their faith** when the world appears to be collapsing around them
+- **Prepare spiritually:** increasing good deeds before the window closes
+- **Not be deceived:** especially by the Dajjal and other fitnahs
+- **Hold fast to their faith:** when the world appears to be collapsing around them
 
 They were not described so that Muslims could:
 

@@ -1,6 +1,6 @@
 # Eid al-Fitr The Celebration of Breaking Fast
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Sawm
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Sawm
 
 ---
 

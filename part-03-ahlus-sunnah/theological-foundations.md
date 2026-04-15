@@ -1,6 +1,6 @@
 # Theological Foundations of Ahlus Sunnah
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 3 Ahlus Sunnah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 3: Ahlus Sunnah
 
 ---
 
@@ -14,10 +14,10 @@
 
 Islamic theology (_Ilm al-Kalam_ / _Aqeedah_) is not abstract philosophy it has direct consequences:
 
-- **How you understand Allah's attributes** affects your relationship with Him in worship
+- **How you understand Allah's attributes:** affects your relationship with Him in worship
 - **How you understand free will and divine decree** affects your response to hardship and success
 - **How you understand the nature of faith** affects your relationship with other Muslims
-- **How you evaluate theological claims** protects you from innovation and misrepresentation
+- **How you evaluate theological claims:** protects you from innovation and misrepresentation
 
 The Prophet and the Companions did not engage in complex theological philosophy their Aqeedah was simple and direct. As the community expanded and encountered Greek philosophy and other religions' theological arguments, scholars developed systematic theology to defend the Sunnah position.
 

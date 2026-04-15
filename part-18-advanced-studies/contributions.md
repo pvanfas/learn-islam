@@ -1,6 +1,6 @@
 # Islamic Contributions to World Civilization
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 18 Advanced Studies
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 18: Advanced Studies
 
 ---
 

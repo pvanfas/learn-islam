@@ -1,6 +1,6 @@
-# Marriage in Islam Its Purpose, Conditions, and Rights
+# Marriage in Islam: Its Purpose, Conditions, and Rights
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 17 Living as a Muslim
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 17: Living as a Muslim
 
 ---
 
@@ -16,8 +16,8 @@
 | ---------------- | --------------- | --------------------------------------------------------------------------------- |
 | نِكَاح           | Nikah           | The Islamic marriage contract                                                     |
 | مَهْر            | Mahr            | The obligatory gift from the husband to the wife                                  |
-| وَلِيّ           | Wali            | The guardian typically the father or male relative who presides over the marriage |
-| إِيجَاب وَقَبُول | Ijab wa Qabul   | Offer and acceptance the two declarations of consent                              |
+| وَلِيّ           | Wali            | The guardian, typically the father or male relative, who presides over the marriage |
+| إِيجَاب وَقَبُول | Ijab wa Qabul   | Offer and acceptance: the two declarations of consent                              |
 | شُهُود           | Shuhud          | Witnesses required for a valid marriage                                           |
 | طَلَاق           | Talaq           | Divorce initiated by the husband                                                  |
 | خُلْع            | Khul'           | Divorce initiated by the wife                                                     |
@@ -35,7 +35,7 @@ _وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَ�
 
 **Translation:** "And of His signs is that He created for you from yourselves spouses that you may find tranquility in them, and He placed between you affection and mercy. Indeed in that are signs for a people who reflect."
 
-_Three words define the Islamic vision of marriage: sukun (tranquility), mawaddah (affection/love), and rahmah (mercy). These are not incidental they are the divine purpose of the institution._
+_Three words define the Islamic vision of marriage: sukun (tranquility), mawaddah (affection/love), and rahmah (mercy). These are not incidental. They are the divine purpose of the institution._
 {% endhint %}
 
 ---
@@ -48,9 +48,9 @@ _Three words define the Islamic vision of marriage: sukun (tranquility), mawadda
 The Prophet said: _"When a man marries, he has completed half of his religion. So let him fear Allah in the remaining half."_
 {% endhint %}
 
-Marriage is not merely a social contract in Islam it is an act of worship. It fulfills the Sunnah of the Prophet , provides the lawful channel for human intimacy, and establishes the family the foundational unit of Islamic civilization.
+Marriage is not merely a social contract in Islam. It is an act of worship. It fulfills the Sunnah of the Prophet, provides the lawful channel for human intimacy, and establishes the family, the foundational unit of Islamic civilization.
 
-The Prophet said: _"There is nothing like marriage for two who love each other."_ (Ibn Majah Sahih)
+The Prophet said: _"There is nothing like marriage for two who love each other."_ (Ibn Majah, Sahih)
 
 ---
 
@@ -61,9 +61,9 @@ For a _Nikah_ to be valid in Islamic law, four elements must be present:
 | Pillar                                     | Detail                                                                                                                                                                                                                     |
 | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Offer and Acceptance (_Ijab wa Qabul_)** | The guardian (or his representative) offers the marriage; the groom accepts in clear words                                                                                                                                 |
-| **The Guardian (_Wali_)**                  | The bride must have a Wali her father, then other male relatives in order. The Wali's presence or permission is required (Shafi'i and Hanbali: obligatory; Hanafi: woman may contract without Wali but with two witnesses) |
+| **The Guardian (_Wali_)**                  | The bride must have a Wali, her father, then other male relatives in order. The Wali's presence or permission is required (Shafi'i and Hanbali: obligatory; Hanafi: woman may contract without Wali but with two witnesses) |
 | **Two Witnesses (_Shuhud_)**               | Two sane, adult Muslim men must witness the contract                                                                                                                                                                       |
-| **Mahr (Dowry)**                           | A gift from the husband to the wife she owns it absolutely                                                                                                                                                                 |
+| **Mahr (Dowry)**                           | A gift from the husband to the wife. She owns it absolutely.                                                                                                                                                               |
 
 {% hint style="warning" %}
 **Important:** The marriage is a **contract between the couple** not a transaction between families. The woman's consent is obligatory. The Prophet said: _"Do not marry a previously married woman until she gives her permission, and do not marry a virgin until she gives her consent."_ (Sahih al-Bukhari). A marriage conducted without the woman's consent is invalid.
@@ -71,9 +71,9 @@ For a _Nikah_ to be valid in Islamic law, four elements must be present:
 
 ---
 
-## The Mahr The Wife's Right
+## The Mahr: The Wife's Right
 
-The _Mahr_ is an obligatory gift from the husband to the wife at the time of marriage. It belongs exclusively to her not to her family, not to be returned at divorce unless she voluntarily gives it back.
+The _Mahr_ is an obligatory gift from the husband to the wife at the time of marriage. It belongs exclusively to her, not to her family, not to be returned at divorce unless she voluntarily gives it back.
 
 {% hint style="info" %}
 **Surah An-Nisa 4:4**
@@ -83,39 +83,39 @@ The _Mahr_ is an obligatory gift from the husband to the wife at the time of mar
 
 **Key points about Mahr:**
 
-- No minimum or maximum amount in Islamic law though it should be meaningful
+- No minimum or maximum amount in Islamic law, though it should be meaningful
 - Can be cash, gold, property, or even the teaching of Quran
 - Must be agreed upon before the marriage contract
-- Becomes a debt on the husband if not paid immediately it can never be waived by him unilaterally
-- The Prophet said the best Mahr is an easy one discouraging excessive Mahr that creates financial burden
+- Becomes a debt on the husband if not paid immediately. It can never be waived by him unilaterally.
+- The Prophet said the best Mahr is an easy one, discouraging excessive Mahr that creates financial burden
 
 ---
 
-## Rights and Responsibilities The Balance
+## Rights and Responsibilities: The Balance
 
-Islam assigns specific rights and responsibilities to both husband and wife not identical roles, but complementary ones.
+Islam assigns specific rights and responsibilities to both husband and wife, not identical roles, but complementary ones.
 
 ### The Husband's Obligations
 
 | Obligation                              | Detail                                                                                            |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **Financial provision (_Nafaqah_)**     | Full financial support housing, food, clothing, medical care regardless of the wife's own wealth  |
+| **Financial provision (_Nafaqah_)**     | Full financial support: housing, food, clothing, medical care, regardless of the wife's own wealth  |
 | **Kind treatment**                      | _"Live with them in kindness"_ (Surah An-Nisa 4:19)                                               |
 | **Leadership with justice (_Qiwamah_)** | Final decision-making authority in the household but only exercised with consultation and justice |
-| **Intimacy**                            | His wife has rights upon him for marital relations abandonment is a form of harm                  |
+| **Intimacy**                            | His wife has rights upon him for marital relations. Abandonment is a form of harm.                  |
 | **Spiritual responsibility**            | He is accountable for guiding his family toward the deen                                          |
 
 ### The Wife's Obligations
 
 | Obligation                          | Detail                                                                        |
 | ----------------------------------- | ----------------------------------------------------------------------------- |
-| **Obedience in what is good**       | Following her husband's reasonable household decisions not obedience to sin   |
+| **Obedience in what is good**       | Following her husband's reasonable household decisions, not obedience to sin   |
 | **Guarding the home**               | Protecting his property and children in his absence                           |
 | **Intimacy**                        | Responding to her husband's needs with exceptions for genuine illness or harm |
 | **Not allowing unwelcome visitors** | Without his permission                                                        |
 
 {% hint style="tip" %}
-** Key balance:** The husband has authority (_Qiwamah_) but also total financial responsibility. The wife is financially free any income she earns is entirely her own. She has no obligation to contribute to household expenses even if wealthy. The financial asymmetry in responsibility balances the authority asymmetry.
+**Key balance:** The husband has authority (_Qiwamah_) but also total financial responsibility. The wife is financially free. Any income she earns is entirely her own. She has no obligation to contribute to household expenses even if wealthy. The financial asymmetry in responsibility balances the authority asymmetry.
 {% endhint %}
 
 ---
@@ -125,16 +125,16 @@ Islam assigns specific rights and responsibilities to both husband and wife not 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
 
-The Prophet said: _"The best of you are those who are best to their wives and I am the best of you to my wives."_
+The Prophet said: _"The best of you are those who are best to their wives, and I am the best of you to my wives."_
 {% endhint %}
 
-The _Qiwamah_ (leadership) given to husbands in the Quran comes with an enormous condition it requires full financial responsibility, just treatment, and consultation (_Shura_). The Prophet consulted his wives on significant matters, accepted their counsel, and was visibly gentle and affectionate in his home.
+The _Qiwamah_ (leadership) given to husbands in the Quran comes with an enormous condition. It requires full financial responsibility, just treatment, and consultation (_Shura_). The Prophet consulted his wives on significant matters, accepted their counsel, and was visibly gentle and affectionate in his home.
 
-Islamic marriage is not a hierarchy of control it is a partnership with complementary roles and a clear, just framework of rights.
+Islamic marriage is not a hierarchy of control. It is a partnership with complementary roles and a clear, just framework of rights.
 
 ---
 
-## Polygamy The Full Picture
+## Polygamy: The Full Picture
 
 {% hint style="info" %}
 **Surah An-Nisa 4:3**
@@ -142,16 +142,16 @@ Islamic marriage is not a hierarchy of control it is a partnership with compleme
 **Translation:** "And if you fear that you will not deal justly with the orphan girls, then marry those that please you of women two, three, or four. But if you fear that you will not be just, then marry only one..."
 {% endhint %}
 
-Islam permits a man to marry up to four wives but with conditions that are extremely demanding:
+Islam permits a man to marry up to four wives, but with conditions that are extremely demanding:
 
 **Conditions for polygamy:**
 
-1. **Absolute financial equality** the husband must be able to provide fully and equally for each wife's housing, food, clothing, and needs
-2. **Equal time** equal division of nights between wives is obligatory
-3. **Just treatment in all things** the Quran itself acknowledges: _"You will never be able to be equal between wives even if you wish so do not incline completely toward one"_ (Surah An-Nisa 4:129)
-4. **Each wife's wellbeing** a wife may negotiate a condition in her contract that her husband not take another wife
+1. **Absolute financial equality:** the husband must be able to provide fully and equally for each wife's housing, food, clothing, and needs
+2. **Equal time:** equal division of nights between wives is obligatory
+3. **Just treatment in all things:** the Quran itself acknowledges: _"You will never be able to be equal between wives even if you wish so do not incline completely toward one"_ (Surah An-Nisa 4:129)
+4. **Each wife's wellbeing:** a wife may negotiate a condition in her contract that her husband not take another wife
 
-**Historical context:** Polygamy existed universally in the Bible, in Roman and Greek culture, and across all ancient civilizations without limit. Islam restricted and regulated it not invented it. The Prophet himself was monogamous with Khadijah (RA) for 25 years his other marriages after her death were almost all to widows or divorcees, for political, humanitarian, and da'wah purposes.
+**Historical context:** Polygamy existed universally in the Bible, in Roman and Greek culture, and across all ancient civilizations without limit. Islam restricted and regulated it, not invented it. The Prophet himself was monogamous with Khadijah (RA) for 25 years. His other marriages after her death were almost all to widows or divorcees, for political, humanitarian, and da'wah purposes.
 
 **Contemporary reality:** Most Muslim marriages are monogamous. Polygamy is rare in practice, legally restricted in many Muslim-majority countries, and subject to the extremely demanding conditions above.
 
@@ -159,7 +159,7 @@ Islam permits a man to marry up to four wives but with conditions that are extre
 
 ## Divorce in Islamic Law
 
-Islam permits divorce it is the last resort, deeply disliked by Allah, but a merciful provision when a marriage cannot be maintained.
+Islam permits divorce. It is the last resort, deeply disliked by Allah, but a merciful provision when a marriage cannot be maintained.
 
 {% hint style="info" %}
 **Hadith Sunan Abu Dawud (Sahih)**
@@ -171,8 +171,8 @@ _"The most hateful of permissible things to Allah is divorce."_
 
 | Type      | Who initiates | Process                                                                       |
 | --------- | ------------- | ----------------------------------------------------------------------------- |
-| **Talaq** | Husband       | Pronounces divorce woman observes 'Iddah                                      |
-| **Khul'** | Wife          | Wife returns the Mahr in exchange for divorce a right she can always exercise |
+| **Talaq** | Husband       | Pronounces divorce. Woman observes 'Iddah.                                      |
+| **Khul'** | Wife          | Wife returns the Mahr in exchange for divorce, a right she can always exercise |
 | **Faskh** | Court/Judge   | Judicial annulment for cases of harm, abandonment, failure to provide         |
 
 **The 'Iddah (waiting period):**
@@ -192,16 +192,16 @@ The 'Iddah serves multiple purposes: confirming whether pregnancy exists, allowi
 **Translation:** "...And their husbands have more right to take them back in this period if they want reconciliation..."
 {% endhint %}
 
-During the first two revocable divorces, the husband may take the wife back without a new contract. After a third divorce, remarriage requires the woman to have genuinely married another man and that marriage to have ended naturally a rule designed to prevent casual, repeated divorce.
+During the first two revocable divorces, the husband may take the wife back without a new contract. After a third divorce, remarriage requires the woman to have genuinely married another man and that marriage to have ended naturally, a rule designed to prevent casual, repeated divorce.
 
 ---
 
 ## Key Takeaways
 
-- Marriage in Islam is an act of worship completing half of one's faith and fulfilling the Sunnah.
+- Marriage in Islam is an act of worship, completing half of one's faith and fulfilling the Sunnah.
 - A valid Nikah requires: offer and acceptance, a guardian (Wali), two witnesses, and Mahr.
 - The woman's consent is obligatory a marriage without it is invalid.
-- The Mahr belongs entirely to the wife it is her right, never returnable except by her free will.
+- The Mahr belongs entirely to the wife. It is her right, never returnable except by her free will.
 - Husbands have authority with total financial responsibility; wives have financial freedom with responsibilities of the home.
 - Polygamy is permitted under extremely demanding conditions of equality and justice.
 - Divorce is the most disliked of permitted acts but Islam provides it mercifully through clear, just procedures.
@@ -222,6 +222,6 @@ No classical Islamic jurisprudence prohibits a Muslim woman from marrying a non-
 
 <summary>What is an "Islamic wedding" is there a ceremony required?</summary>
 
-The Nikah itself (the contract with its pillars) is the Islamic marriage. There is no required ceremony beyond this. However, it is Sunnah to announce the marriage (so it is not secret) and to hold a _Walimah_ a wedding feast, even a simple one, to celebrate and announce the marriage to the community. The Walimah can be a simple gathering with food it does not need to be elaborate.
+The Nikah itself (the contract with its pillars) is the Islamic marriage. There is no required ceremony beyond this. However, it is Sunnah to announce the marriage (so it is not secret) and to hold a _Walimah_, a wedding feast, even a simple one, to celebrate and announce the marriage to the community. The Walimah can be a simple gathering with food. It does not need to be elaborate.
 
 </details>

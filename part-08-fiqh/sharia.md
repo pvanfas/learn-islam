@@ -1,6 +1,6 @@
 # Understanding Sharia What It Actually Means
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 8 Islamic Law (Fiqh & Sharia)
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 8: Islamic Law (Fiqh & Sharia)
 
 ---
 
@@ -117,10 +117,10 @@ When a new situation arises not addressed by the earlier sources, scholars ident
 
 ### Additional Secondary Sources (used by different schools):
 
-- **Istihsan** juristic preference (Hanafi)
-- **Maslahah Mursalah** public interest (Maliki)
-- **Sadd al-Dhara'i** blocking the means to harm
-- **'Urf** customary practice of a people (when not contrary to Sharia)
+- **Istihsan:** juristic preference (Hanafi)
+- **Maslahah Mursalah:** public interest (Maliki)
+- **Sadd al-Dhara'i:** blocking the means to harm
+- **'Urf:** customary practice of a people (when not contrary to Sharia)
 
 ---
 

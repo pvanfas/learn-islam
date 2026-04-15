@@ -1,6 +1,6 @@
 # The Makkan Period Patience Under Persecution
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 6 Seerah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 6: Seerah
 
 ---
 

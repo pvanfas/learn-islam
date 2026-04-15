@@ -1,6 +1,6 @@
 # Performing the Prayer Step by Step
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~15 min &nbsp;|&nbsp; **Part:** Part 4 The Five Pillars Salah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~15 min &nbsp;|&nbsp; **Part:** Part 4: The Five Pillars Salah
 
 ---
 

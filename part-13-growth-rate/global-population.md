@@ -1,6 +1,6 @@
 # Islam's Growth Rate Today The World's Fastest-Growing Religion
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 13 Islam's Growth Rate
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 13: Islam's Growth Rate
 
 ---
 
@@ -51,7 +51,7 @@
 **Notable observations:**
 
 - The **Arab world** (all Arab countries combined) contains only about **20% of global Muslims**
-- **South and Southeast Asia** contain the largest concentrations of Muslims
+- **South and Southeast Asia:** contain the largest concentrations of Muslims
 - **Sub-Saharan Africa** is the fastest-growing Muslim region
 
 ---
@@ -80,7 +80,7 @@ Conversion adds to Islam's growth, particularly in the West. While conversion st
 - Approximately **20,00040,000 people** convert to Islam annually in the United States
 - Several hundred thousand conversions per year are estimated globally
 - Net conversion (accounting for those who leave Islam) is positive more people enter than leave
-- **Women** convert to Islam at higher rates than men in Western countries the opposite of most religious conversion patterns
+- **Women:** convert to Islam at higher rates than men in Western countries the opposite of most religious conversion patterns
 
 ---
 

@@ -1,12 +1,12 @@
-# Zakat vs. Sadaqah Obligatory and Voluntary Charity
+# Zakat vs. Sadaqah: Obligatory and Voluntary Charity
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Zakat
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Zakat
 
 ---
 
 ## In This Chapter
 
-> Islam has two categories of charity Zakat, which is obligatory and precisely defined, and Sadaqah, which is voluntary and encompasses an extraordinarily broad range of acts. Understanding both their differences, their rewards, and how they complement each other transforms the Muslim's relationship with wealth and giving.
+> Islam has two categories of charity: Zakat, which is obligatory and precisely defined, and Sadaqah, which is voluntary and encompasses an extraordinarily broad range of acts. Understanding both their differences, their rewards, and how they complement each other transforms the Muslim's relationship with wealth and giving.
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Translation:** "Righteousness is not that you turn your faces toward the east or the west, but true righteousness is in one who believes in Allah, the Last Day, the angels, the Book, and the prophets and gives wealth despite loving it to relatives, orphans, the needy, the traveler, those who ask, and for the freeing of slaves..."
 
-_True righteousness is not ritual performance alone it is expressed concretely through giving._
+_True righteousness is not ritual performance alone. It is expressed concretely through giving._
 {% endhint %}
 
 ---
@@ -27,15 +27,15 @@ _True righteousness is not ritual performance alone it is expressed concretely t
 | Feature                     | Zakat                                             | Sadaqah                                                      |
 | --------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
 | **Status**                  | Obligatory (_Fard_)                               | Voluntary (_Nafl_)                                           |
-| **Amount**                  | Specified (2.5% of zakatable wealth)              | No limit give as much or as little as you wish               |
-| **Recipients**              | Eight specified categories (Surah At-Tawbah 9:60) | Anyone in need Muslim or non-Muslim                          |
+| **Amount**                  | Specified (2.5% of zakatable wealth)              | No limit: give as much or as little as you wish               |
+| **Recipients**              | Eight specified categories (Surah At-Tawbah 9:60) | Anyone in need, Muslim or non-Muslim                          |
 | **Timing**                  | Due after one full lunar year above Nisab         | Any time                                                     |
-| **Consequence of omission** | Sinful a pillar of Islam abandoned                | No sin but significant missed reward                         |
+| **Consequence of omission** | Sinful: a pillar of Islam abandoned                | No sin, but significant missed reward                         |
 | **Purpose**                 | Purification of wealth; fulfillment of obligation | Additional good; building character; relationship with Allah |
 
 ---
 
-## Sadaqah The Vast World of Voluntary Charity
+## Sadaqah: The Vast World of Voluntary Charity
 
 Sadaqah is one of the most expansive concepts in Islamic ethics. The Prophet described it in ways that make every Muslim a potential giver regardless of wealth:
 
@@ -65,7 +65,7 @@ _"Your smile in the face of your brother is Sadaqah."_
 
 ---
 
-## Sadaqah Jariyah The Ongoing Charity
+## Sadaqah Jariyah: The Ongoing Charity
 
 {% hint style="info" %}
 **Hadith Sahih Muslim**
@@ -73,7 +73,7 @@ _"Your smile in the face of your brother is Sadaqah."_
 *"When a person dies, all their actions come to an end except three: ongoing Sadaqah (*Sadaqah Jariyah*), knowledge that others benefit from, or a righteous child who prays for them."*
 {% endhint %}
 
-**Sadaqah Jariyah** (ongoing charity) is perhaps the most powerful investment a Muslim can make it continues to generate reward after death:
+**Sadaqah Jariyah** (ongoing charity) is perhaps the most powerful investment a Muslim can make. It continues to generate reward after death:
 
 | Sadaqah Jariyah                       | How it continues                                     |
 | ------------------------------------- | ---------------------------------------------------- |
@@ -92,9 +92,9 @@ _"Your smile in the face of your brother is Sadaqah."_
 {% hint style="info" %}
 **Surah Al-Baqarah 2:261**
 
-**Translation:** "The example of those who spend their wealth in the way of Allah is like a seed which grows seven spikes in each spike is a hundred grains. Allah multiplies for whom He wills. And Allah is all-Encompassing and Knowing."
+**Translation:** "The example of those who spend their wealth in the way of Allah is like a seed which grows seven spikes, in each spike is a hundred grains. Allah multiplies for whom He wills. And Allah is all-Encompassing and Knowing."
 
-_700-fold reward for Sadaqah given sincerely. And the verse ends: "Allah multiplies for whom He wills" the actual multiplier may be far greater._
+_700-fold reward for Sadaqah given sincerely. And the verse ends: "Allah multiplies for whom He wills", the actual multiplier may be far greater._
 {% endhint %}
 
 {% hint style="info" %}
@@ -125,7 +125,7 @@ The Prophet mentioned seven people who will be under Allah's shade on the Day of
 
 ---
 
-## Practical Giving Building a Habit
+## Practical Giving: Building a Habit
 
 **Start small but consistent:**
 
@@ -148,7 +148,7 @@ _"The most beloved deeds to Allah are those that are most consistent, even if th
 ## Key Takeaways
 
 - Zakat is obligatory (2.5% above Nisab, eight Quranic recipients), Sadaqah is voluntary (unlimited, anyone in need).
-- Sadaqah is vastly broader than financial giving a smile, a kind word, removing harm from the road are all Sadaqah.
-- Sadaqah Jariyah (ongoing charity) continues to earn reward after death among the three things that don't stop with death.
-- The reward of Sadaqah is multiplied up to 700 times or more and charity does not decrease wealth.
+- Sadaqah is vastly broader than financial giving. A smile, a kind word, removing harm from the road are all Sadaqah.
+- Sadaqah Jariyah (ongoing charity) continues to earn reward after death, among the three things that don't stop with death.
+- The reward of Sadaqah is multiplied up to 700 times or more, and charity does not decrease wealth.
 - Giving secretly is the highest form; Friday and Ramadan are optimal times; consistency is more beloved than quantity.

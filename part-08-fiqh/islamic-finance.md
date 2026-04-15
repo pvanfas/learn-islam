@@ -1,6 +1,6 @@
 # Islamic Finance Riba, Prohibition, and Halal Alternatives
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 8 Islamic Law
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 8: Islamic Law
 
 ---
 
@@ -30,7 +30,7 @@
 ## The Quranic Prohibition of Riba
 
 {% hint style="info" %}
-**Surah Al-Baqarah 2:275279**
+**Surah Al-Baqarah 2:275-279**
 
 **Translation:** "Those who consume Riba cannot stand except as one stands who is being beaten by Satan into insanity. That is because they say: 'Trade is like Riba.' But Allah has permitted trade and has forbidden Riba... O you who have believed, fear Allah and give up what remains of Riba, if you should be believers. And if you do not then be informed of a war from Allah and His Messenger..."
 {% endhint %}

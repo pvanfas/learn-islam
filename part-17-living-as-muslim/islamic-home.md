@@ -1,6 +1,6 @@
 # Building an Islamic Home
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 17 Living as a Muslim
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 17: Living as a Muslim
 
 ---
 
@@ -93,7 +93,7 @@ The Quran's command:
 ### The Parent-Child Relationship
 
 {% hint style="info" %}
-**Surah Al-Isra 17:2324**
+**Surah Al-Isra 17:23-24**
 
 **Translation:** "And your Lord has decreed that you not worship except Him, and to parents, good treatment. Whether one or both of them reach old age with you say not to them even 'uff' and do not repel them but speak to them a noble word. And lower to them the wing of humility out of mercy and say: 'My Lord, have mercy upon them as they brought me up when I was small.'"
 {% endhint %}

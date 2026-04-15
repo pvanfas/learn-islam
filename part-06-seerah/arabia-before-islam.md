@@ -1,6 +1,6 @@
 # Arabia Before Islam The World the Prophet Was Born Into
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 6 Seerah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 6: Seerah
 
 ---
 
@@ -45,7 +45,7 @@ The Arabic word _Jahiliyyah_ is commonly translated as "ignorance" but it is mor
 One of the most horrific practices was the burying alive of newborn girls out of fear of shame or poverty. The Quran described and condemned it:
 
 {% hint style="info" %}
-**Surah An-Nahl 16:5859**
+**Surah An-Nahl 16:58-59**
 
 **Translation:** "And when one of them is informed of the birth of a female, his face becomes dark and he suppresses grief. He hides himself from the people because of the ill of which he has been informed. Should he keep it in humiliation, or bury it in the ground? Unquestionably, evil is what they decide."
 {% endhint %}

@@ -1,6 +1,6 @@
-# The Shahada The Declaration of Faith
+# The Shahada: The Declaration of Faith
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Pillar 1
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Pillar 1
 
 ---
 
@@ -33,7 +33,7 @@ This is not simply "God exists." It is a two-part declaration:
 - **Negation** (_Nafy_): _"La ilaha"_ "There is no god" rejecting every false object of worship, every false loyalty, every ultimate attachment other than the One
 - **Affirmation** (_Ithbat_): _"illa Allah"_ "except Allah" affirming that the only legitimate object of ultimate worship, fear, hope, and love is the Creator
 
-This formula negate everything false, affirm the one truth is the most revolutionary statement in human history. It liberated people from servitude to kings, priests, idols, social pressure, and the ego and placed them in servitude only to the One who created them.
+This formula, negate everything false, affirm the one truth, is the most revolutionary statement in human history. It liberated people from servitude to kings, priests, idols, social pressure, and the ego, and placed them in servitude only to the One who created them.
 
 ### "Muhammadun Rasulullah" مُحَمَّدٌ رَّسُولُ اللَّه
 
@@ -43,7 +43,7 @@ Accepting that Muhammad is the Messenger of Allah means:
 - His example (Sunnah) is the model to be followed
 - His guidance defines what the first part of the Shahada actually requires in practice
 
-Without the second part, the first part becomes a person's private interpretation of God which history shows leads inevitably to distortion.
+Without the second part, the first part becomes a person's private interpretation of God, which history shows leads inevitably to distortion.
 
 ---
 
@@ -53,42 +53,42 @@ Merely pronouncing the words is not sufficient. The Shahada requires seven inter
 
 | #   | Condition                  | Arabic                 | What It Means                                                     |
 | --- | -------------------------- | ---------------------- | ----------------------------------------------------------------- |
-| 1   | **Knowledge**              | العِلْم Al-Ilm         | Knowing what the Shahada means not just saying the words          |
-| 2   | **Certainty**              | اليَقِين Al-Yaqin      | Being certain it is true not doubting                             |
-| 3   | **Sincerity**              | الإِخلاص Al-Ikhlas     | Saying it for Allah's sake not for worldly benefit                |
-| 4   | **Truthfulness**           | الصِّدق As-Sidq        | The heart matching the tongue not hypocrisy                       |
+| 1   | **Knowledge**              | العِلْم Al-Ilm         | Knowing what the Shahada means, not just saying the words          |
+| 2   | **Certainty**              | اليَقِين Al-Yaqin      | Being certain it is true, not doubting                             |
+| 3   | **Sincerity**              | الإِخلاص Al-Ikhlas     | Saying it for Allah's sake, not for worldly benefit                |
+| 4   | **Truthfulness**           | الصِّدق As-Sidq        | The heart matching the tongue, not hypocrisy                       |
 | 5   | **Love**                   | المَحَبَّة Al-Mahabbah | Loving Allah and the Prophet and what the Shahada entails         |
-| 6   | **Submission**             | الإِنقِياد Al-Inqiyad  | Submitting to its requirements not picking and choosing           |
+| 6   | **Submission**             | الإِنقِياد Al-Inqiyad  | Submitting to its requirements, not picking and choosing           |
 | 7   | **Rejection of falsehood** | القَبُول Al-Qabul      | Accepting the Shahada's implications and rejecting all it negates |
 
 {% hint style="tip" %}
-**The Companions' teaching:** The Companions taught that many people in Makkah _knew_ the Prophet was telling the truth but rejected out of arrogance (Abu Jahl), stubbornness, or worldly interest. Knowledge without the other six conditions does not save.
+**The Companions' teaching:** The Companions taught that many people in Makkah _knew_ the Prophet was telling the truth, but rejected out of arrogance (Abu Jahl), stubbornness, or worldly interest. Knowledge without the other six conditions does not save.
 {% endhint %}
 
 ---
 
-## Entering Islam Taking the Shahada
+## Entering Islam: Taking the Shahada
 
 For someone coming to Islam from outside, taking the Shahada formally:
 
 1. **Sincerely believe** in its meaning in the heart
 2. **Pronounce it aloud** in Arabic with a witness (ideally, though not strictly required)
 3. **Perform Ghusl** (ritual bath) recommended by most scholars for the new Muslim
-4. **Learn the basics** Wudu, Salah, the fundamental beliefs as soon as possible
+4. **Learn the basics.** Wudu, Salah, the fundamental beliefs as soon as possible
 
 There is no priesthood, no ceremony, no bureaucracy. A person becomes Muslim the moment they sincerely declare the Shahada with full belief even alone.
 
 {% hint style="info" %}
 **The Prophet said:** _"I have been ordered to fight people until they say: 'There is no god but Allah' and whoever says it, their blood and property are protected, and their reckoning is with Allah."_ (Sahih al-Bukhari)
 
-_This shows that the Shahada is the entrance into the protected community of Islam its sincere utterance is all that is externally required._
+_This shows that the Shahada is the entrance into the protected community of Islam. Its sincere utterance is all that is externally required._
 {% endhint %}
 
 ---
 
 ## Renewing the Shahada
 
-The Shahada is not a one-time event it is renewed:
+The Shahada is not a one-time event. It is renewed:
 
 - In every call to prayer (_Adhan_)
 - In every _Tashahhud_ of every prayer
@@ -107,7 +107,7 @@ The believer who lives the Shahada deeply says it not as words but as the consta
 The Prophet said: _"Whose last words are 'La ilaha illallah' will enter Paradise."_
 {% endhint %}
 
-This is why Muslims remind the dying to say the Shahada not to force it, but to offer the greatest mercy: that the last thing the heart holds as it departs is the truth that illuminated its entire journey.
+This is why Muslims remind the dying to say the Shahada, not to force it, but to offer the greatest mercy: that the last thing the heart holds as it departs is the truth that illuminated its entire journey.
 
 ---
 

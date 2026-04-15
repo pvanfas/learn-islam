@@ -1,6 +1,6 @@
 # Common Misconceptions About Islam
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 1 Before You Begin
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 1: Before You Begin
 
 ---
 
@@ -15,7 +15,7 @@
 When a religion has 1.9 billion followers worldwide, across many cultures and languages, broad generalizations are almost always inaccurate. The misconceptions below are not dismissed casually. Each one is addressed with historical evidence, Quranic verses, and reasoning, so that the reader can evaluate the answer, not just accept it.
 
 {% hint style="tip" %}
-**Approach:** Islam's own tradition values honest questioning. The Quran repeatedly invites people to think, reflect, and examine evidence. _"Do they not reflect?"_ appears multiple times. Questioning is not the problem inaccurate answers are.
+**Approach:** Islam's own tradition values honest questioning. The Quran repeatedly invites people to think, reflect, and examine evidence. _"Do they not reflect?"_ appears multiple times. Questioning is not the problem. Inaccurate answers are.
 {% endhint %}
 
 ---
@@ -40,12 +40,12 @@ _This verse was revealed in Madinah at the height of the Prophet's political and
 
 **Historical reality:** Islam spread most rapidly through trade, scholarship, and the character of Muslim merchants, not through armies. Indonesia is the world's largest Muslim-majority country. No Muslim army ever invaded it. Islam arrived through Indian Ocean trade routes, carried by merchants whose honesty and integrity impressed local populations. The same is true of much of sub-Saharan Africa, Malaysia, and China.
 
-**What actually happened during conquests:** When Muslim armies did conquer territories such as Egypt, Persia, and Spain non-Muslim populations were **not** forced to convert. They were given protected status (_Dhimmi_) and allowed to practice their religion, own property, and maintain their communities. The Coptic Christians of Egypt remained a significant population for centuries under Muslim rule. Jews expelled from Spain in 1492 by the Catholic Inquisition were _welcomed_ into the Ottoman Empire.
+**What actually happened during conquests:** When Muslim armies did conquer territories such as Egypt, Persia, and Spain non-Muslim populations were **not** forced to convert. They were given protected status (_Dhimmi_), and allowed to practice their religion, own property, and maintain their communities. The Coptic Christians of Egypt remained a significant population for centuries under Muslim rule. Jews expelled from Spain in 1492 by the Catholic Inquisition were _welcomed_ into the Ottoman Empire.
 
 **Historian Thomas Arnold**, a non-Muslim scholar, wrote after extensive research that he found no evidence of forced mass conversion in Islamic history, and that the rapid spread of Islam was far more attributable to its theological simplicity and moral appeal.
 
 {% hint style="warning" %}
-**Fair acknowledgment:** There were periods and rulers in Islamic history who acted violently and unjustly. Islamic scholarship itself criticizes these deviations from the Prophet's example. The actions of imperfect rulers do not represent the religion's teaching just as the Crusades do not represent the core of Christianity.
+**Fair acknowledgment:** There were periods and rulers in Islamic history who acted violently and unjustly. Islamic scholarship itself criticizes these deviations from the Prophet's example. The actions of imperfect rulers do not represent the religion's teaching, just as the Crusades do not represent the core of Christianity.
 {% endhint %}
 
 ---
@@ -79,9 +79,9 @@ The Prophet said: _"The best of you are those who are best to their wives."_
 
 ### Separating Culture from Religion
 
-Many practices that appear to oppress women forced marriages, honour killings, female genital mutilation, preventing women from driving or working are **cultural practices** condemned by Islamic scholarship, not Islamic teachings. The Quran and authentic Sunnah do not support these practices.
+Many practices that appear to oppress women, such as forced marriages, honour killings, female genital mutilation, preventing women from driving or working, are **cultural practices** condemned by Islamic scholarship, not Islamic teachings. The Quran and authentic Sunnah do not support these practices.
 
-Khadijah (RA), the Prophet's first wife, was a successful businesswoman and merchant who employed men including the Prophet himself before their marriage. Aisha (RA) became one of the greatest scholars of hadith in Islamic history, teaching both men and women. These are not footnotes they are central figures in early Islam.
+Khadijah (RA), the Prophet's first wife, was a successful businesswoman and merchant who employed men including the Prophet himself before their marriage. Aisha (RA) became one of the greatest scholars of hadith in Islamic history, teaching both men and women. These are not footnotes. They are central figures in early Islam.
 
 {% hint style="warning" %}
 **Honest note:** There are genuine debates within Islamic scholarship about certain rulings related to women in areas of testimony, inheritance, and leadership. These debates are real, ongoing, and deserve serious engagement, not dismissal. The mainstream position of classical scholarship has internal logic rooted in specific social and legal contexts, though contemporary scholars continue to discuss their application today.
@@ -91,9 +91,9 @@ Khadijah (RA), the Prophet's first wife, was a successful businesswoman and merc
 
 ## Misconception 3: "Muslims Worship Muhammad "
 
-This misconception is understandable, given how deeply Muslims revere the Prophet but it is incorrect.
+This misconception is understandable, given how deeply Muslims revere the Prophet, but it is incorrect.
 
-Muslims do **not** worship Muhammad . Islam's most foundational principle Tawhid is the absolute oneness of God. Associating partners with God, including prophets, is the one thing Islam most explicitly and categorically prohibits.
+Muslims do **not** worship Muhammad . Islam's most foundational principle, Tawhid, is the absolute oneness of God. Associating partners with God, including prophets, is the one thing Islam most explicitly and categorically prohibits.
 
 When the Prophet died in 632 CE, his close companion Umar ibn al-Khattab (RA) was so distraught that he stood up and declared that anyone who said the Prophet had died would be killed. It was Abu Bakr (RA) who composed himself, entered the mosque, and said:
 
@@ -111,9 +111,9 @@ Muslims send blessings upon the Prophet (_Salawat_), love him deeply, and follow
 
 ## Misconception 4: "Allah Is a Different God"
 
-Allah (اللّٰه) is simply the **Arabic word for God** the same God of Abraham, Moses, and Jesus. It is not a different deity.
+Allah (اللّٰه) is simply the **Arabic word for God**, the same God of Abraham, Moses, and Jesus. It is not a different deity.
 
-Arab Christians prayed to "Allah" long before Islam. The Aramaic word Jesus likely used for God _Alaha_ is linguistically related. The Arabic Bible translates "God" as "Allah." Indonesian Christians who speak Arabic say "Allah."
+Arab Christians prayed to "Allah" long before Islam. The Aramaic word Jesus likely used for God, _Alaha_, is linguistically related. The Arabic Bible translates "God" as "Allah." Indonesian Christians who speak Arabic say "Allah."
 
 The difference between Islam and other Abrahamic faiths is not _who_ God is, but _how_ God has revealed Himself and what His nature is. Muslims reject the concept of the Trinity and divine incarnation not because they worship a different God, but because they understand the God of Abraham differently.
 
@@ -121,7 +121,7 @@ The difference between Islam and other Abrahamic faiths is not _who_ God is, but
 
 ## Misconception 5: "Jihad Means Holy War"
 
-The Arabic word **Jihad** (جِهَاد) means _struggle_ or _striving_. It does not mean "holy war" that phrase does not exist in Arabic Islamic literature.
+The Arabic word **Jihad** (جِهَاد) means _struggle_ or _striving_. It does not mean "holy war." That phrase does not exist in Arabic Islamic literature.
 
 Islamic scholarship recognizes Jihad in multiple forms:
 
@@ -183,7 +183,7 @@ Attributing terrorism to Islam based on the actions of a small extremist minorit
 
 ## Misconception 8: "All Muslims Are the Same"
 
-1.9 billion people spanning over 50 countries, hundreds of languages, and dozens of ethnic backgrounds cannot be reduced to a single profile. A Bosnian Muslim, a Nigerian Muslim, a Chinese Muslim, an American Muslim, and a Pakistani Muslim may share core beliefs Tawhid, the Quran, the Five Pillars while differing significantly in culture, practice, dress, language, and even some jurisprudential positions.
+1.9 billion people spanning over 50 countries, hundreds of languages, and dozens of ethnic backgrounds cannot be reduced to a single profile. A Bosnian Muslim, a Nigerian Muslim, a Chinese Muslim, an American Muslim, and a Pakistani Muslim may share core beliefs, such as Tawhid, the Quran, the Five Pillars, while differing significantly in culture, practice, dress, language, and even some jurisprudential positions.
 
 Islam's diversity is part of its design. The Quran states:
 
@@ -199,12 +199,12 @@ Islam's diversity is part of its design. The Quran states:
 
 - Islam explicitly prohibits forced conversion _"There is no compulsion in religion."_
 - Islam granted women rights in the 7th century that the West did not recognize for over a thousand years.
-- Muslims do not worship Muhammad worship is directed exclusively to Allah alone.
-- Allah is the Arabic word for God the same God of Abraham, Moses, and Jesus.
-- Jihad means _striving_ its most important form is the internal struggle against one's own ego.
+- Muslims do not worship Muhammad. Worship is directed exclusively to Allah alone.
+- Allah is the Arabic word for God, the same God of Abraham, Moses, and Jesus.
+- Jihad means _striving._ Its most important form is the internal struggle against one's own ego.
 - Only 20% of Muslims are Arab. Islam is explicitly universal, for all of humanity.
 - Terrorism is condemned by mainstream Islamic scholarship worldwide with explicit evidential refutations.
-- Muslims are 1.9 billion diverse individuals no single profile applies.
+- Muslims are 1.9 billion diverse individuals. No single profile applies.
 
 ---
 

@@ -1,6 +1,6 @@
 # Islamic Dress for Women Hijab, Niqab & Modesty
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 9 Islamic Dress & Appearance
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 9: Islamic Dress & Appearance
 
 ---
 

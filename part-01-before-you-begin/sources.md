@@ -1,6 +1,6 @@
 # A Note on Sources
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 1 Before You Begin
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 1: Before You Begin
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Arabic   | Transliteration | Meaning                                      |
 | -------- | --------------- | -------------------------------------------- |
-| قُرْآن   | Quran           | The recitation God's revealed word           |
-| سُنَّة   | Sunnah          | The Prophet's way actions, speech, approvals |
+| قُرْآن   | Quran           | The recitation: God's revealed word           |
+| سُنَّة   | Sunnah          | The Prophet's way: actions, speech, approvals |
 | حَدِيث   | Hadith          | A recorded saying or action of the Prophet   |
 | إِجْمَاع | Ijma'           | Scholarly consensus                          |
 | قِيَاس   | Qiyas           | Analogical reasoning                         |
@@ -37,9 +37,9 @@ The Quran is the **primary, supreme, and unquestioned source** of Islamic knowle
 **Its unique features:**
 
 - Preserved in Arabic in its original form unchanged since the time of the Prophet .
-- Over **10 million Muslims** (_Huffaz_) have memorized the entire Quran letter by letter the largest oral preservation project in human history.
+- Over **10 million Muslims** (_Huffaz_) have memorized the entire Quran letter by letter, the largest oral preservation project in human history.
 - It was written down during the Prophet's lifetime and compiled into a standard written form under the Caliph Uthman (RA) within 20 years of the Prophet's death.
-- When the Quran speaks clearly on a matter, there is no room for disagreement it is the final word.
+- When the Quran speaks clearly on a matter, there is no room for disagreement. It is the final word.
 
 {% hint style="info" %}
 **Surah Al-Hijr 15:9**
@@ -48,27 +48,27 @@ _إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَ�
 
 **Translation:** "Indeed, it is We who sent down the reminder [the Quran], and indeed, We will be its guardian."
 
-_Muslims believe this verse is both a promise and a fact of history the Quran is the only ancient religious text that exists in its original language without a single documented variant._
+_Muslims believe this verse is both a promise and a fact of history. The Quran is the only ancient religious text that exists in its original language without a single documented variant._
 {% endhint %}
 
 ---
 
 ### Source 2 - The Sunnah (Hadith)
 
-The **Sunnah** is the way of the Prophet Muhammad his words, actions, and silent approvals, as recorded in the **Hadith** literature.
+The **Sunnah** is the way of the Prophet Muhammad: his words, actions, and silent approvals, as recorded in the **Hadith** literature.
 
 The Quran is often a text of principles. The Sunnah is how those principles were lived. For example:
 
 - The Quran commands Muslims to pray (_Salah_) but does not detail how to pray.
-- The Sunnah shows exactly how the Prophet prayed and Muslims have followed that example for 1,400 years.
+- The Sunnah shows exactly how the Prophet prayed, and Muslims have followed that example for 1,400 years.
 
 {% hint style="info" %}
 **Surah Al-Hashr 59:7**
 
-**Translation:** "And whatever the Messenger gives you take it. And whatever he forbids you from refrain from it."
+**Translation:** "And whatever the Messenger gives you, take it. And whatever he forbids you from, refrain from it."
 {% endhint %}
 
-The Hadith were collected, verified, and graded by scholars over the first three centuries of Islam using a rigorous system of source verification (_Isnad_ chain of narrators). The result was the Six Major Hadith Collections (_Kutub al-Sittah_), the most authoritative being _Sahih al-Bukhari_ and _Sahih Muslim_, which contain only hadith whose chains of narration were verified to the highest standard.
+The Hadith were collected, verified, and graded by scholars over the first three centuries of Islam using a rigorous system of source verification (_Isnad_, chain of narrators). The result was the Six Major Hadith Collections (_Kutub al-Sittah_), the most authoritative being _Sahih al-Bukhari_ and _Sahih Muslim_, which contain only hadith whose chains of narration were verified to the highest standard.
 
 ---
 
@@ -82,7 +82,7 @@ When the scholars of a generation reach unanimous agreement on a ruling or inter
 
 For situations that arise after the Prophet's time and are not directly addressed by Quran or Sunnah, scholars use analogical reasoning. They identify the cause (_'illah_) behind an existing ruling and apply it to the new situation.
 
-**Example:** Alcohol is prohibited in Islam because of its intoxicating effect. By analogy, all intoxicating substances including modern narcotics fall under the same prohibition, even though they didn't exist in 7th-century Arabia.
+**Example:** Alcohol is prohibited in Islam because of its intoxicating effect. By analogy, all intoxicating substances, including modern narcotics, fall under the same prohibition, even though they didn't exist in 7th-century Arabia.
 
 ---
 
@@ -93,7 +93,7 @@ Islamic knowledge is not a matter of personal reading and conclusion. The tradit
 This does not mean ordinary Muslims cannot read the Quran or hadith. It means that **deriving legal rulings** from those sources (_Ijtihad_) requires deep training in Arabic language, Quranic sciences, hadith criticism, principles of jurisprudence, and historical context.
 
 {% hint style="warning" %}
-**Important:** Just because someone quotes a verse from the Quran or a hadith does not mean their interpretation is correct. Context, Arabic grammar, the science of abrogation (_Naskh_), and the understanding of the Companions all affect interpretation. This is why Islamic scholarship is a discipline not a hobby.
+**Important:** Just because someone quotes a verse from the Quran or a hadith does not mean their interpretation is correct. Context, Arabic grammar, the science of abrogation (_Naskh_), and the understanding of the Companions all affect interpretation. This is why Islamic scholarship is a discipline, not a hobby.
 {% endhint %}
 
 ---
@@ -102,10 +102,10 @@ This does not mean ordinary Muslims cannot read the Quran or hadith. It means th
 
 Throughout this guide, you will encounter:
 
-- **Quranic references** cited as _Surah Name, Chapter:Verse_. Example: _Al-Baqarah 2:255_
-- **Hadith references** cited with the collector and grade. Example: _Sahih al-Bukhari 1/1_
-- **Scholarly positions** attributed to a school of thought (_Madhab_) or named scholar where relevant
-- **Difference of opinion** clearly flagged in yellow warning boxes, with the mainstream and minority positions both stated
+- **Quranic references:** cited as _Surah Name, Chapter:Verse_. Example: _Al-Baqarah 2:255_
+- **Hadith references:** cited with the collector and grade. Example: _Sahih al-Bukhari 1/1_
+- **Scholarly positions:** attributed to a school of thought (_Madhab_) or named scholar where relevant.
+- **Difference of opinion:** clearly flagged in yellow warning boxes, with the mainstream and minority positions both stated
 
 **Hadith grades you will encounter:**
 | Grade | Arabic | Meaning |
@@ -113,16 +113,16 @@ Throughout this guide, you will encounter:
 | Authentic | صَحِيح Sahih | Fully verified chain, reliable content |
 | Good | حَسَن Hasan | Slightly lower standard, still acceptable |
 | Weak | ضَعِيف Da'if | Problematic chain used with caution |
-| Fabricated | مَوْضُوع Mawdu' | Not from the Prophet rejected entirely |
+| Fabricated | مَوْضُوع Mawdu' | Not from the Prophet. Rejected entirely |
 
 ---
 
 ## Key Takeaways
 
 - Islamic knowledge has a structured hierarchy: Quran → Sunnah → Scholarly Consensus → Analogical Reasoning.
-- The Quran is the primary source preserved in Arabic, unchanged, and memorized by millions.
-- The Sunnah shows how the Quran is practically applied it is the Prophet's lived example.
-- Not every opinion about Islam represents Islam qualified scholarship requires years of structured study.
+- The Quran is the primary source, preserved in Arabic, unchanged, and memorized by millions.
+- The Sunnah shows how the Quran is practically applied. It is the Prophet's lived example.
+- Not every opinion about Islam represents Islam. Qualified scholarship requires years of structured study.
 - Hadith are graded by authenticity from Sahih (fully verified) to Mawdu' (fabricated and rejected).
 - This guide will always cite its sources so you can verify and go deeper.
 

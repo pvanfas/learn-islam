@@ -1,6 +1,6 @@
 # The Beginning of Revelation
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 6 Seerah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 6: Seerah
 
 ---
 

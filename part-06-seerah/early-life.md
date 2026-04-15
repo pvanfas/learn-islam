@@ -1,6 +1,6 @@
 # Early Life of the Prophet Muhammad
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 6 Seerah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 6: Seerah
 
 ---
 

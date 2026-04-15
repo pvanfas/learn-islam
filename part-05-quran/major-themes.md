@@ -1,12 +1,12 @@
 # Major Themes of the Quran
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 5 The Quran
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 5: The Quran
 
 ---
 
 ## In This Chapter
 
-> The Quran is not a book organized by topic its structure weaves together revelation responding to events, timeless theological principles, prophetic narratives, legal guidance, and calls to reflection. This chapter identifies and explores the Quran's major recurring themes, showing how they form a coherent vision of reality, humanity, and the divine.
+> The Quran is not a book organized by topic. Its structure weaves together revelation responding to events, timeless theological principles, prophetic narratives, legal guidance, and calls to reflection. This chapter identifies and explores the Quran's major recurring themes, showing how they form a coherent vision of reality, humanity, and the divine.
 
 ---
 
@@ -15,7 +15,7 @@
 {% hint style="info" %}
 **Surah Al-Baqarah 2:2**
 
-**Translation:** "This is the Book about which there is no doubt a guidance for the God-fearing."
+**Translation:** "This is the Book about which there is no doubt, a guidance for the God-fearing."
 
 **Surah Yunus 10:57**
 
@@ -28,7 +28,7 @@ _The Quran describes itself as: instruction (Mawizah), healing (Shifa'), guidanc
 
 ## Theme 1 - Tawhid: The Oneness of God
 
-Tawhid is not merely one topic among many in the Quran it is the ocean in which every other topic swims. The assertion that Allah is One in His being, His lordship, and His right to worship permeates every Surah, every narrative, every legal ruling.
+Tawhid is not merely one topic among many in the Quran. It is the ocean in which every other topic swims. The assertion that Allah is One in His being, His lordship, and His right to worship permeates every Surah, every narrative, every legal ruling.
 
 The Quran presents Tawhid through:
 
@@ -43,7 +43,7 @@ The Quran presents Tawhid through:
 Even those who associate partners with Allah acknowledge Him in moments of crisis _"And when they board a ship, they supplicate Allah, sincere to Him in religion. But when He delivers them to the land, at once they associate others with Him."_ (Surah Al-Ankabut 29:65)
 
 **The invitation to reflect:**
-Over 750 verses in the Quran invite humanity to use reason to arrive at the truth of Tawhid _"Do they not look at the sky above them?"_, _"Do they not travel through the earth?"_, _"Do they not see the ships?"_
+Over 750 verses in the Quran invite humanity to use reason to arrive at the truth of Tawhid. _"Do they not look at the sky above them?"_, _"Do they not travel through the earth?"_, _"Do they not see the ships?"_
 
 ---
 
@@ -86,7 +86,7 @@ No theme in the Quran is more emotionally vivid than the Hereafter. The Quran us
 **Translation:** "Allah does not burden a soul beyond that it can bear..."
 {% endhint %}
 
-The balance of hope and fear is characteristic of Quranic eschatology neither pure terror nor uncritical optimism.
+The balance of hope and fear is characteristic of Quranic eschatology, neither pure terror nor uncritical optimism.
 
 ---
 
@@ -99,12 +99,12 @@ The Quran has a consistent, passionate concern for those whom society marginaliz
 
 **Translation:** "Have you seen the one who denies the Recompense? That is the one who drives away the orphan, and does not encourage the feeding of the poor."
 
-_This Surah connects rejection of the Day of Judgement directly to neglect of social justice the two are inseparable in the Quran's moral vision._
+_This Surah connects rejection of the Day of Judgement directly to neglect of social justice. The two are inseparable in the Quran's moral vision._
 {% endhint %}
 
-Wealth in the Quran is never condemned but hoarding it, withholding Zakat, and using it to exploit the vulnerable are described with extraordinary severity. Surah Al-Humaza, Surah Al-Fajr, and multiple passages in Al-Baqarah and An-Nisa describe the fate of those who accumulate wealth at the expense of justice.
+Wealth in the Quran is never condemned, but hoarding it, withholding Zakat, and using it to exploit the vulnerable are described with extraordinary severity. Surah Al-Humaza, Surah Al-Fajr, and multiple passages in Al-Baqarah and An-Nisa describe the fate of those who accumulate wealth at the expense of justice.
 
-**The Quran on slavery:** The Quran did not abolish slavery in one decree but it created systematic pressure toward emancipation: freeing slaves as expiation for sins, encouraging it as virtuous, and describing the freeing of a slave as a _Raqabah_ (neck) one of the highest acts. Scholars like Ibn Ashur and Mahmoud Muhammad Taha have argued the Quran's trajectory was always toward complete abolition.
+**The Quran on slavery:** The Quran did not abolish slavery in one decree, but it created systematic pressure toward emancipation: freeing slaves as expiation for sins, encouraging it as virtuous, and describing the freeing of a slave as a _Raqabah_ (neck) one of the highest acts. Scholars like Ibn Ashur and Mahmoud Muhammad Taha have argued the Quran's trajectory was always toward complete abolition.
 
 ---
 
@@ -120,39 +120,39 @@ The Quran repeatedly directs attention to the natural world as a book of divine 
 
 The heavens, the earth, the alternation of day and night, the water cycle, the diversity of languages and colors, the behavior of birds and bees, the growth of plants all are presented as _Ayat_ (signs) inviting the thoughtful person to recognize the Creator.
 
-This is why Islamic civilization produced so much scientific inquiry studying nature was an act of religious devotion, not a secular enterprise. The natural world is a second revelation.
+This is why Islamic civilization produced so much scientific inquiry. Studying nature was an act of religious devotion, not a secular enterprise. The natural world is a second revelation.
 
 ---
 
 ## Theme 6 - Community, Family, and Social Ethics
 
-The Quran is not only a book of personal piety it is a comprehensive social vision:
+The Quran is not only a book of personal piety. It is a comprehensive social vision:
 
 **The family:**
 
 - Marriage as a covenant of mercy (Surah Ar-Rum 30:21)
-- Rights of parents second only to worship of Allah in Quranic emphasis
-- Rights of children including those of the unborn
+- Rights of parents, second only to worship of Allah in Quranic emphasis
+- Rights of children, including those of the unborn
 - Rights of orphans mentioned repeatedly alongside Zakat and prayer
 
 **Social relations:**
 
 - The brotherhood of all believers (_Surah Al-Hujurat 49:10_)
 - The equal dignity of all human beings regardless of race
-- Obligation of _Amr bil-Ma'ruf wa Nahy 'anil-Munkar_ commanding good and forbidding evil
+- Obligation of _Amr bil-Ma'ruf wa Nahy 'anil-Munkar_: commanding good and forbidding evil
 - The collective responsibility of the community for its weakest members
 
 **Governance:**
 
 - Consultation (_Shura_) as a principle of Islamic leadership
 - Justice even with enemies: _"Let not the hatred of a people prevent you from being just"_ (Surah Al-Ma'idah 5:8)
-- The ruler as steward (_Khalifah_) not owner
+- The ruler as steward (_Khalifah_), not owner
 
 ---
 
 ## Theme 7 - Dua and the Relationship with Allah
 
-Throughout the Quran, Allah directly addresses the believer in the first person creating a sense of intimate relationship:
+Throughout the Quran, Allah directly addresses the believer in the first person, creating a sense of intimate relationship:
 
 {% hint style="info" %}
 **Surah Al-Baqarah 2:186**
@@ -161,16 +161,16 @@ _وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي 
 
 **Translation:** "And when My servants ask you about Me indeed I am near. I respond to the call of the caller when he calls upon Me."
 
-_This verse does not say "tell them I am near" it says "I am near." Allah speaks directly, without intermediary, to every believer who reads this verse._
+_This verse does not say "tell them I am near." It says "I am near." Allah speaks directly, without intermediary, to every believer who reads this verse._
 {% endhint %}
 
-Dozens of duas in the Quran are attributed to the prophets Ibrahim, Musa, Yunus, Zakariyyah, Sulayman, Isa as models of how to call upon Allah in every human need. The Quran teaches Muslims not only what to believe but how to speak to the One they believe in.
+Dozens of duas in the Quran are attributed to the prophets, Ibrahim, Musa, Yunus, Zakariyyah, Sulayman, Isa, as models of how to call upon Allah in every human need. The Quran teaches Muslims not only what to believe but how to speak to the One they believe in.
 
 ---
 
 ## Theme 8 - The Quran's Challenge to Human Reason
 
-The Quran is unique among scriptures in its sustained appeal to rational evidence. It does not say "believe without questioning" it challenges its critics:
+The Quran is unique among scriptures in its sustained appeal to rational evidence. It does not say "believe without questioning." It challenges its critics:
 
 - _"Do they not reflect upon the Quran or are there locks upon their hearts?"_ (Surah Muhammad 47:24)
 - _"Say: Bring your proof if you are truthful."_ (Surah Al-Baqarah 2:111)
@@ -184,10 +184,10 @@ The Quran invites investigation, reflection, and critical engagement from its fi
 
 - The Quran's major themes form a coherent vision not a collection of unrelated topics.
 - **Tawhid** is the central ocean in which all other themes swim.
-- **Prophethood** normalizes the universal human experience of truth confronting opposition.
-- **The Hereafter** makes ethics ultimate grounding moral behavior in divine accountability.
-- **Justice** is inseparable from faith in the Quran neglecting the orphan and poor is connected to rejecting the Day of Judgement.
-- **Signs in creation** make the natural world a second revelation the basis for Islamic intellectual culture.
+- **Prophethood:** normalizes the universal human experience of truth confronting opposition.
+- **The Hereafter:** makes ethics ultimate, grounding moral behavior in divine accountability.
+- **Justice** is inseparable from faith in the Quran. Neglecting the orphan and poor is connected to rejecting the Day of Judgement.
+- **Signs in creation:** make the natural world a second revelation, the basis for Islamic intellectual culture.
 - **Community and family** are the social units through which Islamic values are embodied.
 - **Dua** is the language of the Quran's most intimate divine-human relationship.
-- **Reason** is invited throughout the Quran never asks for blind faith but for honest reflection.
+- **Reason** is invited throughout. The Quran never asks for blind faith, but for honest reflection.

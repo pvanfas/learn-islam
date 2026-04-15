@@ -1,6 +1,6 @@
 # Famous Reverts to Islam
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 14 Famous Reverts
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 14: Famous Reverts
 
 ---
 

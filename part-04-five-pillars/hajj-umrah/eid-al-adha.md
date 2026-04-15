@@ -1,6 +1,6 @@
 # Eid al-Adha The Feast of Sacrifice
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Hajj & Umrah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Hajj & Umrah
 
 ---
 

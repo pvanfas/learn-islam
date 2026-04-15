@@ -1,6 +1,6 @@
 # The Character of the Prophet Muhammad
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 6 Seerah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 6: Seerah
 
 ---
 
@@ -123,11 +123,11 @@ _Not from poverty alone but from choice. He gave away what came to him._
 
 The Prophet spoke with remarkable precision and impact. His speech was:
 
-- **Measured** he spoke at a pace that allowed listeners to count his words. He never rushed.
-- **Repeated** important points were said three times so they would be remembered.
-- **Simple** he spoke to people at their level of understanding. Aisha (RA) said he never spoke in the rapid speech that people today use.
-- **Kind** he never addressed someone by their flaws or weaknesses. He called people by their best names and titles.
-- **Honest** he never lied, even in diplomacy. He said: _"Truthfulness leads to righteousness, and righteousness leads to Paradise."_
+- **Measured:** he spoke at a pace that allowed listeners to count his words. He never rushed.
+- **Repeated:** important points were said three times so they would be remembered.
+- **Simple:** he spoke to people at their level of understanding. Aisha (RA) said he never spoke in the rapid speech that people today use.
+- **Kind:** he never addressed someone by their flaws or weaknesses. He called people by their best names and titles.
+- **Honest:** he never lied, even in diplomacy. He said: _"Truthfulness leads to righteousness, and righteousness leads to Paradise."_
 
 ---
 

@@ -1,6 +1,6 @@
 # Virtues and Character (_Akhlaq_) The Moral Foundation of Islam
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 16 Islamic Spirituality
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 16: Islamic Spirituality
 
 ---
 
@@ -125,9 +125,9 @@ The categories of generosity in Islam:
 
 Sabr as a virtue operates in three directions simultaneously:
 
-- **Patience in obeying Allah** continuing worship even when the nafs resists
-- **Patience in avoiding sin** holding back from what Allah prohibited
-- **Patience in hardship** not complaining or losing trust when trials come
+- **Patience in obeying Allah:** continuing worship even when the nafs resists
+- **Patience in avoiding sin:** holding back from what Allah prohibited
+- **Patience in hardship:** not complaining or losing trust when trials come
 
 {% hint style="info" %}
 **Surah Az-Zumar 39:10**

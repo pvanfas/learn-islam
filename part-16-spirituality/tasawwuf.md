@@ -1,6 +1,6 @@
 # Introduction to Tasawwuf (Islamic Spirituality)
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 16 Islamic Spirituality
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 16: Islamic Spirituality
 
 ---
 
@@ -72,9 +72,9 @@ The Quran presents the ultimate human success and failure in terms of what is do
 Orthodox Tasawwuf as practiced and taught by the classical scholars is a structured discipline for:
 
 1. **Identifying and removing the diseases of the heart** arrogance, envy, love of dunya, anger, Riya'
-2. **Cultivating the virtues** patience, gratitude, reliance on Allah, awe, love of Allah
-3. **Deepening the experience of worship** prayer, dhikr, and fasting as lived encounters with Allah, not mere rituals
-4. **Achieving Ihsan** the state of worshipping Allah with full presence and awareness
+2. **Cultivating the virtues:** patience, gratitude, reliance on Allah, awe, love of Allah
+3. **Deepening the experience of worship:** prayer, dhikr, and fasting as lived encounters with Allah, not mere rituals
+4. **Achieving Ihsan:** the state of worshipping Allah with full presence and awareness
 
 These goals are not only compatible with Sharia they ARE the inner dimension of Sharia. A Muslim who fulfills all the outward obligations perfectly but has a heart full of arrogance, hypocrisy, and attachment to dunya is missing the point of the entire religion.
 

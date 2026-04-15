@@ -1,6 +1,6 @@
 # The Farewell Sermon and the Prophet's Final Days
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 6 Seerah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 6: Seerah
 
 ---
 

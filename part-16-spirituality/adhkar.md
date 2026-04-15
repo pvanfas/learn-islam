@@ -16,7 +16,7 @@ The Prophet said: "The example of the one who remembers his Lord and the one who
 
 **1. Ayat al-Kursi** (Al-Baqarah 2:255) Recite once.
 
-**2. Al-Ikhlas, Al-Falaq, An-Nas** Recite each three times. "Whoever recites them three times in the morning and evening, they suffice him against everything." (Abu Dawud Sahih)
+**2. Al-Ikhlas, Al-Falaq, An-Nas.** Recite each three times. "Whoever recites them three times in the morning and evening, they suffice him against everything." (Abu Dawud Sahih)
 
 **3. Sayyid al-Istighfar** (Master of Seeking Forgiveness):
 

@@ -1,6 +1,6 @@
 # The Descent of Isa ibn Maryam (AS)
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 15 Signs of the Last Days
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 15: Signs of the Last Days
 
 ---
 
@@ -49,13 +49,13 @@ _Classical scholars interpret this as: every person from Ahl al-Kitab will belie
 
 The Islamic position on Isa (AS) is unique among world religions:
 
-- He was **not crucified** Allah raised him before crucifixion occurred
+- He was **not crucified.** Allah raised him before crucifixion occurred
 - He **did not die** he was raised alive to the heavens
 - He **will return** to the earth before the Day of Judgement
 - He **will die** a natural death on earth after his return and be buried in Madinah, next to the Prophet , according to narrations
 
 {% hint style="info" %}
-**Surah An-Nisa 4:157158**
+**Surah An-Nisa 4:157-158**
 
 **Translation:** "And for their saying: 'We killed the Messiah, Isa son of Maryam, the messenger of Allah.' But they did not kill him, nor did they crucify him but it was made to appear so to them... Rather, Allah raised him to Himself. And ever is Allah Exalted in Might and Wise."
 {% endhint %}

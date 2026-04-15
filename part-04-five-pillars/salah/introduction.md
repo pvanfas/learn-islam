@@ -1,6 +1,6 @@
 # Introduction to Salah The Islamic Prayer
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Salah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Salah
 
 ---
 
@@ -24,10 +24,10 @@ The five daily prayers were given to the Prophet directly during the Night Journ
 
 Each prayer consists of **Rak'ahs** (units) and follows a precise sequence:
 
-1. **Standing** Reciting Al-Fatihah and additional Quran
+1. **Standing.** Reciting Al-Fatihah and additional Quran
 2. **Bowing** (_Ruku'_) glorifying Allah's greatness
 3. **Prostration** (_Sujood_) the closest a human being comes to Allah
-4. **Sitting** the Tashahhud and blessings on the Prophet
+4. **Sitting:** the Tashahhud and blessings on the Prophet
 5. **Closing** (_Taslim_) the salam right and left
 
 ## Before You Can Pray
@@ -36,4 +36,4 @@ Three things are required before entering prayer:
 
 - **Wudu** (ritual purity) see [Preparation chapter](preparation.md)
 - **Knowing the Qiblah** (direction of Makkah)
-- **The prayer time must have entered** see [Prayer Times](prayer-times.md)
+- **The prayer time must have entered:** see [Prayer Times](prayer-times.md)

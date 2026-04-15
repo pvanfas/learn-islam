@@ -6,9 +6,9 @@
 
 ## What You Will Learn in This Part
 
-Before diving into beliefs, prayers, and practices, this part gives you the honest foundation you need. You will learn what Islam actually is not through headlines or assumptions, but through its own sources. You will see how it relates to Judaism and Christianity, who Muslims are as a global community, what the most common misunderstandings are, and where Islamic knowledge actually comes from.
+Before diving into beliefs, prayers, and practices, this part gives you the honest foundation you need. You will learn what Islam actually is, not through headlines or assumptions, but through its own sources. You will see how it relates to Judaism and Christianity, who Muslims are as a global community, what the most common misunderstandings are, and where Islamic knowledge actually comes from.
 
-If you are a complete newcomer, this is where to begin. If you already know the basics, a quick read through the misconceptions chapter is still worthwhile you may find nuances you hadn't considered.
+If you are a complete newcomer, this is where to begin. If you already know the basics, a quick read through the misconceptions chapter is still worthwhile. You may find nuances you hadn't considered.
 
 ---
 
@@ -26,9 +26,9 @@ If you are a complete newcomer, this is where to begin. If you already know the 
 ## How This Part Connects
 
 {% hint style="info" %}
-**← Before this:** [Choose Your Learning Path](../start-here/learning-paths.md) Pick the path that suits you.
+**← Before this:** [Choose Your Learning Path](../start-here/learning-paths.md). Pick the path that suits you.
 
-**→ After this:** [Part 2 Foundations of Belief (Aqeedah)](../part-02-aqeedah/README.md) The six pillars of Islamic faith explained clearly.
+**→ After this:** [Part 2: Foundations of Belief (Aqeedah)](../part-02-aqeedah/README.md). The six pillars of Islamic faith explained clearly.
 {% endhint %}
 
 ---
@@ -40,7 +40,7 @@ If you are a complete newcomer, this is where to begin. If you already know the 
 
 _اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ_
 
-**Translation:** "Read in the name of your Lord who created created man from a clinging substance. Read, and your Lord is the Most Generous who taught by the pen taught man that which he knew not."
+**Translation:** "Read in the name of your Lord who created. Created man from a clinging substance. Read, and your Lord is the Most Generous, who taught by the pen, taught man that which he knew not."
 
 _These were the very first words revealed to the Prophet Muhammad . Islam began with a command to read, to learn, and to seek knowledge._
 {% endhint %}

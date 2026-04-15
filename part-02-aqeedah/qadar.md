@@ -1,6 +1,6 @@
 # Belief in Divine Decree (Qadar)
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 2 Aqeedah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 2: Aqeedah
 
 ---
 
@@ -14,10 +14,10 @@
 
 | Arabic            | Transliteration | Meaning                                             |
 | ----------------- | --------------- | --------------------------------------------------- |
-| قَدَر             | Qadar           | Divine decree what Allah has destined               |
-| قَضَاء            | Qada'           | Divine judgement what comes to pass                 |
-| لَوْح الْمَحْفُوظ | Lawh al-Mahfuz  | The Preserved Tablet where all decrees are recorded |
-| إِرَادَة          | Iradah          | Will divine and human                               |
+| قَدَر             | Qadar           | Divine decree: what Allah has destined               |
+| قَضَاء            | Qada'           | Divine judgement: what comes to pass                 |
+| لَوْح الْمَحْفُوظ | Lawh al-Mahfuz  | The Preserved Tablet: where all decrees are recorded |
+| إِرَادَة          | Iradah          | Will: divine and human                               |
 | تَوَكُّل          | Tawakkul        | Reliance upon Allah after taking means              |
 | رِضَا             | Rida            | Contentment with Allah's decree                     |
 | صَبْر             | Sabr            | Patience in the face of hardship                    |
@@ -31,11 +31,11 @@
 
 _إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ_
 
-**Translation:** "Indeed, all things We created with Qadar with precise measure and decree."
+**Translation:** "Indeed, all things We created with Qadar, with precise measure and decree."
 {% endhint %}
 
 {% hint style="info" %}
-**Hadith of Jibreel Sahih Muslim**
+**Hadith of Jibreel, Sahih Muslim**
 
 When asked about faith, the Prophet included: _"...and to believe in divine decree, both its good and its evil."_
 {% endhint %}
@@ -46,7 +46,7 @@ When asked about faith, the Prophet included: _"...and to believe in divine decr
 
 Qadar is the Islamic belief that Allah has **complete and perfect knowledge** of everything that has happened, is happening, and will happen, and that everything in creation operates within His will and decree. Nothing occurs outside of His knowledge. Nothing is created except by Him.
 
-This does not mean that humans are robots or that free will is an illusion. Islamic theology holds both truths simultaneously, complete divine foreknowledge and genuine human choice, in a way that surpasses the full comprehension of created minds, but is consistent with both revelation and reason.
+This does not mean that humans are robots or that free will is an illusion. Islamic theology holds both truths simultaneously: complete divine foreknowledge and genuine human choice, in a way that surpasses the full comprehension of created minds, but is consistent with both revelation and reason.
 
 ---
 
@@ -58,7 +58,7 @@ Islamic scholars have outlined four dimensions of belief in Qadar:
 
 ### Level 1 - Knowledge (_Ilm_)
 
-Allah's knowledge is eternal, complete, and encompasses absolutely everything. He knew every soul that would ever exist, every choice they would make, every moment of their lives before creation itself began.
+Allah's knowledge is eternal, complete, and encompasses absolutely everything. He knew every soul that would ever exist, every choice they would make, every moment of their lives, before creation itself began.
 
 {% hint style="info" %}
 **Surah Al-Hadid 57:22**
@@ -66,7 +66,7 @@ Allah's knowledge is eternal, complete, and encompasses absolutely everything. H
 **Translation:** "No disaster strikes upon the earth or among yourselves except that it is in a register before We bring it into being. Indeed that, for Allah, is easy."
 {% endhint %}
 
-This knowledge is not acquired or updated; it is eternal. Allah did not learn what would happen. He has always known.
+This knowledge is not acquired or updated. It is eternal. Allah did not learn what would happen. He has always known.
 
 ---
 
@@ -108,7 +108,7 @@ Allah is the Creator of all things, including human actions. Whatever exists in 
 
 ---
 
-## Free Will and Qadar The Balance
+## Free Will and Qadar: The Balance
 
 This is the great theological question: _If Allah decreed everything and created all human actions, how can humans be held accountable?_
 
@@ -124,13 +124,13 @@ Islamic theology answers this through several key principles:
 **Translation:** "Allah does not burden a soul beyond that it can bear..."
 {% endhint %}
 
-**3. The Quran proves human accountability:** The entire moral and legal framework of the Quran, commands, prohibitions, rewards, and punishments, is premised on human choice being real. A God who then punished people for choices they had no part in would be unjust. And the Quran explicitly states that Allah does not commit the least injustice.
+**3. The Quran proves human accountability:** The entire moral and legal framework of the Quran, such as commands, prohibitions, rewards, and punishments, is premised on human choice being real. A God who then punished people for choices they had no part in would be unjust. And the Quran explicitly states that Allah does not commit the least injustice.
 
 **4. The mystery of the boundary:** Where exactly the boundary between human choice and divine will lies at the metaphysical level is acknowledged by Islamic scholars as beyond full human comprehension. The Salaf (early generations) accepted both truths, complete divine decree and human responsibility, without forcing an artificial resolution that distorts either.
 
 ---
 
-## Qadar in Practice How It Changes Your Life
+## Qadar in Practice: How It Changes Your Life
 
 Understanding Qadar is not a theological exercise. It is one of the most psychologically liberating beliefs a human being can hold.
 
@@ -146,7 +146,7 @@ The Prophet said: _"Know that if the whole world were to gather together to bene
 
 ### 2. It Transforms Hardship
 
-When difficulty comes, illness, loss, failure, Qadar teaches that this was decreed by the One who loves you more than your mother loves you, the One whose mercy precedes His anger, the One who never decrees something for a believer without a wisdom behind it.
+When difficulty comes, such as illness, loss, or failure, Qadar teaches that this was decreed by the One who loves you more than your mother loves you, the One whose mercy precedes His anger, the One who never decrees something for a believer without a wisdom behind it.
 
 {% hint style="info" %}
 **Hadith Sahih Muslim**
@@ -156,7 +156,7 @@ The Prophet said: _"Wondrous is the affair of the believer, for all of his affai
 
 ### 3. It Prevents Arrogance in Success
 
-When something good comes, wealth, health, honor, Qadar reminds the Muslim that this was a gift from Allah, not earned purely by one's own cleverness or effort. This cultivates gratitude (_Shukr_) and humility instead of pride.
+When something good comes, such as wealth, health, or honor, Qadar reminds the Muslim that this was a gift from Allah, not earned purely by one's own cleverness or effort. This cultivates gratitude (_Shukr_) and humility instead of pride.
 
 ### 4. It Prevents Paralysis in Action
 
@@ -174,7 +174,7 @@ Tawakkul (reliance on Allah) comes _after_ taking the available means, not inste
 
 ---
 
-## When Calamity Strikes The Response of Qadar
+## When Calamity Strikes: The Response of Qadar
 
 When a Muslim is struck by calamity, the Sunnah teaches them to say:
 
@@ -187,7 +187,7 @@ When a Muslim is struck by calamity, the Sunnah teaches them to say:
 _(Surah Al-Baqarah 2:156)_
 {% endhint %}
 
-This declaration _Istirja'_ is itself an act of faith. It acknowledges that everything belongs to Allah, everything returns to Allah, and, therefore, no loss is truly without meaning.
+This declaration, _Istirja'_, is itself an act of faith. It acknowledges that everything belongs to Allah, everything returns to Allah, and, therefore, no loss is truly without meaning.
 
 ---
 

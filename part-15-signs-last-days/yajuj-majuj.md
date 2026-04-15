@@ -1,6 +1,6 @@
 # Ya'juj and Ma'juj Gog and Magog
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 15 Signs of the Last Days
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 15: Signs of the Last Days
 
 ---
 
@@ -24,7 +24,7 @@
 ## Quranic Foundation
 
 {% hint style="info" %}
-**Surah Al-Kahf 18:9498**
+**Surah Al-Kahf 18:94-98**
 
 **Translation:** "They said: 'O Dhul-Qarnayn, indeed Ya'juj and Ma'juj are spreading corruption in the land. So may we assign you a payment that you build between us and them a barrier?' He said: 'That in which my Lord has established me is better but assist me with strength; I will make between you and them a dam. Bring me sheets of iron' until when he had leveled between the two cliffs, he said: 'Blow' until when he had made it a fire, he said: 'Bring me, that I may pour over it molten copper.' So they were unable to surmount it, nor were they able to dig through it. He said: 'This is a mercy from my Lord; but when the promise of my Lord comes, He will make it level. And the promise of my Lord is ever true.'"
 {% endhint %}

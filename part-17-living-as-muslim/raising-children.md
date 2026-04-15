@@ -1,6 +1,6 @@
 # Raising Children with Islamic Values
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 17 Living as a Muslim
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 17: Living as a Muslim
 
 ---
 

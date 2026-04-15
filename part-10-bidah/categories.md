@@ -1,6 +1,6 @@
 # Categories of Bid'ah
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 10 Bid'ah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 10: Bid'ah
 
 ---
 

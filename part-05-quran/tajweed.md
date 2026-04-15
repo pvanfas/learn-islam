@@ -1,6 +1,6 @@
 # Tajweed The Rules of Quranic Recitation
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 5 The Quran
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 5: The Quran
 
 ---
 
@@ -40,10 +40,10 @@ The letters **ن** (Nun) and **م** (Meem) produce a nasal resonance (_Ghunnah_)
 
 When ن (Nun) with sukoon or Tanwin occurs before the next letter:
 
-- **Idgham** merging into the next letter
-- **Iqlab** converting to Meem
-- **Ikhfa'** concealment with Ghunnah
-- **Izhar** clear pronunciation
+- **Idgham:** merging into the next letter
+- **Iqlab:** converting to Meem
+- **Ikhfa':** concealment with Ghunnah
+- **Izhar:** clear pronunciation
 
 ### 4. Madd (Prolongation)
 
@@ -59,10 +59,10 @@ Rules for where to pause when stopping mid-recitation marked in the Quran with s
 
 **Resources:**
 
-- **Local mosque Tajweed classes** most offer beginner classes
-- **Quran.com** color-coded Tajweed Quran shows rules visually
+- **Local mosque Tajweed classes:** most offer beginner classes
+- **Quran.com:** color-coded Tajweed Quran shows rules visually
 - **YouTube: Mishary Rashid Alafasy, Abdul Basit, Maher Al-Muaiqly** models of Tajweed mastery
-- **Tajweed Quran (color-coded Mushaf)** each rule shown in a different color
+- **Tajweed Quran (color-coded Mushaf):** each rule shown in a different color
 
 ## The Reward of Struggling Recitation
 

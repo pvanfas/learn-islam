@@ -1,6 +1,6 @@
 # What Is Recited in Each Position of Prayer
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Salah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Salah
 
 ---
 

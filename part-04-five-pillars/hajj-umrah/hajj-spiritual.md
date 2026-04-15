@@ -1,6 +1,6 @@
 # The Spiritual Meaning of Hajj Rituals
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Hajj & Umrah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Hajj & Umrah
 
 ---
 

@@ -1,6 +1,6 @@
 # Islamic Dress for Men Modesty, the Beard, and Appearance
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 9 Islamic Dress & Appearance
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 9: Islamic Dress & Appearance
 
 ---
 

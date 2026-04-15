@@ -1,6 +1,6 @@
 # The Hadith of Jibreel The Complete Summary of Islam
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 7 Hadith Science
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 7: Hadith Science
 
 ---
 

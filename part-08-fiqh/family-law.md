@@ -1,6 +1,6 @@
 # Family Law Marriage, Divorce, Custody & Inheritance
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 8 Islamic Law
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 8: Islamic Law
 
 ---
 
@@ -34,9 +34,9 @@ For full detail on the marriage contract, its pillars, and the rights within mar
 **Valid Nikah requires:**
 
 1. **Offer and Acceptance** (_Ijab wa Qabul_) the Wali offers on behalf of the bride; the groom accepts
-2. **Guardian (_Wali_)** obligatory in Shafi'i and Hanbali; the woman can contract herself in Hanafi and Maliki with conditions
-3. **Two witnesses** two adult, sane, Muslim males
-4. **Mahr** specified in the contract; belongs exclusively to the wife
+2. **Guardian (_Wali_):** obligatory in Shafi'i and Hanbali; the woman can contract herself in Hanafi and Maliki with conditions
+3. **Two witnesses:** two adult, sane, Muslim males
+4. **Mahr:** specified in the contract; belongs exclusively to the wife
 
 **What makes a marriage invalid:**
 
@@ -147,7 +147,7 @@ When a marriage ends, custody of children follows Islamic rules:
 Islamic inheritance law is one of the most detailed legal systems in the Quran unusual, given that most Quranic legislation is stated as principles rather than specifics.
 
 {% hint style="info" %}
-**Surah An-Nisa 4:1112**
+**Surah An-Nisa 4:11-12**
 
 These two verses contain the detailed Quranic formula for inheritance specifying exact fractions for different relatives.
 {% endhint %}

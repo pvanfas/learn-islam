@@ -1,6 +1,6 @@
 # Minor Signs Already Passed
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 15 Signs of the Last Days
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 15: Signs of the Last Days
 
 ---
 

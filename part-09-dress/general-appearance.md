@@ -1,6 +1,6 @@
 # General Appearance Rulings
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 9 Islamic Dress
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~7 min &nbsp;|&nbsp; **Part:** Part 9: Islamic Dress
 
 ---
 

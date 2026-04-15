@@ -1,6 +1,6 @@
 # Introduction to the Quran
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 5 The Quran
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~10 min &nbsp;|&nbsp; **Part:** Part 5: The Quran
 
 ---
 

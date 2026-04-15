@@ -1,6 +1,6 @@
 # Science in the Quran
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~15 min &nbsp;|&nbsp; **Part:** Part 5 The Quran
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~15 min &nbsp;|&nbsp; **Part:** Part 5: The Quran
 
 ---
 
@@ -87,7 +87,7 @@ The verse also contains a second remarkable claim: _"From water We made every li
 ## 3. Embryology and Human Development
 
 {% hint style="info" %}
-**Surah Al-Mu'minun 23:1214**
+**Surah Al-Mu'minun 23:12-14**
 
 **Translation:** "And certainly did We create man from an extract of clay. Then We placed him as a sperm-drop in a firm lodging. Then We made the sperm-drop into a clinging clot, and We made the clot into a lump of flesh, and We made from the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators."
 {% endhint %}
@@ -116,7 +116,7 @@ The 2nd-century physician Galen, whose embryological writings dominated European
 
 **Translation:** "And it is He who has released the two seas this one fresh and sweet, and this one salty and bitter and He placed between them a barrier and a prohibition against passage."
 
-**Surah Ar-Rahman 55:1920**
+**Surah Ar-Rahman 55:19-20**
 
 **Translation:** "He released the two seas, meeting side by side. Between them is a barrier they do not transgress."
 {% endhint %}
@@ -196,7 +196,7 @@ The specific use of the word "sent down" for iron unlike any other metal mention
 ## 9. The Honeybee and Healing
 
 {% hint style="info" %}
-**Surah An-Nahl 16:6869**
+**Surah An-Nahl 16:68-69**
 
 **Translation:** "And your Lord inspired to the bee: 'Take for yourself among the mountains, houses, and among the trees and in that which they construct. Then eat from all the fruits and follow the ways of your Lord laid down for you.' There emerges from their bellies a drink varying in colors in which there is healing for people. Indeed in that is a sign for a people who give thought."
 {% endhint %}

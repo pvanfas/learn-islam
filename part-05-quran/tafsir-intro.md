@@ -1,6 +1,6 @@
 # The Role of Tafsir Quranic Commentary
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 5 The Quran
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 5: The Quran
 
 ---
 

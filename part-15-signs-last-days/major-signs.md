@@ -1,6 +1,6 @@
 # The Ten Major Signs of the Last Hour
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 15 Signs of the Last Days
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~9 min &nbsp;|&nbsp; **Part:** Part 15: Signs of the Last Days
 
 ---
 

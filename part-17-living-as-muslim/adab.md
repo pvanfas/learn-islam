@@ -1,6 +1,6 @@
 # Islamic Manners (_Adab_) in Daily Life
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 17 Living as a Muslim
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 17: Living as a Muslim
 
 ---
 
@@ -15,12 +15,12 @@
 | Arabic           | Transliteration | Meaning                                      |
 | ---------------- | --------------- | -------------------------------------------- |
 | أَدَب            | Adab            | Manners, etiquette, refined conduct          |
-| سَلَام           | Salam           | Peace the Islamic greeting                   |
+| سَلَام           | Salam           | Peace: the Islamic greeting                   |
 | بِسْمِ اللَّه    | Bismillah       | "In the name of Allah" said before beginning |
 | الْحَمْدُ لِلَّه | Alhamdulillah   | "All praise to Allah" said after completing  |
-| يَمِين           | Yamin           | The right hand used for honorable acts       |
-| شِمَال           | Shimal          | The left hand used for cleansing acts        |
-| سِوَاك           | Siwak           | The tooth-cleaning stick oral hygiene Sunnah |
+| يَمِين           | Yamin           | The right hand: used for honorable acts       |
+| شِمَال           | Shimal          | The left hand: used for cleansing acts        |
+| سِوَاك           | Siwak           | The tooth-cleaning stick: oral hygiene Sunnah |
 
 ---
 
@@ -31,18 +31,18 @@
 
 The Prophet said: _"I was sent to perfect good character."_
 
-_Adab is not a collection of customs. It is the practical expression of faith the outward manifestation of the inner state of Iman. A Muslim with beautiful manners is a walking da'wah._
+_Adab is not a collection of customs. It is the practical expression of faith, the outward manifestation of the inner state of Iman. A Muslim with beautiful manners is a walking da'wah._
 {% endhint %}
 
 Imam Malik (RA) said to his student: _"Learn Adab before you learn knowledge."_
 
-The scholars of the early generations understood that Adab precedes knowledge, because knowledge without Adab produces arrogance while Adab without knowledge produces sincere striving.
+The scholars of the early generations understood that Adab precedes knowledge, because knowledge without Adab produces arrogance, while Adab without knowledge produces sincere striving.
 
 ---
 
 ## The Greeting _As-Salamu Alaykum_
 
-The Islamic greeting is not merely a social nicety it is an act of worship with reward, a declaration of safety, and a dua (supplication) for the person you are greeting.
+The Islamic greeting is not merely a social nicety. It is an act of worship with reward, a declaration of safety, and a dua (supplication) for the person you are greeting.
 
 {% hint style="info" %}
 **Hadith Sahih Muslim**
@@ -80,9 +80,9 @@ The Sunnah of eating transforms a biological act into worship:
 
 **During eating:**
 
-- Eat together the Prophet said food for one suffices two, food for two suffices four
-- Do not criticize food if you dislike something, leave it without comment
-- Do not blow on hot food wait for it to cool
+- Eat together. The Prophet said food for one suffices two, food for two suffices four.
+- Do not criticize food. If you dislike something, leave it without comment.
+- Do not blow on hot food. Wait for it to cool.
 - Do not eat lying flat on the back
 - Sit to eat the Prophet ate sitting on the floor, not reclining against a support while eating
 
@@ -101,8 +101,8 @@ _(Abu Dawud Sahih)_
 **Drinking:**
 
 - Drink with the right hand
-- Do not drink standing (Makruh disliked though not forbidden in the Shafi'i position)
-- Do not breathe into a vessel breathe outside the cup
+- Do not drink standing (Makruh: disliked, though not forbidden in the Shafi'i position)
+- Do not breathe into a vessel. Breathe outside the cup.
 - Drink in three sips, taking breath outside the cup between them
 
 ---
@@ -111,8 +111,8 @@ _(Abu Dawud Sahih)_
 
 **Before entering:**
 
-- Say _Bismillah_ the Prophet said this prevents Shaytan from spending the night in your home
-- Say _Salam_ upon entering even if no one is home
+- Say _Bismillah_. The Prophet said this prevents Shaytan from spending the night in your home.
+- Say _Salam_ upon entering, even if no one is home
 
 {% hint style="info" %}
 **اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْمَوْلِجِ وَخَيْرَ الْمَخْرَجِ، بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا**
@@ -169,13 +169,13 @@ _"Whoever believes in Allah and the Last Day, let him say good or remain silent.
 | Situation                        | Adab                                                                                                                                              |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Sneezing**                     | Say _"Alhamdulillah"_. Those present respond: _"Yarhamukallah"_ (Allah have mercy on you). Sneezer replies: _"Yahdikumullahu wa yuslihu balakum"_ |
-| **Yawning**                      | Cover the mouth. Do not make sound. The Prophet said yawning is from Shaytan suppress it                                                          |
+| **Yawning**                      | Cover the mouth. Do not make sound. The Prophet said yawning is from Shaytan. Suppress it.                                                          |
 | **Entering conversation**        | Begin with Salam, not with a request                                                                                                              |
 | **Lying**                        | Strictly prohibited even in jest                                                                                                                  |
-| **Backbiting (_Ghibah_)**        | Mentioning about a person what they would dislike, even if true strictly forbidden (Surah Al-Hujurat 49:12)                                       |
-| **Tale-carrying (_Namimah_)**    | Spreading words between people to cause discord among the greatest sins                                                                           |
-| **Swearing by other than Allah** | Prohibited only swear by Allah                                                                                                                    |
-| **Saying _Inshallah_**           | Said for future intentions not sarcastically                                                                                                      |
+| **Backbiting (_Ghibah_)**        | Mentioning about a person what they would dislike, even if true. Strictly forbidden (Surah Al-Hujurat 49:12).                                       |
+| **Tale-carrying (_Namimah_)**    | Spreading words between people to cause discord: among the greatest sins                                                                           |
+| **Swearing by other than Allah** | Prohibited: only swear by Allah                                                                                                                    |
+| **Saying _Inshallah_**           | Said for future intentions, not sarcastically                                                                                                      |
 
 ---
 
@@ -223,7 +223,7 @@ _(Surah Az-Zukhruf 43:1314 recited when boarding any vehicle)_
 
 ---
 
-## Respect for Elders A Pillar of Islamic Social Adab
+## Respect for Elders: A Pillar of Islamic Social Adab
 
 {% hint style="info" %}
 **Hadith Sunan Abu Dawud (Sahih)**
@@ -255,7 +255,7 @@ _"Jibreel kept advising me about the neighbor until I thought he would be made a
 The Prophet defined "the neighbor" as extending **40 houses in every direction**. The rights of neighbors include:
 
 - Not harming them or their property
-- Sharing food when you cook sending some to them
+- Sharing food when you cook, sending some to them
 - Visiting them in illness
 - Supporting them in difficulty
 - Maintaining good relations regardless of their religion or background
@@ -266,9 +266,9 @@ The Prophet said a person whose neighbor is not safe from their harm has not ent
 
 ## Key Takeaways
 
-- _Adab_ Islamic manners is the practical expression of faith in every moment of daily life.
+- _Adab_, Islamic manners, is the practical expression of faith in every moment of daily life.
 - The Islamic greeting (_Salam_) is an act of worship, a dua, and a key to community love.
 - Eating, drinking, sleeping, entering and leaving, speaking, and traveling all have Sunnah that transforms ordinary moments into worship.
 - The right hand is used for honorable acts; the left for cleansing.
-- Backbiting (_Ghibah_) and tale-carrying (_Namimah_) are among the most socially destructive sins both explicitly forbidden.
+- Backbiting (_Ghibah_) and tale-carrying (_Namimah_) are among the most socially destructive sins, both explicitly forbidden.
 - Respect for elders and rights of neighbors are cornerstones of Islamic social life.

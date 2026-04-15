@@ -1,6 +1,6 @@
 # Umrah The Lesser Pilgrimage
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 4 The Five Pillars Hajj & Umrah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 4: The Five Pillars Hajj & Umrah
 
 ---
 
@@ -109,7 +109,7 @@ For those **flying over the Miqat**, you must enter Ihram before your plane cros
 _With this intention, you have entered the state of Ihram._
 {% endhint %}
 
-5. **Begin reciting the Talbiyah** continuously aloud for men, quietly for women:
+5. **Begin reciting the Talbiyah:** continuously aloud for men, quietly for women:
 
 {% hint style="info" %}
 **لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ**

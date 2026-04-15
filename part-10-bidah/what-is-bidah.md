@@ -1,6 +1,6 @@
 # What Is Bid'ah? Religious Innovation in Islam
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 10 Bid'ah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 10: Bid'ah
 
 ---
 
@@ -48,8 +48,8 @@ In Islamic law, Bid'ah is defined as:
 The key elements of this definition:
 
 1. **It is in the domain of worship** not worldly matters
-2. **It has no basis** no text from Quran or Sunnah authorizes it
-3. **It is presented as religious** as something that earns reward or pleases Allah
+2. **It has no basis:** no text from Quran or Sunnah authorizes it
+3. **It is presented as religious:** as something that earns reward or pleases Allah
 
 ---
 
@@ -174,7 +174,7 @@ The practical approach:
 
 1. **Learn the Sunnah deeply first.** The best way to identify Bid'ah is to know the Sunnah so well that the Bid'ah becomes obvious by contrast.
 
-2. **Consult qualified scholars** rather than making independent judgments about complex cases.
+2. **Consult qualified scholars:** rather than making independent judgments about complex cases.
 
 3. **Correct with wisdom and kindness.** The Prophet corrected people with gentleness harsh denunciation drives people away from knowledge, not toward it.
 

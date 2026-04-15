@@ -1,6 +1,6 @@
 # Grave Worship and Tawassul
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 10 Bid'ah
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 10: Bid'ah
 
 ---
 

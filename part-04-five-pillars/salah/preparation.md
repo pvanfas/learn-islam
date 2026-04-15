@@ -1,6 +1,6 @@
 # Preparation for Prayer Wudu, Ghusl & Tayammum
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 4 The Five Pillars Salah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 4: The Five Pillars Salah
 
 ---
 
@@ -180,12 +180,12 @@ The minimum that makes Ghusl valid:
 The Prophet performed Ghusl in this way (_Sahih al-Bukhari_):
 
 1. **Intention** in the heart
-2. **Wash the hands** three times
+2. **Wash the hands:** three times
 3. **Remove impurity** from the private parts with the left hand
-4. **Perform complete Wudu** as described above
+4. **Perform complete Wudu:** as described above
 5. **Pour water over the right side** of the body three times, rubbing thoroughly
-6. **Pour water over the left side** three times, rubbing thoroughly
-7. **Pour water over the head** three times, ensuring roots of hair are wet
+6. **Pour water over the left side:** three times, rubbing thoroughly
+7. **Pour water over the head:** three times, ensuring roots of hair are wet
 
 Then the body is fully purified.
 
@@ -209,8 +209,8 @@ When water is **unavailable** or **harmful to use** (due to illness, extreme col
 
 1. **Intention** to perform Tayammum as a substitute for Wudu or Ghusl
 2. **Strike both palms** on clean earth, dust, sand, or a stone surface once
-3. **Blow off excess dust** gently
-4. **Wipe the face** completely with both palms
+3. **Blow off excess dust:** gently
+4. **Wipe the face:** completely with both palms
 5. **Wipe the back of the right hand** with the left palm, then the back of the left hand with the right palm
 6. **Tayammum is complete**
 

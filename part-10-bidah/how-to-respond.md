@@ -1,6 +1,6 @@
 # How to Respond to Bid'ah The Prophetic Method
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 10 Bid'ah
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~6 min &nbsp;|&nbsp; **Part:** Part 10: Bid'ah
 
 ---
 

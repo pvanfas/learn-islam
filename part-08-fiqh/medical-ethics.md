@@ -1,6 +1,6 @@
 # Medical Ethics in Islam
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 8 Islamic Law
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 8: Islamic Law
 
 ---
 

@@ -6,7 +6,7 @@
 
 ## Assalamu Alaikum
 
-This guide is a free, open, and comprehensive resource for anyone who wants to understand Islam whether you are a complete newcomer, a new Muslim finding your footing, or a lifelong Muslim seeking deeper knowledge.
+This guide is a free, open, and comprehensive resource for anyone who wants to understand Islam, whether you are a complete newcomer, a new Muslim finding your footing, or a lifelong Muslim seeking deeper knowledge.
 
 There are no prerequisites. You do not need to know Arabic. You do not need to know any Islamic history. You can start from the very first page and build your knowledge step by step.
 
@@ -68,7 +68,7 @@ This guide is divided into **18 Parts** that flow from beginner to advanced:
 - **Arabic terms** are always followed by transliteration and translation on first use.
 - **Quranic verses** are cited with Surah name, number, and verse number.
 - **Hadith** are cited with the collector's name and grade where relevant.
-- **Scholarly differences** are presented fairly you will see multiple valid positions.
+- **Scholarly differences** are presented fairly. You will see multiple valid positions.
 - **Difficulty level** is marked on every page: Beginner · Intermediate · Advanced
 
 ---

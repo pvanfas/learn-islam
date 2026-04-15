@@ -1,6 +1,6 @@
 # The Six Major Hadith Collections (_Kutub al-Sittah_)
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 7 Hadith Science
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 7: Hadith Science
 
 ---
 

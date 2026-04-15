@@ -57,9 +57,9 @@ Before anything else, you must be able to read Arabic script. Arabic has 28 lett
 
 **Resources:**
 
-- **Bayyinah.com / Arabic with Husna** foundational alphabet courses
-- **Arabic Pod 101** free alphabet lessons
-- **Simply Arabic app** structured alphabet with audio
+- **Bayyinah.com / Arabic with Husna:** foundational alphabet courses
+- **Arabic Pod 101:** free alphabet lessons
+- **Simply Arabic app:** structured alphabet with audio
 - _Write it out:_ Daily handwriting practice of the letters is irreplaceable
 
 **Goal:** Read any Arabic text slowly but accurately with vowel marks (_harakat_).
@@ -72,14 +72,14 @@ Tajweed is the set of rules for correctly pronouncing Quranic Arabic. Start with
 
 **Key rules to learn first:**
 
-- **Makharij al-huruf** the points of articulation of each letter (ع and ح are different from English equivalents)
-- **Ghunnah** the nasal sound on ن and م in specific contexts
-- **Idgham, Iqlab, Ikhfa** rules for the letter ن when followed by specific letters
-- **Madd** prolongation rules for vowels
+- **Makharij al-huruf:** the points of articulation of each letter (ع and ح are different from English equivalents)
+- **Ghunnah:** the nasal sound on ن and م in specific contexts
+- **Idgham, Iqlab, Ikhfa:** rules for the letter ن when followed by specific letters
+- **Madd:** prolongation rules for vowels
 
 **Resources:**
 
-- **Quranic.com** free Tajweed learning with visual markup
+- **Quranic.com:** free Tajweed learning with visual markup
 - **Tajweed Quran** (color-coded mushaf) shows rules color-coded in the text
 - A local Tajweed teacher is the gold standard many mosques offer free Tajweed classes
 
@@ -117,9 +117,9 @@ This is the core of Arabic for Quran. Use a frequency-based approach learn the m
 **Resources for vocabulary:**
 
 - **Bayyinah TV** Nouman Ali Khan's _Quran Cover to Cover_ and _Divine Speech_ courses
-- **Memrise / Anki** flashcard systems for Arabic vocabulary (many free Quranic Arabic decks available)
+- **Memrise / Anki:** flashcard systems for Arabic vocabulary (many free Quranic Arabic decks available)
 - **_Madinah Arabic_ book series** (Dr. V. Abdur Rahim) the most widely used structured Quranic Arabic curriculum worldwide
-- **Arabic With Husna** structured online Quranic Arabic course
+- **Arabic With Husna:** structured online Quranic Arabic course
 
 ---
 
@@ -151,7 +151,7 @@ Learning one root can give you access to 515 related words. This is why learning
 **Resources for grammar:**
 
 - **_Arabic Unlocked_** by Ustadh Asif Meherali structured grammar
-- **_Madinah Arabic_ series** includes grammar
+- **_Madinah Arabic_ series:** includes grammar
 - **Bayyinah TV** Dream Arabic program
 
 ---
@@ -168,7 +168,7 @@ From day one even before you understand Arabic read the Quran with translation. 
 
 - _The Clear Quran_ (Dr. Mustafa Khattab) modern, readable English
 - _The Quran A New Translation_ (M.A.S. Abdel Haleem Oxford) scholarly and readable
-- **Quran.com** multiple translations with word-by-word breakdown
+- **Quran.com:** multiple translations with word-by-word breakdown
 
 ---
 
@@ -178,8 +178,8 @@ Once you have basic vocabulary and some grammar, begin using word-by-word resour
 
 **Resources:**
 
-- **Quran.com** word-by-word mode shows the Arabic word, its transliteration, and its meaning
-- **QuranHive.com** detailed word analysis
+- **Quran.com:** word-by-word mode shows the Arabic word, its transliteration, and its meaning
+- **QuranHive.com:** detailed word analysis
 - _Word-for-Word Translation of the Quran_ (Dar al-Salam) physical book format
 
 ---

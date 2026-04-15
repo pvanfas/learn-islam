@@ -1,6 +1,6 @@
 # Minor Signs Occurring Now The Signs of Our Time
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 15 Signs of the Last Days
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 15: Signs of the Last Days
 
 ---
 
@@ -172,9 +172,9 @@ The phenomenon of unqualified individuals on social media issuing Islamic ruling
 
 Recognizing these signs should produce THREE responses not just the first one:
 
-1. **Urgency** increase good deeds, deepen taqwa, do not postpone repentance
-2. **Steadfastness** hold to the Sunnah more firmly when the world pulls away from it
-3. **Continued action** the Prophet said: _"If the Day of Judgement comes upon you while you are planting a tree finish planting the tree."_ Life continues. Family continues. Community building continues. Da'wah continues.
+1. **Urgency:** increase good deeds, deepen taqwa, do not postpone repentance
+2. **Steadfastness:** hold to the Sunnah more firmly when the world pulls away from it
+3. **Continued action:** the Prophet said: _"If the Day of Judgement comes upon you while you are planting a tree finish planting the tree."_ Life continues. Family continues. Community building continues. Da'wah continues.
 
 What the signs should NOT produce:
 

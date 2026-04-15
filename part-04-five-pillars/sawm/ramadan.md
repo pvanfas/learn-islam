@@ -1,6 +1,6 @@
-# Ramadan The Month of Fasting
+# Ramadan: The Month of Fasting
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 4 The Five Pillars Sawm
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 4: The Five Pillars Sawm
 
 ---
 
@@ -14,30 +14,30 @@
 
 | Arabic            | Transliteration | Meaning                                           |
 | ----------------- | --------------- | ------------------------------------------------- |
-| رَمَضَان          | Ramadan         | The ninth Islamic month the month of fasting      |
-| صَوْم / صِيَام    | Sawm / Siyam    | Fasting abstaining from food, drink, and intimacy |
+| رَمَضَان          | Ramadan         | The ninth Islamic month: the month of fasting      |
+| صَوْم / صِيَام    | Sawm / Siyam    | Fasting: abstaining from food, drink, and intimacy |
 | سُحُور            | Suhoor          | The pre-dawn meal before fasting begins           |
 | إِفْطَار          | Iftar           | Breaking the fast at sunset                       |
 | تَرَاوِيح         | Tarawih         | Special night prayers in Ramadan                  |
-| لَيْلَةُ الْقَدْر | Laylatul Qadr   | The Night of Power better than 1,000 months       |
+| لَيْلَةُ الْقَدْر | Laylatul Qadr   | The Night of Power: better than 1,000 months       |
 | اعْتِكَاف         | I'tikaf         | Spiritual seclusion in the mosque                 |
-| فِطْرَة           | Fitrah          | Pure natural state Ramadan returns us to it       |
+| فِطْرَة           | Fitrah          | Pure natural state: Ramadan returns us to it       |
 
 ---
 
 ## Quranic Foundation
 
 {% hint style="info" %}
-**Surah Al-Baqarah 2:183185**
+**Surah Al-Baqarah 2:183-185**
 
-**Translation:** "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous. Fasting is for a limited number of days... The month of Ramadan is that in which the Quran was revealed a guidance for the people and clear proofs of guidance and criterion. So whoever of you sights the new moon of the month, let him fast it. And whoever is ill or on a journey then an equal number of other days. Allah intends for you ease and does not intend for you hardship..."
+**Translation:** "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous. Fasting is for a limited number of days... The month of Ramadan is that in which the Quran was revealed, a guidance for the people and clear proofs of guidance and criterion. So whoever of you sights the new moon of the month, let him fast it. And whoever is ill or on a journey then an equal number of other days. Allah intends for you ease and does not intend for you hardship..."
 {% endhint %}
 
 ---
 
 ## What Is Ramadan?
 
-Ramadan is the ninth month of the Islamic lunar calendar a month in which the gates of Paradise are opened, the gates of Hell are closed, and the devils are chained. But above all, it is the month in which the Quran was revealed.
+Ramadan is the ninth month of the Islamic lunar calendar, a month in which the gates of Paradise are opened, the gates of Hell are closed, and the devils are chained. But above all, it is the month in which the Quran was revealed.
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
@@ -45,7 +45,7 @@ Ramadan is the ninth month of the Islamic lunar calendar a month in which the ga
 The Prophet said: _"When Ramadan enters, the gates of Paradise are opened, the gates of the Hellfire are shut, and the devils are chained."_
 {% endhint %}
 
-The lunar calendar means Ramadan moves approximately 1011 days earlier each year cycling through all seasons over roughly 33 years. A Muslim living a full life will fast Ramadan in summer and winter, in heat and cold, experiencing every condition.
+The lunar calendar means Ramadan moves approximately 10-11 days earlier each year, cycling through all seasons over roughly 33 years. A Muslim living a full life will fast Ramadan in summer and winter, in heat and cold, experiencing every condition.
 
 ---
 
@@ -59,7 +59,7 @@ Fasting is **obligatory (_Fard_)** upon every:
 - **Adult** (having reached puberty)
 - **Sane person**
 - **Capable person** (not ill or traveling)
-- **Woman** not in menstruation or post-natal bleeding
+- **Woman:** not in menstruation or post-natal bleeding
 
 ### Who Is Exempt?
 
@@ -81,7 +81,7 @@ Fasting is **obligatory (_Fard_)** upon every:
 **The following intentionally break the fast and require making up that day:**
 
 - Eating or drinking anything
-- Sexual intercourse (also requires Kaffarah expiation)
+- Sexual intercourse (also requires Kaffarah: expiation)
 - Deliberately vomiting
 - The start of menstruation (even if it begins moments before Maghrib)
 
@@ -89,7 +89,7 @@ Fasting is **obligatory (_Fard_)** upon every:
 
 - Swallowing saliva
 - Unintentional swallowing (dust, water entering the mouth accidentally)
-- Injections (the majority view not through the digestive tract)
+- Injections (the majority view: not through the digestive tract)
 - Eye or ear drops
 - Using a Siwak (toothstick) or toothbrush without toothpaste
 - Tasting food without swallowing (though this is disliked)
@@ -106,7 +106,7 @@ Fasting is **obligatory (_Fard_)** upon every:
 
 | Event                | Time                                                       |
 | -------------------- | ---------------------------------------------------------- |
-| **Fajr (Dawn)**      | Fasting begins no food, drink, or intimacy from this point |
+| **Fajr (Dawn)**      | Fasting begins: no food, drink, or intimacy from this point |
 | **Suhoor**           | The recommended pre-dawn meal ending before Fajr           |
 | **Day**              | Fasting continues                                          |
 | **Maghrib (Sunset)** | Iftar fast is broken                                       |
@@ -121,9 +121,9 @@ _"The people will remain in good condition as long as they hasten to break the f
 
 ---
 
-## Suhoor The Blessed Pre-Dawn Meal
+## Suhoor: The Blessed Pre-Dawn Meal
 
-Suhoor is the meal eaten before dawn, before the fast begins. It is **Sunnah** not obligatory but the Prophet emphasized it strongly:
+Suhoor is the meal eaten before dawn, before the fast begins. It is **Sunnah**, not obligatory, but the Prophet emphasized it strongly:
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari and Muslim**
@@ -131,13 +131,13 @@ Suhoor is the meal eaten before dawn, before the fast begins. It is **Sunnah** n
 _"Eat Suhoor, for indeed in Suhoor there is blessing (Barakah)."_
 {% endhint %}
 
-Even a few sips of water counts as Suhoor. The blessing is in the act it is a moment of waking before Fajr, in the quiet of the night, eating with the intention of worship and obedience.
+Even a few sips of water counts as Suhoor. The blessing is in the act. It is a moment of waking before Fajr, in the quiet of the night, eating with the intention of worship and obedience.
 
 ---
 
-## Iftar Breaking the Fast
+## Iftar: Breaking the Fast
 
-Breaking the fast is a moment of joy, gratitude, and community. The Prophet would break his fast with fresh dates if unavailable, with dry dates, and if unavailable, with water. He would say:
+Breaking the fast is a moment of joy, gratitude, and community. The Prophet would break his fast with fresh dates. If unavailable, with dry dates, and if unavailable, with water. He would say:
 
 {% hint style="info" %}
 **ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الْأَجْرُ إِن شَاءَ اللَّهُ**
@@ -149,19 +149,19 @@ Breaking the fast is a moment of joy, gratitude, and community. The Prophet woul
 _(Source: Abu Dawud Hasan)_
 {% endhint %}
 
-Then the Maghrib prayer is performed before continuing to eat prioritizing worship over hunger.
+Then the Maghrib prayer is performed before continuing to eat, prioritizing worship over hunger.
 
 ---
 
 ## Spiritual Dimensions of Ramadan
 
-Ramadan is not merely a dietary restriction. It is a **school for the soul** a concentrated month of spiritual training.
+Ramadan is not merely a dietary restriction. It is a **school for the soul**, a concentrated month of spiritual training.
 
 ### 1. The Purpose: Taqwa (God-Consciousness)
 
-The Quran states the purpose of fasting explicitly: _"...that you may become righteous (muttaqeen)."_ The Arabic word is _Taqwa_ God-consciousness, piety, a heart-state of awareness of Allah in every moment.
+The Quran states the purpose of fasting explicitly: _"...that you may become righteous (muttaqeen)."_ The Arabic word is _Taqwa_, God-consciousness, piety, a heart-state of awareness of Allah in every moment.
 
-Hunger and thirst are the means Taqwa is the destination.
+Hunger and thirst are the means. Taqwa is the destination.
 
 ### 2. Fasting Belongs to Allah
 
@@ -170,7 +170,7 @@ Hunger and thirst are the means Taqwa is the destination.
 
 Allah says: _"All deeds of the son of Adam are for himself, except fasting it is for Me, and I will reward it. The fasting person leaves his food, drink, and desires for My sake."_
 
-_Every act of worship can be observed by others and may be mixed with showing off. But fasting a private, internal act belongs to Allah alone. No one but Allah and the fasting person truly know whether they are fasting._
+_Every act of worship can be observed by others and may be mixed with showing off. But fasting, a private, internal act, belongs to Allah alone. No one but Allah and the fasting person truly know whether they are fasting._
 {% endhint %}
 
 ### 3. Two Moments of Joy
@@ -181,7 +181,7 @@ _Every act of worship can be observed by others and may be mixed with showing of
 _"The fasting person has two moments of joy: one when he breaks his fast, and one when he meets his Lord."_
 {% endhint %}
 
-The joy of Iftar the relief and gratitude of breaking a day's fast is a preview of the greater joy awaiting the believer when they return to Allah.
+The joy of Iftar, the relief and gratitude of breaking a day's fast, is a preview of the greater joy awaiting the believer when they return to Allah.
 
 ### 4. Quran and Ramadan
 
@@ -189,9 +189,9 @@ Ramadan is the month of the Quran. The Prophet would review the entire Quran wit
 
 ---
 
-## Laylatul Qadr The Night of Power
+## Laylatul Qadr: The Night of Power
 
-In the last ten nights of Ramadan lies _Laylatul Qadr_ the Night of Power:
+In the last ten nights of Ramadan lies _Laylatul Qadr_, the Night of Power:
 
 {% hint style="info" %}
 **Surah Al-Qadr 97:15**
@@ -201,7 +201,7 @@ In the last ten nights of Ramadan lies _Laylatul Qadr_ the Night of Power:
 
 **Better than a thousand months** worship on this one night equals over 83 years of worship. A person who finds and worships through this night has in effect given their entire lifetime to Allah.
 
-The Prophet said to seek it in the **odd nights of the last ten days** particularly the 27th night, though the exact night is not specified and changes each year.
+The Prophet said to seek it in the **odd nights of the last ten days**, particularly the 27th night, though the exact night is not specified and changes each year.
 
 The recommended dua for this night:
 
@@ -217,17 +217,17 @@ _(Source: Tirmidhi Sahih Aisha RA asked the Prophet what to say on Laylatul Qadr
 
 ---
 
-## I'tikaf Seclusion in the Mosque
+## I'tikaf: Seclusion in the Mosque
 
 The Prophet performed _I'tikaf_ spiritual retreat in the mosque during the **last ten days of Ramadan** every year. He would stay in the mosque continuously, devoted to prayer, Quran, and dhikr, and would not leave except for necessities.
 
-I'tikaf is a Sunnah not obligatory but it is the highest level of Ramadan devotion. Those who cannot perform a full I'tikaf can make the intention for a partial one even an hour spent in the mosque with the intention of I'tikaf carries its reward.
+I'tikaf is a Sunnah, not obligatory, but it is the highest level of Ramadan devotion. Those who cannot perform a full I'tikaf can make the intention for a partial one. Even an hour spent in the mosque with the intention of I'tikaf carries its reward.
 
 ---
 
-## Tarawih The Night Prayers of Ramadan
+## Tarawih: The Night Prayers of Ramadan
 
-_Tarawih_ are voluntary night prayers performed in Ramadan, after Isha. They are a confirmed Sunnah (_Sunnah Mu'akkadah_). The Prophet prayed them in congregation for a few nights, then stopped fearing they would become obligatory on his Ummah.
+_Tarawih_ are voluntary night prayers performed in Ramadan, after Isha. They are a confirmed Sunnah (_Sunnah Mu'akkadah_). The Prophet prayed them in congregation for a few nights, then stopped, fearing they would become obligatory on his Ummah.
 
 Umar (RA) later revived congregational Tarawih and said: _"What an excellent innovation this is!"_ referring to its revival as an organized practice, since its basis was in the Sunnah.
 
@@ -241,13 +241,13 @@ Umar (RA) later revived congregational Tarawih and said: _"What an excellent inn
 
 ## Key Takeaways
 
-- Ramadan is the month the Quran was revealed the holiest month of the Islamic year.
+- Ramadan is the month the Quran was revealed, the holiest month of the Islamic year.
 - Fasting is obligatory on every adult Muslim who is capable, from Fajr to Maghrib.
 - What breaks the fast is limited to intentional eating, drinking, intimacy, deliberate vomiting, and the start of menstruation.
-- Suhoor is Sunnah and carries Barakah don't skip it.
+- Suhoor is Sunnah and carries Barakah. Don't skip it.
 - Iftar is broken immediately at Maghrib traditionally with dates and water.
-- The purpose of fasting is Taqwa not weight loss, not performance.
-- Laylatul Qadr in the last ten nights is better than a thousand months seek it, especially on odd nights.
+- The purpose of fasting is Taqwa, not weight loss, not performance.
+- Laylatul Qadr in the last ten nights is better than a thousand months. Seek it, especially on odd nights.
 
 ---
 
@@ -265,7 +265,7 @@ Yes using a toothbrush without toothpaste (or with very little, being careful no
 
 <summary>What if I wake up and realize I've been eating past Fajr?</summary>
 
-If you genuinely did not know Fajr had entered you were not aware your fast is valid. Ignorance of the time is an excuse. If you knew Fajr had entered but continued eating, you must make up that day of fasting.
+If you genuinely did not know Fajr had entered, you were not aware, your fast is valid. Ignorance of the time is an excuse. If you knew Fajr had entered but continued eating, you must make up that day of fasting.
 
 </details>
 
@@ -273,6 +273,6 @@ If you genuinely did not know Fajr had entered you were not aware your fast is v
 
 <summary>Does fasting affect my medication schedule?</summary>
 
-This is a medical-religious question. Oral medications that are swallowed break the fast for many scholars. If your medication is life-sustaining and cannot be delayed, you are in the category of the ill you may break your fast and make it up later. Consult both your doctor and a knowledgeable scholar.
+This is a medical-religious question. Oral medications that are swallowed break the fast for many scholars. If your medication is life-sustaining and cannot be delayed, you are in the category of the ill. You may break your fast and make it up later. Consult both your doctor and a knowledgeable scholar.
 
 </details>

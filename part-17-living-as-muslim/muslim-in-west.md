@@ -1,6 +1,6 @@
 # Being a Muslim in a Non-Muslim Country
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 17 Living as a Muslim
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 17: Living as a Muslim
 
 ---
 
@@ -107,11 +107,11 @@ The Prophet had Jewish neighbors, Christian allies, and polytheist relatives. He
 
 The Muslim community (_Jama'ah_) is a lifeline for Muslims in minority contexts. Practical community building:
 
-- **Find your local mosque** even if imperfect, the mosque is the center of community life. Support it.
+- **Find your local mosque:** even if imperfect, the mosque is the center of community life. Support it.
 - **Islamic Sunday schools** for children crucial for the next generation's Islamic identity
 - **Muslim student associations** at universities community and support networks
-- **Islamic social media communities** supplement (not replace) physical community
-- **Arrange regular gatherings** even informal ones in homes for Quran, food, and community
+- **Islamic social media communities:** supplement (not replace) physical community
+- **Arrange regular gatherings:** even informal ones in homes for Quran, food, and community
 
 The Prophet said: _"The believers in their mutual mercy, compassion, and kindness are like one body if one limb suffers, the entire body responds with sleeplessness and fever."_ (Sahih al-Bukhari)
 
@@ -177,10 +177,10 @@ The greatest challenge for Muslim minorities especially the second generation is
 
 **Pillars of identity preservation:**
 
-- **The five daily prayers** they are the anchor; lose them and everything follows
-- **Community** isolation from the Muslim community makes identity collapse far more likely
-- **Islamic education** knowledge of Islam inoculates against doubts
-- **Family environment** an Islamic home is the foundation
+- **The five daily prayers:** they are the anchor; lose them and everything follows
+- **Community:** isolation from the Muslim community makes identity collapse far more likely
+- **Islamic education:** knowledge of Islam inoculates against doubts
+- **Family environment:** an Islamic home is the foundation
 - **Positive Muslim role models** in media, scholarship, professional life
 
 The Prophet said: _"Protect this fire this deen for its time is about to come when a man would hold onto his religion the way he holds onto burning coals."_ (Tirmidhi)

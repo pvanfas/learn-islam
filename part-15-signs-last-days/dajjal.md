@@ -1,6 +1,6 @@
-# The Dajjal The False Messiah
+# The Dajjal: The False Messiah
 
-**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 15 Signs of the Last Days
+**Difficulty:** Intermediate &nbsp;|&nbsp; **Read time:** ~13 min &nbsp;|&nbsp; **Part:** Part 15: Signs of the Last Days
 
 ---
 
@@ -15,9 +15,9 @@
 | Arabic               | Transliteration    | Meaning                                                    |
 | -------------------- | ------------------ | ---------------------------------------------------------- |
 | الدَّجَّال           | Ad-Dajjal          | The Deceiver / False Messiah                               |
-| الْمَسِيح الدَّجَّال | Al-Masih ad-Dajjal | The False Messiah the Deceiver                             |
-| الْفِتْنَة           | Al-Fitnah          | Trial, tribulation Dajjal is the greatest of all fitnahs   |
-| الأَعْوَر            | Al-A'war           | One-eyed a key description of the Dajjal                   |
+| الْمَسِيح الدَّجَّال | Al-Masih ad-Dajjal | The False Messiah: the Deceiver                             |
+| الْفِتْنَة           | Al-Fitnah          | Trial, tribulation. Dajjal is the greatest of all fitnahs   |
+| الأَعْوَر            | Al-A'war           | One-eyed: a key description of the Dajjal                   |
 | كَاف-فَاء-رَاء       | K-F-R              | The letters _Kafir_ (disbeliever) written between his eyes |
 
 ---
@@ -42,7 +42,7 @@ Every prophet since Nuh (AS) warned their communities about the Dajjal. The Prop
 
 ## Who Is the Dajjal?
 
-The Dajjal is a **human being** a man who will appear before the Day of Judgement claiming first to be a prophet, then claiming to be Allah. He will be given extraordinary powers that will seem miraculous to those who witness them.
+The Dajjal is a **human being**, a man who will appear before the Day of Judgement claiming first to be a prophet, then claiming to be Allah. He will be given extraordinary powers that will seem miraculous to those who witness them.
 
 He is called _Al-Masih_ (the Messiah) because he will travel the entire earth as if being _wiped_ across it (_Masaha_). And he is _Ad-Dajjal_ the Deceiver because his entire purpose is to deceive and misguide.
 
@@ -61,11 +61,11 @@ The authentic hadith describe the Dajjal in specific physical terms:
 | **Broad in stature, reddish complexion**                                                        | Sahih Muslim              |
 | **He will be sterile no children**                                                              | Sahih Muslim              |
 
-The Prophet compared his appearance to **Abdullah ibn Qatan** (a man known to the Companions) someone they would recognize as physically similar.
+The Prophet compared his appearance to **Abdullah ibn Qatan** (a man known to the Companions), someone they would recognize as physically similar.
 
 ---
 
-## His Powers The Fitnah
+## His Powers: The Fitnah
 
 The Dajjal will be granted supernatural powers by Allah as a test for humanity. These powers will be real, observable, and enormously persuasive:
 
@@ -87,11 +87,11 @@ Those who believe in him will be rewarded with rain and fertile land. Those who 
 _"He will come to a young man and strike him with a sword and cut him in two then he will call to him, and he will come running with his face shining. This will be one of his greatest trials."_
 {% endhint %}
 
-The "young man" in this narration is described in other narrations as one of the greatest believers who will confront the Dajjal, be killed, and then apparently "revived" by the Dajjal (though Islamic scholars note this is an illusion the young man's soul returns by Allah's permission, not by the Dajjal's power, and the young man will again testify that the Dajjal is a liar).
+The "young man" in this narration is described in other narrations as one of the greatest believers who will confront the Dajjal, be killed, and then apparently "revived" by the Dajjal (though Islamic scholars note this is an illusion. The young man's soul returns by Allah's permission, not by the Dajjal's power, and the young man will again testify that the Dajjal is a liar).
 
 ### 3. His Treasure and Swiftness
 
-He will travel the earth at extraordinary speed. The Prophet described him moving like clouds driven by the wind. He will have rivers of water and fire what appears as water will be fire, and what appears as fire will be cool water. Muslims are warned: if you encounter him, choose the apparent fire it will be safe.
+He will travel the earth at extraordinary speed. The Prophet described him moving like clouds driven by the wind. He will have rivers of water and fire. What appears as water will be fire, and what appears as fire will be cool water. Muslims are warned: if you encounter him, choose the apparent fire it will be safe.
 
 ---
 
@@ -106,7 +106,7 @@ The Companions asked: _"On the day that is like a year will the prayers of one d
 He said: _"No calculate its prayers properly."_
 {% endhint %}
 
-The Dajjal's total stay on earth: approximately 40 days (with the first three being abnormally long one day being like a year, one like a month, one like a week).
+The Dajjal's total stay on earth: approximately 40 days (with the first three being abnormally long: one day being like a year, one like a month, one like a week).
 
 He will travel every corner of the earth **except Makkah and Madinah**. Angels guard the entrances of these two cities. He will circle them but cannot enter.
 
@@ -120,7 +120,7 @@ He will travel every corner of the earth **except Makkah and Madinah**. Angels g
 _"There is no town that the Dajjal will not enter except for Makkah and Madinah. For every mountain pass leading to them, there are angels in rows guarding them."_
 {% endhint %}
 
-Believers who are unable to reach Makkah or Madinah should seek safety in **Al-Sham** (the Levant Syria, Jordan, Palestine area), which is described in other narrations as the fortress of the believers in the end times and where Isa (Jesus AS) will descend.
+Believers who are unable to reach Makkah or Madinah should seek safety in **Al-Sham** (the Levant: Syria, Jordan, Palestine area), which is described in other narrations as the fortress of the believers in the end times and where Isa (Jesus AS) will descend.
 
 ---
 
@@ -136,7 +136,7 @@ The Prophet taught specific protective measures:
 _"Whoever memorizes ten verses from the beginning of Surah Al-Kahf will be protected from the Dajjal."_
 {% endhint %}
 
-Surah Al-Kahf tells the story of young men who fled to a cave to protect their faith from a corrupt, powerful ruler a parallel to the believer's situation with the Dajjal. It is recommended to recite it every **Friday**.
+Surah Al-Kahf tells the story of young men who fled to a cave to protect their faith from a corrupt, powerful ruler, a parallel to the believer's situation with the Dajjal. It is recommended to recite it every **Friday**.
 
 ### 2. Seek Refuge from the Dajjal After Tashahhud
 
@@ -162,7 +162,7 @@ Do not approach the Dajjal out of curiosity. Do not try to debate or test him. F
 
 ### 4. Firm Aqeedah Tawhid
 
-The ultimate protection is deep, unshakeable belief in Allah's Oneness. The Dajjal claims to be God and the first thing that will expose this claim to any firmly grounded believer is the simple knowledge that **Allah is not one-eyed, and Allah is not a created being**. The word _Kafir_ visible between his eyes is readable by every believer a sign that Allah has exposed him to those with faith, even as he deceives those without it.
+The ultimate protection is deep, unshakeable belief in Allah's Oneness. The Dajjal claims to be God, and the first thing that will expose this claim to any firmly grounded believer is the simple knowledge that **Allah is not one-eyed, and Allah is not a created being**. The word _Kafir_ visible between his eyes is readable by every believer, a sign that Allah has exposed him to those with faith, even as he deceives those without it.
 
 ---
 
@@ -182,10 +182,10 @@ Interpreting the signs of the end times symbolically to avoid taking them litera
 
 ## Key Takeaways
 
-- The Dajjal is the greatest fitnah humanity will ever face warned against by every prophet since Nuh (AS).
-- He is a one-eyed human man with the word "Kafir" written between his eyes visible to every believer.
-- His powers include apparent control over rain, crops, and life and death all real tests for believers.
-- He will emerge and travel the entire earth for approximately 40 days unable to enter Makkah or Madinah.
+- The Dajjal is the greatest fitnah humanity will ever face, warned against by every prophet since Nuh (AS).
+- He is a one-eyed human man with the word "Kafir" written between his eyes, visible to every believer.
+- His powers include apparent control over rain, crops, and life and death, all real tests for believers.
+- He will emerge and travel the entire earth for approximately 40 days, unable to enter Makkah or Madinah.
 - Protection: memorize the first 10 verses of Surah Al-Kahf, recite the dua in every Tashahhud, flee from him, and maintain firm Tawhid.
 - He will be killed by Isa ibn Maryam (Jesus AS) at the Gate of Ludd in Palestine.
 
@@ -195,9 +195,9 @@ Interpreting the signs of the end times symbolically to avoid taking them litera
 
 <details>
 
-<summary>Is the Dajjal alive now is he in chains somewhere?</summary>
+<summary>Is the Dajjal alive now? Is he in chains somewhere?</summary>
 
-Yes the hadith in Sahih Muslim describe the Prophet mentioning a man chained on an island, whom Tamim al-Dari (RA) reported encountering. The man identified himself as the Dajjal. Classical scholars hold that the Dajjal is alive in a state of confinement until Allah permits him to emerge. This is the mainstream Ahlus Sunnah position.
+Yes. The hadith in Sahih Muslim describe the Prophet mentioning a man chained on an island, whom Tamim al-Dari (RA) reported encountering. The man identified himself as the Dajjal. Classical scholars hold that the Dajjal is alive in a state of confinement until Allah permits him to emerge. This is the mainstream Ahlus Sunnah position.
 
 </details>
 

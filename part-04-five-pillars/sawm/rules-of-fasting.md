@@ -1,6 +1,6 @@
 # Rules of Fasting What Is Required and What Breaks the Fast
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 4 Five Pillars Sawm
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~8 min &nbsp;|&nbsp; **Part:** Part 4: Five Pillars Sawm
 
 ---
 

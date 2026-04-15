@@ -1,6 +1,6 @@
 # Key Surahs Every Muslim Should Know
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 5 The Quran
+**Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~14 min &nbsp;|&nbsp; **Part:** Part 5: The Quran
 
 ---
 
@@ -213,7 +213,7 @@ The Prophet said: _"Recite Surah Al-Baqarah in your homes, for Shaytan does not 
 And: _"The one who recites Surah Al-Baqarah and Surah Al-Imran will have them come as two clouds or two shades or two flocks of birds pleading on their behalf on the Day of Judgement."_
 {% endhint %}
 
-The last two verses of Surah Al-Baqarah (2:285286) _"Amana ar-rasulu..."_ are particularly recommended:
+The last two verses of Surah Al-Baqarah (2:285-286) _"Amana ar-rasulu..."_ are particularly recommended:
 
 {% hint style="info" %}
 **Hadith Sahih al-Bukhari**
