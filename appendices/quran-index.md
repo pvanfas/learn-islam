@@ -1,7 +1,3 @@
-Here's the content formatted as clean markdown:
-
----
-
 # Quranic Verses Index: Key Passages Cited in This Guide
 
 **Part: Appendices**
