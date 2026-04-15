@@ -1,4 +1,4 @@
-# Tawhid The Oneness of God
+# Tawhid: The Oneness of God
 
 **Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~12 min &nbsp;|&nbsp; **Part:** Part 2 Aqeedah
 
@@ -6,7 +6,7 @@
 
 ## In This Chapter
 
-> Tawhid is the single most important concept in all of Islam. Everything else prayer, fasting, charity, pilgrimage, ethics, law flows from it. This chapter explains what Tawhid actually means, its three dimensions, and why it is so transformative as a way of understanding God and your relationship with Him.
+> Tawhid is the single most important concept in all of Islam. Everything else—prayer, fasting, charity, pilgrimage, ethics, law—flows from it. This chapter explains what Tawhid actually means, its three dimensions, and why it is so transformative as a way of understanding God and your relationship with Him.
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Arabic            | Transliteration | Meaning                                              |
 | ----------------- | --------------- | ---------------------------------------------------- |
-| تَوْحِيد          | Tawhid          | The Oneness of God monotheism                        |
-| شِرْك             | Shirk           | Associating partners with God the opposite of Tawhid |
+| تَوْحِيد          | Tawhid          | The Oneness of God: monotheism                        |
+| شِرْك             | Shirk           | Associating partners with God: the opposite of Tawhid |
 | رُبُوبِيَّة       | Rububiyyah      | Lordship God as Creator, Sustainer, Controller       |
 | أُلُوهِيَّة       | Uluhiyyah       | Divinity God alone deserves worship                  |
 | أَسْمَاء وَصِفَات | Asma wa Sifat   | Names and Attributes of God                          |
@@ -41,7 +41,7 @@ _The Prophet said this Surah is equal to one-third of the Quran in value because
 
 ## What Is Tawhid?
 
-The Arabic word **Tawhid** (تَوْحِيد) comes from the root _wahhada_ meaning to make something one, to unify, to declare something singular. In Islamic theology, it refers to the absolute, uncompromising **Oneness of God** in every dimension.
+The Arabic word **Tawhid** (تَوْحِيد) comes from the root _wahhada_, meaning to make something one, to unify, to declare something singular. In Islamic theology, it refers to the absolute, uncompromising **Oneness of God** in every dimension.
 
 This is not merely saying "I believe there is one God" as a checkbox. Tawhid is a living conviction that reshapes how you understand:
 
@@ -50,7 +50,7 @@ This is not merely saying "I believe there is one God" as a checkbox. Tawhid is 
 - Who alone has the right to your worship, your ultimate loyalty, and your deepest love
 - Who holds the universe in existence at every moment
 
-The Prophet Ibrahim (AS) arrived at Tawhid through pure reflection, without a prophet teaching him by looking at the stars, the moon, and the sun, and realizing that none of them could be God because they rise and set. He declared:
+The Prophet Ibrahim (AS) arrived at Tawhid through pure reflection, without a prophet teaching him, by looking at the stars, the moon, and the sun, and realizing that none of them could be God because they rise and set. He declared:
 
 {% hint style="info" %}
 **Surah Al-An'am 6:79**
@@ -115,7 +115,7 @@ Directing any of these acts toward anything other than Allah a prophet, a saint,
 
 ### Dimension 3 - Tawhid al-Asma wa al-Sifat (Oneness of Names and Attributes)
 
-This is the affirmation that **Allah's names and attributes are unique to Him** they are not shared with creation, and creation's attributes are not attributed to Him.
+This is the affirmation that **Allah's names and attributes are unique to Him;** they are not shared with creation, and creation's attributes are not attributed to Him.
 
 For example:
 

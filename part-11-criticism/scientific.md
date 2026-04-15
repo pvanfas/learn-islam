@@ -6,15 +6,15 @@ Difficulty: Intermediate | Part: Part 11 Criticism and Responses
 
 ## The Claim
 
-Islam is incompatible with modern science particularly evolutionary biology, cosmology, and the historical-critical study of religious texts.
+Islam is incompatible with modern science, particularly evolutionary biology, cosmology, and the historical-critical study of religious texts.
 
 ---
 
-## Islam and Science The Historical Record
+## Islam and Science: The Historical Record
 
 The claim that Islam is anti-science collapses immediately against the historical record. The civilization that produced algebra (al-Khwarizmi), the scientific method in optics (Ibn al-Haytham), the canon of medicine (Ibn Sina), and the first university (Al-Qarawiyyin, 859 CE) cannot credibly be characterized as opposed to scientific inquiry.
 
-The Quran itself commands empirical reflection on the natural world over 750 times "Do they not look at the sky above them?", "Do they not travel through the earth?", "Do you not see?". Scientific inquiry was a form of worship in the Islamic intellectual tradition.
+The Quran itself commands empirical reflection on the natural world over 750 times: "Do they not look at the sky above them?", "Do they not travel through the earth?", "Do you not see?". Scientific inquiry was a form of worship in the Islamic intellectual tradition.
 
 ---
 
@@ -28,7 +28,7 @@ Contemporary Muslim responses:
 
 **The debate:** Whether the narrative of Adam's creation must be understood as literal biological history or whether it contains symbolic dimensions. Most mainstream scholars hold the literal position. A minority of contemporary Muslim intellectuals argue for compatibility with theistic evolution.
 
-The honest position: there is genuine tension between Quranic anthropology as classically understood and the Darwinian account of human origins. This is not unique to Islam it is a tension within all Abrahamic traditions.
+The honest position: there is genuine tension between Quranic anthropology as classically understood and the Darwinian account of human origins. This is not unique to Islam; it is a tension within all Abrahamic traditions.
 
 ---
 

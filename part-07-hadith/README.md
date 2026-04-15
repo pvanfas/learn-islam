@@ -14,12 +14,12 @@ Hadith science is one of the most sophisticated intellectual achievements in hum
 
 | #   | Chapter                                                            | Level | Read Time |
 | --- | ------------------------------------------------------------------ | ----- | --------- |
-| 1   | [What Is a Hadith?](what-is-hadith.md)                             |       | ~10 min   |
-| 2   | [How Hadith Were Collected and Preserved](collection.md)           |       | ~9 min    |
-| 3   | [The Six Major Hadith Collections](kutub-al-sittah.md)             |       | ~8 min    |
-| 4   | [Understanding Hadith Grades](grading.md)                          |       | ~7 min    |
-| 5   | [Reading Hadith Practical Examples](reading-hadith.md)             |       | ~8 min    |
-| 6   | [The Hadith of Jibreel The Complete Summary](hadith-of-jibreel.md) |       | ~7 min    |
+| 1   | [What Is a Hadith?](what-is-hadith.md)                             | Intermediate      | ~10 min   |
+| 2   | [How Hadith Were Collected and Preserved](collection.md)           | Intermediate      | ~9 min    |
+| 3   | [The Six Major Hadith Collections](kutub-al-sittah.md)             | Intermediate      | ~8 min    |
+| 4   | [Understanding Hadith Grades](grading.md)                          | Intermediate      | ~7 min    |
+| 5   | [Reading Hadith Practical Examples](reading-hadith.md)             | Beginner      | ~8 min    |
+| 6   | [The Hadith of Jibreel The Complete Summary](hadith-of-jibreel.md) | Beginner      | ~7 min    |
 
 ---
 

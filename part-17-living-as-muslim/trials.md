@@ -1,4 +1,4 @@
-# Dealing with Trials and Hardship Sabr and Shukr
+# Dealing with Trials and Hardship: Sabr and Shukr
 
 **Difficulty:** Beginner &nbsp;|&nbsp; **Read time:** ~11 min &nbsp;|&nbsp; **Part:** Part 17 Living as a Muslim
 
@@ -6,7 +6,7 @@
 
 ## In This Chapter
 
-> Every human life contains suffering. The question is not whether trials will come it is how to face them when they do. Islamic tradition provides one of the most comprehensive frameworks for understanding and navigating hardship: the twin disciplines of Sabr (patient perseverance) and Shukr (gratitude). This chapter covers both with the Quranic and prophetic teaching that has sustained Muslims through centuries of difficulty.
+> Every human life contains suffering. The question is not whether trials will come; it is how to face them when they do. Islamic tradition provides one of the most comprehensive frameworks for understanding and navigating hardship: the twin disciplines of Sabr (patient perseverance) and Shukr (gratitude). This chapter covers both with the Quranic and prophetic teaching that has sustained Muslims through centuries of difficulty.
 
 ---
 
@@ -14,14 +14,14 @@
 
 | Arabic       | Transliteration | Meaning                                                           |
 | ------------ | --------------- | ----------------------------------------------------------------- |
-| صَبْر        | Sabr            | Patient perseverance not passive resignation but active endurance |
-| شُكْر        | Shukr           | Gratitude active recognition and use of Allah's blessings         |
+| صَبْر        | Sabr            | Patient perseverance: not passive resignation but active endurance |
+| شُكْر        | Shukr           | Gratitude: active recognition and use of Allah's blessings         |
 | بَلَاء       | Bala'           | Trial, tribulation, calamity                                      |
 | مُصِيبَة     | Musibah         | A calamity or affliction                                          |
 | إِسْتِرْجَاع | Istirja'        | The act of saying _"Inna lillahi wa inna ilayhi raji'un"_         |
 | رِضَا        | Rida            | Contentment with Allah's decree                                   |
 | تَوَكُّل     | Tawakkul        | Complete reliance on Allah after taking means                     |
-| كَفَّارَة    | Kaffarah        | Expiation trials expiate sins                                     |
+| كَفَّارَة    | Kaffarah        | Expiation: trials expiate sins                                     |
 
 ---
 
@@ -39,7 +39,7 @@ The Quran does not promise the believer a comfortable life. It promises somethin
 
 ## What Is Sabr?
 
-The Arabic word **Sabr** is often translated as "patience" but it is far richer than the English word suggests. _Sabr_ comes from a root meaning to bind, to tie, to contain. It is the act of **holding yourself together** when everything in you wants to collapse and doing so consciously, willingly, for the sake of Allah.
+The Arabic word **Sabr** is often translated as "patience," but it is far richer than the English word suggests. _Sabr_ comes from a root meaning to bind, to tie, to contain. It is the act of **holding yourself together** when everything in you wants to collapse and doing so consciously, willingly, for the sake of Allah.
 
 Islamic scholars have described Sabr as having three dimensions:
 
@@ -55,7 +55,7 @@ The third is what most people think of when they hear "patience in hardship" but
 
 ## The Extraordinary Status of Sabr
 
-The Quran mentions Sabr in over 90 verses more than almost any other moral quality.
+The Quran mentions Sabr in over 90 verses—more than almost any other moral quality.
 
 {% hint style="info" %}
 **Surah Az-Zumar 39:10**
@@ -93,7 +93,7 @@ In Islamic theology, trials are never pointless. They serve multiple divine purp
 _"No fatigue, illness, worry, sadness, harm, or distress afflicts a Muslim even the prick of a thorn except that Allah expiates some of his sins through it."_
 {% endhint %}
 
-The smallest discomfort carries spiritual weight. You are being purified as you suffer sins are being removed without you even being aware of it.
+The smallest discomfort carries spiritual weight. You are being purified as you suffer; sins are being removed without you even being aware of it.
 
 ### 2. Trials Elevate Rank
 
@@ -107,7 +107,7 @@ Trials that are met with patience elevate the believer's rank in ways that decad
 
 ### 3. Trials Reveal Character
 
-Difficulty reveals what a person is truly made of. In comfort, many people appear virtuous. In crisis, the truth of a person's relationship with Allah becomes clear. The trial is, in some sense, a gift it shows you who you actually are.
+Difficulty reveals what a person is truly made of. In comfort, many people appear virtuous. In crisis, the truth of a person's relationship with Allah becomes clear. The trial is, in some sense, a gift; it shows you who you actually are.
 
 ### 4. Trials Redirect Attention
 
@@ -155,7 +155,7 @@ _اللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي وَأَخ�
 _(Sahih Muslim Umm Salamah (RA) said she said this dua when her husband Abu Salamah died. She said: 'What could be better than Abu Salamah?' then Allah gave her the Prophet in marriage.)_
 {% endhint %}
 
-This is not a passive resignation. It is a powerful theological statement: _Everything is Allah's. Everything returns to Allah. Therefore nothing is truly lost it has only returned._
+This is not a passive resignation. It is a powerful theological statement: _Everything is Allah's. Everything returns to Allah. Therefore, nothing is truly lost; it has only returned._
 
 ---
 
@@ -176,7 +176,7 @@ _لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ_
 
 **Translation:** "If you are grateful, I will surely increase you..."
 
-_This is Allah's promise: gratitude produces more of what you are grateful for. Shukr is not just a feeling it is a mechanism of divine increase._
+_This is Allah's promise: gratitude produces more of what you are grateful for. Shukr is not just a feeling; it is a mechanism of divine increase._
 {% endhint %}
 
 ---
